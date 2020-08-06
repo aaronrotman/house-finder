@@ -1,0 +1,351 @@
+,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
+0,Condo/Co-op,Unit at 220 E 65th St,New York,NY,10065,899000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/220-E-65th-St-10065/home/45286492,40.764484700000004,-73.9624624
+1,Single Family Residential,89-07 96th St,Woodhaven,NY,11421,649000,4.0,2.0,1296.0,2000.0,1920.0,,http://www.redfin.com/NY/Queens/89-07-96th-St-11421/home/20784332,40.691777200000004,-73.8479264
+2,Single Family Residential,89-02 120th St,Richmond Hill,NY,11418,609000,3.0,2.5,1328.0,1800.0,1910.0,,http://www.redfin.com/NY/Jamaica/89-02-120th-St-11418/home/20774773,40.697421000000006,-73.82879
+3,Condo/Co-op,538 E 84th St Unit 3B,New York,NY,10028,389000,0.0,1.0,450.0,,1957.0,,http://www.redfin.com/NY/New-York/538-E-84th-St-10028/unit-3B/home/45162743,40.773724200000004,-73.94624250000001
+4,Condo/Co-op,Unit at 118 E 60th St,New York,NY,10022,589000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/118-E-60th-St-10022/home/172384064,40.762906799999996,-73.9686349
+5,Condo/Co-op,82-35 134th St Unit 3G,Jamaica,NY,11435,285000,2.0,1.0,,,1950.0,,http://www.redfin.com/NY/Jamaica/82-35-134th-St-11435/unit-3G/home/172346690,40.713024,-73.822992
+6,Condo/Co-op,145 Mcguinness Blvd Unit 3A,Brooklyn,NY,11222,759000,1.0,1.0,652.0,,2003.0,,http://www.redfin.com/NY/Brooklyn/145-McGuinness-Blvd-11222/unit-3A/home/59293510,40.7272818,-73.9500001
+7,Condo/Co-op,Unit at 110-45 71 Rd,Queens,NY,11375,480000,2.0,1.0,,,,,http://www.redfin.com/NY/Flushing/110-45-71st-Rd-11375/home/20643804,40.7222907,-73.8398387
+8,Condo/Co-op,355A Halsey St #3,Stuyvesant Hts,NY,11216,850000,2.0,2.0,824.0,,1899.0,,http://www.redfin.com/NY/Brooklyn/355A-Halsey-St-11216/unit-3/home/40927998,40.6833487,-73.93851020000001
+9,Condo/Co-op,355 Halsey St #3,Brooklyn,NY,11216,850000,2.0,2.0,824.0,,1899.0,,http://www.redfin.com/NY/Brooklyn/355A-Halsey-St-11216/unit-3/home/144975977,40.6833487,-73.93851020000001
+10,Condo/Co-op,Unit at 345 E 93rd St,New York,NY,10128,619000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/345-E-93rd-St-10128/home/45162491,40.7818656,-73.946292
+11,Condo/Co-op,736 W 187th St #208,New York,NY,10033,769000,2.0,2.0,930.0,,2005.0,699.0,http://www.redfin.com/NY/New-York/736-W-187th-St-10033/unit-208/home/45138477,40.854404200000005,-73.9354054
+12,Multi-Family (2-4 Unit),14630 177 St,Jamaica,NY,11434,950000,6.0,4.0,2400.0,4000.0,1930.0,,http://www.redfin.com/NY/Jamaica/146-30-177th-St-11434/home/20689804,40.662123,-73.76943100000001
+13,Condo/Co-op,105 W 70th St Unit 3F,New York,NY,10023,750000,1.0,1.0,,,1910.0,,http://www.redfin.com/NY/New-York/105-W-70th-St-10023/unit-3F/home/172040654,40.776418,-73.979925
+14,Condo/Co-op,Unit at 416 W 52nd St,New York,NY,10019,1588000,2.0,1.5,,,,,http://www.redfin.com/NY/New-York/416-W-52nd-St-10019/home/114790068,40.764801299999995,-73.9891282
+15,Single Family Residential,102-24 46th Ave,Flushing,NY,11368,899000,4.0,1.5,1844.0,2500.0,1915.0,,http://www.redfin.com/NY/Flushing/102-24-46th-Ave-11368/home/20917483,40.745781,-73.86112790000001
+16,Condo/Co-op,Unit at 63-14 Queens Blvd,Queens,NY,11377,750000,2.0,2.0,,,,,http://www.redfin.com/NY/Queens/63-14-Queens-Blvd-11377/home/45111917,40.7408476,-73.90181329999999
+17,Multi-Family (2-4 Unit),2162 72nd St,Bensonhurst,NY,11204,1799000,7.0,4.0,2480.0,2500.0,1925.0,,http://www.redfin.com/NY/Brooklyn/2162-72nd-St-11204/home/40823365,40.610140200000004,-73.986389
+18,Townhouse,Unit at 2162 72nd St,Brooklyn,NY,11204,1799000,7.0,3.5,,,,,http://www.redfin.com/NY/Brooklyn/2162-72nd-St-11204/home/171698705,40.610140200000004,-73.986389
+19,Single Family Residential,3276 Spencer Dr,BRONX,NY,10465,649000,2.0,2.5,1140.0,3559.0,1925.0,,http://www.redfin.com/NY/The-Bronx/3276-Spencer-Dr-10465/home/44789396,40.8422593,-73.8180917
+20,Condo/Co-op,Unit at 737 Park Ave,New York,NY,10021,17995000,6.0,7.5,,,,,http://www.redfin.com/NY/New-York/737-Park-Ave-10021/home/105844606,40.7703877,-73.9638745
+21,Single Family Residential,121 -24 Francis Lewis Blvd,Queens,NY,11413,549000,,,,,,,http://www.redfin.com/NY/Jamaica/121-12-Francis-Lewis-Blvd-11413/home/20701182,40.685227000000005,-73.734217
+22,Condo/Co-op,Unit at 26 W 119th St,New York,NY,10026,2165000,3.0,3.5,,,,,http://www.redfin.com/NY/New-York/26-W-119th-St-10026/home/172672006,40.80292360000001,-73.9462662
+23,Townhouse,Unit at 313 Hicks St,Brooklyn,NY,11201,1670000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/313-Hicks-St-11201/home/115052426,40.6918593,-73.99728370000001
+24,Condo/Co-op,Unit at 434 Union St,Brooklyn,NY,11231,1650000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/434-Union-St-11231/home/172671998,40.680039799999996,-73.9902686
+25,Condo/Co-op,Unit at 210 E 47th St,New York,NY,10017,575000,0.0,1.0,,,,,http://www.redfin.com/NY/New-York/210-E-47th-St-10017/home/45130449,40.753548200000004,-73.971685
+26,Condo/Co-op,Unit at 301 E 63rd St,New York,NY,10021,299000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/301-E-63rd-St-10065/home/55727146,40.7631466,-73.9622114
+27,Multi-Family (2-4 Unit),2034 79th St,Brooklyn,NY,11214,1288000,3.0,2.5,1692.0,2800.0,1925.0,,http://www.redfin.com/NY/Brooklyn/2034-79th-St-11214/home/40827329,40.60786029999999,-73.9933676
+28,Multi-Family (2-4 Unit),4205 7th Ave,Brooklyn,NY,11232,1799999,6.0,3.0,2970.0,1600.0,1901.0,,http://www.redfin.com/NY/Brooklyn/4205-7th-Ave-11232/home/40697087,40.646636,-74.0012066
+29,Multi-Family (2-4 Unit),2759 Strickland Ave,Brooklyn,NY,11234,1495000,6.0,4.75,2124.0,3300.0,1965.0,,http://www.redfin.com/NY/Brooklyn/2759-Strickland-Ave-11234/home/40904287,40.607797,-73.91515
+30,Condo/Co-op,3720 Prince St Unit 11B,Flushing,NY,11354,750000,2.0,1.0,,,2008.0,320.0,http://www.redfin.com/NY/Flushing/37-20-Prince-St-11354/unit-11B/home/50217024,40.760212599999996,-73.8330397
+31,Condo/Co-op,1237 Ave Z Ave Unit 6K,Brooklyn,NY,11235,349000,1.0,1.0,800.0,,,,http://www.redfin.com/NY/Brooklyn/1237-Avenue-Z-11235/unit-6K/home/172671798,40.5880505,-73.9565092
+32,Townhouse,68 Courtney Loop,Staten Island,NY,10305,675000,3.0,2.0,1460.0,2210.0,1997.0,35.0,http://www.redfin.com/NY/Staten-Island/68-Courtney-Loop-10305/unit-2/home/56119140,40.6126361,-74.06256540000001
+33,Condo/Co-op,909 E 29 St Unit 3K,Brooklyn,NY,11230,219000,1.0,1.0,800.0,,1939.0,,http://www.redfin.com/NY/Brooklyn/909-E-29th-St-11210/unit-3K/home/40653660,40.6288635,-73.9480598
+34,Single Family Residential,317 E 234th St,BRONX,NY,10470,549000,3.0,2.0,1764.0,2500.0,1925.0,,http://www.redfin.com/NY/The-Bronx/317-E-234th-St-10470/home/44755688,40.8971869,-73.86632540000001
+35,Condo/Co-op,629 Kappock St Unit 6N,BRONX,NY,10463,229000,1.0,1.0,800.0,,1960.0,775.0,http://www.redfin.com/NY/The-Bronx/629-Kappock-St-10463/unit-6N/home/108524522,40.88025579999999,-73.91683420000001
+36,Multi-Family (2-4 Unit),113-05 205th St,St. Albans,NY,11412,725000,4.0,3.0,,1800.0,1945.0,,http://www.redfin.com/NY/Jamaica/113-05-205th-St-11412/home/20738975,40.702364,-73.750462
+37,Single Family Residential,151 Hillside Ave,Staten Island,NY,10304,489000,2.0,1.0,1263.0,3306.0,1915.0,,http://www.redfin.com/NY/Staten-Island/151-Hillside-Ave-10304/home/56097414,40.61676129999999,-74.08956059999998
+38,Single Family Residential,81-03 252nd St,Bellerose,NY,11426,1149000,5.0,3.0,,5000.0,1950.0,,http://www.redfin.com/NY/Jamaica/81-03-252nd-St-11426/home/20798423,40.74129,-73.71736899999999
+39,Single Family Residential,46-38 247th St,Flushing,NY,11362,868000,3.0,2.0,,3956.0,1955.0,,http://www.redfin.com/NY/Flushing/46-38-247th-St-11362/home/20797971,40.763816999999996,-73.738556
+40,Single Family Residential,155-31 16th Dr,Flushing,NY,11357,1268000,5.0,3.5,2440.0,1890.0,1960.0,,http://www.redfin.com/NY/Flushing/155-31-16th-Dr-11357/home/20865301,40.784659000000005,-73.80635
+41,Condo/Co-op,Unit at 360 Furman St,Brooklyn,NY,11201,2199000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/360-Furman-St-11201/home/40674765,40.693512899999995,-74.00018100000001
+42,Condo/Co-op,Unit at 360 Furman St,Brooklyn,NY,11201,2950000,4.0,3.0,,,,,http://www.redfin.com/NY/Brooklyn/360-Furman-St-11201/home/172644085,40.693485700000004,-73.9996652
+43,Condo/Co-op,Unit at 433 Warren St,Brooklyn,NY,11217,1295000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/433-Warren-St-11217/home/40674911,40.683774799999995,-73.9866358
+44,Condo/Co-op,Unit at 35-25 77th St,Queens,NY,11372,465000,1.0,1.0,,,,,http://www.redfin.com/NY/Jackson-Heights/3525-77th-St-11372/home/145073741,40.7512999,-73.88932
+45,Condo/Co-op,Unit at 204 W 140th St,New York,NY,10030,949000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/202-W-140th-St-10030/home/45209438,40.818540999999996,-73.942142
+46,Condo/Co-op,Unit at 718 Broadway,New York,NY,10003,1350000,2.0,1.0,,,,,http://www.redfin.com/NY/New-York/718-Broadway-10003/home/172671641,40.7289755,-73.99342490000001
+47,Condo/Co-op,Unit at 55 E End Ave,New York,NY,10028,3400000,3.0,3.0,,,,,http://www.redfin.com/NY/New-York/55-E-End-Ave-10028/home/53326153,40.7721419,-73.94659490000001
+48,Condo/Co-op,Unit at 37 Bridge St,Brooklyn,NY,11201,2195000,3.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/37-Bridge-St-11201/home/40927089,40.70332929999999,-73.9843386
+49,Condo/Co-op,Unit at 55 E End Ave,New York,NY,10028,710000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/55-E-End-Ave-10028/home/45324902,40.7719793,-73.946223
+50,Condo/Co-op,Unit at 80 Warren St,New York,NY,10013,2150000,3.0,2.0,,,,,http://www.redfin.com/NY/New-York/80-Warren-St-10007/home/172671640,40.7154825,-74.01034229999999
+51,Condo/Co-op,Unit at 545 W 110th St,New York,NY,10025,2998000,3.0,2.5,,,,,http://www.redfin.com/NY/New-York/545-W-110th-St-10025/home/45193135,40.804206799999996,-73.96607259999999
+52,Condo/Co-op,Unit at 444 E 52nd St,New York,NY,10022,525000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/444-E-52nd-St-10022/home/45155291,40.754143,-73.963502
+53,Townhouse,256 Connecticuit St,Staten Island,NY,10307,825000,3.0,3.0,2400.0,4000.0,1994.0,,http://www.redfin.com/NY/Staten-Island/256-Connecticut-St-10307/home/56098268,40.501085100000005,-74.2492524
+54,Single Family Residential,90-18 159th Ave,Howard Beach,NY,11414,825000,3.0,2.5,,5500.0,1950.0,,http://www.redfin.com/NY/Jamaica/90-18-159th-Ave-11414/home/20683297,40.658619,-73.841915
+55,Condo/Co-op,37-20 83rd St Unit 5N,Jackson Heights,NY,11372,349000,1.0,1.0,650.0,,1928.0,618.0,http://www.redfin.com/NY/Jackson-Heights/37-20-83rd-St-11372/unit-5N/home/25712607,40.7491516,-73.883382
+56,Condo/Co-op,702 45th St Unit 4h,Brooklyn,NY,11220,469000,2.0,1.0,700.0,700.0,1924.0,684.0,http://www.redfin.com/NY/Brooklyn/702-45th-St-11220/unit-4H/home/40647801,40.6450615,-74.0028944
+57,Multi-Family (2-4 Unit),1214 80 St,Brooklyn,NY,11228,1499000,6.0,2.75,2478.0,3000.0,1920.0,,http://www.redfin.com/NY/Brooklyn/1214-80th-St-11228/home/40827068,40.61836339999999,-74.01240809999999
+58,Single Family Residential,6 Poillon Ave,Staten Island,NY,10312,1499900,4.0,4.0,3700.0,12100.0,1980.0,,http://www.redfin.com/NY/Staten-Island/6-Poillon-Ave-10312/home/56035473,40.53601810000001,-74.1795395
+59,Single Family Residential,,Woodside,NY,11377,788000,3.0,1.5,,1800.0,1950.0,,http://www.redfin.com/NY/Flushing/Undisclosed-address-11377/home/20915645,40.734998,-73.90219
+60,Condo/Co-op,108-49 63rd Ave Unit 5 O,Forest Hills,NY,11375,235000,0.0,1.0,625.0,,1963.0,483.0,http://www.redfin.com/NY/Flushing/108-49-63rd-Ave-11375/unit-5-O/home/172671520,40.7356482,-73.84902790000001
+61,Single Family Residential,80-22 261 St,Glen Oaks,NY,11004,899000,4.0,2.0,1200.0,4000.0,1950.0,,http://www.redfin.com/NY/Glen-Oaks/80-22-261st-St-11004/home/20789595,40.744337,-73.710243
+62,Condo/Co-op,30 138 Apt A,Kew Garden Hills,NY,11367,290000,1.0,1.0,,,1950.0,,http://www.redfin.com/NY/Flushing/78-30-138th-St-11367/unit-A/home/172671519,40.719083700000006,-73.8237042
+63,Single Family Residential,108-37 37th Drive Dr,Corona,NY,11368,720000,6.0,2.0,,1050.0,1910.0,,http://www.redfin.com/NY/Flushing/108-37-37th-Dr-11368/home/20925323,40.75361229999999,-73.85869890000001
+64,Single Family Residential,67 East 54 St,Brooklyn,NY,11203,625000,3.0,2.0,1767.0,2200.0,1945.0,,http://www.redfin.com/NY/Brooklyn/67-E-54th-St-11203/home/40771172,40.6575766,-73.9268811
+65,Single Family Residential,114 Surfside Plz,Staten Island,NY,10307,324000,1.0,1.0,819.0,389.0,1986.0,215.0,http://www.redfin.com/NY/Staten-Island/114-Surfside-Plz-10307/unit-90/home/56101012,40.5017016,-74.237705
+66,Single Family Residential,1465 E 5 St,Brooklyn,NY,11230,1500000,3.0,1.75,1560.0,3520.0,1930.0,,http://www.redfin.com/NY/Brooklyn/1465-E-5th-St-11230/home/40836218,40.6150825,-73.96989429999999
+67,Single Family Residential,125-07 107th Ave,Richmond Hill,NY,11418,619000,3.0,2.0,,2142.0,1920.0,,http://www.redfin.com/NY/Jamaica/125-07-107th-Ave-11419/home/20770784,40.686045,-73.817941
+68,Single Family Residential,46 Ardmore Ave,Staten Island,NY,10314,685000,3.0,4.0,1440.0,2600.0,2006.0,,http://www.redfin.com/NY/Staten-Island/46-Ardmore-Ave-10314/home/56114918,40.610211,-74.139515
+69,Single Family Residential,29 Lorrain Ave,Staten Island,NY,10312,634999,3.0,4.0,1512.0,2400.0,2004.0,,http://www.redfin.com/NY/Staten-Island/29-Lorrain-Ave-10312/home/56133977,40.5427551,-74.17617609999999
+70,Condo/Co-op,3901 Nostrand Ave Unit 1L,Brooklyn,NY,11235,359000,2.0,2.0,1200.0,,,,http://www.redfin.com/NY/Brooklyn/3901-Nostrand-Ave-11235/unit-1L/home/172670923,40.5890809,-73.93939509999998
+71,Single Family Residential,88 Sunnyfield Ln,Valley Stream,NY,11581,649000,3.0,2.0,2253.0,6000.0,1955.0,,http://www.redfin.com/NY/Valley-Stream/88-Sunnyfield-Ln-11581/home/20390864,40.6567652,-73.7228924
+72,Multi-Family (2-4 Unit),9037 52nd Ave,Elmhurst,NY,11373,2180000,6.0,4.0,3496.0,2500.0,2005.0,,http://www.redfin.com/NY/Queens/90-37-52nd-Ave-11373/home/20917950,40.739303,-73.872525
+73,Multi-Family (2-4 Unit),161-04 121st Ave,Jamaica,NY,11434,979000,6.0,4.0,,4000.0,2020.0,,http://www.redfin.com/NY/Jamaica/161-04-121st-Ave-11434/home/20713294,40.679291,-73.781784
+74,Single Family Residential,2548 Bailey Ave,BRONX,NY,10463,489900,5.0,2.0,2052.0,,1901.0,,http://www.redfin.com/NY/The-Bronx/2548-Bailey-Ave-10463/home/44804260,40.867872999999996,-73.907854
+75,Single Family Residential,124-08 9th Ave,College Point,NY,11356,699000,3.0,2.0,1160.0,2500.0,1930.0,,http://www.redfin.com/NY/Flushing/124-08-9th-Ave-11356/home/20871122,40.789150899999996,-73.84341490000001
+76,Single Family Residential,3 Harvard St,Valley Stream,NY,11580,535000,4.0,3.0,,3920.0,1956.0,,http://www.redfin.com/NY/Valley-Stream/3-Harvard-St-11580/home/20415838,40.6733358,-73.72638640000001
+77,Single Family Residential,4423 Avenue L,Brooklyn,NY,11234,715000,3.0,2.0,1400.0,1800.0,1930.0,,http://www.redfin.com/NY/Brooklyn/4423-Avenue-L-11234/home/40879341,40.6234466,-73.9323426
+78,Multi-Family (2-4 Unit),23-23 120 St,College Point,NY,11356,1288000,6.0,2.0,2438.0,3027.0,1970.0,,http://www.redfin.com/NY/Flushing/23-23-120th-St-11356/home/20870215,40.777874,-73.847693
+79,Single Family Residential,109-50 217th St,Queens Village,NY,11429,779000,5.0,3.0,2200.0,4000.0,1930.0,,http://www.redfin.com/NY/Jamaica/109-50-217th-St-11429/home/20736925,40.709024,-73.741007
+80,Single Family Residential,31 Howard Pl,Brooklyn,NY,11215,2195000,3.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/31-Howard-Pl-11215/home/40705121,40.6586607,-73.9805063
+81,Condo/Co-op,Unit at 225 Central Park W,New York,NY,10024,2595000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/225-Central-Park-W-10024/home/114720739,40.7830893,-73.9713177
+82,Condo/Co-op,Unit at 21 E 22nd St,New York,NY,10010,2890000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/21-E-22nd-St-10010/home/45145727,40.7404797,-73.9884715
+83,Condo/Co-op,Unit at 116 Pioneer St,Brooklyn,NY,11231,1495000,3.0,1.5,,,,,http://www.redfin.com/NY/Brooklyn/116-Pioneer-St-11231/home/172670496,40.6786293,-74.010379
+84,Condo/Co-op,Unit at 150 W 87th St,New York,NY,10024,1695000,3.0,2.0,,,,,http://www.redfin.com/NY/New-York/150-W-87th-St-10024/home/45202730,40.7877095,-73.97342979999999
+85,Condo/Co-op,Unit at 429 Kent Ave,Brooklyn,NY,11249,2875000,3.0,3.5,,,,,http://www.redfin.com/NY/Brooklyn/429-Kent-Ave-11249/home/109567107,40.709512700000005,-73.9677693
+86,Condo/Co-op,Unit at 147 Hope St,Brooklyn,NY,11211,1400000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/147-Hope-St-11211/home/161537617,40.711960499999996,-73.95234029999999
+87,Single Family Residential,43 Lockman Ave,Staten Island,NY,10303,529000,3.0,2.0,1200.0,2408.0,1920.0,,http://www.redfin.com/NY/Staten-Island/43-Lockman-Ave-10303/home/56015589,40.6363114,-74.1611428
+88,Single Family Residential,82-16 261st St,Floral Park,NY,11004,1359000,4.0,4.0,,5100.0,1950.0,,http://www.redfin.com/NY/Glen-Oaks/82-16-261st-St-11004/home/20793566,40.7408245,-73.7088377
+89,Single Family Residential,35 Oakville St Unit A,Staten Island,NY,10314,559000,3.0,2.0,1200.0,2000.0,2020.0,,http://www.redfin.com/NY/Staten-Island/35-Oakville-St-10314/unit-A/home/162701347,40.5990982,-74.13251640000001
+90,Single Family Residential,235 Bay 11 St,Brooklyn,NY,11228,839000,3.0,1.5,1296.0,1800.0,1935.0,,http://www.redfin.com/NY/Brooklyn/235-Bay-11th-St-11228/home/40832248,40.605756,-74.012668
+91,Condo/Co-op,711 Montauk Ct Unit 2G,Brooklyn,NY,11235,541000,3.0,2.0,1200.0,,,,http://www.redfin.com/NY/Brooklyn/711-Montauk-Ct-11235/unit-2G/home/40672931,40.5858781,-73.9613766
+92,Single Family Residential,70 Buffington Ave,Staten Island,NY,10312,644000,3.0,2.0,1125.0,4000.0,1965.0,,http://www.redfin.com/NY/Staten-Island/70-Buffington-Ave-10312/home/56025425,40.5378546,-74.184017
+93,Condo/Co-op,35-06 Leavitt St Unit 6A,Flushing,NY,11354,668000,2.0,2.0,760.0,14850.0,2008.0,301.0,http://www.redfin.com/NY/Flushing/35-06-Leavitt-St-11354/unit-6A/home/20624824,40.7647505,-73.8291805
+94,Single Family Residential,88-16 87th St,Woodhaven,NY,11421,738000,4.0,3.0,1598.0,1917.0,1915.0,,http://www.redfin.com/NY/Jamaica/88-16-87th-St-11421/home/20786768,40.690502,-73.856747
+95,Single Family Residential,42-30 189th St St,Flushing,NY,11358,850000,2.0,2.0,960.0,2500.0,1925.0,,http://www.redfin.com/NY/Flushing/42-30-189th-St-11358/home/20849357,40.758342,-73.792473
+96,Condo/Co-op,36-41 169 St Unit 2A,Flushing,NY,11358,568000,2.0,2.0,750.0,,2007.0,382.0,http://www.redfin.com/NY/Flushing/36-41-169th-St-11358/unit-2A/home/45109695,40.761508,-73.796929
+97,Condo/Co-op,1 Bay Club Dr Unit 1R,Bayside,NY,11360,638000,2.0,1.0,892.0,,1983.0,742.0,http://www.redfin.com/NY/Bayside/1-Bay-Club-Dr-11360/unit-1R/home/20840734,40.7784405,-73.78042940000002
+98,Single Family Residential,386 Burgher Ave,Staten Island,NY,10305,988000,3.0,5.0,2391.0,4100.0,1960.0,,http://www.redfin.com/NY/Staten-Island/386-Burgher-Ave-10305/home/56027787,40.589498999999996,-74.0864043
+99,Vacant Land,39-32 215 Pl,Bayside,NY,11361,1280000,0.0,,,6000.0,,,http://www.redfin.com/NY/Flushing/39-32-215th-Pl-11361/home/20832113,40.765011,-73.768054
+100,Multi-Family (2-4 Unit),13-33 Mc Bride St,Far Rockaway,NY,11691,699000,4.0,2.0,1650.0,4544.0,1910.0,,http://www.redfin.com/NY/Far-Rockaway/1333-McBride-St-11691/home/20668255,40.6067541,-73.75738129999999
+101,Multi-Family (2-4 Unit),150-20 126th St,S. Ozone Park,NY,11420,1299000,6.0,5.0,2400.0,4000.0,2020.0,,http://www.redfin.com/NY/Jamaica/150-20-126th-St-11420/home/20715009,40.664978999999995,-73.815163
+102,Multi-Family (2-4 Unit),1634 W 6 St,Brooklyn,NY,11223,1899000,7.0,4.5,3605.0,2667.0,1928.0,,http://www.redfin.com/NY/Brooklyn/1634-W-6th-St-11223/home/40838688,40.6071729,-73.9798579
+103,Single Family Residential,7 Alaska St,Staten Island,NY,10310,409000,2.0,1.0,864.0,4680.0,1899.0,,http://www.redfin.com/NY/Staten-Island/7-Alaska-St-10310/home/56133300,40.6389766,-74.12149559999999
+104,Multi-Family (2-4 Unit),115 Milton St,Brooklyn,NY,11222,3750000,,,,,,,http://www.redfin.com/NY/Brooklyn/115-Milton-St-11222/home/40739215,40.7295141,-73.9561924
+105,Condo/Co-op,Unit at 37 -31 73rd St,Queens,NY,11372,439000,1.0,1.0,,,,,http://www.redfin.com/NY/Jackson-Heights/37-49-73rd-St-11372/home/172670130,40.7475009,-73.892352
+106,Condo/Co-op,Unit at 35 -24 72nd St,Queens,NY,11372,429000,1.0,1.0,,,,,http://www.redfin.com/NY/Jackson-Heights/35-47-72nd-St-11372/home/172670128,40.7494492,-73.89352199999999
+107,Condo/Co-op,832 Cauldwell Ave Unit C3,BRONX,NY,10456,329000,2.0,1.5,1157.0,,1993.0,175.0,http://www.redfin.com/NY/The-Bronx/832-Cauldwell-Ave-10456/unit-C3/home/44711468,40.820747999999995,-73.90738459999999
+108,Single Family Residential,118-41 154th St,Jamaica,NY,11434,405000,3.0,2.0,,1200.0,1915.0,,http://www.redfin.com/NY/Jamaica/118-41-154th-St-11434/home/20713163,40.680386,-73.788156
+109,Single Family Residential,28-31 215 St,Bayside,NY,11360,1299000,4.0,3.0,,5017.0,1930.0,,http://www.redfin.com/NY/Flushing/28-31-215th-St-11360/home/20836997,40.776973,-73.772345
+110,Condo/Co-op,2138 Bath Ave Unit 1a,Brooklyn,NY,11214,649000,3.0,2.0,1131.0,5156.0,2007.0,281.0,http://www.redfin.com/NY/Brooklyn/2138-Bath-Ave-11214/unit-1A/home/40928349,40.5990522,-73.9984521
+111,Condo/Co-op,Unit at 14 Sutton Pl S,New York,NY,10022,1150000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/14-Sutton-Pl-S-10022/home/45155681,40.7570006,-73.96149140000001
+112,Condo/Co-op,Unit at 114 E 72nd St,New York,NY,10021,2250000,2.0,3.5,,,,,http://www.redfin.com/NY/New-York/114-E-72nd-St-10021/home/169626311,40.7706377,-73.9631974
+113,Condo/Co-op,Unit at 350 Albany St,New York,NY,10280,678000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/350-Albany-St-10280/home/45234715,40.7101896,-74.01768659999999
+114,Condo/Co-op,Unit at 161 W 61st St,New York,NY,10023,1445000,1.0,1.5,,,,,http://www.redfin.com/NY/New-York/161-W-61st-St-10023/home/45267491,40.771538299999996,-73.9858725
+115,Condo/Co-op,Unit at 361 W 22nd St,New York,NY,10011,1500000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/361-W-22nd-St-10011/home/172670047,40.7457677,-74.0011981
+116,Condo/Co-op,Unit at 45 Overlook Ter,New York,NY,10033,620000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/45-Overlook-Ter-10033/home/45170218,40.853288799999994,-73.93641269999999
+117,Condo/Co-op,Unit at 845 W End Ave,New York,NY,10025,6250000,5.0,6.0,,,,,http://www.redfin.com/NY/New-York/845-W-End-Ave-10025/home/45340155,40.798813,-73.97110040000001
+118,Single Family Residential,103 Chandler Ave,Staten Island,NY,10314,589000,3.0,2.0,1008.0,4360.0,1955.0,,http://www.redfin.com/NY/Staten-Island/103-Chandler-Ave-10314/home/56046582,40.6144949,-74.126267
+119,Condo/Co-op,330 Lenox Rd Unit 7L,Brooklyn,NY,11226,499000,2.0,2.0,956.0,,,,http://www.redfin.com/NY/Brooklyn/330-Lenox-Rd-11226/unit-7L/home/53487964,40.653839000000005,-73.948548
+120,Single Family Residential,24-22 90th Pl,E. Elmhurst,NY,11369,649000,2.0,2.0,,2500.0,1901.0,,http://www.redfin.com/NY/Flushing/24-22-90th-Pl-11369/home/20940941,40.765058,-73.879293
+121,Multi-Family (2-4 Unit),4606 Oceania St,Bayside,NY,11361,1650000,5.0,3.0,,2880.0,2019.0,,http://www.redfin.com/NY/Bayside/46-06-Oceania-St-11361/home/20810382,40.756679399999996,-73.773409
+122,Multi-Family (2-4 Unit),1545 E 16 St,Brooklyn,NY,11230,1250000,6.0,3.5,3840.0,2686.0,1925.0,,http://www.redfin.com/NY/Brooklyn/1545-E-16th-St-11230/home/40844881,40.6119503,-73.95771459999999
+123,Condo/Co-op,Unit at 69 Bennett Ave,New York,NY,10033,499000,1.0,1.5,,,,,http://www.redfin.com/NY/New-York/69-Bennett-Ave-10033/home/115808394,40.8525968,-73.9352912
+124,Multi-Family (2-4 Unit),338 52nd St,Brooklyn,NY,11220,1599000,9.0,3.0,3348.0,2003.0,1910.0,,http://www.redfin.com/NY/Brooklyn/338-52nd-St-11220/home/40693075,40.6458749,-74.015061
+125,Multi-Family (2-4 Unit),201 Bay 43 St,Brooklyn,NY,11214,1599000,6.0,4.5,2510.0,3867.0,1925.0,,http://www.redfin.com/NY/Brooklyn/201-Bay-43rd-St-11214/home/40849040,40.591255100000005,-73.98904040000001
+126,Single Family Residential,144-29 76th Rd,Flushing,NY,11367,898000,4.0,2.5,,2000.0,1940.0,,http://www.redfin.com/NY/Flushing/144-29-76th-Rd-11367/home/20823442,40.722547399999996,-73.81835490000002
+127,Single Family Residential,161-22 28th Ave,Flushing,NY,11358,1298888,4.0,3.5,1995.0,3192.0,1930.0,,http://www.redfin.com/NY/Flushing/161-22-28th-Ave-11358/home/20856438,40.7717208,-73.802504
+128,Single Family Residential,200 Genesse Ave,Staten Island,NY,10308,679999,3.0,4.0,1824.0,3800.0,1975.0,,http://www.redfin.com/NY/Staten-Island/200-Genesee-Ave-10308/home/56098750,40.553197999999995,-74.1628218
+129,Condo/Co-op,64-34 102nd St Unit 1R,Rego Park,NY,11374,275000,1.0,1.0,750.0,,1955.0,491.0,http://www.redfin.com/NY/Queens/64-34-102nd-St-11374/unit-1R/home/20659179,40.730641,-73.85341600000001
+130,Single Family Residential,102-14 85th Rd,Queens,NY,11418,649000,4.0,2.0,1388.0,2000.0,1915.0,,http://www.redfin.com/NY/Jamaica/102-14-85th-Rd-11418/home/20777818,40.697472,-73.84571
+131,Townhouse,91 Tysen St,Staten Island,NY,10301,720000,4.0,2.0,1853.0,2450.0,1920.0,,http://www.redfin.com/NY/Staten-Island/91-Tysen-St-10301/home/56082715,40.6432766,-74.09939940000001
+132,Single Family Residential,1843 Madison Pl,Brooklyn,NY,11229,1180000,5.0,4.0,1795.0,3100.0,1925.0,,http://www.redfin.com/NY/Brooklyn/1843-Madison-Pl-11229/home/40900299,40.608961,-73.9390016
+133,Single Family Residential,1751 Dekalb Ave,Flushing,NY,11385,965000,3.0,2.0,1152.0,1817.0,1940.0,,http://www.redfin.com/NY/Flushing/17-51-Dekalb-Ave-11385/home/20885311,40.707088,-73.916717
+134,Condo/Co-op,460 Neptune Ave Unit 23R,Brooklyn,NY,11224,699000,3.0,1.5,1250.0,,1964.0,,http://www.redfin.com/NY/Brooklyn/460-Neptune-Ave-11224/unit-23R/home/172669379,40.5788395,-73.9714225
+135,Condo/Co-op,515 E 85th St Unit 3B,New York,NY,10028,455000,1.0,1.0,500.0,,1962.0,1137.0,http://www.redfin.com/NY/New-York/515-E-85th-St-10028/unit-3B/home/160375863,40.7751023,-73.9468888
+136,Condo/Co-op,132-36 Pople Ave Unit 1C,Flushing,NY,11355,498000,1.0,1.0,,,2008.0,215.0,http://www.redfin.com/NY/Flushing/132-36-Pople-Ave-11355/unit-1C/home/28577392,40.753311100000005,-73.8312005
+137,Condo/Co-op,112-19 39th Ave Unit 3B,Corona,NY,11368,560000,2.0,2.0,,,2008.0,110.0,http://www.redfin.com/NY/Flushing/138-3-39th-Ave-11354/unit-3B/home/45111850,40.7610641,-73.82744790000001
+138,Single Family Residential,153-38 76 Rd,Flushing,NY,11367,848000,4.0,2.5,1300.0,1800.0,1940.0,,http://www.redfin.com/NY/Flushing/153-38-76th-Rd-11367/home/20819728,40.7241111,-73.81151650000001
+139,Single Family Residential,235 Blair Ave,BRONX,NY,10465,675000,4.0,2.0,2690.0,4000.0,1935.0,,http://www.redfin.com/NY/The-Bronx/235-Blair-Ave-10465/home/44787680,40.8200397,-73.807926
+140,Condo/Co-op,,Yonkers,NY,10704,159999,1.0,1.0,875.0,1.0,1970.0,741.0,http://www.redfin.com/NY/Yonkers/Undisclosed-address-10704/home/50260687,40.9081679,-73.8564181
+141,Single Family Residential,82-51 242 St,Bellerose,NY,11426,619888,2.0,2.0,,4000.0,1950.0,,http://www.redfin.com/NY/Jamaica/82-51-242nd-St-11426/home/20805551,40.736289899999996,-73.72515
+142,Condo/Co-op,143-20 Hoover Ave #506,Briarwood,NY,11435,529000,2.0,1.0,788.0,10741.0,2009.0,377.0,http://www.redfin.com/NY/Jamaica/14320-Hoover-Ave-11435/unit-506/home/25830650,40.7140261,-73.8143475
+143,Condo/Co-op,531 52 St Unit 1A,Brooklyn,NY,11220,649999,2.0,2.0,924.0,,2008.0,,http://www.redfin.com/NY/Brooklyn/531-52nd-St-11220/unit-1A/home/40669862,40.643547600000005,-74.01035590000001
+144,Multi-Family (2-4 Unit),3210 Colden Ave,BRONX,NY,10469,859000,9.0,3.0,,2200.0,1920.0,,http://www.redfin.com/NY/The-Bronx/3210-Colden-Ave-10469/home/44743856,40.871765,-73.85912990000001
+145,Multi-Family (2-4 Unit),365 85 St,Brooklyn,NY,11209,1339000,6.0,2.75,2640.0,2458.0,1925.0,,http://www.redfin.com/NY/Brooklyn/365-85th-St-11209/home/40818256,40.624061499999996,-74.0286268
+146,Townhouse,515 Steuben St,Staten Island,NY,10305,899999,5.0,3.0,2250.0,4160.0,1960.0,,http://www.redfin.com/NY/Staten-Island/515-Steuben-St-10305/home/56026743,40.6025079,-74.076574
+147,Multi-Family (2-4 Unit),184 Herkimer St,Brooklyn,NY,11216,2199000,,,,,,,http://www.redfin.com/NY/Brooklyn/184-Herkimer-St-11216/home/40729687,40.6793499,-73.94735229999999
+148,Condo/Co-op,Unit at 5700 Arlington Ave,Bronx,NY,10471,430000,2.0,1.0,,,,,http://www.redfin.com/NY/The-Bronx/5700-Arlington-Ave-10471/home/59302619,40.9068884,-73.90598229999999
+149,Condo/Co-op,Unit at 170 E 87th St,New York,NY,10128,1950000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/170-E-87th-St-10128/home/45292556,40.77965510000001,-73.9539686
+150,Condo/Co-op,Unit at 21 E 22nd St,New York,NY,10010,1995000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/21-E-22nd-St-10010/home/45174704,40.7404797,-73.9884715
+151,Condo/Co-op,Unit at 339 Sackett St,Brooklyn,NY,11231,1475000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/339-Sackett-St-11231/home/40647686,40.682626500000005,-73.9939993
+152,Single Family Residential,2023 Mayflower Ave,BRONX,NY,10461,649000,3.0,1.5,1280.0,,1950.0,,http://www.redfin.com/NY/The-Bronx/2023-Mayflower-Ave-10461/home/44777040,40.852762,-73.8339574
+153,Townhouse,248 Kelly Blvd,Staten Island,NY,10314,988000,3.0,3.0,3016.0,4200.0,1975.0,,http://www.redfin.com/NY/Staten-Island/248-Kelly-Blvd-10314/home/56109328,40.5841904,-74.1572324
+154,Single Family Residential,284 Mason Blvd,Staten Island,NY,10309,1500000,5.0,4.0,4000.0,10475.0,1988.0,,http://www.redfin.com/NY/Staten-Island/284-Mason-Blvd-10309/home/56020824,40.5431913,-74.21616709999999
+155,Condo/Co-op,Unit at 405 E 63rd St,New York,NY,10065,645000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/405-E-63rd-St-10065/home/45183265,40.761964299999995,-73.9593562
+156,Condo/Co-op,Unit at 251 E 32nd St,New York,NY,10016,775000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/251-E-32nd-St-10016/home/172668190,40.743724799999995,-73.9770521
+157,Single Family Residential,185 Keiber Ct,Staten Island,NY,10314,625000,3.0,1.0,1575.0,4000.0,1935.0,,http://www.redfin.com/NY/Staten-Island/185-Keiber-Ct-10314/home/56028305,40.618539,-74.1302584
+158,Single Family Residential,37 Delano Ave,Yonkers,NY,10704,385000,3.0,1.0,945.0,,1936.0,,http://www.redfin.com/NY/Yonkers/37-Delano-Ave-10704/home/172667697,40.906049100000004,-73.8727894
+159,Townhouse,130 Leslie Ave,Staten Island,NY,10305,1299000,3.0,4.0,2800.0,5500.0,1997.0,,http://www.redfin.com/NY/Staten-Island/130-Leslie-Ave-10305/home/56043127,40.599078999999996,-74.0857519
+160,Condo/Co-op,Unit at 5 -49 Borden Ave,Queens,NY,11101,1395000,2.0,2.0,,,,,http://www.redfin.com/NY/Long-Island-City/5-Borden-Ave-11101/home/172666946,40.7397804,-73.9468822
+161,Condo/Co-op,Unit at 306 Gold St,Brooklyn,NY,11201,1450000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/306-Gold-St-11201/home/40674547,40.6950751,-73.98353859999999
+162,Condo/Co-op,Unit at 648 Grand St,Brooklyn,NY,11204,350000,1.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/648-Grand-St-11206/home/144685409,40.7112984,-73.9463142
+163,Condo/Co-op,Unit at 206 E 95th St,New York,NY,10128,899000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/206-E-95th-St-10128/home/115563636,40.7841014,-73.94938979999999
+164,Condo/Co-op,Unit at 2 E 55th St,New York,NY,10022,125000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/2-E-55th-St-10022/home/172666912,40.7613979,-73.9746128
+165,Condo/Co-op,Unit at 123 Third Ave,New York,NY,10003,1095000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/123-3rd-Ave-10003/home/45331142,40.732956200000004,-73.9869462
+166,Condo/Co-op,Unit at 5 Tudor City Pl,New York,NY,10017,339000,0.0,1.0,,,,,http://www.redfin.com/NY/New-York/5-Tudor-City-Pl-10017/home/53325686,40.747833299999996,-73.9711319
+167,Single Family Residential,94 Mckinley Ave,Brooklyn,NY,11208,539000,3.0,3.0,,1667.0,1920.0,,http://www.redfin.com/NY/Brooklyn/94-McKinley-Ave-11208/home/21457149,40.679168,-73.87201800000001
+168,Condo/Co-op,34-20 79th St Unit 4I,Jackson Heights,NY,11372,325000,1.0,1.0,725.0,,1939.0,865.0,http://www.redfin.com/NY/Jackson-Heights/3420-79th-St-11372/unit-4I/home/172666023,40.7527513,-73.8879031
+169,Single Family Residential,244-24 84th Rd,Bellerose,NY,11426,679000,4.0,2.0,,3563.0,1945.0,,http://www.redfin.com/NY/Jamaica/244-24-84th-Rd-11426/home/20798170,40.7334109,-73.721716
+170,Condo/Co-op,84-39 153rd Ave Unit 2B,Howard Beach,NY,11414,279000,1.0,1.0,,,1965.0,381.0,http://www.redfin.com/NY/Howard-Beach/84-39-153rd-Ave-11414/unit-2B/home/20727514,40.6668309,-73.8485075
+171,Condo/Co-op,Unit at 298 Garfield Pl,Brooklyn,NY,11215,1595000,3.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/298-Garfield-Pl-11215/home/40648737,40.670466,-73.97374599999999
+172,Condo/Co-op,Unit at 166 E 96th St,New York,NY,10128,915000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/166-E-96th-St-10128/home/172665874,40.7853516,-73.9503224
+173,Multi-Family (2-4 Unit),106-06 Liberty Ave,Ozone Park,NY,11417,1050000,2.0,2.5,,1760.0,1931.0,,http://www.redfin.com/NY/Jamaica/106-06-Liberty-Ave-11417/home/40453854,40.682715,-73.835024
+174,Condo/Co-op,1506 Decatur St Unit 2R,Ridgewood,NY,11385,598000,2.0,1.0,695.0,,2020.0,,http://www.redfin.com/NY/Ridgewood/1506-Decatur-St-11385/unit-2R/home/172665652,40.6930829,-73.9032687
+175,Multi-Family (2-4 Unit),930 Wilcox Ave,BRONX,NY,10465,889000,4.0,2.0,2880.0,4726.0,1960.0,,http://www.redfin.com/NY/The-Bronx/930-Wilcox-Ave-10465/home/44769806,40.83339229999999,-73.81881690000002
+176,Multi-Family (2-4 Unit),833 Kinsella St,BRONX,NY,10462,819999,5.0,4.0,3288.0,2500.0,1905.0,,http://www.redfin.com/NY/The-Bronx/833-Kinsella-St-10462/home/44731746,40.8457244,-73.86104209999999
+177,Multi-Family (2-4 Unit),104-21 Rockaway Blvd,Ozone Park,NY,11417,924990,6.0,3.0,,2132.0,1930.0,,http://www.redfin.com/NY/Jamaica/104-21-Rockaway-Blvd-11417/home/20770958,40.679246899999995,-73.8349702
+178,Condo/Co-op,Unit at 235 E 49th St,New York,NY,10017,495000,0.0,1.0,,,,,http://www.redfin.com/NY/New-York/235-E-49th-St-10017/home/45336067,40.754782299999995,-73.9696417
+179,Multi-Family (2-4 Unit),13 Reynolds St,Staten  Island,NY,10304,878000,5.0,2.75,2500.0,5000.0,,,http://www.redfin.com/NY/Staten-Island/13-Reynolds-St-10305/home/56026692,40.61196279999999,-74.0768608
+180,Single Family Residential,184-18 90th Ave,Hollis,NY,11423,599000,3.0,2.5,,1400.0,1920.0,,http://www.redfin.com/NY/Jamaica/184-18-90th-Ave-11423/home/20761096,40.711166999999996,-73.776462
+181,Condo/Co-op,5900 Arlington Ave Unit 12H,BRONX,NY,10471,475000,2.0,1.0,891.0,,1960.0,1104.0,http://www.redfin.com/NY/The-Bronx/5900-Arlington-Ave-10471/unit-12H/home/143429779,40.9090953,-73.9056436
+182,Multi-Family (2-4 Unit),48-15 98 St,Corona,NY,11368,1050000,4.0,2.0,2150.0,1900.0,1925.0,,http://www.redfin.com/NY/Flushing/48-15-98th-St-11368/home/20919420,40.743415999999996,-73.864334
+183,Single Family Residential,53-25 210 St,Bayside,NY,11364,749000,3.0,1.0,,2844.0,1940.0,,http://www.redfin.com/NY/Flushing/53-25-210th-St-11364/home/20812281,40.750646,-73.768576
+184,Single Family Residential,33 Barton Ave,Staten Island,NY,10306,575000,3.0,2.0,962.0,4000.0,1960.0,,http://www.redfin.com/NY/Staten-Island/33-Barton-Ave-10306/home/56063396,40.5839057,-74.1061252
+185,Condo/Co-op,Unit at 201 E 21st St,New York,NY,10010,1250000,2.0,1.0,,,,,http://www.redfin.com/NY/New-York/201-E-21st-St-10010/home/115369671,40.737542100000006,-73.9838554
+186,Condo/Co-op,Unit at 525 E 86th St,New York,NY,10028,1750000,3.0,2.0,,,,,http://www.redfin.com/NY/New-York/525-E-86th-St-10028/home/45187133,40.775726,-73.94584499999999
+187,Condo/Co-op,555 Kappock St Unit 12P,BRONX,NY,10463,289900,1.0,1.0,760.0,,1966.0,1163.0,http://www.redfin.com/NY/The-Bronx/555-Kappock-St-10463/unit-12P/home/44601204,40.8780303,-73.91692259999999
+188,Condo/Co-op,23-20 Bell Blvd Unit 2H,Bayside,NY,11360,448000,2.0,2.0,1200.0,,1963.0,1543.0,http://www.redfin.com/NY/Bayside/23-20-Bell-Blvd-11360/unit-2H/home/112971337,40.781705,-73.7765137
+189,Condo/Co-op,Unit at 439 Hicks St,Brooklyn,NY,11201,399000,1.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/439-Hicks-St-11201/home/40928632,40.6876555,-73.9992897
+190,Condo/Co-op,Unit at 497 Manhattan Ave,New York,NY,10027,2500000,2.0,3.0,,,,,http://www.redfin.com/NY/New-York/497-Manhattan-Ave-10027/home/45228202,40.808106200000005,-73.9549071
+191,Condo/Co-op,Unit at 50 Riverside Blvd,New York,NY,10069,3250000,2.0,2.5,,,,,http://www.redfin.com/NY/New-York/50-Riverside-Blvd-10069/home/108581614,40.7740589,-73.9909917
+192,Condo/Co-op,Unit at 315 E 69th St,New York,NY,10021,549000,0.0,1.0,,,,,http://www.redfin.com/NY/New-York/315-E-69th-St-10021/home/45159015,40.7666573,-73.95871329999999
+193,Condo/Co-op,Unit at 120 Cabrini Blvd,New York,NY,10033,660500,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/120-Cabrini-Blvd-10033/home/53327573,40.852426200000004,-73.9400575
+194,Condo/Co-op,Unit at 251 Seaman Ave,New York,NY,10034,329000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/251-Seaman-Ave-10034/home/45166503,40.8716437,-73.9178483
+195,Condo/Co-op,Unit at 30 Main St,Brooklyn,NY,11201,4988000,3.0,2.5,,,,,http://www.redfin.com/NY/Brooklyn/30-Main-St-11201/home/40634683,40.7030446,-73.99099809999998
+196,Multi-Family (2-4 Unit),132-35 Avery Ave,Flushing,NY,11355,1650000,4.0,2.0,2000.0,2400.0,1945.0,,http://www.redfin.com/NY/Flushing/132-35-Avery-Ave-11355/home/20852025,40.752981,-73.83122890000001
+197,Condo/Co-op,Unit at 456 W 19th St,New York,NY,10011,4495000,3.0,3.5,,,,,http://www.redfin.com/NY/New-York/456-W-19th-St-10011/home/170439760,40.744978700000004,-74.0057313
+198,Condo/Co-op,Unit at 247 W 46th St,New York,NY,10036,2250000,2.0,2.5,,,,,http://www.redfin.com/NY/New-York/247-W-46th-St-10036/home/45222802,40.7598542,-73.9874427
+199,Condo/Co-op,Unit at 60 Broadway,Brooklyn,NY,11249,1249000,1.0,1.5,,,,,http://www.redfin.com/NY/Brooklyn/60-Broadway-10006/home/40639708,40.710294,-73.966014
+200,Condo/Co-op,3131 Grand Concourse Unit 3B,,NY,10468,249900,2.0,1.0,,,1956.0,942.0,http://www.redfin.com/NY/The-Bronx/3131-Grand-Concourse-10468/unit-3B/home/170379470,40.875100200000006,-73.886699
+201,Condo/Co-op,85-15 120th St Unit 2H,Kew Gardens,NY,11415,699888,2.0,2.0,,,2016.0,349.0,http://www.redfin.com/NY/Kew-Gardens/85-15-120th-St-11415/unit-2H/home/110024880,40.702595,-73.83089620000001
+202,Single Family Residential,1763 Lacombe Ave,BRONX,NY,10473,285000,4.0,2.0,1352.0,3001.0,1945.0,,http://www.redfin.com/NY/The-Bronx/1763-Lacombe-Ave-10473/home/44605941,40.81491320000001,-73.8640168
+203,Condo/Co-op,5601 Riverdale Ave Unit 7S,BRONX,NY,10471,185998,1.0,1.0,750.0,,1954.0,936.0,http://www.redfin.com/NY/The-Bronx/5601-Riverdale-Ave-10471/unit-7S/home/44602152,40.9048823,-73.9051113
+204,Multi-Family (2-4 Unit),877 Nostrand Ave,Brooklyn,NY,11225,1500000,2.0,1.0,2763.0,1842.0,1930.0,,http://www.redfin.com/NY/Brooklyn/877-Nostrand-Ave-11225/home/172664768,40.666808200000006,-73.9505805
+205,Multi-Family (2-4 Unit),149-43 17 Ave,Whitestone,NY,11357,2298000,6.0,6.0,1750.0,5000.0,1950.0,,http://www.redfin.com/NY/Flushing/149-43-17th-Ave-11357/home/20861983,40.7844153,-73.8148709
+206,Townhouse,1935 71 St,Brooklyn,NY,11204,1500000,5.0,3.0,2480.0,2500.0,1930.0,,http://www.redfin.com/NY/Brooklyn/1935-71st-St-11204/home/40822477,40.6140373,-73.990544
+207,Single Family Residential,3711 Foster Ave,Brooklyn,NY,11203,589000,3.0,1.5,1344.0,1950.0,1925.0,,http://www.redfin.com/NY/Brooklyn/3711-Foster-Ave-11203/home/40782425,40.6392379,-73.94113709999999
+208,Condo/Co-op,100-25 Queens Blvd Unit 3L,Forest Hills,NY,11375,388000,0.0,1.0,,,,322.0,http://www.redfin.com/NY/Forest-Hills/100-25-Queens-Blvd-11375/unit-3L/home/20914594,40.727013899999996,-73.8523359
+209,Condo/Co-op,100-25 Queens Blvd Unit 3K,Forest Hills,NY,11375,378000,0.0,1.0,,,,282.0,http://www.redfin.com/NY/Forest-Hills/100-25-Queens-Blvd-11375/unit-3K/home/20916774,40.727013899999996,-73.8523359
+210,Multi-Family (2-4 Unit),20-21 Clintonville St,Whitestone,NY,11357,1980000,6.0,7.0,3120.0,5283.0,2011.0,,http://www.redfin.com/NY/Whitestone/2021-Clintonville-St-11357/home/26787220,40.780164299999996,-73.8059372
+211,Multi-Family (2-4 Unit),67-53 73 Pl,Middle Village,NY,11379,1199000,7.0,3.0,,1860.0,1930.0,,http://www.redfin.com/NY/Flushing/67-53-73rd-Pl-11379/home/20877111,40.711081,-73.878737
+212,Single Family Residential,27 Pleasant Valley Ave,Staten Island,NY,10304,719999,5.0,5.0,1700.0,2950.0,2014.0,,http://www.redfin.com/NY/Staten-Island/27-Pleasant-Valley-Ave-10304/home/56107855,40.616058200000005,-74.08857309999999
+213,Condo/Co-op,227 W 17th St,New York,NY,10011,11000000,3.0,3.0,,,,,http://www.redfin.com/NY/New-York/227-W-17th-St-10011/home/45249235,40.7411156,-73.99944190000001
+214,Condo/Co-op,Unit at 392 Central Park W,New York,NY,10025,999000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/392-Central-Park-W-10025/home/45302059,40.7945469,-73.96495820000001
+215,Condo/Co-op,Unit at 99 E 4th St,New York,NY,10003,745000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/99-E-4th-St-10003/home/172664451,40.726045500000005,-73.9885583
+216,Condo/Co-op,Unit at 1673 Ocean Ave,Brooklyn,NY,11230,612500,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/1673-Ocean-Ave-11230/home/172664448,40.6213958,-73.95524640000001
+217,Condo/Co-op,Unit at 158 Manhattan Ave,Brooklyn,NY,11206,1150000,1.0,1.5,,,,,http://www.redfin.com/NY/Brooklyn/158-Manhattan-Ave-11206/home/40659057,40.708242799999994,-73.944932
+218,Condo/Co-op,43-10 44 St Unit 5H,Brooklyn,NY,11104,395000,1.0,1.0,750.0,,,,http://www.redfin.com/NY/Long-Island-City/43-10-44th-St-11104/unit-5H/home/172664440,40.744769700000006,-73.9205321
+219,Condo/Co-op,24 Pennyfield Ave,BRONX,NY,10465,359900,2.0,1.0,,,2000.0,269.0,http://www.redfin.com/NY/The-Bronx/24-Pennyfield-Ave-10465/home/44753528,40.8098551,-73.80234250000001
+220,Single Family Residential,54 Loring Ave,Staten Island,NY,10312,559000,3.0,2.0,1472.0,2267.0,1975.0,,http://www.redfin.com/NY/Staten-Island/54-Loring-Ave-10312/home/56024228,40.554144,-74.179789
+221,Single Family Residential,521 W 150th St,New York,NY,10031,1900000,6.0,4.0,2796.0,,1910.0,,http://www.redfin.com/NY/New-York/521-W-150th-St-10031/home/45309673,40.8290104,-73.94622109999999
+222,Condo/Co-op,88-01 35th Ave Unit 6E,Jackson Heights,NY,11372,365000,2.0,1.0,925.0,,1950.0,687.0,http://www.redfin.com/NY/Jackson-Heights/88-01-35th-Ave-11372/unit-6E/home/172664258,40.752672600000004,-73.87875190000001
+223,Condo/Co-op,104-33 39th Ave,Corona,NY,11368,509500,2.0,1.0,,,2006.0,213.0,http://www.redfin.com/NY/Flushing/104-33-39th-Ave-11368/home/21688264,40.751236,-73.86103790000001
+224,Single Family Residential,5202 Avenue M,Brooklyn,NY,11234,595000,3.0,3.0,756.0,2000.0,1920.0,,http://www.redfin.com/NY/Brooklyn/5202-Avenue-M-11234/home/40881849,40.6212741,-73.92502879999999
+225,Single Family Residential,3287 Spencer Dr,Bronx,NY,10465,825000,,,,,,,http://www.redfin.com/NY/The-Bronx/3287-Spencer-Dr-10465/home/44750409,40.8426972,-73.8178979
+226,Condo/Co-op,Unit at 212 W 95th St,New York,NY,10025,6725000,4.0,4.0,,,,,http://www.redfin.com/NY/New-York/212-W-95th-St-10025/home/172664212,40.7935744,-73.97159029999999
+227,Condo/Co-op,Unit at 361 Clinton Ave,Brooklyn,NY,11238,935000,2.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/361-Clinton-Ave-11238/home/107586051,40.687128200000004,-73.9672838
+228,Multi-Family (2-4 Unit),1343 78 St,Brooklyn,NY,11228,1298000,6.0,3.5,1485.0,2000.0,1930.0,,http://www.redfin.com/NY/Brooklyn/1343-78th-St-11228/home/40825654,40.618063,-74.007866
+229,Condo/Co-op,Unit at 42 King St,New York,NY,10014,1975000,2.0,1.0,,,,,http://www.redfin.com/NY/New-York/42-King-St-10014/home/172664210,40.727607899999995,-74.0044088
+230,Condo/Co-op,Unit at 211 E 88th St,New York,NY,10128,475000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/211-E-88th-St-10128/home/53322959,40.779986,-73.952115
+231,Condo/Co-op,Unit at 75 Henry St,Brooklyn,NY,11201,2000000,4.0,3.0,,,,,http://www.redfin.com/NY/Brooklyn/75-Henry-St-11201/home/59291480,40.698683,-73.991871
+232,Condo/Co-op,Unit at 111 Montgomery St,Brooklyn,NY,11215,806000,1.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/111-Montgomery-St-11225/home/172664208,40.6665414,-73.96062859999999
+233,Condo/Co-op,Unit at 111 Montgomery St,Brooklyn,NY,11215,689000,1.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/111-Montgomery-St-11225/home/172664207,40.6665414,-73.96062859999999
+234,Condo/Co-op,Unit at 191 Withers St,Brooklyn,NY,11211,1075000,2.0,1.5,,,,,http://www.redfin.com/NY/Brooklyn/191-Withers-St-11211/home/172664206,40.717585,-73.944009
+235,Condo/Co-op,Unit at 111 Montgomery St,Brooklyn,NY,11215,499000,0.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/111-Montgomery-St-11225/home/172664205,40.6665414,-73.96062859999999
+236,Condo/Co-op,Unit at 155 E 38th St,New York,NY,10016,975000,2.0,1.0,,,,,http://www.redfin.com/NY/New-York/155-E-38th-St-10016/home/45254355,40.7485595,-73.9764661
+237,Condo/Co-op,Unit at 1175 York Ave,New York,NY,10065,2100000,4.0,3.5,,,,,http://www.redfin.com/NY/New-York/1175-York-Ave-10065/home/172664204,40.7615369,-73.95797859999999
+238,Condo/Co-op,Unit at 221 W 20th St,New York,NY,10011,860000,2.0,1.0,,,,,http://www.redfin.com/NY/New-York/221-W-20th-St-10011/home/45144612,40.7428081,-73.99795329999999
+239,Condo/Co-op,Unit at 372 Central Park W,New York,NY,10025,1195000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/372-Central-Park-W-10025/home/45133200,40.792888,-73.96468270000001
+240,Condo/Co-op,Unit at 38 Delancey St,New York,NY,10002,1150000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/38-Delancey-St-10002/home/172664196,40.7199368,-73.99177209999999
+241,Condo/Co-op,39 N Moore St,New York,NY,10013,10000000,4.0,3.5,,,,,http://www.redfin.com/NY/New-York/39-N-Moore-St-10013/home/45316896,40.7202037,-74.0079551
+242,Condo/Co-op,Unit at 200 E 62nd St,New York,NY,10021,3050000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/200-E-62nd-St-10065/home/109655232,40.763094200000005,-73.9649721
+243,Condo/Co-op,Unit at 173 Knickerbocker Ave,Brooklyn,NY,11237,849000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/173-Knickerbocker-Ave-11237/home/109567309,40.704058700000004,-73.9273014
+244,Single Family Residential,49-16 Annandale Ln,Little Neck,NY,11362,3179000,4.0,5.5,6602.0,9044.0,2009.0,,http://www.redfin.com/NY/Flushing/Unknown-11362/home/20795167,40.768634999999996,-73.732017
+245,Condo/Co-op,215 Hart Blvd Unit 4a,Staten Island,NY,10301,329000,1.0,,773.0,773.0,1931.0,395.0,http://www.redfin.com/NY/Staten-Island/215-Hart-Blvd-10301/unit-4A/home/56014223,40.6299335,-74.0999243
+246,Single Family Residential,411 Neckar Ave,Staten  Island,NY,10304,460000,3.0,1.5,1248.0,1184.0,1986.0,,http://www.redfin.com/NY/Staten-Island/411-Neckar-Ave-10304/home/56117733,40.6083304,-74.0839816
+247,Condo/Co-op,114-20 Queens Blvd #3,Forest Hills,NY,11375,188000,0.0,1.0,,,1941.0,714.0,http://www.redfin.com/NY/Flushing/114-20-Queens-Blvd-11375/unit-3/home/100252434,40.716570399999995,-73.8348752
+248,Condo/Co-op,4 Dartmouth St #510,Forest Hills,NY,11375,459000,1.0,1.0,,,1920.0,,http://www.redfin.com/NY/Forest-Hills/4-Dartmouth-St-11375/unit-510/home/40222037,40.721616499999996,-73.85712190000001
+249,Condo/Co-op,32-43 91 St #506,E. Elmhurst,NY,11369,239000,1.0,1.0,,,1951.0,725.0,http://www.redfin.com/NY/East-Elmhurst/3243-91st-St-11369/unit-506/home/168984485,40.7585599,-73.87738
+250,Single Family Residential,144-15 South Dr,Malba,NY,11357,2688888,4.0,4.0,3146.0,6950.0,1945.0,,http://www.redfin.com/NY/Flushing/144-15-South-Dr-11357/home/20866218,40.790075,-73.82549200000001
+251,Townhouse,2339 Utica Ave,Flatlands,NY,11234,679000,3.0,2.0,1851.0,2000.0,1940.0,,http://www.redfin.com/NY/Brooklyn/2339-Utica-Ave-11234/home/40901153,40.6147024,-73.9260656
+252,Condo/Co-op,67-41 Burns St #317,Forest Hills,NY,11375,210000,1.0,1.0,477.0,,1945.0,429.0,http://www.redfin.com/NY/Forest-Hills/6741-Burns-St-11375/unit-317/home/20633145,40.723039899999996,-73.85628
+253,Multi-Family (2-4 Unit),2466 E 21 St,Brooklyn,NY,11235,1599000,6.0,2.0,2160.0,2625.0,1930.0,,http://www.redfin.com/NY/Brooklyn/2466-E-21st-St-11235/home/40866021,40.5921712,-73.9492194
+254,Condo/Co-op,1199 E 53 St Unit 2P,Brooklyn,NY,11234,210000,1.0,1.0,650.0,,,,http://www.redfin.com/NY/Brooklyn/1199-E-53rd-St-11234/unit-2P/home/160470584,40.629616600000006,-73.92454659999999
+255,Multi-Family (2-4 Unit),740 E 239th St,BRONX,NY,10466,756000,5.0,2.0,2585.0,2405.0,1965.0,,http://www.redfin.com/NY/The-Bronx/740-E-239th-St-10466/home/44759494,40.899145000000004,-73.851714
+256,Multi-Family (2-4 Unit),43-68 160 St,Flushing,NY,11358,1568000,4.0,4.5,,3000.0,2000.0,,http://www.redfin.com/NY/Flushing/43-68-160th-St-11358/home/20850274,40.75696,-73.80662199999999
+257,Condo/Co-op,9965 Shore Rd Unit 6B,Brooklyn,NY,11209,609000,2.0,1.5,1000.0,,,,http://www.redfin.com/NY/Brooklyn/9965-Shore-Rd-11209/unit-6B/home/40652246,40.612332200000004,-74.0356281
+258,Condo/Co-op,5418 3 Ave Unit 3A,Brooklyn,NY,11220,579000,3.0,2.0,678.0,,2012.0,,http://www.redfin.com/NY/Brooklyn/5418-3rd-Ave-11220/unit-3A/home/59293580,40.6454425,-74.0178557
+259,Single Family Residential,186 Park Ave,Staten Island,NY,10302,499000,4.0,3.0,2100.0,4305.0,1935.0,,http://www.redfin.com/NY/Staten-Island/186-Park-Ave-10302/home/56051460,40.6363583,-74.13342390000001
+260,Condo/Co-op,196-25 69th Ave Unit 2FL,Fresh Meadows,NY,11365,248000,1.0,1.0,,,1952.0,750.0,http://www.redfin.com/NY/Fresh-Meadows/196-25-69th-Ave-11365/unit-2FL/home/172663833,40.737241,-73.7770111
+261,Multi-Family (2-4 Unit),2019 Gildersleeve,Cornwall,NY,10473,729000,5.0,3.0,,2700.0,2009.0,,http://www.redfin.com/NY/The-Bronx/2019-Gildersleeve-Ave-10473/home/44762076,40.8102487,-73.85036059999999
+262,Condo/Co-op,458 Neptune Ave Unit 8P,Brooklyn,NY,11224,679000,3.0,1.5,1250.0,,1964.0,,http://www.redfin.com/NY/Brooklyn/458-Neptune-Ave-11224/unit-8P/home/53503659,40.5789973,-73.9709912
+263,Single Family Residential,88-28 69th Ave,Forest Hills,NY,11375,1350000,3.0,2.5,1900.0,2400.0,1925.0,,http://www.redfin.com/NY/Flushing/88-28-69th-Ave-11375/home/20888252,40.711852,-73.8550099
+264,Condo/Co-op,133-24 41st Ave Unit 2B,Flushing,NY,11355,759000,2.0,2.0,1212.0,,1931.0,333.0,http://www.redfin.com/NY/Flushing/133-24C-41st-Ave-11355/unit-2B/home/172663720,40.7573649,-73.8309227
+265,Vacant Land,3169 Ampere (lot 28) Ave,BRONX,NY,10465,225000,0.0,,,2496.0,,,http://www.redfin.com/NY/The-Bronx/3169-Ampere-Ave-10465/home/44606816,40.8465164,-73.82243559999999
+266,Single Family Residential,164 Fillmore St,Staten Island,NY,10301,519000,3.0,2.0,1352.0,4000.0,1950.0,,http://www.redfin.com/NY/Staten-Island/164-Fillmore-St-10301/home/56029867,40.6435038,-74.09401159999999
+267,Single Family Residential,219-17 133rd Ave,Laurelton,NY,11413,349000,3.0,1.0,,6723.0,1950.0,,http://www.redfin.com/NY/Jamaica/219-17-133rd-Ave-11413/home/20698654,40.680708,-73.749103
+268,Multi-Family (2-4 Unit),1730 63 St,Brooklyn,NY,11204,1150000,4.0,2.75,1732.0,1512.0,1940.0,,http://www.redfin.com/NY/Brooklyn/1730-63rd-St-11204/home/40800728,40.6210492,-73.9906129
+269,Multi-Family (2-4 Unit),611 Euclid Ave,Brooklyn,NY,11208,989000,8.0,4.0,,2400.0,1930.0,,http://www.redfin.com/NY/Brooklyn/611-Euclid-Ave-11208/home/40766259,40.6720126,-73.87073559999999
+270,Single Family Residential,282 Weed Ave,Staten Island,NY,10306,769000,4.0,3.0,1875.0,3895.0,1960.0,,http://www.redfin.com/NY/Staten-Island/282-Weed-Ave-10306/home/56053783,40.5609776,-74.10942879999999
+271,Single Family Residential,4102 Avenue S,Brooklyn,NY,11234,850000,3.0,1.75,966.0,1850.0,1930.0,,http://www.redfin.com/NY/Brooklyn/4102-Avenue-S-11234/home/40902641,40.611981799999995,-73.92747440000001
+272,Condo/Co-op,Unit at 421 E 84th St,New York,NY,10028,975000,1.0,2.0,,,,,http://www.redfin.com/NY/New-York/421-E-84th-St-10028/home/45229523,40.775351,-73.949239
+273,Condo/Co-op,Unit at 7 E 14th St,New York,NY,10003,775000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/7-E-14th-St-10003/home/45174887,40.7358375,-73.99277059999999
+274,Condo/Co-op,Unit at 25 Central Park W,New York,NY,10023,1995000,1.0,1.5,,,,,http://www.redfin.com/NY/New-York/25-Central-Park-W-10023/home/45265244,40.770703399999995,-73.9808545
+275,Condo/Co-op,Unit at 111 Fourth Ave,New York,NY,10003,1059000,2.0,1.0,,,,,http://www.redfin.com/NY/New-York/111-4th-Ave-10003/home/45142420,40.7324137,-73.9898402
+276,Condo/Co-op,Unit at 300 E 93rd St,New York,NY,10128,1049000,1.0,2.0,,,,,http://www.redfin.com/NY/New-York/300-E-93rd-St-10128/home/45296079,40.7819235,-73.9483354
+277,Condo/Co-op,Unit at 200 W 20th St,New York,NY,10011,519000,0.0,1.0,,,,,http://www.redfin.com/NY/New-York/200-W-20th-St-10011/home/172663557,40.7422277,-73.997465
+278,Condo/Co-op,Unit at 1414 W 4th St,Brooklyn,NY,11204,749000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/1414-W-4th-St-11204/home/146261304,40.611652899999996,-73.978693
+279,Condo/Co-op,Unit at 505 W 19th St,New York,NY,10011,12450000,4.0,4.5,,,,,http://www.redfin.com/NY/New-York/505-W-19th-St-10011/home/108581300,40.7455331,-74.0061877
+280,Condo/Co-op,Unit at 146 W 57th St,New York,NY,10019,3175000,2.0,2.5,,,,,http://www.redfin.com/NY/New-York/146-W-57th-St-10019/home/45260565,40.764812,-73.9792825
+281,Condo/Co-op,Unit at 10 W 15th St,New York,NY,10011,1595000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/10-W-15th-St-10011/home/45145397,40.736676,-73.9934483
+282,Condo/Co-op,Unit at 400 W End Ave,New York,NY,10024,6250000,5.0,5.5,,,,,http://www.redfin.com/NY/New-York/400-W-End-Ave-10024/home/172663553,40.7844489,-73.9807532
+283,Condo/Co-op,Unit at 155 W 68th St,New York,NY,10023,3995000,4.0,3.5,,,,,http://www.redfin.com/NY/New-York/155-W-68th-St-10023/home/172654272,40.775966600000004,-73.98279840000001
+284,Condo/Co-op,Unit at 420 12th St,Brooklyn,NY,11215,1695000,2.0,2.0,,,,,http://www.redfin.com/NY/Brooklyn/422-12th-St-11215/home/108527969,40.6647741,-73.9826198
+285,Condo/Co-op,Unit at 8701 Shore Rd,Brooklyn,NY,11209,485000,1.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/8701-Shore-Rd-11209/home/63687880,40.6249201,-74.0404698
+286,Condo/Co-op,Unit at 350 W 42nd St,New York,NY,10036,1299000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/350-W-42nd-St-10036/home/45191527,40.7578531,-73.9923304
+287,Multi-Family (2-4 Unit),1054 Decatur St,Bushwick,NY,11207,1224000,5.0,3.0,1875.0,1875.0,1920.0,,http://www.redfin.com/NY/Brooklyn/1054-Decatur-St-11207/home/40750846,40.6859389,-73.910102
+288,Multi-Family (2-4 Unit),2457 E 65 St,Brooklyn,NY,11234,1269000,6.0,3.25,2276.0,5875.0,1960.0,,http://www.redfin.com/NY/Brooklyn/2457-E-65th-St-11234/home/40905407,40.610284899999996,-73.9076218
+289,Single Family Residential,239-27 65 Ave,Douglaston,NY,11362,818000,3.0,2.5,,1980.0,1960.0,,http://www.redfin.com/NY/Flushing/239-27-65th-Ave-11362/home/20797720,40.753151,-73.740557
+290,Multi-Family (2-4 Unit),740 Lincoln Pl,Brooklyn,NY,11216,1850000,5.0,3.0,2748.0,1600.0,1910.0,,http://www.redfin.com/NY/Brooklyn/740-Lincoln-Pl-11216/home/40709634,40.6706693,-73.951957
+291,Single Family Residential,58-18 61st St,Maspeth,NY,11378,699000,3.0,2.0,1215.0,1853.0,1920.0,,http://www.redfin.com/NY/Flushing/58-18-61st-St-11378/home/20908508,40.7203963,-73.9039198
+292,Condo/Co-op,41-33 Parsons Blvd Unit 5C,Flushing,NY,11355,729000,2.0,2.0,1160.0,,2000.0,391.0,http://www.redfin.com/NY/Flushing/41-33-Parsons-Blvd-11355/unit-5C/home/20668093,40.75964329999999,-73.8208338
+293,Condo/Co-op,74-19 Calamus Ave Unit 8A,Elmhurst,NY,11373,689000,2.0,1.5,1104.0,,1982.0,285.0,http://www.redfin.com/NY/Elmhurst/74-19-Calamus-Ave-11373/unit-8A/home/172663419,40.7346119,-73.88817540000001
+294,Single Family Residential,416 Davis Ave,Staten Island,NY,10310,789000,3.0,4.0,1340.0,3550.0,1945.0,,http://www.redfin.com/NY/Staten-Island/416-Davis-Ave-10310/home/56060386,40.63333970000001,-74.1089241
+295,Multi-Family (2-4 Unit),6007 20 Ave,Brooklyn,NY,11204,1249999,5.0,2.5,2800.0,2050.0,1925.0,,http://www.redfin.com/NY/Brooklyn/6007-20th-Ave-11204/home/146348173,40.61906079999999,-73.9829341
+296,Single Family Residential,23-56 101st St,E. Elmhurst,NY,11369,749000,3.0,2.5,,2542.0,1950.0,,http://www.redfin.com/NY/East-Elmhurst/2356-101st-St-11369/home/20923925,40.767134999999996,-73.869589
+297,Townhouse,243 Clinton B Fiske Ave,Staten Island,NY,10314,729000,4.0,2.0,1920.0,5625.0,1920.0,,http://www.redfin.com/NY/Staten-Island/243-Fiske-Ave-10314/home/56047390,40.6174381,-74.1333884
+298,Single Family Residential,102 Elson St,Staten Island,NY,10314,650000,3.0,2.0,1645.0,1379.0,2014.0,60.0,http://www.redfin.com/NY/Staten-Island/102-Elson-St-10314/home/92332346,40.616254100000006,-74.16669870000001
+299,Single Family Residential,2433 E 12 St,Brooklyn,NY,11235,1350000,3.0,2.0,1590.0,3600.0,1925.0,,http://www.redfin.com/NY/Brooklyn/2433-E-12th-St-11235/home/40865436,40.590948299999994,-73.95858709999999
+300,Condo/Co-op,2641 E 24 St Unit 1B,Brooklyn,NY,11235,849000,3.0,2.25,1926.0,,2005.0,,http://www.redfin.com/NY/Brooklyn/2641-E-24th-St-11235/unit-1B/home/40643083,40.5879354,-73.9451278
+301,Multi-Family (2-4 Unit),85-13 88th Ave,Woodhaven,NY,11421,860000,6.0,3.0,,1800.0,1901.0,,http://www.redfin.com/NY/Jamaica/85-13-88th-Ave-11421/home/20785525,40.690940999999995,-73.857919
+302,Condo/Co-op,1935 Shore Pkwy Unit 5G,Brooklyn,NY,11214,389000,2.0,1.0,1000.0,,,,http://www.redfin.com/NY/Brooklyn/1935-Shore-Pkwy-11214/unit-5G/home/40925727,40.589287,-73.9919792
+303,Single Family Residential,60-22 59th Dr,Flushing,NY,11378,820000,3.0,2.5,,2000.0,1920.0,,http://www.redfin.com/NY/Flushing/60-22-59th-Dr-11378/home/20906756,40.717275,-73.905498
+304,Multi-Family (2-4 Unit),1499 E 3 St,Brooklyn,NY,11230,2250000,8.0,3.0,4080.0,3000.0,1925.0,,http://www.redfin.com/NY/Brooklyn/1499-E-3rd-St-11230/home/40837385,40.613831,-73.971502
+305,Multi-Family (2-4 Unit),150-12 21st Ave,Whitestone,NY,11357,2588000,7.0,7.5,3700.0,7500.0,2020.0,,http://www.redfin.com/NY/Flushing/150-12-21st-Ave-11357/home/20862269,40.779537,-73.81388100000001
+306,Multi-Family (2-4 Unit),63-32 60th Pl,Ridgewood,NY,11385,1180000,5.0,2.5,2120.0,1900.0,1924.0,,http://www.redfin.com/NY/Flushing/63-32-60th-Pl-11385/home/20886754,40.710342,-73.902911
+307,Single Family Residential,283 Prospect Ave,Staten Island,NY,10301,475000,2.0,2.0,1200.0,3388.0,1960.0,,http://www.redfin.com/NY/Staten-Island/283-Prospect-Ave-10301/home/56127523,40.639153,-74.0971778
+308,Single Family Residential,2555 Wilson Ave,BRONX,NY,10469,679000,4.0,2.5,1400.0,5000.0,1925.0,,http://www.redfin.com/NY/The-Bronx/2555-Wilson-Ave-10469/home/44795480,40.8643935,-73.8494184
+309,Single Family Residential,54-36 82 St,Elmhurst,NY,11373,1100000,3.0,2.5,,2800.0,1930.0,,http://www.redfin.com/NY/Flushing/54-36-82nd-St-11373/home/20900468,40.730256,-73.882281
+310,Condo/Co-op,94-11 59 Ave Unit E21,Elmhurst,NY,11373,310000,1.0,1.0,,,1954.0,555.0,http://www.redfin.com/NY/Queens/9411-59th-Ave-11373/unit-E21/home/21689366,40.7348199,-73.86684
+311,Condo/Co-op,88-04 155 Ave #1,Howard Beach,NY,11414,269000,3.0,1.0,,,1960.0,878.0,http://www.redfin.com/NY/Howard-Beach/8804-155th-Ave-11414/unit-1/home/172663150,40.6655901,-73.8468413
+312,Condo/Co-op,41-28 71st St,Woodside,NY,11377,599000,2.0,2.0,,7500.0,1988.0,350.0,http://www.redfin.com/NY/Woodside/41-28-71st-St-11377/unit-MGMT/home/20666069,40.7440595,-73.8943229
+313,Single Family Residential,229 Harvest Ave,Staten Island,NY,10310,649000,3.0,1.0,1320.0,3800.0,1930.0,,http://www.redfin.com/NY/Staten-Island/229-Harvest-Ave-10310/home/56061181,40.627278499999996,-74.11342059999998
+314,Multi-Family (2-4 Unit),88 Conklin Ave,Canarsie,NY,11236,1355000,4.0,4.0,,7500.0,1920.0,,http://www.redfin.com/NY/Brooklyn/88-Conklin-Ave-11236/home/40891248,40.6424546,-73.9040292
+315,Multi-Family (2-4 Unit),1115 78 St,Brooklyn,NY,11228,2088000,5.0,4.0,2352.0,6000.0,1920.0,,http://www.redfin.com/NY/Brooklyn/1115-78th-St-11228/home/40825757,40.621078600000004,-74.01300479999999
+316,Single Family Residential,11507 Parkway Dr,Elmont,NY,11003,555000,4.0,2.0,1326.0,4000.0,1946.0,,http://www.redfin.com/NY/Elmont/11507-Parkway-Dr-11003/home/20466676,40.6962406,-73.726122
+317,Single Family Residential,716 Correll Ave,Staten Island,NY,10309,1295000,4.0,3.0,4554.0,10260.0,1986.0,,http://www.redfin.com/NY/Staten-Island/716-Correll-Ave-10309/home/56073952,40.5453188,-74.21691729999999
+318,Single Family Residential,1149 Mason Ave,Staten Island,NY,10306,629900,3.0,3.0,1860.0,2260.0,2010.0,,http://www.redfin.com/NY/Staten-Island/1149-Mason-Ave-10306/home/56133212,40.5763191,-74.0965152
+319,Multi-Family (2-4 Unit),157 Sunnyside Ave,Brooklyn,NY,11207,829000,,,,,,,http://www.redfin.com/NY/Brooklyn/157-Sunnyside-Ave-11207/home/40756946,40.682214,-73.891504
+320,Condo/Co-op,Unit at 389 E 89th St,New York,NY,10128,1780000,2.0,2.0,,,,,http://www.redfin.com/NY/New-York/389-E-89th-St-10128/home/143611023,40.779107200000006,-73.9483299
+321,Condo/Co-op,Unit at 498 W End Ave,New York,NY,10024,2250000,0.0,1.0,,,,,http://www.redfin.com/NY/New-York/498-W-End-Ave-10024/home/172663009,40.7873345,-73.97866409999999
+322,Condo/Co-op,Unit at 201 E 36th St,New York,NY,10016,835000,2.0,1.0,,,,,http://www.redfin.com/NY/New-York/201-E-36th-St-10016/home/45255437,40.7470846,-73.9768078
+323,Condo/Co-op,Unit at 1 Irving Pl,New York,NY,10003,965000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/1-Irving-Pl-10003/home/45253002,40.7348301,-73.9890675
+324,Condo/Co-op,Unit at 2 E End Ave,New York,NY,10075,2200000,3.0,3.5,,,,,http://www.redfin.com/NY/New-York/2-E-End-Ave-10075/home/115546658,40.770787799999994,-73.9481517
+325,Condo/Co-op,Unit at 390 W End Ave,New York,NY,10024,25000000,7.0,9.0,,,,,http://www.redfin.com/NY/New-York/390-W-End-Ave-10024/home/172663006,40.7838155,-73.9812678
+326,Multi-Family (2-4 Unit),1209 Vyse Ave,BRONX,NY,10459,849999,5.0,3.5,2100.0,3001.0,1992.0,,http://www.redfin.com/NY/The-Bronx/1209-Vyse-Ave-10459/home/44713149,40.829126,-73.890215
+327,Vacant Land,210 Gordon St,Staten Island,NY,10304,149999,0.0,,,3000.0,,,http://www.redfin.com/NY/Staten-Island/210-Gordon-St-10304/home/170129387,40.6223184,-74.08323709999999
+328,Condo/Co-op,32b Katan Loop,Staten Island,NY,10308,369998,2.0,1.0,1296.0,1296.0,1986.0,224.0,http://www.redfin.com/NY/Staten-Island/32B-Katan-Loop-10308/unit-25B/home/56108412,40.552743400000004,-74.1541678
+329,Single Family Residential,83-50 259th St,Floral Park,NY,11004,729000,4.0,2.0,,4000.0,1950.0,,http://www.redfin.com/NY/Glen-Oaks/83-50-259th-St-11004/home/20792780,40.737502899999996,-73.709663
+330,Single Family Residential,265 Brighton St,Staten Island,NY,10307,999000,4.0,4.0,2700.0,5000.0,1996.0,,http://www.redfin.com/NY/Staten-Island/265-Brighton-St-10307/home/56071320,40.5038518,-74.2429911
+331,Multi-Family (2-4 Unit),72-40 Cooper Ave,Glendale,NY,11385,1688000,8.0,9.5,,2423.0,1931.0,,http://www.redfin.com/NY/Flushing/72-40-Cooper-Ave-11385/home/20878472,40.703551000000004,-73.877362
+332,Multi-Family (2-4 Unit),97-05 Linden Blvd,Ozone Park,NY,11417,759000,3.0,2.0,1350.0,3080.0,1925.0,,http://www.redfin.com/NY/Jamaica/97-05-Linden-Blvd-11417/home/20729821,40.674445,-73.838851
+333,Townhouse,1047 E 232nd St,BRONX,NY,10466,488900,3.0,2.0,1925.0,1703.0,1935.0,,http://www.redfin.com/NY/The-Bronx/1047-E-232nd-St-10466/home/44789745,40.8896379,-73.84734350000001
+334,Single Family Residential,2319 127 St,College Point,NY,11356,975000,4.0,2.5,1118.0,5300.0,1945.0,,http://www.redfin.com/NY/Queens/23-19-127th-St-11356/home/20870160,40.778029100000005,-73.8413879
+335,Single Family Residential,88-15 187 St,Hollis,NY,11423,648000,4.0,1.5,2600.0,2600.0,1925.0,,http://www.redfin.com/NY/Jamaica/88-15-187th-St-11423/home/20762105,40.714265000000005,-73.774723
+336,Multi-Family (2-4 Unit),4059 Ely Ave,BRONX,NY,10466,719000,5.0,2.0,2940.0,1812.0,1950.0,,http://www.redfin.com/NY/The-Bronx/4059-Ely-Ave-10466/unit-1/home/44603665,40.891177,-73.846125
+337,Multi-Family (2-4 Unit),3561 Willett Ave,BRONX,NY,10467,799000,0.0,,2400.0,5001.0,1901.0,,http://www.redfin.com/NY/The-Bronx/3561-Willett-Ave-10467/home/44744001,40.879386600000004,-73.8667388
+338,Multi-Family (2-4 Unit),334 E 120th St,New York,NY,10035,2298000,,,,,,,http://www.redfin.com/NY/New-York/334-E-120th-St-10035/home/45299768,40.798761999999996,-73.934619
+339,Multi-Family (2-4 Unit),330 E 120th St,New York,NY,10035,2228000,,,,,,,http://www.redfin.com/NY/New-York/330-E-120th-St-10035/home/45299773,40.798813,-73.934733
+340,Multi-Family (2-4 Unit),332 E 120th St,New York,NY,10035,2228000,,,,,,,http://www.redfin.com/NY/New-York/332-E-120th-St-10035/home/45209366,40.798795399999996,-73.9346737
+341,Multi-Family (2-4 Unit),126 Meserole Ave,Brooklyn,NY,11222,3150000,,,,,,,http://www.redfin.com/NY/Brooklyn/126-Meserole-Ave-11222/home/40739881,40.7273282,-73.9514228
+342,Multi-Family (2-4 Unit),344 Dean St,Brooklyn,NY,11217,2999950,,,,,,,http://www.redfin.com/NY/Brooklyn/344-Dean-St-11217/home/40682559,40.6833405,-73.9802125
+343,Condo/Co-op,Unit at 40 W 22nd St,New York,NY,10010,5995000,4.0,2.0,,,,,http://www.redfin.com/NY/New-York/40-W-22nd-St-10010/home/172662850,40.7415598,-73.9923231
+344,Condo/Co-op,Unit at 3215 Netherland Ave,Bronx,NY,10463,499900,3.0,2.0,,,,,http://www.redfin.com/NY/The-Bronx/3215-Netherland-Ave-10463/home/44805473,40.884184999999995,-73.911854
+345,Condo/Co-op,Unit at 268 Cumberland St,Brooklyn,NY,11205,899000,1.0,1.0,,,,,http://www.redfin.com/NY/Brooklyn/268-Cumberland-St-11205/home/40676741,40.687948399999996,-73.9729322
+346,Condo/Co-op,Unit at 150 E 49th St,New York,NY,10017,899000,2.0,1.5,,,,,http://www.redfin.com/NY/New-York/150-E-49th-St-10017/home/45233496,40.7552634,-73.97194820000001
+347,Condo/Co-op,Unit at 133 Sterling Pl,Brooklyn,NY,11217,2395000,3.0,2.5,,,,,http://www.redfin.com/NY/Brooklyn/133-Sterling-Pl-11217/home/40675563,40.6774037,-73.9740571
+348,Condo/Co-op,Unit at 382 Central Park W,New York,NY,10025,1250000,1.0,1.0,,,,,http://www.redfin.com/NY/New-York/382-Central-Park-W-10025/home/45133113,40.7935585,-73.9656011
+349,Townhouse,Unit at 110 Putnam Ave,Brooklyn,NY,11238,1050000,2.0,1.5,,,,,http://www.redfin.com/NY/Brooklyn/110-Putnam-Ave-11238/home/113737977,40.683071999999996,-73.9569723

@@ -1,0 +1,351 @@
+,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
+0,Condo/Co-op,834 Lamont St NW Unit A,Washington,DC,20010,549900,1.0,1.5,760.0,,2005.0,114.0,http://www.redfin.com/DC/Washington/834-Lamont-St-NW-20010/unit-A/home/96689117,38.93066029999999,-77.02608190000001
+1,Townhouse,4919 7th St NW,Washington,DC,20011,809000,4.0,3.5,2000.0,1530.0,1927.0,,http://www.redfin.com/DC/Washington/4919-7th-St-NW-20011/home/10057672,38.95047879999999,-77.02182320000001
+2,Townhouse,1111 R St NW,Washington,DC,20009,899900,2.0,2.0,1398.0,497.0,1900.0,,http://www.redfin.com/DC/Washington/1111-R-St-NW-20009/home/9875540,38.9127789,-77.0274908
+3,Condo/Co-op,1423 R St NW Unit G1,Washington,DC,20009,369000,1.0,1.0,581.0,,1925.0,255.0,http://www.redfin.com/DC/Washington/1423-R-St-NW-20009/unit-G1/home/9869940,38.9128892,-77.0331238
+4,Condo/Co-op,437 New York Ave NW #222,Washington,DC,20001,525000,1.0,1.0,870.0,,2008.0,614.0,http://www.redfin.com/DC/Washington/437-New-York-Ave-NW-20001/unit-222/home/21645108,38.904947799999995,-77.017092
+5,Condo/Co-op,3911 Langley Ct NW Unit A559,Washington,DC,20016,595000,2.0,2.5,1322.0,,1942.0,696.0,http://www.redfin.com/DC/Washington/3911-Langley-Ct-NW-20016/unit-A559/home/9963442,38.936992100000005,-77.07765859999999
+6,Single Family Residential,4815 47th St NW,Washington,DC,20016,925000,3.0,2.0,1884.0,4000.0,1932.0,,http://www.redfin.com/DC/Washington/4815-47th-St-NW-20016/home/9947760,38.9526637,-77.09239709999999
+7,Townhouse,4113 Stanley St SE,Washington,DC,20019,340000,3.0,1.5,1088.0,2625.0,1947.0,,http://www.redfin.com/DC/Washington/4113-Stanley-St-SE-20019/home/10137376,38.871596999999994,-76.9379359
+8,Condo/Co-op,922 24th St NW #621,Washington,DC,20037,444900,1.0,1.0,641.0,,1962.0,842.0,http://www.redfin.com/DC/Washington/922-24th-St-NW-20037/unit-621/home/9044755,38.901138200000005,-77.05123370000001
+9,Condo/Co-op,625 3rd St NE #6,Washington,DC,20002,825000,2.0,2.5,1319.0,,1910.0,407.0,http://www.redfin.com/DC/Washington/625-3rd-St-NE-20002/unit-6/home/9892813,38.8977244,-77.0018537
+10,Condo/Co-op,1441 Rhode Island Ave NW #205,Washington,DC,20005,519000,1.0,1.0,689.0,,2003.0,446.0,http://www.redfin.com/DC/Washington/1441-Rhode-Island-Ave-NW-20005/unit-205/home/21647954,38.9086412,-77.0337767
+11,Townhouse,36 Florida Ave NW,Washington,DC,20001,949000,3.0,2.5,2364.0,750.0,1900.0,,http://www.redfin.com/DC/Washington/36-Florida-Ave-NW-20002/home/9888093,38.91148575,-77.01111065
+12,Condo/Co-op,901 D St NE #208,Washington,DC,20002,899000,2.0,2.0,1478.0,,1903.0,550.0,http://www.redfin.com/DC/Washington/901-D-St-NE-20002/unit-208/home/81803517,38.894436799999994,-76.9934083
+13,Condo/Co-op,1435 Corcoran St NW #5,Washington,DC,20009,595000,2.0,1.0,810.0,,1981.0,250.0,http://www.redfin.com/DC/Washington/1435-Corcoran-St-NW-20009/unit-5/home/9870241,38.9120071,-77.032842
+14,Condo/Co-op,1830 17th St NW #402,Washington,DC,20009,450000,1.0,1.0,678.0,,1901.0,349.0,http://www.redfin.com/DC/Washington/1830-17th-St-NW-20009/unit-402/home/9859017,38.914991,-77.0386462
+15,Condo/Co-op,1421 Columbia Rd NW #404,Washington,DC,20009,559000,3.0,2.0,956.0,,1910.0,542.0,http://www.redfin.com/DC/Washington/1421-Columbia-Rd-NW-20009/unit-404/home/10014039,38.9277056,-77.0335781
+16,Condo/Co-op,1632 30th St NW #1,Washington,DC,20007,739900,2.0,2.5,1023.0,,1940.0,413.0,http://www.redfin.com/DC/Washington/1632-30th-St-NW-20007/unit-1/home/9931447,38.911476,-77.05944129999999
+17,Condo/Co-op,800 4th St SW Unit S425,Washington,DC,20024,309000,0.0,1.0,517.0,,1959.0,369.0,http://www.redfin.com/DC/Washington/800-4th-St-SW-20024/unit-S425/home/12532042,38.880273700000004,-77.0167905
+18,Townhouse,1217 10th St NW Unit A,Washington,DC,20001,1499000,2.0,2.5,2152.0,,1890.0,300.0,http://www.redfin.com/DC/Washington/1217-10th-St-NW-20001/unit-A/home/12295189,38.9064358,-77.0258382
+19,Condo/Co-op,3500 13th St NW #302,Washington,DC,20010,379000,1.0,1.0,621.0,,1928.0,341.0,http://www.redfin.com/DC/Washington/3500-13th-St-NW-20010/unit-302/home/11745077,38.932434,-77.0300677
+20,Condo/Co-op,2920 Georgia NW #303,Washington,DC,20001,599900,2.0,2.0,971.0,,2014.0,497.0,http://www.redfin.com/DC/Washington/2920-Georgia-Ave-NW-20001/unit-303/home/76472547,38.927730100000005,-77.0234539
+21,Single Family Residential,4108 Martin Luther King Jr Ave SW,Washington,DC,20032,540000,3.0,2.0,1040.0,5451.0,1941.0,,http://www.redfin.com/DC/Washington/4108-Martin-Luther-King-Jr-Ave-SW-20032/home/10169450,38.8291212,-77.01215079999999
+22,Condo/Co-op,2020 12th St NW Ph 12,Washington,DC,20009,1149000,2.0,2.0,1365.0,,2005.0,914.0,http://www.redfin.com/DC/Washington/2020-12th-St-NW-20009/unit-12/home/143206848,38.9178211,-77.0284248
+23,Condo/Co-op,1524 Independence Ave SE #102,Washington,DC,20003,500000,2.0,2.0,999.0,,1956.0,413.0,http://www.redfin.com/DC/Washington/1524-Independence-Ave-SE-20003/unit-102/home/21647128,38.8878602,-76.982922
+24,Condo/Co-op,1215 N St NW #4,Washington,DC,20005,475000,1.0,1.0,567.0,,1875.0,315.0,http://www.redfin.com/DC/Washington/1215-N-St-NW-20005/unit-4/home/45397407,38.9074968,-77.0288523
+25,Condo/Co-op,1225 Raum St NE #3,Washington,DC,20002,574900,2.0,2.0,1252.0,,1937.0,230.0,http://www.redfin.com/DC/Washington/1225-Raum-St-NE-20002/unit-3/home/172574008,38.9084136,-76.9850302
+26,Townhouse,547 11th St SE,Washington,DC,20003,980000,4.0,3.0,2180.0,1184.0,1900.0,,http://www.redfin.com/DC/Washington/547-11th-St-SE-20003/home/9907656,38.8814749,-76.99176870000001
+27,Condo/Co-op,420 16th St SE Unit A,Washington,DC,20003,424900,2.0,1.0,720.0,,1947.0,306.0,http://www.redfin.com/DC/Washington/420-16th-St-SE-20003/unit-A/home/28496601,38.883431099999996,-76.98181269999999
+28,Condo/Co-op,560 N St SW Unit N8906,Washington,DC,20024,595000,1.0,1.5,984.0,,1966.0,1263.0,http://www.redfin.com/DC/Washington/560-N-St-SW-20024/unit-N8906/home/143315453,38.8744033,-77.01939279999999
+29,Condo/Co-op,920 I St NW #604,Washington,DC,20001,750000,1.0,1.5,878.0,,2013.0,1048.0,http://www.redfin.com/DC/Washington/920-I-St-NW-20001/unit-604/home/55187025,38.9003514,-77.02497
+30,Condo/Co-op,555 Massachusetts Ave NW #408,Washington,DC,20001,474900,1.0,1.0,658.0,,2005.0,458.0,http://www.redfin.com/DC/Washington/555-Massachusetts-Ave-NW-20001/unit-408/home/10347840,38.901746,-77.01929270000001
+31,Condo/Co-op,1340 W St NW Unit A,Washington,DC,20009,1299000,2.0,2.5,1700.0,,1895.0,250.0,http://www.redfin.com/DC/Washington/1340-W-St-NW-20009/unit-A/home/172275224,38.918984,-77.031297
+32,Condo/Co-op,1333 Euclid St NW #102,Washington,DC,20009,549900,1.0,1.5,832.0,,1954.0,300.0,http://www.redfin.com/DC/Washington/1333-Euclid-St-NW-20009/unit-102/home/55188225,38.924057899999994,-77.0309595
+33,Townhouse,3645 Winfield Ln NW,Washington,DC,20007,1790000,5.0,5.5,3562.0,2168.0,1986.0,185.0,http://www.redfin.com/DC/Washington/3645-Winfield-Ln-NW-20007/home/9932151,38.9120021,-77.0717026
+34,Condo/Co-op,777 7th St NW #508,Washington,DC,20001,469000,1.0,1.0,793.0,,2005.0,674.0,http://www.redfin.com/DC/Washington/777-7th-St-NW-20001/unit-508/home/10193018,38.8995021,-77.0217272
+35,Condo/Co-op,616 E St NW #403,Washington,DC,20004,450000,1.0,1.0,682.0,,2004.0,419.0,http://www.redfin.com/DC/Washington/616-E-St-NW-20004/unit-403/home/10342851,38.895992799999995,-77.0202197
+36,Condo/Co-op,1340 W St NW Unit B,Washington,DC,20009,599000,1.0,1.0,750.0,,1895.0,250.0,http://www.redfin.com/DC/Washington/1340-W-St-NW-20009/unit-B/home/172274692,38.918984,-77.031297
+37,Condo/Co-op,801 Pennsylvania Ave NW #1125,Washington,DC,20004,475000,1.0,1.0,601.0,,1990.0,709.0,http://www.redfin.com/DC/Washington/801-Pennsylvania-Ave-NW-20004/unit-1125/home/9878451,38.894431299999994,-77.02349720000001
+38,Condo/Co-op,1855 Calvert St NW #403,Washington,DC,20009,550000,2.0,1.5,925.0,,1915.0,498.0,http://www.redfin.com/DC/Washington/1855-Calvert-St-NW-20009/unit-403/home/10002175,38.9233771,-77.0448367
+39,Condo/Co-op,1845 Kalorama Rd NW #1,Washington,DC,20009,494900,1.0,1.0,767.0,,1921.0,205.0,http://www.redfin.com/DC/Washington/1845-Kalorama-Rd-NW-20009/unit-1/home/45474396,38.9199407,-77.0434198
+40,Condo/Co-op,809 6th St NW #51,Washington,DC,20001,514900,2.0,2.0,954.0,,2005.0,716.0,http://www.redfin.com/DC/Washington/809-6th-St-NW-20001/unit-51/home/10193494,38.9002698,-77.0195759
+41,Condo/Co-op,3600 Connecticut Ave NW #105,Washington,DC,20008,219900,0.0,1.0,372.0,,1928.0,362.0,http://www.redfin.com/DC/Washington/3600-Connecticut-Ave-NW-20008/unit-105/home/91621996,38.9370668,-77.05972940000001
+42,Single Family Residential,2508 36th Pl SE,Washington,DC,20020,669900,3.0,2.0,2256.0,4750.0,1956.0,,http://www.redfin.com/DC/Washington/2508-36th-Pl-SE-20020/home/10155594,38.859158799999996,-76.9544265
+43,Single Family Residential,140 Wilmington Pl SE,Washington,DC,20032,745000,4.0,2.0,1933.0,11250.0,1951.0,,http://www.redfin.com/DC/Washington/140-Wilmington-Pl-SE-20032/home/10167429,38.8363039,-77.0037937
+44,Townhouse,2829 Connecticut Ave NW #706,Washington,DC,20008,219900,0.0,1.0,535.0,,1963.0,487.0,http://www.redfin.com/DC/Washington/2829-Connecticut-Ave-NW-20008/unit-706/home/9989272,38.927532,-77.05363709999999
+45,Condo/Co-op,922 24th St NW #103,Washington,DC,20037,239000,0.0,1.0,413.0,,1962.0,524.0,http://www.redfin.com/DC/Washington/922-24th-St-NW-20037/unit-103/home/9044129,38.901138200000005,-77.05123370000001
+46,Condo/Co-op,31 Kennedy St NW #201,Washington,DC,20011,335000,2.0,1.0,934.0,,1954.0,343.0,http://www.redfin.com/DC/Washington/31-Kennedy-St-NW-20011/unit-201/home/10345775,38.956892100000005,-77.0109467
+47,Townhouse,725 Ingraham St NW,Washington,DC,20011,674900,3.0,2.0,1488.0,2750.0,1923.0,,http://www.redfin.com/DC/Washington/725-Ingraham-St-NW-20011/home/10052178,38.95441160000001,-77.023364
+48,Condo/Co-op,910 M St NW #808,Washington,DC,20001,549900,1.0,1.0,780.0,,2006.0,534.0,http://www.redfin.com/DC/Washington/910-M-St-NW-20001/unit-808/home/11746867,38.9074601,-77.02775
+49,Townhouse,709 Jefferson St NW,Washington,DC,20011,615000,3.0,2.5,1360.0,1781.0,1915.0,,http://www.redfin.com/DC/Washington/709-Jefferson-St-NW-20011/home/10052225,38.9554826,-77.02267040000001
+50,Condo/Co-op,3900 14th St NW Unit P-108,Washington,DC,20011,15000,99.0,99.0,,,1946.0,34.0,http://www.redfin.com/DC/Washington/3900-14th-St-NW-20011/unit-P-108/home/172671501,38.938952,-77.0337394
+51,Condo/Co-op,400 Massachusetts Ave NW #1118,Washington,DC,20001,599900,2.0,1.0,950.0,,2004.0,582.0,http://www.redfin.com/DC/Washington/400-Massachusetts-Ave-NW-20001/unit-1118/home/10343670,38.9000699,-77.01702759999999
+52,Single Family Residential,3901 17th Pl NE,Washington,DC,20018,675000,3.0,1.5,1650.0,3440.0,1944.0,,http://www.redfin.com/DC/Washington/3901-17th-Pl-NE-20018/home/10100128,38.9372785,-76.9805414
+53,Condo/Co-op,1300 N St NW #104,Washington,DC,20005,454900,1.0,1.0,617.0,,2004.0,435.0,http://www.redfin.com/DC/Washington/1300-N-St-NW-20005/unit-104/home/10341630,38.9069429,-77.0301237
+54,Condo/Co-op,811 4th St NW #1002,Washington,DC,20001,485000,1.0,1.0,670.0,,2007.0,517.0,http://www.redfin.com/DC/Washington/811-4th-St-NW-20001/unit-1002/home/12532015,38.9010047,-77.01591859999999
+55,Single Family Residential,7401 Blair Rd NW,Washington,DC,20012,669900,6.0,2.5,4622.0,29949.0,1925.0,,http://www.redfin.com/DC/Washington/7401-Blair-Rd-NW-20012/home/10054452,38.979381200000006,-77.0221647
+56,Condo/Co-op,3601 Connecticut Ave NW #601,Washington,DC,20008,889000,2.0,2.0,1778.0,,1928.0,1947.0,http://www.redfin.com/DC/Washington/3601-Connecticut-Ave-NW-20008/unit-601/home/143662747,38.9379082,-77.05865
+57,Condo/Co-op,2409 37th St NW #4,Washington,DC,20007,895000,2.0,2.0,1182.0,,2020.0,341.0,http://www.redfin.com/DC/Washington/2409-37th-St-NW-20007/unit-4/home/172671452,38.9214248,-77.07289420000001
+58,Condo/Co-op,2409 37th St NW #2,Washington,DC,20007,735000,2.0,2.0,1177.0,,2020.0,308.0,http://www.redfin.com/DC/Washington/2409-37th-St-NW-20007/unit-2/home/172671450,38.9214248,-77.07289420000001
+59,Condo/Co-op,2501 M St NW #205,Washington,DC,20037,1299000,1.0,2.0,1281.0,,2017.0,730.0,http://www.redfin.com/DC/Washington/2501-M-St-NW-20037/unit-205/home/142909334,38.905507,-77.0537929
+60,Condo/Co-op,1434 Chapin St NW,Washington,DC,20009,749900,2.0,2.0,1000.0,,2020.0,309.0,http://www.redfin.com/DC/Washington/1434-Chapin-St-NW-20009/home/10013249,38.9213072,-77.0337327
+61,Condo/Co-op,1415 21st St NW Ph 2B,Washington,DC,20036,634500,1.0,1.5,889.0,,1910.0,362.0,http://www.redfin.com/DC/Washington/1415-21st-St-NW-20036/unit-2B/home/9056402,38.9092016,-77.04649350000001
+62,Townhouse,3812 13th St NW Unit 1,Washington,DC,20011,848000,3.0,3.5,2100.0,,1919.0,278.0,http://www.redfin.com/DC/Washington/3812-13th-St-NW-20011/unit-1/home/160607078,38.9381844,-77.02998790000001
+63,Townhouse,419 12th St SE,Washington,DC,20003,749000,2.0,2.0,1035.0,829.0,1900.0,,http://www.redfin.com/DC/Washington/419-12th-St-SE-20003/home/9909265,38.883656,-76.99056
+64,Condo/Co-op,2500 Q St NW #420,Washington,DC,20007,428000,1.0,1.0,734.0,,1942.0,758.0,http://www.redfin.com/DC/Washington/2500-Q-St-NW-20007/unit-420/home/9928798,38.9104655,-77.0524133
+65,Single Family Residential,6729 Eastern Ave,Takoma Park,MD,20912,1099999,6.0,3.0,3443.0,6300.0,1925.0,,http://www.redfin.com/MD/Takoma-Park/6729-Eastern-Ave-20912/home/10973257,38.971587,-77.009248
+66,Single Family Residential,5100 Watson St NW,Washington,DC,20016,1897000,4.0,4.5,4570.0,7402.0,1941.0,,http://www.redfin.com/DC/Washington/5100-Watson-St-NW-20016/home/9944153,38.9345992,-77.1048054
+67,Townhouse,1515 Allison St NW,Washington,DC,20011,925000,4.0,3.5,3410.0,3670.0,1920.0,,http://www.redfin.com/DC/Washington/1515-Allison-St-NW-20011/home/10016679,38.945233200000004,-77.0352307
+68,Condo/Co-op,916 G St NW #602,Washington,DC,20001,498750,1.0,1.0,885.0,,2002.0,561.0,http://www.redfin.com/DC/Washington/916-G-St-NW-20001/unit-602/home/10189767,38.89822279999999,-77.0242613
+69,Condo/Co-op,3883 Connecticut Ave NW #310,Washington,DC,20008,750000,2.0,2.0,1120.0,,2002.0,885.0,http://www.redfin.com/DC/Washington/3883-Connecticut-Ave-NW-20008/unit-310/home/10194472,38.94007979999999,-77.06003259999999
+70,Condo/Co-op,1404 Holbrook St NE #2,Washington,DC,20002,425000,2.0,2.0,767.0,,1940.0,189.0,http://www.redfin.com/DC/Washington/1404-Holbrook-St-NE-20002/unit-2/home/172665664,38.9036964,-76.9834103
+71,Single Family Residential,3641 Fulton St NW,Washington,DC,20007,3449000,6.0,5.5,4710.0,6337.0,1926.0,,http://www.redfin.com/DC/Washington/3641-Fulton-St-NW-20007/home/9974429,38.9264136,-77.07292790000001
+72,Condo/Co-op,1301 Delaware Ave SW #508,Washington,DC,20024,174900,0.0,1.0,518.0,,1962.0,673.0,http://www.redfin.com/DC/Washington/1301-Delaware-Ave-SW-20024/unit-508/home/172665663,38.87383270000001,-77.015449
+73,Townhouse,316 Todd Pl NE,Washington,DC,20002,780000,3.0,3.5,1939.0,1656.0,1927.0,,http://www.redfin.com/DC/Washington/316-Todd-Pl-NE-20002/home/10075335,38.916444899999995,-77.00135279999999
+74,Townhouse,30 Wolfe St,Alexandria,VA,22314,1175000,3.0,2.5,1870.0,,1993.0,383.0,http://www.redfin.com/VA/Alexandria/30-Wolfe-St-22314/home/11871380,38.8005567,-77.0406903
+75,Townhouse,4347 Embassy Park Dr NW,Washington,DC,20016,889000,2.0,3.0,1832.0,876.0,1979.0,465.0,http://www.redfin.com/DC/Washington/4347-Embassy-Park-Dr-NW-20016/home/9950403,38.9344535,-77.085327
+76,Condo/Co-op,1300 Massachusetts Ave NW #504,Washington,DC,20005,499000,1.0,1.0,950.0,,1890.0,877.0,http://www.redfin.com/DC/Washington/1300-Massachusetts-Ave-NW-20005/unit-504/home/145860003,38.9046822,-77.0300442
+77,Townhouse,718 North Carolina Ave SE,Washington,DC,20003,2998500,5.0,5.0,4195.0,2023.0,1908.0,,http://www.redfin.com/DC/Washington/718-N-Carolina-Ave-SE-20003/home/9901799,38.8880148,-76.99548100000001
+78,Townhouse,108 17th St SE,Washington,DC,20003,989000,4.0,3.5,1632.0,1542.0,1921.0,,http://www.redfin.com/DC/Washington/108-17th-St-SE-20003/home/9921347,38.8883319,-76.9805189
+79,Townhouse,649 Morris Pl NE,Washington,DC,20002,1249000,4.0,3.5,1582.0,1520.0,1925.0,,http://www.redfin.com/DC/Washington/649-Morris-Pl-NE-20002/home/9898629,38.8979644,-76.9968758
+80,Townhouse,1407 K St SE,Washington,DC,20003,759900,2.0,2.0,1088.0,1339.0,1941.0,,http://www.redfin.com/DC/Washington/1407-K-St-SE-20003/home/9918264,38.87818,-76.985095
+81,Townhouse,819 D St NE #18,Washington,DC,20002,975000,3.0,2.5,1710.0,,2016.0,602.0,http://www.redfin.com/DC/Washington/819-D-St-NE-20002/unit-18/home/113158675,38.8945667,-76.9941346
+82,Townhouse,1312 S Carolina Ave SE,Washington,DC,20003,898500,3.0,2.0,1824.0,927.0,1924.0,,http://www.redfin.com/DC/Washington/1312-S-Carolina-Ave-SE-20003/home/9911760,38.886396999999995,-76.987765
+83,Townhouse,106 G St SW,Washington,DC,20024,749000,3.0,2.0,1344.0,,1961.0,617.0,http://www.redfin.com/DC/Washington/106-G-St-SW-20024/unit-104/home/9885367,38.88115139999999,-77.01271690000002
+84,Townhouse,920 South Carolina Ave SE,Washington,DC,20003,1245000,3.0,1.5,1588.0,1337.0,1900.0,,http://www.redfin.com/DC/Washington/920-S-Carolina-Ave-SE-20003/home/9905199,38.8850249,-76.99290490000001
+85,Townhouse,1432 V St SE,Washington,DC,20020,475000,3.0,2.5,1680.0,3120.0,1905.0,,http://www.redfin.com/DC/Washington/1432-V-St-SE-20020/home/10157978,38.8650007,-76.984344
+86,Townhouse,930 Madison NW Unit A,Washington,DC,20011,715000,4.0,3.5,2050.0,,2020.0,231.0,http://www.redfin.com/DC/Washington/930-Madison-St-NW-20011/unit-A/home/172665034,38.9581481,-77.02752509999999
+87,Condo/Co-op,2500 Virginia Ave NW #717,Washington,DC,20037,1987500,2.0,2.5,1612.0,,1965.0,1558.0,http://www.redfin.com/DC/Washington/2500-Virginia-Ave-NW-20037/unit-717/home/172664967,38.8986969,-77.0542554
+88,Condo/Co-op,2020 12th St NW Ph 08,Washington,DC,20009,1150000,2.0,2.0,1270.0,,2005.0,978.0,http://www.redfin.com/DC/Washington/2020-12th-St-NW-20009/unit-08/home/103675248,38.9178211,-77.0284248
+89,Condo/Co-op,4603-1/2 Macarthur Blvd NW Unit B,Washington,DC,20007,670000,2.0,2.5,1190.0,,1900.0,698.0,http://www.redfin.com/DC/Washington/4603-MacArthur-Blvd-NW-20007/unit-B/home/9940110,38.91144,-77.089244
+90,Condo/Co-op,1300 4th St SE #508,Washington,DC,20003,789000,2.0,2.0,880.0,,2018.0,826.0,http://www.redfin.com/DC/Washington/1300-4th-St-SE-20003/unit-508/home/167607743,38.8744934,-77.000511
+91,Condo/Co-op,700 New Hampshire Ave NW Unit 720/721,Washington,DC,20037,2625000,3.0,3.5,2459.0,,1971.0,4524.0,http://www.redfin.com/DC/Washington/700-New-Hampshire-Ave-NW-20037/unit-720-721/home/19025266,38.898388,-77.05538299999999
+92,Condo/Co-op,2475 Virginia Ave NW #219,Washington,DC,20037,230000,0.0,1.0,525.0,,1956.0,657.0,http://www.redfin.com/DC/Washington/2475-Virginia-Ave-NW-20037/unit-219/home/12525403,38.89905,-77.052542
+93,Condo/Co-op,2216 11th St NW #3,Washington,DC,20001,799500,2.0,2.0,1028.0,,1927.0,237.0,http://www.redfin.com/DC/Washington/2216-11th-St-NW-20001/unit-3/home/113774981,38.919688,-77.02736759999999
+94,Townhouse,623 4th St SW,Washington,DC,20024,899900,3.0,2.5,1912.0,992.0,1967.0,83.0,http://www.redfin.com/DC/Washington/623-4th-St-SW-20024/home/9879968,38.8816454,-77.01784190000001
+95,Condo/Co-op,1539 9th St NW #2,Washington,DC,20001,889500,2.0,2.0,1245.0,,1900.0,276.0,http://www.redfin.com/DC/Washington/1539-9th-St-NW-20001/unit-2/home/55187342,38.9106395,-77.0236527
+96,Condo/Co-op,1816 T St NW Unit C,Washington,DC,20009,390000,1.0,1.0,509.0,,1926.0,242.0,http://www.redfin.com/DC/Washington/1816-T-St-NW-20009/unit-C/home/167058529,38.9155595,-77.0423959
+97,Condo/Co-op,631 D St NW #726,Washington,DC,20004,619000,2.0,1.0,1140.0,,2004.0,690.0,http://www.redfin.com/DC/Washington/631-D-St-NW-20004/unit-726/home/10342625,38.89495215,-77.02158901
+98,Townhouse,1519 K St SE #2,Washington,DC,20003,579000,2.0,2.0,935.0,,2020.0,235.0,http://www.redfin.com/DC/Washington/1519-K-St-SE-20003/unit-2/home/172663624,38.878143,-76.98272800000001
+99,Townhouse,1519 K St SE #4,Washington,DC,20003,725000,2.0,2.0,1330.0,,1949.0,321.0,http://www.redfin.com/DC/Washington/1519-K-St-SE-20003/unit-4/home/172663623,38.878143,-76.98272800000001
+100,Condo/Co-op,1725 New Hampshire Ave NW #601,Washington,DC,20009,449000,1.0,1.0,577.0,,1936.0,394.0,http://www.redfin.com/DC/Washington/1725-New-Hampshire-Ave-NW-20009/unit-601/home/9859713,38.913266899999996,-77.0398204
+101,Townhouse,902 Webster St NW #2,Washington,DC,20011,834999,3.0,2.5,1750.0,,1907.0,315.0,http://www.redfin.com/DC/Washington/902-Webster-St-NW-20011/unit-2/home/172581925,38.943764,-77.02543
+102,Condo/Co-op,1121 24th St NW #107,Washington,DC,20037,519000,2.0,1.0,561.0,,1940.0,424.0,http://www.redfin.com/DC/Washington/1121-24th-St-NW-20037/unit-107/home/21645367,38.9043982,-77.05103790000001
+103,Townhouse,2329 15th Pl SE,Washington,DC,20020,375000,3.0,2.0,1344.0,1644.0,1940.0,,http://www.redfin.com/DC/Washington/2329-15th-Pl-SE-20020/home/10159616,38.857935,-76.985895
+104,Single Family Residential,5603 16th St NW,Washington,DC,20011,1250000,6.0,4.5,4025.0,6250.0,1920.0,,http://www.redfin.com/DC/Washington/5603-16th-St-NW-20011/home/10017913,38.95760429999999,-77.0360493
+105,Condo/Co-op,459 Florida Ave NW #3,Washington,DC,20001,585000,2.0,2.0,710.0,,2020.0,156.0,http://www.redfin.com/DC/Washington/459-Florida-Ave-NW-20001/unit-3/home/172405787,38.914758,-77.01779599999999
+106,Condo/Co-op,459 Florida Ave NW #2,Washington,DC,20001,535000,2.0,2.0,644.0,,2020.0,156.0,http://www.redfin.com/DC/Washington/459-Florida-Ave-NW-20001/unit-2/home/172405466,38.914758,-77.01779599999999
+107,Condo/Co-op,1117 10th St NW #203,Washington,DC,20001,649000,1.0,2.0,883.0,,2006.0,616.0,http://www.redfin.com/DC/Washington/1117-10th-St-NW-20001/unit-203/home/11746595,38.904731,-77.0255876
+108,Townhouse,1524 3rd St NW,Washington,DC,20001,827500,3.0,2.5,1600.0,1205.0,1900.0,,http://www.redfin.com/DC/Washington/1524-3rd-St-NW-20001/home/9884683,38.9104526,-77.0154575
+109,Townhouse,5445 B St SE,Washington,DC,20019,399000,2.0,2.0,1200.0,2268.0,1947.0,,http://www.redfin.com/DC/Washington/5445-B-St-SE-20019/home/10133424,38.885464299999995,-76.92189040000001
+110,Condo/Co-op,2020 12th St NW #118,Washington,DC,20009,548000,1.0,1.5,870.0,,2005.0,639.0,http://www.redfin.com/DC/Washington/2020-12th-St-NW-20009/unit-118/home/10347217,38.917604299999994,-77.028413
+111,Single Family Residential,2812 14th St NE,Washington,DC,20017,599900,3.0,1.5,1701.0,2250.0,1934.0,,http://www.redfin.com/DC/Washington/2812-14th-St-NE-20017/home/10091626,38.9261414,-76.9860652
+112,Condo/Co-op,2020 12th St NW #508,Washington,DC,20009,725000,2.0,2.0,920.0,,2005.0,740.0,http://www.redfin.com/DC/Washington/2020-12th-St-NW-20009/unit-508/home/10347314,38.917604299999994,-77.028413
+113,Single Family Residential,3005 45th St NW,Washington,DC,20016,13500000,8.0,10.5,15100.0,21600.0,1927.0,,http://www.redfin.com/DC/Washington/3005-45th-St-NW-20016/home/9956109,38.929514399999995,-77.08823829999999
+114,Condo/Co-op,1300 Massachusetts Ave NW #303,Washington,DC,20005,389000,1.0,1.0,650.0,,1904.0,767.0,http://www.redfin.com/DC/Washington/1300-Massachusetts-Ave-NW-20005/unit-303/home/55201235,38.9046822,-77.0300442
+115,Single Family Residential,3112 Adams St NE,Washington,DC,20018,495000,2.0,1.0,1100.0,3550.0,1941.0,,http://www.redfin.com/DC/Washington/3112-Adams-St-NE-20018/home/10109451,38.92168,-76.96257320000001
+116,Townhouse,1316 S St NW Unit B,Washington,DC,20009,1149000,4.0,2.0,1379.0,,1915.0,275.0,http://www.redfin.com/DC/Washington/1316-S-St-NW-20009/unit-B/home/9871948,38.91389279999999,-77.03050520000001
+117,Condo/Co-op,1466 Harvard St NW Unit A-1,Washington,DC,20009,800000,2.0,2.5,2104.0,,2009.0,499.0,http://www.redfin.com/DC/Washington/1466-Harvard-St-NW-20009/unit-A1/home/21644534,38.926283000000005,-77.0338784
+118,Condo/Co-op,70 SE N St SE #408,Washington,DC,20003,504900,1.0,1.0,680.0,,2020.0,360.0,http://www.redfin.com/DC/Washington/70-N-St-SE-20024/unit-408/home/172662415,38.874779,-77.00790740000001
+119,Townhouse,1308 Barnaby Ter SE,Washington,DC,20032,200000,2.0,1.0,1232.0,1088.0,1977.0,,http://www.redfin.com/DC/Washington/1308-Barnaby-Ter-SE-20032/home/10163005,38.83354,-76.987859
+120,Condo/Co-op,912 F St NW #1107,Washington,DC,20004,825000,2.0,2.5,1253.0,,2006.0,875.0,http://www.redfin.com/DC/Washington/912-F-St-NW-20004/unit-1107/home/11746973,38.8970146,-77.0247147
+121,Single Family Residential,125 Chesapeake St SW,Washington,DC,20032,249900,2.0,1.5,1428.0,3869.0,1947.0,,http://www.redfin.com/DC/Washington/125-Chesapeake-St-SW-20032/home/10169457,38.828959000000005,-77.00955259999999
+122,Condo/Co-op,1101 Florida Ave NE #1,Washington,DC,20002,514990,2.0,1.5,800.0,,1910.0,200.0,http://www.redfin.com/DC/Washington/1101-Florida-Ave-NE-20002/unit-1/home/167930211,38.903026399999995,-76.99133
+123,Single Family Residential,129 Chesapeake St SW,Washington,DC,20032,269900,2.0,1.5,1440.0,6640.0,1947.0,,http://www.redfin.com/DC/Washington/129-Chesapeake-St-SW-20032/home/10169367,38.828934100000005,-77.00968759999999
+124,Condo/Co-op,619 16th St NE Unit A,Washington,DC,20002,629900,2.0,2.0,1192.0,,1900.0,230.0,http://www.redfin.com/DC/Washington/619-16th-St-NE-20002/unit-A/home/105503743,38.8979125,-76.98184640000001
+125,Condo/Co-op,4201 Cathedral Ave NW Unit 510W,Washington,DC,20016,319900,1.0,1.0,889.0,,1960.0,812.0,http://www.redfin.com/DC/Washington/4201-Cathedral-Ave-NW-20016/unit-510W/home/9952436,38.9311869,-77.083832
+126,Condo/Co-op,3026 Wisconsin Ave NW #105,Washington,DC,20016,285000,1.0,1.0,470.0,,1930.0,335.0,http://www.redfin.com/DC/Washington/3026-Wisconsin-Ave-NW-20016/unit-105/home/10190454,38.930235100000004,-77.0733776
+127,Condo/Co-op,1025 1st St SE #506,Washington,DC,20003,799900,2.0,2.0,1350.0,,2009.0,714.0,http://www.redfin.com/DC/Washington/1025-First-St-SE-20003/unit-506/home/39900356,38.8781944,-77.00604609999999
+128,Townhouse,1120 G St SE,Washington,DC,20003,949900,4.0,3.0,2156.0,1620.0,1900.0,,http://www.redfin.com/DC/Washington/1120-G-St-SE-20003/home/9909337,38.8814496,-76.99074509999998
+129,Condo/Co-op,3825 Davis Pl NW #204,Washington,DC,20007,415000,2.0,1.0,800.0,,1954.0,427.0,http://www.redfin.com/DC/Washington/3825-Davis-Pl-NW-20007/unit-204/home/9935334,38.9237609,-77.07577690000001
+130,Condo/Co-op,1851 Columbia Rd NW #200,Washington,DC,20009,649900,1.0,1.0,800.0,,1902.0,566.0,http://www.redfin.com/DC/Washington/1851-Columbia-Rd-NW-20009/unit-200/home/10002799,38.9211713,-77.04384759999999
+131,Condo/Co-op,4570 Macarthur Blvd NW #207,Washington,DC,20007,285000,1.0,1.0,554.0,,1963.0,506.0,http://www.redfin.com/DC/Washington/4570-MacArthur-Blvd-NW-20007/unit-207/home/9939191,38.909473600000005,-77.08824129999999
+132,Condo/Co-op,4201 Cathedral Ave NW Unit 1218E,Washington,DC,20016,215000,0.0,1.0,555.0,,1960.0,510.0,http://www.redfin.com/DC/Washington/4201-Cathedral-Ave-NW-20016/unit-1218E/home/9952157,38.9311869,-77.083832
+133,Condo/Co-op,222 4th St SE #1,Washington,DC,20003,549900,1.0,1.0,963.0,,1905.0,150.0,http://www.redfin.com/DC/Washington/222-4th-St-SE-20003/unit-1/home/9896013,38.886643799999995,-77.0003938
+134,Condo/Co-op,525 Water St SW #420,Washington,DC,20024,1550000,3.0,3.0,1724.0,,2016.0,1479.0,http://www.redfin.com/DC/Washington/525-Water-St-SW-20024/unit-420/home/113745458,38.875964700000004,-77.0203587
+135,Single Family Residential,2700 4th St NE,Washington,DC,20002,550000,3.0,1.0,2724.0,2968.0,1927.0,,http://www.redfin.com/DC/Washington/2700-4th-St-NE-20002/home/10073917,38.924673999999996,-77.0007791
+136,Townhouse,1444 Belmont St NW,Washington,DC,20009,1595000,6.0,3.0,2636.0,2400.0,1910.0,,http://www.redfin.com/DC/Washington/1444-Belmont-St-NW-20009/home/10013127,38.920307799999996,-77.03349659999999
+137,Condo/Co-op,555 Massachusetts Ave NW #605,Washington,DC,20001,460000,1.0,1.0,658.0,,2005.0,388.0,http://www.redfin.com/DC/Washington/555-Massachusetts-Ave-NW-20001/unit-605/home/10347901,38.901746,-77.01929270000001
+138,Condo/Co-op,4004 E St SE #307,Washington,DC,20019,10000,2.0,1.0,833.0,,1958.0,374.0,http://www.redfin.com/DC/Washington/4004-E-St-SE-20019/unit-307/home/10140760,38.8829671,-76.9466108
+139,Condo/Co-op,514 Ridge Rd SE #312,Washington,DC,20019,10000,2.0,1.0,851.0,,1958.0,374.0,http://www.redfin.com/DC/Washington/514-Ridge-Rd-SE-20019/unit-312/home/10140558,38.88261,-76.9463759
+140,Townhouse,3615 10th St NW Unit A,Washington,DC,20010,749000,2.0,2.5,1500.0,,1912.0,291.0,http://www.redfin.com/DC/Washington/3615-10th-St-NW-20010/unit-A/home/144147982,38.934979799999994,-77.0269965
+141,Condo/Co-op,514 Ridge Rd SE #311,Washington,DC,20019,10000,2.0,1.0,808.0,,1958.0,374.0,http://www.redfin.com/DC/Washington/514-Ridge-Rd-SE-20019/unit-311/home/10140557,38.88261,-76.9463759
+142,Condo/Co-op,4002 E St SE #105,Washington,DC,20019,10000,2.0,1.0,997.0,,1958.0,374.0,http://www.redfin.com/DC/Washington/4002-E-St-SE-20019/unit-105/home/10140730,38.8829671,-76.9466404
+143,Condo/Co-op,723 Longfellow St NW #2,Washington,DC,20011,224900,1.0,1.0,553.0,,1966.0,225.0,http://www.redfin.com/DC/Washington/723-Longfellow-St-NW-20011/unit-2/home/11745332,38.95775020000001,-77.0231548
+144,Townhouse,3905 Hillandale Ct NW,Washington,DC,20007,1449000,3.0,4.0,2576.0,1494.0,1996.0,550.0,http://www.redfin.com/DC/Washington/3905-Hillandale-Ct-NW-20007/home/9937458,38.9150691,-77.07616920000001
+145,Townhouse,5312 43rd St NW,Washington,DC,20015,1397000,4.0,3.0,2548.0,1166.0,1998.0,321.0,http://www.redfin.com/DC/Washington/5312-43rd-St-NW-20015/home/9957207,38.9596515,-77.0838994
+146,Condo/Co-op,1111 24th St NW Unit 2A,Washington,DC,20037,2625000,3.0,3.0,2507.0,,2018.0,3016.0,http://www.redfin.com/DC/Washington/1111-24th-St-NW-20037/unit-2A/home/172658922,38.9041312,-77.0511178
+147,Condo/Co-op,1111 24th St NW Unit 6A,Washington,DC,20037,3090000,3.0,3.0,2507.0,,2018.0,3016.0,http://www.redfin.com/DC/Washington/1111-24th-St-NW-20037/unit-6A/home/172658827,38.9041312,-77.0511178
+148,Condo/Co-op,2632 Wade Rd SE #1,Washington,DC,20020,62000,2.0,1.0,753.0,,1963.0,324.0,http://www.redfin.com/DC/Washington/2632-Wade-Rd-SE-20020/unit-1/home/10160868,38.85906,-76.9968432
+149,Condo/Co-op,1654 West Virginia Ave NE #3,Washington,DC,20002,624950,2.0,2.5,1552.0,,1931.0,211.0,http://www.redfin.com/DC/Washington/1654-W-Virginia-Ave-NE-20002/unit-3/home/172658598,38.9093669,-76.98741109999999
+150,Condo/Co-op,410 O St SW #404,Washington,DC,20024,500000,2.0,2.0,1263.0,,1965.0,1245.0,http://www.redfin.com/DC/Washington/410-O-St-SW-20024/unit-404/home/9882432,38.8732828,-77.0176693
+151,Condo/Co-op,475 K St NW #811,Washington,DC,20001,559000,1.0,1.0,743.0,,2008.0,486.0,http://www.redfin.com/DC/Washington/475-K-St-NW-20001/unit-811/home/21645014,38.9026571,-77.0182465
+152,Condo/Co-op,3511 13th St NW #505,Washington,DC,20010,550000,2.0,1.0,800.0,,1927.0,391.0,http://www.redfin.com/DC/Washington/3511-13th-St-NW-20010/unit-505/home/45505408,38.9328871,-77.029398
+153,Townhouse,1470 Chapin St NW #3,Washington,DC,20009,765000,2.0,2.0,911.0,,2011.0,271.0,http://www.redfin.com/DC/Washington/1470-Chapin-St-NW-20009/unit-3/home/40501639,38.921225799999995,-77.0343314
+154,Vacant Land,Independence Ave SE,Washington,DC,20003,199000,,,,1909.0,,,http://www.redfin.com/DC/WASHINGTON/INDEPENDENCE-AVE-SE-20003/home/12541232,38.887858,-77.00018
+155,Townhouse,1302 W St NW,Washington,DC,20009,1445000,4.0,3.5,2082.0,990.0,1895.0,,http://www.redfin.com/DC/Washington/1302-W-St-NW-20009/home/9871341,38.9190429,-77.0300634
+156,Condo/Co-op,1725 Euclid St NW #3,Washington,DC,20009,570000,2.0,2.0,755.0,,1906.0,228.0,http://www.redfin.com/DC/Washington/1725-Euclid-St-NW-20009/unit-3/home/10004732,38.9233548,-77.0398942
+157,Condo/Co-op,675 E St NW #350,Washington,DC,20004,574900,1.0,1.0,872.0,,2003.0,638.0,http://www.redfin.com/DC/Washington/675-E-St-NW-20004/unit-350/home/10189859,38.8963646,-77.0215497
+158,Condo/Co-op,912 F St NW #907,Washington,DC,20004,799900,2.0,2.5,1253.0,,2006.0,875.0,http://www.redfin.com/DC/Washington/912-F-St-NW-20004/unit-907/home/11746964,38.8970146,-77.0247147
+159,Single Family Residential,2402 17th St SE,Washington,DC,20020,685000,4.0,3.0,2646.0,6300.0,2007.0,,http://www.redfin.com/DC/Washington/2402-17th-St-SE-20020/home/10160287,38.857121899999996,-76.9804401
+160,Townhouse,1210 Potomac Ave SE,Washington,DC,20003,799900,3.0,2.5,1455.0,552.0,1920.0,,http://www.redfin.com/DC/Washington/1210-Potomac-Ave-SE-20003/home/9912144,38.878834000000005,-76.989901
+161,Condo/Co-op,1401 17th St NW #812,Washington,DC,20036,835000,2.0,2.0,1012.0,,1987.0,882.0,http://www.redfin.com/DC/Washington/1401-17th-St-NW-20036/unit-812/home/9866855,38.9086864,-77.0383138
+162,Townhouse,632 Q St NW,Washington,DC,20001,949000,3.0,3.0,1928.0,1080.0,1900.0,,http://www.redfin.com/DC/Washington/632-Q-St-NW-20001/home/9879350,38.91093789999999,-77.02126690000001
+163,Townhouse,321 G St NE,Washington,DC,20002,1199900,3.0,2.5,1560.0,1595.0,1890.0,,http://www.redfin.com/DC/Washington/321-G-St-NE-20002/home/9892710,38.898715700000004,-77.0011538
+164,Townhouse,30 P St NE,Washington,DC,20002,1075000,3.0,3.0,,881.0,1905.0,,http://www.redfin.com/DC/Washington/30-P-St-NE-20002/home/9889722,38.9097958,-77.00767420000001
+165,Condo/Co-op,2939 Van Ness St NW #540,Washington,DC,20008,285000,1.0,1.0,575.0,,1964.0,618.0,http://www.redfin.com/DC/Washington/2939-Van-Ness-St-NW-20008/unit-540/home/9983144,38.942648299999995,-77.0581537
+166,Single Family Residential,5543 29th St NW,Washington,DC,20015,899000,4.0,2.0,2220.0,5516.0,1937.0,,http://www.redfin.com/DC/Washington/5543-29th-St-NW-20015/home/9993339,38.964326799999995,-77.0584814
+167,Condo/Co-op,701 Pennsylvania Ave NW #1219,Washington,DC,20004,1750000,2.0,2.0,1184.0,,1991.0,2285.0,http://www.redfin.com/DC/Washington/701-Pennsylvania-Ave-NW-20004/unit-1219/home/9878745,38.89443320000001,-77.0223838
+168,Condo/Co-op,1500 Pennsylvania Ave SE #301,Washington,DC,20003,459999,2.0,1.0,687.0,,2016.0,383.0,http://www.redfin.com/DC/Washington/1500-Pennsylvania-Ave-SE-20003/unit-301/home/113380634,38.879861600000005,-76.9833186
+169,Condo/Co-op,4000 Cathedral Ave NW Unit 645-B,Washington,DC,20016,225000,0.0,1.0,625.0,,1931.0,650.0,http://www.redfin.com/DC/Washington/4000-Cathedral-Ave-NW-20016/unit-645-B/home/146254210,38.9289777,-77.0791557
+170,Condo/Co-op,514 4th St SE #301,Washington,DC,20003,1795000,2.0,2.0,1971.0,,2017.0,752.0,http://www.redfin.com/DC/Washington/514-4th-St-SE-20003/unit-301/home/144724762,38.882158700000005,-77.0002715
+171,Condo/Co-op,1821 I St NE #13,Washington,DC,20002,524900,2.0,2.0,,,2019.0,322.0,http://www.redfin.com/DC/Washington/1821-I-St-NE-20002/unit-13/home/171495403,38.9015048,-76.976795
+172,Condo/Co-op,920 I St NW #803,Washington,DC,20001,749000,1.0,1.0,787.0,,2013.0,1074.0,http://www.redfin.com/DC/Washington/920-I-St-NW-20001/unit-803/home/55187064,38.9003514,-77.02497
+173,Condo/Co-op,2000 16th St NW #2,Washington,DC,20009,359000,1.0,1.0,504.0,,1900.0,362.0,http://www.redfin.com/DC/Washington/2000-16th-St-NW-20009/unit-2/home/9864856,38.9172552,-77.03660622
+174,Condo/Co-op,3211 Wisconsin Ave NW #301,Washington,DC,20016,859000,2.0,2.0,1050.0,,1910.0,783.0,http://www.redfin.com/DC/Washington/3211-Wisconsin-Ave-NW-20016/unit-301/home/113372923,38.932942100000005,-77.0721185
+175,Condo/Co-op,1321 E SE #14,Washington,DC,20003,895000,2.0,2.5,1215.0,,2020.0,271.0,http://www.redfin.com/DC/Washington/1321-E-Capitol-St-SE-20003/unit-14/home/172651565,38.889444,-76.987483
+176,Single Family Residential,3550 Springland Ln NW,Washington,DC,20008,2495000,5.0,4.5,3004.0,18206.0,1937.0,,http://www.redfin.com/DC/Washington/3550-Springland-Ln-NW-20008/home/9975348,38.9395345,-77.0704547
+177,Condo/Co-op,1419 R St NW #10,Washington,DC,20009,698000,2.0,2.0,1300.0,,1910.0,974.0,http://www.redfin.com/DC/Washington/1419-R-St-NW-20009/unit-10/home/12418147,38.9128502,-77.0328311
+178,Condo/Co-op,1150 K St NW #810,Washington,DC,20005,625000,2.0,2.0,1000.0,,2005.0,680.0,http://www.redfin.com/DC/Washington/1150-K-St-NW-20005/unit-810/home/10347584,38.9023828,-77.02756059999999
+179,Condo/Co-op,225 Strand St #505,Alexandria,VA,22314,3595000,3.0,3.0,2675.0,,2020.0,1078.0,http://www.redfin.com/VA/Alexandria/225-Strand-St-22314/unit-505/home/172651117,38.8030502,-77.0399631
+180,Townhouse,2028 E St NE,Washington,DC,20002,529000,2.0,1.5,900.0,856.0,1939.0,,http://www.redfin.com/DC/Washington/2028-E-St-NE-20002/home/10113351,38.89625,-76.975311
+181,Townhouse,1714 10th St NW,Washington,DC,20001,2095000,4.0,3.5,2500.0,1753.0,1870.0,,http://www.redfin.com/DC/Washington/1714-10th-St-NW-20001/home/9876490,38.9131709,-77.02623179999999
+182,Townhouse,2016 Mississippi Ave SE,Washington,DC,20020,400000,3.0,2.5,1708.0,2581.0,1999.0,59.0,http://www.redfin.com/DC/Washington/2016-Mississippi-Ave-SE-20020/home/10181769,38.8440973,-76.9742748
+183,Condo/Co-op,1210 R St NW #313,Washington,DC,20009,997500,2.0,2.5,1425.0,,2006.0,625.0,http://www.redfin.com/DC/Washington/1210-R-St-NW-20009/unit-313/home/12533731,38.9123604,-77.0286708
+184,Condo/Co-op,1668 Trinidad Ave NE #3,Washington,DC,20002,299900,2.0,1.0,,,1935.0,250.0,http://www.redfin.com/DC/Washington/1668-Trinidad-Ave-NE-20002/unit-3/home/78401453,38.9077979,-76.98341090000001
+185,Condo/Co-op,4471 Macarthur Blvd NW #303,Washington,DC,20007,282400,1.0,1.0,536.0,,1937.0,353.0,http://www.redfin.com/DC/Washington/4471-MacArthur-Blvd-NW-20007/unit-303/home/9939377,38.9087107,-77.08624909999999
+186,Condo/Co-op,1108 NW 16th St NW Ph 701,Washington,DC,20036,2395000,2.0,2.5,2093.0,,2018.0,1819.0,http://www.redfin.com/DC/Washington/1108-16th-St-NW-20036/unit-701/home/143662787,38.9040697,-77.03690390000001
+187,Condo/Co-op,1324 W St NW #4,Washington,DC,20009,850000,2.0,2.0,1081.0,,1895.0,185.0,http://www.redfin.com/DC/Washington/1324-W-St-NW-20009/unit-4/home/103502017,38.9190074,-77.03072540000001
+188,Condo/Co-op,904 D St SE #8,Washington,DC,20003,419000,1.0,1.0,600.0,,1891.0,235.0,http://www.redfin.com/DC/Washington/904-D-St-SE-20003/unit-8/home/9905301,38.8842409,-76.99372209999999
+189,Single Family Residential,700 Maury Ave,Oxon Hill,MD,20745,310000,4.0,3.0,1683.0,10853.0,1955.0,,http://www.redfin.com/MD/Oxon-Hill/700-Maury-Ave-20745/home/10762985,38.823311600000004,-76.99794449999999
+190,Townhouse,625 Allison St NW,Washington,DC,20011,799000,3.0,1.5,1320.0,1700.0,1923.0,,http://www.redfin.com/DC/Washington/625-Allison-St-NW-20011/home/10058196,38.945407700000004,-77.0211259
+191,Condo/Co-op,235 Emerson St NW #205,Washington,DC,20011,258000,2.0,1.0,900.0,,1929.0,725.0,http://www.redfin.com/DC/Washington/235-Emerson-St-NW-20011/unit-205/home/170065581,38.950273700000004,-77.0152888
+192,Townhouse,1331 Randolph St NW,Washington,DC,20011,849999,6.0,3.5,2012.0,3105.0,1919.0,,http://www.redfin.com/DC/Washington/1331-Randolph-St-NW-20011/home/10025761,38.938997,-77.0313089
+193,Townhouse,1710 Montello Ave NE,Washington,DC,20002,799000,4.0,3.5,1800.0,1523.0,1927.0,,http://www.redfin.com/DC/Washington/1710-Montello-Ave-NE-20002/home/10094665,38.9093564,-76.98582900000001
+194,Townhouse,4212 14th St NW,Washington,DC,20011,849900,6.0,3.0,2177.0,1400.0,1927.0,,http://www.redfin.com/DC/Washington/4212-14th-St-NW-20011/home/10015949,38.94235379999999,-77.0330018
+195,Condo/Co-op,2510 Virginia Ave NW Unit 212-N,Washington,DC,20037,750000,2.0,2.0,1325.0,,1968.0,1458.0,http://www.redfin.com/DC/Washington/2510-Virginia-Ave-NW-20037/unit-212-N/home/39602982,38.8987817,-77.0541995
+196,Condo/Co-op,1244 Raum St NE #4,Washington,DC,20002,625000,3.0,2.5,1260.0,,1936.0,225.0,http://www.redfin.com/DC/Washington/1244-Raum-St-NE-20002/unit-4/home/144920667,38.908436,-76.98407399999999
+197,Condo/Co-op,4130 4th St SE #3,Washington,DC,20032,160000,2.0,1.0,722.0,,1952.0,235.0,http://www.redfin.com/DC/Washington/4130-4th-St-SE-20032/unit-3/home/12529583,38.8295588,-77.00023979999999
+198,Condo/Co-op,62 Q St NW #1,Washington,DC,20001,665000,2.0,2.0,1154.0,,1900.0,188.0,http://www.redfin.com/DC/Washington/62-Q-St-NW-20001/unit-1/home/11747040,38.9108636,-77.011391
+199,Townhouse,836 Varnum St NW #302,Washington,DC,20011,620000,2.0,2.0,1020.0,,2020.0,164.0,http://www.redfin.com/DC/Washington/836-Varnum-St-NW-20011/unit-302/home/172646433,38.942679,-77.024635
+200,Townhouse,1110 Staples St NE #1,Washington,DC,20002,649000,2.0,2.0,1214.0,,2016.0,237.0,http://www.redfin.com/DC/Washington/1110-Staples-St-NE-20002/unit-1/home/109287287,38.9010999,-76.9859988
+201,Townhouse,278 M St SW #278,Washington,DC,20024,525000,2.0,1.0,1154.0,,1967.0,1143.0,http://www.redfin.com/DC/Washington/278-M-St-SW-20024/unit-278/home/9886840,38.8763228,-77.01592240000001
+202,Townhouse,1235 Potomac St NW,Washington,DC,20007,1699000,4.0,3.5,1928.0,1088.0,1880.0,,http://www.redfin.com/DC/Washington/1235-Potomac-St-NW-20007/home/9925886,38.9063394,-77.06504720000001
+203,Condo/Co-op,1390 Kenyon St NW #406,Washington,DC,20010,599000,2.0,2.0,991.0,,2007.0,758.0,http://www.redfin.com/DC/Washington/1390-Kenyon-St-NW-20010/unit-406/home/12530781,38.9297944,-77.03248149999999
+204,Condo/Co-op,1615 Q St NW #307,Washington,DC,20009,479000,2.0,1.0,746.0,,1895.0,648.0,http://www.redfin.com/DC/Washington/1615-Q-St-NW-20009/unit-307/home/9866072,38.9112671,-77.03698
+205,Condo/Co-op,4301 Military Rd NW #101,Washington,DC,20015,950000,2.0,2.0,1250.0,,2007.0,1050.0,http://www.redfin.com/DC/Washington/4301-Military-Rd-NW-20015/unit-101/home/12531065,38.961440100000004,-77.0841538
+206,Townhouse,1734 17th St NW,Washington,DC,20009,1865000,5.0,3.5,2955.0,1075.0,1908.0,,http://www.redfin.com/DC/Washington/1734-17th-St-NW-20009/unit-100/home/9859611,38.913783,-77.0387089
+207,Condo/Co-op,1718 P St NW #207,Washington,DC,20036,446000,1.0,1.0,765.0,,1968.0,763.0,http://www.redfin.com/DC/Washington/1718-P-St-NW-20036/unit-207/home/9862504,38.9095028,-77.03906409999999
+208,Townhouse,407 Randolph St NW #1,Washington,DC,20011,775000,3.0,2.5,1798.0,,1919.0,292.0,http://www.redfin.com/DC/Washington/407-Randolph-St-NW-20011/unit-1/home/106108746,38.9391938,-77.01759670000001
+209,Condo/Co-op,1011 M St NW #705,Washington,DC,20001,499900,1.0,1.0,520.0,,2017.0,367.0,http://www.redfin.com/DC/Washington/1011-M-St-NW-20001/unit-705/home/113723745,38.905777799999996,-77.02607640000001
+210,Condo/Co-op,1441 Rhode Island Ave NW #206,Washington,DC,20005,550000,1.0,1.0,680.0,,2003.0,446.0,http://www.redfin.com/DC/Washington/1441-Rhode-Island-Ave-NW-20005/unit-206/home/21647953,38.9086412,-77.0337767
+211,Single Family Residential,3803 52nd St NW,Washington,DC,20016,2795000,7.0,4.5,6000.0,13849.0,1997.0,,http://www.redfin.com/DC/Washington/3803-52nd-St-NW-20016/home/9944801,38.9389785,-77.1025352
+212,Condo/Co-op,715 6th St NW #802,Washington,DC,20001,850000,3.0,2.0,1380.0,,2005.0,766.0,http://www.redfin.com/DC/Washington/715-6th-St-NW-20001/unit-802/home/10193608,38.898816700000005,-77.0195917
+213,Townhouse,945 O St NW,Washington,DC,20001,1850000,4.0,4.5,3540.0,2000.0,1872.0,,http://www.redfin.com/DC/Washington/945-O-St-NW-20001/home/9877664,38.908789399999996,-77.02580440000001
+214,Townhouse,1119 Clifton St NW,Washington,DC,20009,1239000,4.0,3.5,2703.0,3080.0,1910.0,,http://www.redfin.com/DC/Washington/1119-Clifton-St-NW-20009/home/10030993,38.9226118,-77.0278891
+215,Condo/Co-op,810 O St NW #202,Washington,DC,20001,1499900,2.0,2.5,1850.0,,2019.0,1404.0,http://www.redfin.com/DC/Washington/810-O-St-NW-20001/unit-202/home/164728305,38.9083318,-77.02361140000001
+216,Condo/Co-op,810 O St NW #207,Washington,DC,20001,749900,2.0,2.0,1009.0,,2019.0,763.0,http://www.redfin.com/DC/Washington/810-O-St-NW-20001/unit-207/home/172644273,38.9083318,-77.02361140000001
+217,Townhouse,1417 Maryland Ave NE,Washington,DC,20002,678810,2.0,1.0,990.0,840.0,1916.0,,http://www.redfin.com/DC/Washington/1417-Maryland-Ave-NE-20002/home/10177664,38.899254,-76.98474
+218,Townhouse,1325 Ingraham St NW,Washington,DC,20011,750000,4.0,2.0,2542.0,5017.0,1927.0,,http://www.redfin.com/DC/Washington/1325-Ingraham-St-NW-20011/home/10024636,38.9543152,-77.03069640000001
+219,Townhouse,2518 Sayles Pl SE #6,Washington,DC,20020,389900,2.0,2.0,1153.0,,2013.0,176.0,http://www.redfin.com/DC/Washington/2518-Sayles-Pl-SE-20020/unit-6/home/55335185,38.8597841,-76.992476
+220,Condo/Co-op,810 O St NW #203,Washington,DC,20001,674900,2.0,2.0,982.0,,2019.0,745.0,http://www.redfin.com/DC/Washington/810-O-St-NW-20001/unit-203/home/172643944,38.9083318,-77.02361140000001
+221,Townhouse,3518 10th St NW Unit B,Washington,DC,20010,1025000,3.0,3.5,1910.0,,1909.0,321.0,http://www.redfin.com/DC/Washington/3518-10th-St-NW-20010/unit-B/home/10345284,38.9335623,-77.0276578
+222,Condo/Co-op,2633 Adams Mill Rd NW #104,Washington,DC,20009,399000,1.0,1.0,770.0,,1910.0,327.0,http://www.redfin.com/DC/Washington/2633-Adams-Mill-Rd-NW-20009/unit-104/home/21647675,38.924090500000005,-77.04425400000001
+223,Townhouse,4455 Q St NW,Washington,DC,20007,895000,4.0,3.0,2264.0,1742.0,1927.0,,http://www.redfin.com/DC/Washington/4455-Q-St-NW-20007/home/9938181,38.910897999999996,-77.0836858
+224,Single Family Residential,2700 Foxhall Rd NW,Washington,DC,20007,4800000,5.0,7.0,7000.0,17116.0,1952.0,,http://www.redfin.com/DC/Washington/2700-Foxhall-Rd-NW-20007/home/10348891,38.925300299999996,-77.0901941
+225,Townhouse,1817 Ontario Pl NW,Washington,DC,20009,1150000,4.0,2.5,2251.0,1268.0,1910.0,,http://www.redfin.com/DC/Washington/1817-Ontario-Pl-NW-20009/home/10006830,38.9252929,-77.0430015
+226,Townhouse,708 Fords Landing Way,Alexandria,VA,22314,1995000,4.0,4.0,3192.0,1589.0,1998.0,287.0,http://www.redfin.com/VA/Alexandria/708-Fords-Landing-Way-22314/home/11873104,38.7967365,-77.0404011
+227,Condo/Co-op,3401-3420 38th St NW #702,Washington,DC,20016,330000,1.0,1.0,656.0,,1989.0,323.0,http://www.redfin.com/DC/Washington/3401-38th-St-NW-20016/unit-702/home/9966741,38.9354604,-77.07415999999999
+228,Condo/Co-op,2125 14th St NW #615,Washington,DC,20009,499000,1.0,1.0,779.0,,2007.0,492.0,http://www.redfin.com/DC/Washington/2125-14th-St-NW-20009/unit-615/home/12533857,38.9183744,-77.0317637
+229,Condo/Co-op,1812 N Capitol NW #102,Washington,DC,20002,649990,3.0,2.0,1356.0,,1895.0,318.0,http://www.redfin.com/DC/Washington/1812-N-Capitol-St-NW-20002/unit-102/home/105525799,38.9145834,-77.00945959999999
+230,Townhouse,1934 2nd St NE,Washington,DC,20002,875000,4.0,3.5,1800.0,1044.0,1913.0,,http://www.redfin.com/DC/Washington/1934-2nd-St-NE-20002/home/10073426,38.9166939,-77.0037374
+231,Single Family Residential,3812 Livingston St NW,Washington,DC,20015,1550000,4.0,4.5,3102.0,7500.0,1922.0,,http://www.redfin.com/DC/Washington/3812-Livingston-St-NW-20015/home/9970327,38.962793700000006,-77.0758058
+232,Single Family Residential,3001 Foxhall Rd NW,Washington,DC,20016,2495000,5.0,3.5,4210.0,11550.0,1935.0,,http://www.redfin.com/DC/Washington/3001-Foxhall-Rd-NW-20016/home/9956158,38.9291018,-77.0904638
+233,Townhouse,167 U St NE,Washington,DC,20002,849000,3.0,3.5,1642.0,1314.0,1913.0,,http://www.redfin.com/DC/Washington/167-U-St-NE-20002/home/10073415,38.916799700000006,-77.0041424
+234,Condo/Co-op,215 I St NE #104,Washington,DC,20002,1100000,2.0,2.5,1800.0,,1874.0,924.0,http://www.redfin.com/DC/Washington/215-I-St-NE-20002/unit-104/home/21645190,38.9011828,-77.00334140000001
+235,Townhouse,1824 Bruce Pl SE,Washington,DC,20020,449900,4.0,3.0,1760.0,1790.0,2006.0,47.0,http://www.redfin.com/DC/Washington/1824-Bruce-Pl-SE-20020/home/11745606,38.850726,-76.97881600000001
+236,Condo/Co-op,1140 23rd St NW #404,Washington,DC,20037,674900,2.0,2.0,991.0,,1981.0,914.0,http://www.redfin.com/DC/Washington/1140-23rd-St-NW-20037/unit-404/home/9048128,38.9043473,-77.0502824
+237,Townhouse,1373 NE Downing St NE,Washington,DC,20018,552000,3.0,2.5,1056.0,1363.0,1942.0,,http://www.redfin.com/DC/Washington/1373-Downing-St-NE-20018/home/10094030,38.92104129999999,-76.9846814
+238,Condo/Co-op,1661 Park Rd NW #303,Washington,DC,20010,329000,1.0,1.0,532.0,,1925.0,363.0,http://www.redfin.com/DC/Washington/1661-Park-Rd-NW-20010/unit-303/home/10009558,38.9323441,-77.0378298
+239,Condo/Co-op,2500 Q St NW #136,Washington,DC,20007,369000,1.0,1.0,1014.0,,1942.0,903.0,http://www.redfin.com/DC/Washington/2500-Q-St-NW-20007/unit-136/home/9929045,38.9104655,-77.0524133
+240,Condo/Co-op,1643 6th St NW #2,Washington,DC,20001,600000,2.0,1.0,818.0,,1938.0,310.0,http://www.redfin.com/DC/Washington/1643-6th-St-NW-20001/unit-2/home/11746983,38.912240600000004,-77.01956609999999
+241,Townhouse,530 25th Pl NE,Washington,DC,20002,758900,2.0,2.0,1594.0,1464.0,1929.0,,http://www.redfin.com/DC/Washington/530-25th-Pl-NE-20002/home/10112873,38.8969206,-76.97178620000001
+242,Condo/Co-op,1111 Orren St NE #507,Washington,DC,20002,335000,1.0,1.0,470.0,,2016.0,228.0,http://www.redfin.com/DC/Washington/1111-Orren-St-NE-20002/unit-507/home/113723697,38.9014028,-76.9862625
+243,Condo/Co-op,623 Newton Pl NW #1,Washington,DC,20010,699000,3.0,2.5,1534.0,,2020.0,246.0,http://www.redfin.com/DC/Washington/623-Newton-Pl-NW-20010/unit-1/home/172423133,38.9340671,-77.0230416
+244,Condo/Co-op,1177 22nd St NW Unit 6C,Washington,DC,20037,2095000,2.0,2.0,1829.0,,2008.0,2371.0,http://www.redfin.com/DC/Washington/1177-22nd-St-NW-20037/unit-6C/home/21645510,38.9048618,-77.04829509999999
+245,Single Family Residential,3521 17th St NE,Washington,DC,20018,899000,4.0,3.5,1760.0,2880.0,1923.0,,http://www.redfin.com/DC/Washington/3521-17th-St-NE-20018/home/10099747,38.9338691,-76.9809802
+246,Townhouse,3110 Cityscape Dr NE,Washington,DC,20018,1225000,4.0,5.5,3192.0,2946.0,2016.0,163.0,http://www.redfin.com/DC/Washington/3110-Cityscape-Dr-NE-20018/home/113744076,38.9269066,-76.9598179
+247,Townhouse,1686 Oak St NW #21,Washington,DC,20010,750000,2.0,3.0,2011.0,,1982.0,559.0,http://www.redfin.com/DC/Washington/1686-Oak-St-NW-20010/unit-21/home/10010919,38.9357328,-77.037881
+248,Townhouse,1665 32nd St NW,Washington,DC,20007,1195000,3.0,2.5,1755.0,1104.0,1900.0,,http://www.redfin.com/DC/Washington/1665-32nd-St-NW-20007/home/9930823,38.912359499999994,-77.0638287
+249,Condo/Co-op,1300 4th St SE #802,Washington,DC,20003,465000,0.0,1.0,575.0,,2018.0,515.0,http://www.redfin.com/DC/Washington/1300-4th-St-SE-20003/unit-802/home/166057819,38.8744934,-77.000511
+250,Single Family Residential,2555 Pennsylvania Ave NW #611,Washington,DC,20037,949000,2.0,1.5,1100.0,,1978.0,900.0,http://www.redfin.com/DC/Washington/2555-Pennsylvania-Ave-NW-20037/unit-611/home/9040027,38.9041102,-77.05424790000001
+251,Townhouse,2857 Chancellors Way NE,Washington,DC,20017,834900,4.0,3.5,1934.0,805.0,2013.0,150.0,http://www.redfin.com/DC/Washington/2857-Chancellor-s-Way-NE-20017/home/55186059,38.927028799999995,-76.9991571
+252,Condo/Co-op,2339 40th Pl NW #001,Washington,DC,20007,275000,1.0,1.0,517.0,,1942.0,285.0,http://www.redfin.com/DC/Washington/2339-40th-Pl-NW-20007/unit-1/home/40528648,38.9220703,-77.0795101
+253,Condo/Co-op,3709 Alabama Ave SE #301,Washington,DC,20020,175000,2.0,1.0,619.0,,1940.0,301.0,http://www.redfin.com/DC/Washington/3709-Alabama-Ave-SE-20020/unit-301/home/10152856,38.864652500000005,-76.9534927
+254,Single Family Residential,3327 5th St SE,Washington,DC,20032,649900,4.0,4.0,3213.0,5318.0,2020.0,,http://www.redfin.com/DC/Washington/3327-5th-St-SE-20032/home/10165366,38.840868,-76.9997443
+255,Condo/Co-op,4101 Cathedral Ave NW Unit 1202/1203,Washington,DC,20016,930000,3.0,2.5,2200.0,,1962.0,2685.0,http://www.redfin.com/DC/Washington/4101-Cathedral-Ave-NW-20016/unit-1202/home/143290414,38.9305425,-77.0795154
+256,Condo/Co-op,437 M St NW #2,Washington,DC,20001,449900,1.0,1.0,619.0,,1900.0,260.0,http://www.redfin.com/DC/Washington/437-M-St-NW-20001/unit-2/home/39956029,38.9059741,-77.01748309999999
+257,Townhouse,1611 Rosedale St NE,Washington,DC,20002,535000,2.0,1.0,754.0,938.0,1916.0,,http://www.redfin.com/DC/Washington/1611-Rosedale-St-NE-20002/home/10114101,38.897385799999995,-76.98180179999999
+258,Townhouse,26 Quincy Pl NE,Washington,DC,20002,895000,3.0,2.0,1992.0,1265.0,1900.0,,http://www.redfin.com/DC/Washington/26-Quincy-Pl-NE-20002/home/10072905,38.9120429,-77.0078542
+259,Condo/Co-op,1901 3rd St NW #1,Washington,DC,20001,835000,3.0,3.5,1940.0,,1910.0,404.0,http://www.redfin.com/DC/Washington/1901-3rd-St-NW-20001/unit-1/home/147103219,38.916032,-77.015274
+260,Single Family Residential,3805 13th St NE,Washington,DC,20017,1099000,5.0,5.5,3526.0,6643.0,2006.0,,http://www.redfin.com/DC/Washington/3805-13th-St-NE-20017/home/21647273,38.9365879,-76.9883601
+261,Condo/Co-op,57 N St NW #424,Washington,DC,20001,389900,0.0,1.0,427.0,,2018.0,232.0,http://www.redfin.com/DC/Washington/57-N-St-NW-20001/unit-424/home/145656015,38.9074426,-77.0111895
+262,Condo/Co-op,1401 Q St NW #303,Washington,DC,20009,1295000,2.0,2.5,1339.0,,2006.0,798.0,http://www.redfin.com/DC/Washington/1401-Q-St-NW-20009/unit-303/home/22653233,38.911280100000006,-77.0323046
+263,Multi-Family (2-4 Unit),107 Joliet St SW,Washington,DC,20032,350000,,,1940.0,5837.0,1953.0,,http://www.redfin.com/DC/Washington/107-Joliet-St-20032/home/10171738,38.8218604,-77.0058296
+264,Single Family Residential,1804 45th St NW,Washington,DC,20007,2895000,5.0,4.5,3596.0,7059.0,1946.0,,http://www.redfin.com/DC/Washington/1804-45th-St-NW-20007/home/9937910,38.913455600000006,-77.08475370000001
+265,Single Family Residential,4849 Rodman St NW,Washington,DC,20016,1595000,4.0,4.0,3200.0,4750.0,1940.0,,http://www.redfin.com/DC/Washington/4849-Rodman-St-NW-20016/home/9946531,38.939555,-77.09639849999999
+266,Condo/Co-op,3510 16th St NW #204,Washington,DC,20010,435000,2.0,2.0,623.0,,1920.0,406.0,http://www.redfin.com/DC/Washington/3510-16th-St-NW-20010/unit-204/home/21645897,38.9344851,-77.0366162
+267,Condo/Co-op,1825 13th St NW #5,Washington,DC,20009,825000,2.0,2.0,940.0,,2020.0,190.0,http://www.redfin.com/DC/Washington/1825-13th-St-NW-20009/unit-5/home/172232908,38.9148982,-77.02927
+268,Condo/Co-op,936 N St NW #5,Washington,DC,20001,700000,2.0,2.0,1003.0,,1917.0,307.0,http://www.redfin.com/DC/Washington/936-N-St-NW-20001/unit-5/home/12533685,38.906975200000005,-77.0253762
+269,Condo/Co-op,925 H St NW #707,Washington,DC,20001,649900,1.0,1.0,772.0,,2013.0,918.0,http://www.redfin.com/DC/Washington/925-H-St-NW-20001/unit-707/home/55187184,38.9003514,-77.02497
+270,Townhouse,5303 7th St NW,Washington,DC,20011,550000,3.0,1.5,1534.0,1728.0,1924.0,,http://www.redfin.com/DC/Washington/5303-7th-St-NW-20011/home/10056834,38.9544487,-77.0220032
+271,Condo/Co-op,801 N NW #104,Washington,DC,20001,499900,1.0,1.0,602.0,,2020.0,212.0,http://www.redfin.com/DC/Washington/801-N-St-NW-20001/unit-104/home/171202238,38.907455,-77.02315290000001
+272,Condo/Co-op,811 4th St NW #1001,Washington,DC,20001,485000,1.0,1.0,670.0,,2007.0,516.0,http://www.redfin.com/DC/Washington/811-4th-St-NW-20001/unit-1001/home/12532016,38.9010047,-77.01591859999999
+273,Condo/Co-op,2509 17th St NW #1,Washington,DC,20009,569000,2.0,1.0,1100.0,,1900.0,300.0,http://www.redfin.com/DC/Washington/2509-17th-St-NW-20009/unit-1/home/10195404,38.9234783,-77.0387493
+274,Single Family Residential,2225 Newton St NE,Washington,DC,20018,599900,4.0,1.0,1140.0,7100.0,1925.0,,http://www.redfin.com/DC/Washington/2225-Newton-St-NE-20018/home/10104074,38.9339113,-76.97319470000001
+275,Single Family Residential,5106 14th St NW,Washington,DC,20011,800000,5.0,2.0,2635.0,4000.0,1912.0,,http://www.redfin.com/DC/Washington/5106-14th-St-NW-20011/home/10017471,38.952409,-77.0337102
+276,Condo/Co-op,2120 Vermont Ave NW #202,Washington,DC,20001,469000,1.0,1.0,628.0,,2006.0,372.0,http://www.redfin.com/DC/Washington/2120-Vermont-Ave-NW-20001/unit-202/home/11746471,38.9187789,-77.02505529999999
+277,Condo/Co-op,522 21st St NW #704,Washington,DC,20006,275000,0.0,1.0,472.0,,1989.0,483.0,http://www.redfin.com/DC/Washington/522-21st-St-NW-20006/unit-704/home/9055099,38.8963185,-77.04682609999999
+278,Single Family Residential,4807 6th St NE,Washington,DC,20017,629900,4.0,3.5,1690.0,3000.0,1980.0,,http://www.redfin.com/DC/Washington/4807-6th-St-NE-20017/home/10085203,38.9476316,-76.99879940000001
+279,Condo/Co-op,3918 W St NW #7,Washington,DC,20007,785000,2.0,2.0,975.0,,2015.0,362.0,http://www.redfin.com/DC/Washington/3918-W-St-NW-20007/unit-7/home/97880301,38.9189245,-77.07768840000001
+280,Condo/Co-op,421 Burbank St SE,Washington,DC,20019,899990,11.0,6.0,,5122.0,1953.0,,http://www.redfin.com/DC/Washington/421-Burbank-St-SE-20019/home/10140832,38.884091399999996,-76.9434883
+281,Townhouse,1058 30th St NW,Washington,DC,20007,1100000,2.0,2.0,1152.0,1006.0,1900.0,,http://www.redfin.com/DC/Washington/1058-30th-St-NW-20007/home/9924400,38.9043166,-77.0593583
+282,Townhouse,1422 Shepherd St NW,Washington,DC,20011,899900,3.0,3.5,2160.0,,2020.0,375.0,http://www.redfin.com/DC/Washington/1422-Shepherd-St-NW-20011/home/10015593,38.939478,-77.033824
+283,Condo/Co-op,1220 Holbrook Ter NE #105,Washington,DC,20002,350000,2.0,1.0,715.0,,1940.0,359.0,http://www.redfin.com/DC/Washington/1220-Holbrook-Ter-NE-20002/unit-105/home/107587404,38.9074937,-76.9858305
+284,Townhouse,2207 13th St NE,Washington,DC,20018,649900,3.0,3.5,1024.0,1280.0,1941.0,,http://www.redfin.com/DC/Washington/2207-13th-St-NE-20018/home/10091391,38.919725899999996,-76.9868864
+285,Townhouse,670 9th St SW,Washington,DC,20024,1125000,4.0,3.5,2195.0,829.0,2001.0,180.0,http://www.redfin.com/DC/Washington/670-9th-St-SW-20024/home/10177036,38.881601,-77.0237515
+286,Condo/Co-op,1117 Staples St NE #1,Washington,DC,20002,699900,3.0,2.5,1365.0,,1913.0,1.0,http://www.redfin.com/DC/Washington/1117-Staples-St-NE-20002/unit-1/home/172620725,38.9014499,-76.985279
+287,Condo/Co-op,1823 S St NW #2,Washington,DC,20009,699000,2.0,2.0,641.0,,1873.0,206.0,http://www.redfin.com/DC/Washington/1823-S-St-NW-20009/unit-2/home/81824500,38.9143555,-77.042446
+288,Single Family Residential,3629 Albemarle St NW,Washington,DC,20008,1850000,5.0,3.0,3472.0,5775.0,1962.0,,http://www.redfin.com/DC/Washington/3629-Albemarle-St-NW-20008/home/10190629,38.948173700000005,-77.0716689
+289,Condo/Co-op,1500 Pennsylvania Ave SE #206,Washington,DC,20003,489000,2.0,1.0,736.0,,2016.0,384.0,http://www.redfin.com/DC/Washington/1500-Pennsylvania-Ave-SE-20003/unit-206/home/113745692,38.879861600000005,-76.9833186
+290,Condo/Co-op,2400 41st St NW #314,Washington,DC,20007,299000,1.0,1.0,745.0,,1959.0,547.0,http://www.redfin.com/DC/Washington/2400-41st-St-NW-20007/unit-314/home/9958801,38.9216951,-77.0809551
+291,Condo/Co-op,1800 R St NW #602,Washington,DC,20009,510000,1.0,1.5,908.0,,1964.0,411.0,http://www.redfin.com/DC/Washington/1800-R-St-NW-20009/unit-602/home/9856740,38.912472799999996,-77.04165
+292,Condo/Co-op,1245 13th St NW Ph 1012,Washington,DC,20005,499900,1.0,1.0,660.0,,1981.0,535.0,http://www.redfin.com/DC/Washington/1245-13th-St-NW-20005/unit-1012/home/9875031,38.9064159,-77.0300093
+293,Condo/Co-op,631 D St NW #735,Washington,DC,20004,465000,1.0,1.0,761.0,,2004.0,480.0,http://www.redfin.com/DC/Washington/631-D-St-NW-20004/unit-735/home/10342639,38.894927100000004,-77.0205054
+294,Condo/Co-op,1280 21st St NW #202,Washington,DC,20036,419900,1.0,1.0,680.0,,1967.0,612.0,http://www.redfin.com/DC/Washington/1280-21st-St-NW-20036/unit-202/home/9053064,38.9068674,-77.0468062
+295,Multi-Family (2-4 Unit),459 Orange St SE,Washington,DC,20032,799000,8.0,4.0,4488.0,5235.0,1942.0,,http://www.redfin.com/DC/Washington/459-Orange-St-SE-20032/home/10331574,38.845685499999995,-77.0022189
+296,Condo/Co-op,2126 Connecticut Ave NW #58,Washington,DC,20008,635000,2.0,1.0,980.0,,1910.0,800.0,http://www.redfin.com/DC/Washington/2126-Connecticut-Ave-NW-20008/unit-58/home/9997950,38.917945399999994,-77.047521
+297,Condo/Co-op,6722 3rd St NW Unit B1,Washington,DC,20012,279950,1.0,1.0,594.0,,1928.0,269.0,http://www.redfin.com/DC/Washington/6722-3rd-St-NW-20012/unit-B1/home/23064088,38.9714196,-77.0163163
+298,Condo/Co-op,2201 L St NW #804,Washington,DC,20037,315000,0.0,1.0,445.0,,1967.0,421.0,http://www.redfin.com/DC/Washington/2201-L-St-NW-20037/unit-804/home/9049814,38.9038969,-77.0488783
+299,Condo/Co-op,1111 25th St NW #623,Washington,DC,20037,589900,1.0,1.0,796.0,,2005.0,544.0,http://www.redfin.com/DC/Washington/1111-25th-St-NW-20037/unit-623/home/10350847,38.904559899999995,-77.0531137
+300,Townhouse,4312 14th St NW,Washington,DC,20011,945000,4.0,3.5,2480.0,1529.0,1924.0,,http://www.redfin.com/DC/Washington/4312-14th-St-NW-20011/home/10016351,38.9433714,-77.0329568
+301,Townhouse,4511 Iowa Ave NW #1,Washington,DC,20011,550000,2.0,2.5,1400.0,,1917.0,163.0,http://www.redfin.com/DC/Washington/4511-Iowa-Ave-NW-20011/unit-1/home/105519307,38.9455311,-77.02843879999999
+302,Condo/Co-op,1939 12th St NW #402,Washington,DC,20009,515000,1.0,1.0,650.0,,2009.0,348.0,http://www.redfin.com/DC/Washington/1939-12th-St-NW-20009/unit-402/home/28496278,38.916634,-77.0277725
+303,Single Family Residential,4636 Brandywine St NW,Washington,DC,20016,1325000,4.0,2.5,1488.0,5751.0,1942.0,,http://www.redfin.com/DC/Washington/4636-Brandywine-St-NW-20016/home/9947884,38.9494938,-77.0919363
+304,Townhouse,1826 12th St NW,Washington,DC,20009,3495000,4.0,5.0,4195.0,1377.0,1906.0,,http://www.redfin.com/DC/Washington/1826-12th-St-NW-20009/home/9873818,38.9153711,-77.0282223
+305,Condo/Co-op,401 13th St NE #401,Washington,DC,20002,464900,1.0,1.0,782.0,,2007.0,430.0,http://www.redfin.com/DC/Washington/401-13th-St-NE-20002/unit-401/home/12531875,38.895129,-76.9880227
+306,Condo/Co-op,801 Pennsylvania Ave NW #1010,Washington,DC,20004,589999,1.0,1.0,741.0,,1990.0,709.0,http://www.redfin.com/DC/Washington/801-Pennsylvania-Ave-NW-20004/unit-1010/home/9878367,38.894431299999994,-77.02349720000001
+307,Condo/Co-op,2320 Wisconsin Ave NW #202,Washington,DC,20007,410000,1.0,1.0,725.0,,1984.0,495.0,http://www.redfin.com/DC/Washington/2320-Wisconsin-Ave-NW-20007/unit-202/home/9933744,38.9203743,-77.0717782
+308,Condo/Co-op,520 1/2 13th St SE Unit A,Washington,DC,20003,949900,2.0,2.5,1845.0,,2004.0,300.0,http://www.redfin.com/DC/Washington/520a-13th-St-SE-20003/unit-A/home/10194180,38.882279499999996,-76.98812690000001
+309,Condo/Co-op,7915 Eastern Ave #607,Silver Spring,MD,20910,274990,1.0,1.0,873.0,,1965.0,301.0,http://www.redfin.com/MD/Silver-Spring/7915-Eastern-Ave-20910/unit-607/home/11210646,38.9865689,-77.0286662
+310,Condo/Co-op,1443 Chapin St NW #403,Washington,DC,20009,734500,1.0,1.0,1050.0,,2014.0,519.0,http://www.redfin.com/DC/Washington/1443-Chapin-St-NW-20009/unit-403/home/96402000,38.921810799999996,-77.034162
+311,Condo/Co-op,920 I St NW #715,Washington,DC,20001,3050000,2.0,2.0,1584.0,,2013.0,2200.0,http://www.redfin.com/DC/Washington/920-I-St-NW-20001/unit-715/home/55187069,38.9003514,-77.02497
+312,Townhouse,5407 James Pl NE,Washington,DC,20019,429900,3.0,3.0,2001.0,,2002.0,,http://www.redfin.com/DC/Washington/5407-James-Pl-NE-20019/home/10191168,38.900151,-76.922729
+313,Townhouse,1314 Vermont Ave NW Unit CH7,Washington,DC,20005,950000,2.0,2.5,1124.0,,2020.0,226.0,http://www.redfin.com/DC/Washington/1314-Vermont-Ave-NW-20005/unit-CH7/home/172614992,38.908075200000006,-77.0309397
+314,Condo/Co-op,3205 Georgia NW #302,Washington,DC,20010,364790,1.0,1.0,461.0,,2014.0,302.0,http://www.redfin.com/DC/Washington/3205-Georgia-Ave-NW-20010/unit-302/home/96402594,38.930038700000004,-77.0231853
+315,Townhouse,3337 Reservoir Rd NW,Washington,DC,20007,1849000,4.0,3.5,2436.0,1916.0,1950.0,,http://www.redfin.com/DC/Washington/3337-Reservoir-Rd-NW-20007/home/9932289,38.9128581,-77.067262
+316,Condo/Co-op,3541 11th St NW #302,Washington,DC,20010,899999,3.0,2.0,1377.0,,1937.0,269.0,http://www.redfin.com/DC/Washington/3541-11th-St-NW-20010/unit-302/home/171516412,38.9338994,-77.0281774
+317,Condo/Co-op,1615 Q St NW Unit T5,Washington,DC,20009,730000,2.0,1.0,970.0,,1895.0,847.0,http://www.redfin.com/DC/Washington/1615-Q-St-NW-20009/unit-T5/home/9865996,38.9112671,-77.03698
+318,Single Family Residential,5359 Macarthur Blvd NW,Washington,DC,20016,2149000,4.0,3.5,3115.0,8068.0,1969.0,60.0,http://www.redfin.com/DC/Washington/5359-MacArthur-Blvd-NW-20016/home/9943617,38.9290474,-77.10485440000001
+319,Condo/Co-op,1016 17th Pl NE #403,Washington,DC,20002,354900,1.0,1.0,547.0,,2020.0,229.0,http://www.redfin.com/DC/Washington/1016-17th-Pl-NE-20002/unit-403/home/172614628,38.903100099999996,-76.9802601
+320,Condo/Co-op,2656 Bowen Rd SE #301,Washington,DC,20020,80750,2.0,1.0,834.0,,2002.0,250.0,http://www.redfin.com/DC/Washington/2656-Bowen-Rd-SE-20020/unit-301/home/10188894,38.859933700000006,-76.9909137
+321,Condo/Co-op,1746 Q St NW #4,Washington,DC,20009,439000,1.0,1.0,473.0,,1890.0,143.0,http://www.redfin.com/DC/Washington/1746-Q-St-NW-20009/unit-4/home/172614547,38.9111351,-77.0415009
+322,Condo/Co-op,631 D St NW #638,Washington,DC,20004,380000,0.0,1.0,540.0,,2004.0,411.0,http://www.redfin.com/DC/Washington/631-D-St-NW-20004/unit-638/home/10342615,38.894927100000004,-77.0205054
+323,Condo/Co-op,205 V St NW #105,Washington,DC,20001,699900,3.0,2.5,1500.0,,2020.0,267.0,http://www.redfin.com/DC/Washington/205-V-St-NW-20001/unit-105/home/172614071,38.918909,-77.0152888
+324,Townhouse,1211 28th St NW,Washington,DC,20007,2750000,4.0,5.0,,,1986.0,988.0,http://www.redfin.com/DC/Washington/1211-28th-St-NW-20007/unit-1211/home/143714168,38.905561,-77.05682159999999
+325,Condo/Co-op,3900 Watson Pl NW Unit A-8H,Washington,DC,20016,474000,2.0,2.0,1250.0,,1960.0,1727.0,http://www.redfin.com/DC/Washington/3900-Watson-Pl-NW-20016/unit-A-8H/home/172614051,38.9272239,-77.07857609999999
+326,Townhouse,1663 Gales St NE #2,Washington,DC,20002,500000,3.0,2.0,,,2020.0,214.0,http://www.redfin.com/DC/Washington/1663-Gales-St-NE-20002/unit-2/home/172613866,38.898022999999995,-76.9800939
+327,Condo/Co-op,1150 K St NW #611,Washington,DC,20005,669000,2.0,2.0,1010.0,,2005.0,720.0,http://www.redfin.com/DC/Washington/1150-K-St-NW-20005/unit-611/home/10347546,38.9023828,-77.02756059999999
+328,Condo/Co-op,2501 M St NW #713,Washington,DC,20037,1565000,2.0,2.5,1376.0,,1997.0,803.0,http://www.redfin.com/DC/Washington/2501-M-St-NW-20037/unit-713/home/9039600,38.9053971,-77.05329
+329,Condo/Co-op,1111 24th St NW Unit 10E,Washington,DC,20037,1874500,2.0,2.0,1423.0,,2017.0,1592.0,http://www.redfin.com/DC/Washington/1111-24th-St-NW-20037/unit-10E/home/112897354,38.9041312,-77.0511178
+330,Condo/Co-op,1117 10th St NW #1002,Washington,DC,20001,665900,2.0,2.0,952.0,,2006.0,635.0,http://www.redfin.com/DC/Washington/1117-10th-St-NW-20001/unit-1002/home/11746696,38.904731,-77.0255876
+331,Condo/Co-op,601 Pennsylvania Ave NW #611,Washington,DC,20004,657500,2.0,2.0,1050.0,,1991.0,963.0,http://www.redfin.com/DC/Washington/601-Pennsylvania-Ave-NW-20004/unit-611/home/9879743,38.8933881,-77.0204729
+332,Condo/Co-op,1212 M St NW #401,Washington,DC,20005,460000,1.0,1.5,532.0,,1926.0,372.0,http://www.redfin.com/DC/Washington/1212-M-St-NW-20005/unit-401/home/10185888,38.905409000000006,-77.0287651
+333,Condo/Co-op,1151 Oates St NE #3,Washington,DC,20002,949900,3.0,2.5,2055.0,,1905.0,238.0,http://www.redfin.com/DC/Washington/1151-Oates-St-NE-20002/unit-3/home/172611960,38.9056099,-76.9890689
+334,Condo/Co-op,4870 NW Macarthur Blvd NW #3,Washington,DC,20007,270000,1.0,1.0,555.0,,1940.0,412.0,http://www.redfin.com/DC/Washington/4870-MacArthur-Blvd-NW-20007/unit-3/home/9940810,38.917623799999994,-77.0972036
+335,Townhouse,2000 Trenton Pl SE,Washington,DC,20020,430000,3.0,2.5,1610.0,2072.0,2001.0,84.0,http://www.redfin.com/DC/Washington/2000-Trenton-Pl-SE-20020/home/166639005,38.8454943,-76.97526490000001
+336,Condo/Co-op,730 24th St NW #712,Washington,DC,20037,274999,0.0,1.0,550.0,,1961.0,1051.0,http://www.redfin.com/DC/Washington/730-24th-St-NW-20037/unit-712/home/22012747,38.8989336,-77.05172409999999
+337,Condo/Co-op,2650 15th St NW #4,Washington,DC,20009,795000,3.0,2.0,1342.0,,2010.0,333.0,http://www.redfin.com/DC/Washington/2650-15th-St-NW-20009/unit-4/home/26786302,38.924480700000004,-77.0356061
+338,Townhouse,64 Bryant St NW,Washington,DC,20001,1399999,4.0,4.0,2852.0,2852.0,1913.0,,http://www.redfin.com/DC/Washington/64-Bryant-St-NW-20001/home/10049994,38.920989,-77.011509
+339,Condo/Co-op,1300 N St NW #611,Washington,DC,20005,459900,1.0,1.0,618.0,,2004.0,433.0,http://www.redfin.com/DC/Washington/1300-N-St-NW-20005/unit-611/home/10341802,38.9069429,-77.0301237
+340,Single Family Residential,2417 Franklin St NE,Washington,DC,20018,859900,5.0,3.5,2784.0,3552.0,1925.0,,http://www.redfin.com/DC/Washington/2417-Franklin-St-NE-20018/home/10104483,38.925405600000005,-76.97139449999999
+341,Townhouse,20 Seaton Pl NW,Washington,DC,20001,1680000,5.0,4.5,3444.0,1688.0,1895.0,,http://www.redfin.com/DC/Washington/20-Seaton-Pl-NW-20001/home/10047730,38.914634,-77.009884
+342,Townhouse,1341 Oak St NW,Washington,DC,20010,830000,3.0,3.0,1763.0,1650.0,1908.0,,http://www.redfin.com/DC/Washington/1341-Oak-St-NW-20010/home/10027688,38.934064299999996,-77.0311596
+343,Townhouse,460 Mellon St SE,Washington,DC,20032,499000,5.0,3.5,2202.0,1634.0,1943.0,,http://www.redfin.com/DC/Washington/460-Mellon-St-SE-20032/home/39956817,38.8475309,-76.999961
+344,Condo/Co-op,510 N St SW Unit N-323,Washington,DC,20024,269900,1.0,1.0,600.0,,1966.0,438.0,http://www.redfin.com/DC/Washington/510-N-St-SW-20024/unit-N323/home/143225889,38.8742758,-77.0187198
+345,Condo/Co-op,1441 Euclid St NW #104,Washington,DC,20009,205000,0.0,1.0,302.0,,1939.0,255.0,http://www.redfin.com/DC/Washington/1441-Euclid-St-NW-20009/unit-104/home/10345093,38.9237908,-77.0336806
+346,Condo/Co-op,18 9th St NE #408,Washington,DC,20002,369900,1.0,1.0,529.0,,1927.0,270.0,http://www.redfin.com/DC/Washington/18-9th-St-NE-20002/unit-408/home/9903251,38.8899883,-76.9939261
+347,Condo/Co-op,1391 Pennsylvania Ave SE #439,Washington,DC,20003,420000,1.0,1.0,680.0,,2007.0,393.0,http://www.redfin.com/DC/Washington/1391-Pennsylvania-Ave-SE-20003/unit-439/home/12531671,38.8802676,-76.9871189
+348,Townhouse,1617 Potomac Ave SE,Washington,DC,20003,699900,2.0,1.5,840.0,643.0,1904.0,,http://www.redfin.com/DC/Washington/1617-Potomac-Ave-SE-20003/home/9920853,38.881614899999995,-76.98154699999999
+349,Condo/Co-op,490 M St SW Unit W-608,Washington,DC,20024,369900,1.0,1.0,600.0,,1966.0,523.0,http://www.redfin.com/DC/Washington/490-M-St-SW-20024/unit-W608/home/17569584,38.8757021,-77.0193377

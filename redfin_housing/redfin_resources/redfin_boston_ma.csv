@@ -1,0 +1,351 @@
+,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
+0,Single Family Residential,21 Grimes St,Boston,MA,2127,649999,2.0,2.0,1176.0,825.0,1890.0,,http://www.redfin.com/MA/Boston/21-Grimes-St-02127/home/9195612,42.3337604,-71.05183659999999
+1,Condo/Co-op,16 Mystic St #2,Boston,MA,2129,620000,2.0,1.0,758.0,,1870.0,119.0,http://www.redfin.com/MA/Boston/16-Mystic-St-02129/unit-2/home/79084414,42.3797169,-71.0629213
+2,Multi-Family (2-4 Unit),15 Jess St,Boston,MA,2130,699000,5.0,2.0,1785.0,2169.0,1885.0,,http://www.redfin.com/MA/Boston/15-Jess-St-02130/home/9145085,42.3152015,-71.1038742
+3,Condo/Co-op,146 Marlborough St #1,Boston,MA,2116,498000,1.0,1.0,486.0,486.0,1880.0,190.0,http://www.redfin.com/MA/Boston/146-Marlborough-St-02116/unit-1/home/9250275,42.352752100000004,-71.0781483
+4,Condo/Co-op,1 Howard Pl Unit C,Boston,MA,2125,469000,3.0,1.0,1189.0,,1905.0,193.0,http://www.redfin.com/MA/Boston/1-Howard-Pl-02125/unit-C/home/171582102,42.3197761,-71.07192459999999
+5,Condo/Co-op,43 Park Vale Ave #7,Boston,MA,2134,499000,3.0,1.0,780.0,780.0,1910.0,343.0,http://www.redfin.com/MA/Boston/43-Park-Vale-Ave-02134/unit-7/home/8996202,42.352307399999994,-71.13299140000001
+6,Single Family Residential,43 Leyden St #43,Boston,MA,2128,649900,3.0,2.5,1397.0,1889.0,2006.0,441.0,http://www.redfin.com/MA/Boston/43-Leyden-St-02128/unit-43/home/172266516,42.3901295,-71.0109725
+7,Single Family Residential,9 Sherman St,Boston,MA,2119,559900,5.0,1.5,2088.0,2540.0,1905.0,,http://www.redfin.com/MA/Boston/9-Sherman-St-02119/home/9292570,42.3211583,-71.083088
+8,Condo/Co-op,180 Telford St #415,Boston,MA,2135,659000,1.0,1.0,719.0,,2018.0,481.0,http://www.redfin.com/MA/Boston/180-Telford-St-02135/unit-415/home/171787852,42.3638661,-71.1376193
+9,Condo/Co-op,42 8th St #4301,Boston,MA,2129,799000,2.0,2.0,1149.0,,1899.0,805.0,http://www.redfin.com/MA/Boston/42-8th-St-02129/unit-4301/home/9328682,42.37499879999999,-71.05208780000001
+10,Condo/Co-op,603 E 6Th St #1,Boston,MA,2127,1199000,3.0,2.5,2018.0,,1900.0,320.0,http://www.redfin.com/MA/Boston/603-E-6th-St-02127/unit-1/home/81971909,42.332858,-71.0362643
+11,Condo/Co-op,944 Dorchester Ave #10,Boston,MA,2125,610000,2.0,1.0,1238.0,1238.0,1910.0,617.0,http://www.redfin.com/MA/Boston/944-Dorchester-Ave-02125/unit-10/home/39913645,42.3185087,-71.0560755
+12,Condo/Co-op,1 Avery St Unit 14A,Boston,MA,2111,1474000,2.0,2.5,1488.0,1488.0,2000.0,2071.0,http://www.redfin.com/MA/Boston/1-Avery-St-02111/unit-14A/home/11511027,42.353316799999995,-71.0628507
+13,Condo/Co-op,99 Tremont St #213,Boston,MA,2135,749000,2.0,2.0,1091.0,,2017.0,462.0,http://www.redfin.com/MA/Boston/99-Tremont-St-02135/unit-213/home/144759630,42.351377,-71.1723764
+14,Condo/Co-op,88 Kingston St Unit 1D,Boston,MA,2111,689000,1.0,1.0,816.0,816.0,1899.0,409.0,http://www.redfin.com/MA/Boston/88-Kingston-St-02111/unit-1D/home/12310497,42.352655799999994,-71.05923990000001
+15,Condo/Co-op,16 Leverett Ave #10,Boston,MA,2128,409000,2.0,1.5,1014.0,1014.0,1982.0,416.0,http://www.redfin.com/MA/Boston/16-Leverett-Ave-02128/unit-10/home/9108544,42.38943216,-70.99586248
+16,Condo/Co-op,21 Father Francis Gilday St #301,Boston,MA,2118,949900,2.0,1.5,971.0,971.0,1858.0,773.0,http://www.redfin.com/MA/Boston/21-Father-Francis-Gilday-St-02118/unit-301/home/17393101,42.3371558,-71.0732041
+17,Condo/Co-op,463 Commonwealth Ave #6,Boston,MA,2215,645000,1.0,1.0,668.0,668.0,1900.0,219.0,http://www.redfin.com/MA/Boston/463-Commonwealth-Ave-02215/unit-6/home/9240247,42.34940220000001,-71.0931228
+18,Condo/Co-op,126 Jersey St #402,Boston,MA,2215,729900,1.0,1.0,624.0,624.0,2007.0,357.0,http://www.redfin.com/MA/Boston/126-Jersey-St-02215/unit-402/home/18983038,42.342574600000006,-71.09654609999998
+19,Condo/Co-op,109 N St #1,Boston,MA,2127,425000,1.0,1.0,480.0,480.0,1920.0,140.0,http://www.redfin.com/MA/Boston/109-N-St-02127/unit-1/home/11511722,42.3344853,-71.0314719
+20,Condo/Co-op,181 Warren Ave #1,Boston,MA,2116,1290000,2.0,2.0,1112.0,1112.0,1899.0,368.0,http://www.redfin.com/MA/Boston/181-Warren-Ave-02116/unit-1/home/9325859,42.3439271,-71.07660759999999
+21,Condo/Co-op,407 Washington St #2,Boston,MA,2124,350000,2.0,1.0,907.0,,1900.0,294.0,http://www.redfin.com/MA/Boston/407-Washington-St-02124/unit-2/home/9305738,42.297340000000005,-71.0728171
+22,Condo/Co-op,407 W 1st #202,Boston,MA,2127,1225000,2.0,2.0,1663.0,,2014.0,422.0,http://www.redfin.com/MA/Boston/407-W-First-St-02127/unit-202/home/55120426,42.3373474,-71.0437053
+23,Condo/Co-op,18 Chelsea St #2,Boston,MA,2128,529999,2.0,2.0,757.0,,1900.0,330.0,http://www.redfin.com/MA/Boston/18-Chelsea-St-02128/unit-2/home/124544953,42.3705787,-71.0382936
+24,Condo/Co-op,533 E Second #102,Boston,MA,2127,925000,2.0,2.0,1060.0,,2020.0,,http://www.redfin.com/MA/Boston/533-E-2nd-St-02127/unit-102/home/172671660,42.337013,-71.041996
+25,Condo/Co-op,108 Peterborough St Unit PHN,Boston,MA,2215,949000,2.0,1.5,836.0,,1990.0,454.0,http://www.redfin.com/MA/Boston/108-Peterborough-St-02215/unit-PHN/home/12441472,42.342761700000004,-71.0999457
+26,Condo/Co-op,11 Park Dr #17,Boston,MA,2215,649000,2.0,1.0,680.0,,1920.0,319.0,http://www.redfin.com/MA/Boston/11-Park-Dr-02215/unit-17/home/9273493,42.344612700000006,-71.0952214
+27,Condo/Co-op,99-105 Broad St Unit 4B,Boston,MA,2110,715000,1.0,1.0,702.0,702.0,1910.0,540.0,http://www.redfin.com/MA/Boston/99-Broad-St-02110/unit-4B/home/12379260,42.357323,-71.05261999999999
+28,Multi-Family (2-4 Unit),18 Arbroth St,Boston,MA,2122,799000,5.0,2.0,2328.0,3600.0,1929.0,,http://www.redfin.com/MA/Dorchester/18-Arbroth-St-02122/home/9094528,42.2906859,-71.0519357
+29,Multi-Family (2-4 Unit),30 Hewlett St,Boston,MA,2131,1375000,8.0,3.0,3780.0,5908.0,1910.0,,http://www.redfin.com/MA/Roslindale/30-Hewlett-St-02131/home/9170379,42.2897862,-71.1351734
+30,Condo/Co-op,1 Dalton St #2905,Boston,MA,2119,8475000,4.0,3.5,3124.0,,2019.0,3490.0,http://www.redfin.com/MA/Boston/1-Dalton-St-02199/unit-2905/home/172671321,42.345,-71.084314
+31,Condo/Co-op,135 Seaport Blvd #820,Boston,MA,2210,1994000,2.0,2.5,1424.0,,2020.0,1805.0,http://www.redfin.com/MA/Boston/135-Seaport-Blvd-02210/unit-820/home/172671273,42.3509604,-71.04390129999999
+32,Condo/Co-op,66 Mora St #3,Boston,MA,2124,485000,3.0,1.0,1350.0,4425.0,1905.0,221.0,http://www.redfin.com/MA/Boston/66-Mora-St-02124/unit-3/home/113710393,42.28188170000001,-71.0739422
+33,Condo/Co-op,135 Seaport Blvd #906,Boston,MA,2210,1497400,2.0,2.0,1024.0,,2019.0,1019.0,http://www.redfin.com/MA/Boston/135-Seaport-Blvd-02210/unit-906/home/168965266,42.3509604,-71.04390129999999
+34,Condo/Co-op,100 Fulton St Unit 2M,Boston,MA,2109,685000,1.0,1.0,664.0,664.0,1890.0,585.0,http://www.redfin.com/MA/Boston/100-Fulton-St-02109/unit-2M/home/9231173,42.362617,-71.053035
+35,Condo/Co-op,40 Traveler St #510,Boston,MA,2118,2300000,2.0,2.5,1571.0,,2018.0,1382.0,http://www.redfin.com/MA/Boston/40-Traveler-St-02118/unit-510/home/92078684,42.3442232,-71.0623254
+36,Single Family Residential,31 Plainfield St #1,Boston,MA,2130,749000,2.0,2.5,1984.0,4000.0,1890.0,,http://www.redfin.com/MA/Jamaica-Plain/31-Plainfield-St-02130/unit-1/home/144277854,42.3034434,-71.1073211
+37,Condo/Co-op,65 Lewis St #316,Boston,MA,2128,665000,1.0,1.0,787.0,,2019.0,485.0,http://www.redfin.com/MA/Boston/65-Lewis-St-02128/unit-316/home/168998147,42.367142,-71.041588
+38,Single Family Residential,541 Lagrange St,Boston,MA,2132,679000,4.0,2.0,1654.0,5100.0,1915.0,,http://www.redfin.com/MA/West-Roxbury/541-Lagrange-St-02132/home/9211094,42.284764,-71.1622811
+39,Condo/Co-op,36 Myrtle St #3,Boston,MA,2114,689000,2.0,1.0,657.0,,1900.0,315.0,http://www.redfin.com/MA/Boston/36-Myrtle-St-02114/unit-3/home/9257849,42.359193,-71.0658458
+40,Condo/Co-op,45 Vinton St #3,Boston,MA,2127,745000,2.0,2.0,1207.0,1207.0,2008.0,371.0,http://www.redfin.com/MA/Boston/45-Vinton-St-02127/unit-3/home/18322064,42.329698,-71.0531063
+41,Condo/Co-op,73 Mt. Ida Rd #3,Boston,MA,2122,549900,3.0,1.0,1067.0,,1920.0,175.0,http://www.redfin.com/MA/Dorchester/73-Mt-Ida-Rd-02122/unit-3/home/143937037,42.3046199,-71.0643319
+42,Condo/Co-op,9 Wales St #1,Boston,MA,2124,515000,3.0,2.0,1500.0,6921.0,1905.0,175.0,http://www.redfin.com/MA/Boston/9-Wales-St-02124/unit-1/home/172669551,42.298035299999995,-71.08605920000001
+43,Condo/Co-op,1784 Columbia Rd #1,Boston,MA,1227,1799000,3.0,1.5,1750.0,7543.0,1962.0,,http://www.redfin.com/MA/Boston/1784-Columbia-Rd-02127/unit-1/home/172669517,42.3317716,-71.0297887
+44,Townhouse,25 Harrison St Unit F,Boston,MA,2131,419000,3.0,2.5,1729.0,1742.0,1989.0,346.0,http://www.redfin.com/MA/Boston/25-Harrison-St-02131/unit-F/home/9166500,42.287925,-71.120094
+45,Condo/Co-op,204 W Brookline St #4,Boston,MA,2118,899000,2.0,1.0,822.0,822.0,1900.0,231.0,http://www.redfin.com/MA/Boston/204-W-Brookline-St-02118/unit-4/home/9301336,42.343416600000005,-71.0768976
+46,Multi-Family (2-4 Unit),132 High St,Boston,MA,2129,1289000,4.0,3.0,2600.0,1750.0,1989.0,,http://www.redfin.com/MA/Charlestown/132-High-St-02129/home/9046815,42.3785283,-71.0666881
+47,Townhouse,51 Pier 7 #51,Boston,MA,2129,1349000,2.0,2.5,1825.0,,1987.0,1431.0,http://www.redfin.com/MA/Boston/51-9th-St-02129/unit-51/home/39996502,42.3760539,-71.05235640000001
+48,Single Family Residential,324 Pond St,Boston,MA,2130,1350000,4.0,3.0,3068.0,9059.0,1954.0,,http://www.redfin.com/MA/Jamaica-Plain/324-Pond-St-02130/home/9328124,42.3111429,-71.1285354
+49,Condo/Co-op,12 Bellvista Rd #6,Boston,MA,2135,549900,2.0,1.0,802.0,802.0,1900.0,437.0,http://www.redfin.com/MA/Boston/12-Bellvista-Rd-02135/unit-6/home/9223545,42.3465307,-71.1379467
+50,Condo/Co-op,234 Paris St #1,Boston,MA,2128,540000,2.0,2.0,813.0,,2017.0,220.0,http://www.redfin.com/MA/Boston/234-Paris-St-02128/unit-1/home/129803219,42.37515820000001,-71.0344277
+51,Condo/Co-op,172-178 Green St #13,Boston,MA,2130,699900,2.0,1.0,1279.0,1306.0,1890.0,351.0,http://www.redfin.com/MA/Boston/172-Green-St-02130/unit-13/home/9299973,42.310264000000004,-71.10571540000001
+52,Condo/Co-op,92-94 Walnut St #4,Boston,MA,2122,525000,2.0,1.0,812.0,,1900.0,208.0,http://www.redfin.com/MA/Boston/92-Walnut-St-02122/unit-4/home/9326325,42.2879004,-71.04027090000001
+53,Condo/Co-op,280 Beacon St #5,Boston,MA,2116,1100000,1.0,1.0,964.0,964.0,1930.0,738.0,http://www.redfin.com/MA/Boston/280-Beacon-St-02116/unit-5/home/9248281,42.3533964,-71.08120009999999
+54,Single Family Residential,12 March Ave,Boston,MA,2132,899900,5.0,2.0,2890.0,7000.0,1790.0,,http://www.redfin.com/MA/West-Roxbury/12-March-Ave-02132/home/9209527,42.2837234,-71.15462240000001
+55,Condo/Co-op,770 E 3rd St #3,Boston,MA,2127,979000,2.0,2.0,1274.0,,2010.0,391.0,http://www.redfin.com/MA/Boston/770-E-3rd-St-02127/unit-3/home/40352599,42.336730200000005,-71.0289407
+56,Condo/Co-op,63 Maverick Sq #11,Boston,MA,2128,734999,2.0,1.0,1471.0,1471.0,1930.0,548.0,http://www.redfin.com/MA/Boston/63-Maverick-Sq-02128/unit-11/home/9112451,42.36951989999999,-71.03852490000001
+57,Townhouse,62-64 Wrentham St #3,Boston,MA,2124,559000,4.0,2.0,1482.0,,1910.0,240.0,http://www.redfin.com/MA/Boston/62-Wrentham-St-02124/unit-3/home/11838321,42.2884672,-71.0603135
+58,Condo/Co-op,78 Train St #2,Boston,MA,2122,525000,3.0,1.0,1177.0,,1905.0,280.0,http://www.redfin.com/MA/Boston/78-Train-St-02122/unit-2/home/9305552,42.2931729,-71.0541364
+59,Single Family Residential,14 Sanford St,Boston,MA,2136,585000,3.0,1.5,1650.0,4960.0,1970.0,,http://www.redfin.com/MA/Hyde-Park/14-Sanford-St-02136/home/11835639,42.2422783,-71.1409409
+60,Multi-Family (2-4 Unit),66 Montcalm Ave,Boston,MA,2135,999900,5.0,3.0,2478.0,2584.0,1900.0,,http://www.redfin.com/MA/Brighton/66-Montcalm-Ave-02135/home/9015378,42.3531027,-71.14854179999999
+61,Townhouse,126 Florence St #126,Boston,MA,2131,799000,3.0,2.5,2000.0,,2008.0,200.0,http://www.redfin.com/MA/Boston/126-Florence-St-02131/unit-126/home/28857451,42.287017299999995,-71.1238066
+62,Condo/Co-op,188 Brookline Ave Unit 23D,Boston,MA,2215,1299000,1.0,1.0,762.0,,2018.0,865.0,http://www.redfin.com/MA/Boston/188-Brookline-Ave-02215/unit-23D/home/171787704,42.343773399999996,-71.10172179999999
+63,Condo/Co-op,370 Chestnut Hill Ave #5,Boston,MA,2135,429000,2.0,1.0,770.0,,1950.0,579.0,http://www.redfin.com/MA/Boston/370-Chestnut-Hill-Ave-02135/unit-5/home/9308487,42.3366018,-71.1509181
+64,Condo/Co-op,463 Rutherford Ave #402,Boston,MA,2129,689000,2.0,2.0,850.0,,2015.0,499.0,http://www.redfin.com/MA/Boston/463-Rutherford-Ave-02129/unit-402/home/146212801,42.3808565,-71.0713251
+65,Condo/Co-op,605 Massachusetts Ave #7,Boston,MA,2118,469900,1.0,1.0,415.0,378.0,1900.0,293.0,http://www.redfin.com/MA/Boston/605-Massachusetts-Ave-02118/unit-7/home/9287417,42.3370628,-71.0780854
+66,Multi-Family (2-4 Unit),5-A Lorenzo St,Boston,MA,2122,599999,4.0,2.0,1782.0,3042.0,1905.0,,http://www.redfin.com/MA/Dorchester/5A-Lorenzo-St-02122/home/132314565,42.287053,-71.041914
+67,Condo/Co-op,280 W 5Th St #101,Boston,MA,2127,1249000,2.0,2.5,1624.0,,2017.0,295.0,http://www.redfin.com/MA/Boston/280-W-Fifth-St-02127/unit-101/home/141860342,42.3350973,-71.0483935
+68,Condo/Co-op,357 Commercial St #210,Boston,MA,2109,1000000,2.0,1.5,905.0,,1900.0,535.0,http://www.redfin.com/MA/Boston/357-Commercial-St-02109/unit-210/home/9230233,42.3661069,-71.0505699
+69,Multi-Family (2-4 Unit),48 Pearl St,Boston,MA,2129,1398000,3.0,3.0,3030.0,1433.0,1870.0,,http://www.redfin.com/MA/Charlestown/48-Pearl-St-02129/home/9060449,42.379355,-71.0639257
+70,Condo/Co-op,100 Lovejoy Wharf Ph 3B,Boston,MA,2114,1688000,2.0,2.0,1275.0,,2017.0,1770.0,http://www.redfin.com/MA/Boston/100-Lovejoy-Wharf-02114/unit-3B/home/146992744,42.367021799999996,-71.0600856
+71,Multi-Family (2-4 Unit),60 Lithgow St,Boston,MA,2124,850000,9.0,3.0,4410.0,5392.0,1905.0,,http://www.redfin.com/MA/Dorchester-Center/60-Lithgow-St-02124/home/9068714,42.2907089,-71.0679532
+72,Condo/Co-op,100 Saint Marys St #5,Boston,MA,2215,599000,2.0,1.0,652.0,5756.0,1880.0,479.0,http://www.redfin.com/MA/Boston/100-St-Marys-St-02215/unit-5/home/9251185,42.3465444,-71.10679820000001
+73,Condo/Co-op,2 Harvard Pl #2,Boston,MA,2129,529000,1.0,1.0,500.0,,1900.0,225.0,http://www.redfin.com/MA/Boston/2-Harvard-Pl-02129/unit-2/home/113226939,42.372338799999994,-71.0633492
+74,Condo/Co-op,1625 Commonwealth Ave #1,Boston,MA,2135,360000,1.0,1.0,471.0,471.0,1930.0,325.0,http://www.redfin.com/MA/Boston/1625-Commonwealth-Ave-02135/unit-1/home/9002414,42.3428162,-71.1449067
+75,Townhouse,77 Mount Vernon St Unit B,Somerville,MA,2145,639900,2.0,2.0,942.0,1403.0,1988.0,281.0,http://www.redfin.com/MA/Somerville/77-Mt-Vernon-St-02145/unit-B/home/8748445,42.382996,-71.081598
+76,Condo/Co-op,151 Tremont St Unit 16C,Boston,MA,2111,625000,1.0,1.0,735.0,735.0,1968.0,460.0,http://www.redfin.com/MA/Boston/151-Tremont-St-02111/unit-16C/home/9279685,42.354499600000004,-71.0633802
+77,Single Family Residential,108 Waldemar Ave,Boston,MA,2128,379000,3.0,1.0,1100.0,3864.0,1952.0,,http://www.redfin.com/MA/Boston/108-Waldemar-Ave-02128/home/9109147,42.392055400000004,-71.0030437
+78,Condo/Co-op,150 Orleans St #206,Boston,MA,2128,639900,1.0,1.0,948.0,948.0,1920.0,575.0,http://www.redfin.com/MA/Boston/150-Orleans-St-02128/unit-206/home/9107399,42.3702907,-71.03625550000001
+79,Condo/Co-op,465-469 Hanover St Unit 5R,Boston,MA,2113,499900,1.0,1.0,445.0,445.0,1899.0,206.0,http://www.redfin.com/MA/Boston/465-Hanover-St-02113/unit-5R/home/21639926,42.3667607,-71.05243440000001
+80,Multi-Family (2-4 Unit),202 South St,Boston,MA,2130,1200000,8.0,3.0,3628.0,4041.0,1905.0,,http://www.redfin.com/MA/Jamaica-Plain/202-South-St-02130/home/9150111,42.3032331,-71.11437719999999
+81,Condo/Co-op,130 Hyde Park Ave,Boston,MA,2130,699000,3.0,2.0,1720.0,,1885.0,300.0,http://www.redfin.com/MA/Boston/130-Hyde-Park-Ave-02130/home/9151607,42.2965552,-71.1155377
+82,Condo/Co-op,59 Congreve St #1,Boston,MA,2131,575000,2.0,1.0,1443.0,,1910.0,200.0,http://www.redfin.com/MA/Boston/59-Congreve-St-02131/unit-1/home/104491023,42.2898315,-71.1385552
+83,Townhouse,319 Grove St #319,Boston,MA,2132,449000,2.0,1.5,1206.0,1206.0,1983.0,371.0,http://www.redfin.com/MA/West-Roxbury/319-Grove-St-02132/unit-319/home/172664179,42.2589607,-71.15689420000001
+84,Condo/Co-op,34 E Newton #1,Boston,MA,2118,489000,1.0,1.0,380.0,,1900.0,239.0,http://www.redfin.com/MA/Boston/34-E-Newton-St-02118/unit-1/home/9285026,42.337987700000006,-71.0723858
+85,Condo/Co-op,147 Trenton St #2,Boston,MA,2128,499000,3.0,1.0,1007.0,1007.0,1880.0,160.0,http://www.redfin.com/MA/Boston/147-Trenton-St-02128/unit-2/home/18974362,42.3796922,-71.0336144
+86,Single Family Residential,65 Oak Square Ave,Boston,MA,2135,759000,4.0,1.5,1984.0,3224.0,1900.0,,http://www.redfin.com/MA/Brighton/65-Oak-Square-Ave-02135/home/9035150,42.351966,-71.1634879
+87,Multi-Family (2-4 Unit),59 Goodenough St,Boston,MA,2135,1100000,5.0,4.0,2688.0,4000.0,1924.0,,http://www.redfin.com/MA/Brighton/59-Goodenough-St-02135/home/9017416,42.3553165,-71.154576
+88,Condo/Co-op,20 Chapel St Unit B701,Brookline,MA,2446,729000,1.0,1.0,764.0,174240.0,1920.0,707.0,http://www.redfin.com/MA/Brookline/20-Chapel-St-02446/unit-B701/home/12458205,42.341032899999995,-71.1110021
+89,Condo/Co-op,280 Commonwealth Ave Unit G7,Boston,MA,2116,489000,0.0,1.0,547.0,547.0,1899.0,206.0,http://www.redfin.com/MA/Boston/280-Commonwealth-Ave-02116/unit-G7/home/9266452,42.3498104,-71.0840765
+90,Condo/Co-op,580 Washington St #404,Boston,MA,2111,850000,1.0,1.0,777.0,,2013.0,742.0,http://www.redfin.com/MA/Boston/580-Washington-St-02111/unit-404/home/85680490,42.3533804,-71.0619769
+91,Condo/Co-op,222 W Canton St #1,Boston,MA,2116,3095000,3.0,3.5,2534.0,2534.0,1890.0,427.0,http://www.redfin.com/MA/Boston/222-W-Canton-St-02116/unit-1/home/18982993,42.3452163,-71.07752579999999
+92,Condo/Co-op,10 Otis Pl Unit 4B,Boston,MA,2108,3650000,3.0,3.5,2418.0,,1900.0,945.0,http://www.redfin.com/MA/Boston/10-Otis-Pl-02108/unit-4B/home/9254625,42.357033200000004,-71.0724566
+93,Condo/Co-op,65 Chester St #8,Boston,MA,2134,399000,2.0,1.0,700.0,700.0,1920.0,470.0,http://www.redfin.com/MA/Boston/65-Chester-St-02134/unit-8/home/8992078,42.3527821,-71.1280084
+94,Condo/Co-op,124 Calumet St #3,Boston,MA,2120,729000,4.0,2.0,1685.0,1685.0,1900.0,250.0,http://www.redfin.com/MA/Boston/124-Calumet-St-02120/unit-3/home/9326950,42.330958100000004,-71.10237059999999
+95,Condo/Co-op,140 Kilsyth Rd #4,Boston,MA,2135,545000,2.0,1.0,937.0,937.0,1912.0,390.0,http://www.redfin.com/MA/Boston/140-Kilsyth-Rd-02135/unit-4/home/9308628,42.339434499999996,-71.14685379999999
+96,Multi-Family (2-4 Unit),19 Rexhame,Boston,MA,2131,789500,5.0,2.0,2804.0,5000.0,1920.0,,http://www.redfin.com/MA/Roslindale/19-Rexhame-St-02131/home/9173220,42.2853578,-71.14301809999999
+97,Condo/Co-op,51 Old Harbor St #1,Boston,MA,2127,699000,2.0,2.0,1126.0,1126.0,1890.0,200.0,http://www.redfin.com/MA/Boston/51-Old-Harbor-St-02127/unit-1/home/45406992,42.3331018,-71.04764209999999
+98,Condo/Co-op,238 Bremen #3,Boston,MA,2128,640000,2.0,2.0,1127.0,,2020.0,200.0,http://www.redfin.com/MA/Boston/238-Bremen-St-02128/unit-3/home/172663293,42.3744864,-71.03257459999999
+99,Condo/Co-op,45 Mount Vernon St Unit 4A,Boston,MA,2108,995000,1.0,2.0,1080.0,1080.0,1850.0,307.0,http://www.redfin.com/MA/Boston/45-Mt-Vernon-St-02108/unit-4A/home/9259211,42.358470200000006,-71.0653301
+100,Condo/Co-op,45 High St Unit B,Boston,MA,2129,409000,0.0,1.0,590.0,,1890.0,131.0,http://www.redfin.com/MA/Boston/45-High-St-02129/unit-B/home/9062131,42.376503,-71.063011
+101,Condo/Co-op,702 Massachuestts Ave #7,Boston,MA,2118,380000,1.0,1.0,372.0,,1910.0,295.0,http://www.redfin.com/MA/Boston/702-Massachusetts-Ave-02118/unit-7/home/9323017,42.335206299999996,-71.07499849999999
+102,Townhouse,101 Grew Ave Unit B,Boston,MA,2131,399900,3.0,2.5,1380.0,1380.0,1988.0,311.0,http://www.redfin.com/MA/Boston/101-Grew-Ave-02131/unit-B/home/9307283,42.275047,-71.12258299999999
+103,Condo/Co-op,59 Goodenough St #2,Boston,MA,2135,600000,3.0,2.0,1500.0,,1924.0,200.0,http://www.redfin.com/MA/Brighton/59-Goodenough-St-02135/unit-2/home/169246934,42.3553165,-71.154576
+104,Condo/Co-op,59 Goodenough St #1,Boston,MA,2135,500000,2.0,2.0,900.0,,1924.0,200.0,http://www.redfin.com/MA/Brighton/59-Goodenough-St-02135/unit-1/home/169246933,42.3553165,-71.154576
+105,Condo/Co-op,10 Greenley Pl #3,Boston,MA,2130,519000,3.0,1.0,1292.0,,1910.0,200.0,http://www.redfin.com/MA/Boston/10-Greenley-Pl-02130/unit-3/home/11506595,42.310512,-71.1050517
+106,Multi-Family (2-4 Unit),76 Ridgewood,Boston,MA,2122,839900,9.0,3.0,3249.0,4116.0,1905.0,,http://www.redfin.com/MA/Dorchester/76-Ridgewood-St-02122/home/9079690,42.3026215,-71.06437829999999
+107,Single Family Residential,38 Osceola St,Boston,MA,2136,399000,3.0,2.0,1248.0,4941.0,1920.0,,http://www.redfin.com/MA/HYDE-PARK/38-OSCEOLA-ST-02136/home/9164460,42.262031,-71.102172
+108,Condo/Co-op,380 Bunker Hill St #303,Boston,MA,2129,1729000,3.0,3.0,1871.0,,1907.0,910.0,http://www.redfin.com/MA/Boston/380-Bunker-Hill-St-02129/unit-303/home/172662806,42.381908,-71.0693692
+109,Condo/Co-op,5 Appleton St Unit 3B,Boston,MA,2116,1049900,2.0,1.0,1025.0,1025.0,1900.0,365.0,http://www.redfin.com/MA/Boston/5-Appleton-St-02116/unit-3B/home/11836677,42.3466867,-71.06987579999999
+110,Condo/Co-op,239 Lexington St #2,Boston,MA,2128,799900,3.0,2.0,1362.0,,1900.0,300.0,http://www.redfin.com/MA/Boston/239-Lexington-St-02128/unit-2/home/172662778,42.379866,-71.031137
+111,Condo/Co-op,1949 Commonwealth Ave #32,Boston,MA,2135,410000,1.0,1.0,610.0,,1932.0,290.0,http://www.redfin.com/MA/Boston/1949-Commonwealth-Ave-02135/unit-32/home/9242484,42.3395204,-71.1563018
+112,Condo/Co-op,78 Forest Hills St #1,Boston,MA,2130,525000,2.0,1.0,1038.0,4262.0,1905.0,160.0,http://www.redfin.com/MA/Boston/78-Forest-Hills-St-02130/unit-1/home/12441538,42.309496700000004,-71.1021592
+113,Single Family Residential,20 Woodland Pl,Boston,MA,2136,600000,3.0,2.0,1655.0,29837.0,1920.0,,http://www.redfin.com/MA/Hyde-Park/20-Woodland-Pl-02136/home/9136551,42.252680299999994,-71.1223151
+114,Condo/Co-op,111 Perkins St Unit 224-6,Boston,MA,2130,1180000,3.0,3.0,2100.0,,1963.0,2999.0,http://www.redfin.com/MA/Jamaica-Plain/111-Perkins-St-02130/unit-224-6/home/172662654,42.3219957,-71.1164429
+115,Multi-Family (2-4 Unit),112 Moore St,Boston,MA,2128,689900,3.0,2.0,1408.0,1875.0,1900.0,,http://www.redfin.com/MA/Boston/112-Moore-St-02128/home/9108659,42.381048299999996,-71.01754240000001
+116,Condo/Co-op,85 E India Row Unit 9c,Boston,MA,2110,1379000,1.0,1.5,1238.0,,1972.0,1405.0,http://www.redfin.com/MA/Boston/85-E-India-Row-02110/unit-9C/home/9261388,42.3581217,-71.0498232
+117,Single Family Residential,12-14 Ennis Rd,Boston,MA,2119,900000,3.0,2.0,1630.0,8388.0,1900.0,,http://www.redfin.com/MA/Boston/12-Ennis-Rd-02119/home/77488250,42.312571000000005,-71.09745
+118,Townhouse,5-7 Louis Ter Unit 5A,Boston,MA,2124,535000,2.0,1.5,997.0,,2010.0,244.0,http://www.redfin.com/MA/Boston/5-Louis-Ter-02124/unit-5A/home/39925150,42.2877959,-71.0568771
+119,Condo/Co-op,480 Shawmut Unit 4B,Boston,MA,2118,749000,2.0,1.0,735.0,,1900.0,348.0,http://www.redfin.com/MA/Boston/480-Shawmut-Ave-02118/unit-4B/home/9286718,42.338464,-71.0760081
+120,Multi-Family (2-4 Unit),44 Hooker St,Boston,MA,2134,1490000,11.0,4.0,3504.0,5104.0,1930.0,,http://www.redfin.com/MA/Allston/44-Hooker-St-02134/home/8991282,42.3585208,-71.1284426
+121,Condo/Co-op,469 E 4th St #2,Boston,MA,2127,1399000,2.0,2.5,2037.0,,2017.0,397.0,http://www.redfin.com/MA/Boston/469-E-4th-St-02127/unit-2/home/113865255,42.3346813,-71.0465833
+122,Condo/Co-op,93 Strathmore Rd #2,Boston,MA,2135,375000,1.0,1.0,617.0,,1935.0,566.0,http://www.redfin.com/MA/Boston/93-Strathmore-Rd-02135/unit-2/home/9026450,42.339242299999995,-71.15048279999999
+123,Condo/Co-op,429 Chelsea St Unit - 1,Boston,MA,2128,528000,3.0,2.0,992.0,,1890.0,148.0,http://www.redfin.com/MA/Boston/429-Chelsea-St-02128/unit-1/home/167201933,42.38088629999999,-71.0257492
+124,Condo/Co-op,10 Sydney St #3,Boston,MA,2125,899900,2.0,2.0,1242.0,,2019.0,184.0,http://www.redfin.com/MA/Dorchester/10-Sydney-St-02125/unit-3/home/163834607,42.3119283,-71.05372320000001
+125,Condo/Co-op,15 Dixfield St #2,Boston,MA,2127,808000,2.0,1.5,1086.0,1017.0,1890.0,225.0,http://www.redfin.com/MA/Boston/15-Dixfield-St-02127/unit-2/home/9309048,42.3316331,-71.0468116
+126,Townhouse,2 W Main St #2,Boston,MA,2126,429000,3.0,2.5,1417.0,1417.0,2009.0,344.0,http://www.redfin.com/MA/Boston/2-W-Main-St-02124/unit-2/home/104210358,42.28702379999999,-71.0954689
+127,Multi-Family (2-4 Unit),31 Hiawatha Rd,Boston,MA,2126,899900,9.0,3.0,4160.0,3822.0,1905.0,,http://www.redfin.com/MA/Mattapan/31-Hiawatha-Rd-02126/home/11835915,42.2768655,-71.0948798
+128,Townhouse,59 Fuller St #59,Boston,MA,2124,449000,2.0,1.5,1110.0,1552.0,1988.0,253.0,http://www.redfin.com/MA/Boston/59-Fuller-St-02124/unit-59/home/113229878,42.2832258,-71.0682062
+129,Condo/Co-op,56 Bryon Rd #2,Boston,MA,2467,299000,2.0,1.0,786.0,786.0,1950.0,299.0,http://www.redfin.com/MA/Chestnut-Hill/56-Bryon-Rd-02467/unit-2/home/9204372,42.3010409,-71.16750350000001
+130,Condo/Co-op,1 Avery St Unit 15G,Boston,MA,2111,1495000,2.0,2.5,1402.0,,2000.0,2004.0,http://www.redfin.com/MA/Boston/1-Avery-St-02111/unit-15G/home/9312453,42.353316799999995,-71.0628507
+131,Single Family Residential,35 Halsey Rd,Boston,MA,2136,469999,3.0,1.0,1008.0,5333.0,1950.0,,http://www.redfin.com/MA/Hyde-Park/35-Halsey-Rd-02136/home/9136763,42.242008,-71.12431120000001
+132,Condo/Co-op,10 Linley Ter #1,Boston,MA,2127,715000,2.0,2.0,871.0,,1900.0,141.0,http://www.redfin.com/MA/Boston/10-Linley-Ter-02127/unit-1/home/69442410,42.33595510000001,-71.0390909
+133,Single Family Residential,10 Ashfield St,Boston,MA,2131,1150000,5.0,4.5,3843.0,6000.0,1896.0,,http://www.redfin.com/MA/Roslindale/10-Ashfield-St-02131/home/9169397,42.2897761,-71.1304154
+134,Single Family Residential,29 Westmount Ave,Boston,MA,2132,860000,4.0,2.0,1683.0,14130.0,1900.0,,http://www.redfin.com/MA/West-Roxbury/29-Westmount-Ave-02132/home/9201089,42.283318,-71.160421
+135,Condo/Co-op,399 Main St #3,Boston,MA,2129,700000,1.0,1.0,935.0,,1865.0,179.0,http://www.redfin.com/MA/Boston/399-Main-St-02129/unit-3/home/56465958,42.3803847,-71.0697615
+136,Condo/Co-op,114 Main St #3,Boston,MA,2129,829000,1.0,1.0,902.0,,1899.0,200.0,http://www.redfin.com/MA/Charlestown/114-Main-St-02129/unit-3/home/172660202,42.3743476,-71.0638223
+137,Condo/Co-op,114 Main St #2,Boston,MA,2129,1029000,2.0,2.0,1124.0,,1899.0,200.0,http://www.redfin.com/MA/Charlestown/114-Main-St-02129/unit-2/home/172660201,42.3743476,-71.0638223
+138,Condo/Co-op,114 Main St #4,Boston,MA,2129,799000,1.0,1.0,852.0,,1899.0,200.0,http://www.redfin.com/MA/Charlestown/114-Main-St-02129/unit-4/home/172660188,42.3743476,-71.0638223
+139,Townhouse,15 Sparhawk St #2,Boston,MA,2135,949000,2.0,2.0,1529.0,,1889.0,185.0,http://www.redfin.com/MA/Boston/15-Sparhawk-St-02135/unit-2/home/105427154,42.351060700000005,-71.14960390000002
+140,Condo/Co-op,461 Beacon St #2,Boston,MA,2115,1200000,2.0,2.5,1178.0,1178.0,1880.0,300.0,http://www.redfin.com/MA/Boston/461-Beacon-St-02115/unit-2/home/11735548,42.350934,-71.0881213
+141,Townhouse,24 Mount Vernon St Unit C,Boston,MA,2125,699000,3.0,2.0,1357.0,1357.0,1995.0,250.0,http://www.redfin.com/MA/Dorchester/24-Mount-Vernon-St-02125/unit-C/home/172671636,42.322203,-71.0578785
+142,Condo/Co-op,2 Avery St Unit 29D,Boston,MA,2111,2300000,2.0,2.5,1596.0,1596.0,1999.0,2477.0,http://www.redfin.com/MA/Boston/2-Avery-St-02111/unit-29D/home/9313066,42.3528703,-71.06299759999999
+143,Condo/Co-op,86 Worcester St #2,Boston,MA,2118,799000,2.0,1.0,763.0,,1899.0,160.0,http://www.redfin.com/MA/Boston/86-Worcester-St-02118/unit-2/home/9290354,42.3394635,-71.0784231
+144,Single Family Residential,12 Worthington Rd,Brookline,MA,2446,4495000,7.0,3.5,5500.0,10877.0,1913.0,,http://www.redfin.com/MA/Brookline/12-Worthington-Rd-02446/home/11442047,42.3486911,-71.1120329
+145,Condo/Co-op,133 Seaport Blvd #512,Boston,MA,2210,948900,0.0,1.0,611.0,,2019.0,718.0,http://www.redfin.com/MA/Boston/133-Seaport-Blvd-02210/unit-512/home/170280896,42.3504935,-71.0434498
+146,Townhouse,96 Beacon St #2,Boston,MA,2108,5650000,3.0,3.5,2831.0,2831.0,1900.0,2621.0,http://www.redfin.com/MA/Boston/96-Beacon-St-02108/unit-2/home/12369130,42.355692100000006,-71.0727037
+147,Condo/Co-op,38 Jamaica St #2,Boston,MA,2130,899000,2.0,2.5,1356.0,4800.0,1880.0,150.0,http://www.redfin.com/MA/Boston/38-Jamaica-St-02130/unit-2/home/172658795,42.3058243,-71.117705
+148,Condo/Co-op,16 Sackville St #1,Boston,MA,2129,559000,1.0,1.0,602.0,,1880.0,111.0,http://www.redfin.com/MA/Boston/16-Sackville-St-02129/unit-1/home/18982685,42.3809849,-71.0650444
+149,Single Family Residential,38 Jamaica St,Boston,MA,2130,899000,2.0,2.5,1356.0,4800.0,1880.0,150.0,http://www.redfin.com/MA/Boston/38-Jamaica-St-02130/unit-000038/home/9299576,42.3058243,-71.117705
+150,Condo/Co-op,151 Tremont St #405,Boston,MA,2111,79000,0.0,,9999.0,,1969.0,142.0,http://www.redfin.com/MA/Boston/151-Tremont-St-02111/unit-405/home/166995900,42.354986100000005,-71.063255
+151,Condo/Co-op,1672-R Washington St Ph 1,Boston,MA,2118,1895000,2.0,2.5,1579.0,1579.0,2013.0,734.0,http://www.redfin.com/MA/Boston/1672-Washington-St-02118/unit-1/home/65653991,42.337431099999996,-71.07540159999999
+152,Condo/Co-op,32 Union Park #4,Boston,MA,2118,1385000,2.0,2.0,1028.0,1028.0,1900.0,319.0,http://www.redfin.com/MA/Boston/32-Union-Park-02118/unit-4/home/9282029,42.342769399999995,-71.0718842
+153,Condo/Co-op,1 Winter Pl,Boston,MA,2108,2750000,3.0,2.5,3323.0,,1832.0,942.0,http://www.redfin.com/MA/Boston/1-Winter-Pl-02108/home/54813702,42.355552100000004,-71.06138349999999
+154,Multi-Family (2-4 Unit),65 Harvest St,Boston,MA,2125,1195000,5.0,2.0,3111.0,5455.0,1900.0,,http://www.redfin.com/MA/Dorchester/65-Harvest-St-02125/home/9099735,42.323602799999996,-71.05954990000001
+155,Condo/Co-op,135 Appleton St #1,Boston,MA,2116,1399000,2.0,2.0,1222.0,1222.0,1899.0,100.0,http://www.redfin.com/MA/Boston/135-Appleton-St-02116/unit-1/home/9233249,42.3451784,-71.0751838
+156,Condo/Co-op,1030 Bennington St #2,Boston,MA,2128,360000,2.0,1.0,842.0,842.0,1960.0,437.0,http://www.redfin.com/MA/Boston/1030-Bennington-St-02128/unit-2/home/9106990,42.3873473,-71.0054538
+157,Condo/Co-op,86 Eutaw #3,Boston,MA,2128,549900,2.0,1.0,830.0,,1870.0,275.0,http://www.redfin.com/MA/Boston/86-Eutaw-St-02128/unit-3/home/77467167,42.37990070000001,-71.0363592
+158,Condo/Co-op,65 E India Row Unit 29D,Boston,MA,2110,699000,1.0,1.0,749.0,749.0,1972.0,844.0,http://www.redfin.com/MA/Boston/65-E-India-Row-02110/unit-29D/home/9261030,42.3576699,-71.05048590000001
+159,Single Family Residential,510 E 8Th St,Boston,MA,2127,849000,2.0,1.5,1215.0,1140.0,1900.0,,http://www.redfin.com/MA/Boston/510-E-8th-St-02127/home/9194586,42.331507,-71.04106309999999
+160,Multi-Family (2-4 Unit),73 Halifax St,Boston,MA,2130,1799999,10.0,3.0,4965.0,4611.0,1910.0,,http://www.redfin.com/MA/Jamaica-Plain/73-Halifax-St-02130/home/9141985,42.3206968,-71.11536269999999
+161,Condo/Co-op,443 W 4Th St #1,Boston,MA,2127,699000,2.0,2.0,840.0,,1890.0,215.0,http://www.redfin.com/MA/Boston/443-W-Fourth-St-02127/unit-1/home/18996726,42.3353342,-71.0477157
+162,Condo/Co-op,39 A #18,Boston,MA,2127,899000,2.0,2.0,892.0,,2018.0,272.0,http://www.redfin.com/MA/Boston/39-A-St-02127/unit-18/home/143897180,42.3413218,-71.05599529999999
+163,Condo/Co-op,8 Everett #2,Boston,MA,2130,1050000,2.0,2.0,1423.0,5440.0,1884.0,300.0,http://www.redfin.com/MA/Jamaica-Plain/8-Everett-St-02130/unit-2/home/172656690,42.310028100000004,-71.10878340000001
+164,Condo/Co-op,6 Charter St #1,Boston,MA,2113,699900,2.0,1.0,1040.0,,1890.0,200.0,http://www.redfin.com/MA/Boston/6-Charter-St-02113/unit-1/home/9278005,42.365938899999996,-71.05318840000001
+165,Condo/Co-op,156-168 Terrace St #411,Boston,MA,2120,699000,2.0,2.0,1511.0,,1900.0,900.0,http://www.redfin.com/MA/Boston/156-168-Terrace-St-02120/unit-411/home/45407037,42.329133899999995,-71.0973695
+166,Condo/Co-op,156 Terrace St #403,Boston,MA,2120,619900,2.0,2.0,1378.0,,1900.0,821.0,http://www.redfin.com/MA/Boston/156-Terrace-St-02120/unit-403/home/172656343,42.3272225,-71.0985355
+167,Condo/Co-op,156 Terrace St #409,Boston,MA,2120,679900,2.0,2.0,1492.0,,1900.0,889.0,http://www.redfin.com/MA/Boston/156-Terrace-St-02120/unit-409/home/172656325,42.3272225,-71.0985355
+168,Single Family Residential,43 Senator Bolling Cir,Boston,MA,2124,999999,4.0,3.5,3200.0,6663.0,2020.0,,http://www.redfin.com/MA/Boston/43-Senator-Bolling-Cir-02124/home/85680085,42.2901273,-71.0939353
+169,Condo/Co-op,655 E 5Th St #2,Boston,MA,2127,855000,2.0,2.0,1100.0,,2018.0,225.0,http://www.redfin.com/MA/Boston/655-E-5th-St-02127/unit-2/home/172655494,42.3338206,-71.0343854
+170,Condo/Co-op,655 E 5Th St #1,Boston,MA,2127,1099000,3.0,3.0,1600.0,,2019.0,275.0,http://www.redfin.com/MA/Boston/655-E-5th-St-02127/unit-1/home/172655465,42.3338206,-71.0343854
+171,Condo/Co-op,365 E St #2,Boston,MA,2127,1099000,3.0,2.5,1375.0,,2018.0,275.0,http://www.redfin.com/MA/Boston/365-E-St-02127/unit-2/home/172655464,42.3388133,-71.0478774
+172,Condo/Co-op,365 E St #1,Boston,MA,2127,849000,1.0,1.5,1275.0,,2019.0,250.0,http://www.redfin.com/MA/Boston/365-E-St-02127/unit-1/home/172655451,42.3388133,-71.0478774
+173,Condo/Co-op,729 E 5th #2,Boston,MA,2127,1290000,3.0,3.0,2000.0,,2018.0,250.0,http://www.redfin.com/MA/Boston/729-E-5th-St-02127/unit-2/home/171033311,42.33379,-71.03073
+174,Condo/Co-op,1 Goodwin Pl #1,Boston,MA,2114,825000,2.0,1.5,798.0,,1899.0,348.0,http://www.redfin.com/MA/Boston/1-Goodwin-Pl-02114/unit-1/home/113225598,42.3595258,-71.0690771
+175,Condo/Co-op,229 Princeton St #1,Boston,MA,2128,479000,2.0,1.0,827.0,,1900.0,259.0,http://www.redfin.com/MA/Boston/229-Princeton-St-02128/unit-1/home/113972995,42.379079,-71.03122809999999
+176,Single Family Residential,620 E 6th,Boston,MA,2127,1075000,5.0,2.5,2040.0,1425.0,1890.0,,http://www.redfin.com/MA/Boston/620-E-6th-St-02127/home/9188094,42.3332781,-71.03569590000001
+177,Condo/Co-op,1870 Commonwealth Ave #14,Boston,MA,2135,389900,1.0,1.0,650.0,650.0,1930.0,325.0,http://www.redfin.com/MA/Boston/1870-Commonwealth-Ave-02135/unit-14/home/9028052,42.3380512,-71.1524517
+178,Single Family Residential,25 Millstone Rd,Boston,MA,2136,559000,4.0,1.5,1450.0,4979.0,1967.0,,http://www.redfin.com/MA/Hyde-Park/25-Millstone-Rd-02136/home/9134282,42.2336838,-71.1337808
+179,Condo/Co-op,593 E 5th #3,Boston,MA,2127,435000,1.0,1.0,515.0,,1890.0,180.0,http://www.redfin.com/MA/Boston/593-E-5th-St-02127/unit-3/home/9303307,42.3337723,-71.0366235
+180,Condo/Co-op,1982 Commonwealth Ave #8,Boston,MA,2135,559000,2.0,1.0,893.0,9999.0,1927.0,533.0,http://www.redfin.com/MA/Boston/1982-Commonwealth-Ave-02135/unit-8/home/9032622,42.3392584,-71.1578663
+181,Condo/Co-op,2 Avery Unit 25A,Boston,MA,1111,1125000,1.0,1.5,804.0,,2000.0,1200.0,http://www.redfin.com/MA/Boston/2-Avery-St-02111/unit-25A/home/11837562,42.3528703,-71.06299759999999
+182,Condo/Co-op,3531 Washington St Ph 522,Boston,MA,2130,890000,2.0,2.0,1414.0,,2020.0,817.0,http://www.redfin.com/MA/Boston/3531-Washington-St-02130/unit-522/home/171974962,42.30555220000001,-71.108879
+183,Condo/Co-op,1880 Beacon St #6,Brookline,MA,2445,469999,1.0,1.0,474.0,,1900.0,254.0,http://www.redfin.com/MA/Brookline/1880-Beacon-St-02445/unit-6/home/11457126,42.337094799999996,-71.1470676
+184,Condo/Co-op,135 Seaport Blvd #2002,Boston,MA,2210,3545000,3.0,3.5,1899.0,,2020.0,2855.0,http://www.redfin.com/MA/Boston/135-Seaport-Blvd-02210/unit-2002/home/172651387,42.3509604,-71.04390129999999
+185,Condo/Co-op,135 Seaport Blvd #707,Boston,MA,2210,1284000,1.0,1.0,845.0,,2020.0,1051.0,http://www.redfin.com/MA/Boston/135-Seaport-Blvd-02210/unit-707/home/170936434,42.3509604,-71.04390129999999
+186,Condo/Co-op,135 Seaport Blvd #708,Boston,MA,2210,994000,1.0,1.0,670.0,,2020.0,892.0,http://www.redfin.com/MA/Boston/135-Seaport-Blvd-02210/unit-708/home/168964696,42.3509604,-71.04390129999999
+187,Single Family Residential,414 E Fifth St,Boston,MA,2127,799000,4.0,1.0,1788.0,1831.0,1911.0,,http://www.redfin.com/MA/Boston/414-E-5th-St-02127/home/9189302,42.333996899999995,-71.043224
+188,Townhouse,391 Hyde Park Ave #109,Boston,MA,2131,395000,2.0,1.5,1005.0,1005.0,1989.0,357.0,http://www.redfin.com/MA/Boston/391-Hyde-Park-Ave-02131/unit-109/home/9166640,42.286974900000004,-71.1190184
+189,Condo/Co-op,37 Paul Gore St #1,Boston,MA,2130,825000,3.0,1.5,1369.0,1369.0,1905.0,151.0,http://www.redfin.com/MA/Boston/37-Paul-Gore-St-02130/unit-1/home/9138758,42.319926,-71.1093578
+190,Condo/Co-op,73 Sullivan St #3,Boston,MA,2129,639000,2.0,1.0,733.0,,1899.0,150.0,http://www.redfin.com/MA/Boston/73-Sullivan-St-02129/unit-3/home/9060224,42.37889929999999,-71.06506970000001
+191,Condo/Co-op,478 Beacon St #1,Boston,MA,2115,445000,0.0,1.0,323.0,,1892.0,182.0,http://www.redfin.com/MA/Boston/478-Beacon-St-02115/unit-1/home/9244461,42.3514011,-71.0886036
+192,Condo/Co-op,99 Grove St #4,Boston,MA,2132,229900,1.0,1.0,605.0,,1965.0,245.0,http://www.redfin.com/MA/Boston/99-Grove-St-02132/unit-4/home/9222658,42.2660714,-71.1596885
+193,Condo/Co-op,104 BROOKLEY #2,Boston,MA,2130,629000,2.0,2.0,1100.0,,2020.0,165.0,http://www.redfin.com/MA/Jamaica-Plain/104-Brookley-Rd-02130/unit-2/home/172649412,42.3026976,-71.1051218
+194,Condo/Co-op,1 Franklin #1009,Boston,MA,2110,1239000,1.0,1.0,780.0,,2016.0,1055.0,http://www.redfin.com/MA/Boston/1-Franklin-St-02110/unit-1009/home/145254388,42.3563166,-71.0595573
+195,Condo/Co-op,163 Beacon St Unit B1,Boston,MA,2116,510000,1.0,1.0,520.0,,1900.0,385.0,http://www.redfin.com/MA/Boston/163-Beacon-St-02116/unit-B1/home/9252332,42.3543829,-71.0753556
+196,Townhouse,820 Truman Pkwy #1,Boston,MA,2136,620000,3.0,3.5,2448.0,,2018.0,240.0,http://www.redfin.com/MA/Boston/820-Truman-Pkwy-02136/unit-1/home/143800313,42.2488959,-71.1235218
+197,Condo/Co-op,66 Montcalm Ave #2,Boston,MA,2135,650000,3.0,2.0,1580.0,,1900.0,,http://www.redfin.com/MA/Brighton/66-Montcalm-Ave-02135/unit-2/home/172649033,42.3531027,-71.14854179999999
+198,Townhouse,6 Cheshire St #6,Boston,MA,2130,1199000,3.0,2.5,2614.0,2614.0,1870.0,350.0,http://www.redfin.com/MA/Boston/6-Cheshire-St-02130/unit-6/home/172649002,42.3119674,-71.1096963
+199,Multi-Family (2-4 Unit),313 Meridian,Boston,MA,2128,999900,4.0,2.0,2457.0,623.0,1920.0,,http://www.redfin.com/MA/East-Boston/313-Meridian-St-02128/unit-313A/home/11506110,42.377486100000006,-71.0389936
+200,Condo/Co-op,993 Memorial Dr #301,Cambridge,MA,2138,785000,2.0,1.0,740.0,,1900.0,467.0,http://www.redfin.com/MA/Cambridge/993-Memorial-Dr-02138/unit-301/home/11575093,42.3735563,-71.1262848
+201,Multi-Family (5+ Unit),42-44 Fenton St,Boston,MA,2122,1649000,10.0,6.0,4308.0,4000.0,1910.0,,http://www.redfin.com/MA/Boston/42-Fenton-St-02122/home/9085591,42.3036068,-71.0568588
+202,Condo/Co-op,2 Battery Wharf #2501,Boston,MA,2109,865000,1.0,1.5,932.0,,2006.0,1237.0,http://www.redfin.com/MA/Boston/2-Battery-Wharf-02109/unit-2501/home/17486351,42.367101500000004,-71.0504206
+203,Multi-Family (2-4 Unit),10 Branton St,Boston,MA,2122,859000,5.0,2.0,2464.0,4000.0,1928.0,,http://www.redfin.com/MA/Dorchester/10-Branton-St-02122/home/9103028,42.283719700000006,-71.0524928
+204,Condo/Co-op,170 Tremont St #1801,Boston,MA,2111,1679000,3.0,2.0,1431.0,1431.0,1989.0,1991.0,http://www.redfin.com/MA/Boston/170-Tremont-St-02111/unit-1801/home/9232403,42.3536576,-71.063854
+205,Condo/Co-op,127 Shirley St #2,Boston,MA,2119,419900,2.0,1.5,743.0,,1890.0,200.0,http://www.redfin.com/MA/Boston/127-Shirley-St-02119/unit-2/home/172647736,42.3253189,-71.0685103
+206,Townhouse,76 Charles Unit STORE,Boston,MA,2114,595000,0.0,0.5,392.0,,1920.0,6.0,http://www.redfin.com/MA/Boston/76-Charles-St-02114/unit-STORE/home/9304445,42.3580852,-71.0706368
+207,Single Family Residential,24 Winslow Rd,Brookline,MA,2446,2150000,5.0,4.5,2600.0,3228.0,1900.0,,http://www.redfin.com/MA/Brookline/24-Winslow-Rd-02446/home/11448582,42.350891499999996,-71.1223813
+208,Parking,57 L St,Boston,MA,2127,99000,,,,85.0,,100.0,http://www.redfin.com/MA/Boston/57-L-St-02127/home/145291287,42.3361222,-71.0356854
+209,Multi-Family (2-4 Unit),21 Leroy St,Boston,MA,2122,1250000,9.0,3.0,3972.0,3000.0,1905.0,,http://www.redfin.com/MA/Dorchester/21-Leroy-St-02122/home/9080640,42.300861299999994,-71.0651676
+210,Condo/Co-op,411 Shawmut Ave #5,Boston,MA,2118,539000,0.0,1.0,450.0,,1899.0,236.0,http://www.redfin.com/MA/Boston/411-Shawmut-Ave-02118/unit-5/home/9286302,42.34038820000001,-71.07387740000001
+211,Condo/Co-op,52 Fisher Ave #4,Boston,MA,2120,759000,3.0,2.0,1186.0,,2020.0,250.0,http://www.redfin.com/MA/Boston/52-Fisher-Ave-02120/unit-4/home/172646561,42.3275326,-71.10216640000002
+212,Townhouse,808 Washington #808,Brookline,MA,2445,2049000,4.0,4.5,2179.0,10018.0,1806.0,400.0,http://www.redfin.com/MA/Brookline/808-Washington-St-02446/unit-808/home/172646436,42.341500599999996,-71.1394034
+213,Condo/Co-op,50 Melrose St Unit 1 / 2,Boston,MA,2116,995000,0.0,1.5,2016.0,,1915.0,682.0,http://www.redfin.com/MA/Boston/50-Melrose-St-02116/unit-1-2/home/170591109,42.3488792,-71.0688545
+214,Condo/Co-op,623 Cummns Hwy Unit A,Boston,MA,2136,219000,2.0,1.0,601.0,,1950.0,398.0,http://www.redfin.com/MA/HYDE-PARK/623-CUMMINS-HWY-02136/unit-A/home/21717525,42.271674,-71.106985
+215,Condo/Co-op,496 E 3Rd St #3,Boston,MA,2127,759000,2.0,2.0,906.0,906.0,1920.0,200.0,http://www.redfin.com/MA/Boston/496-E-3rd-St-02127/unit-3/home/85680795,42.3365545,-71.0400751
+216,Single Family Residential,209 W 6th St #209,Boston,MA,2127,859000,3.0,3.0,1390.0,,1989.0,,http://www.redfin.com/MA/Boston/209-W-Sixth-St-02127/unit-209/home/137813485,42.335213700000004,-71.0507319
+217,Condo/Co-op,105 Fletcher St #1,Boston,MA,2131,449000,2.0,1.5,1065.0,,1928.0,175.0,http://www.redfin.com/MA/Boston/105-Fletcher-St-02131/unit-1/home/26850251,42.2911549,-71.139146
+218,Condo/Co-op,9 Hawthorne Pl Unit 16R,Boston,MA,2114,619000,1.0,1.0,941.0,941.0,1967.0,892.0,http://www.redfin.com/MA/Boston/9-Hawthorne-Pl-02114/unit-16R/home/9275700,42.364366100000005,-71.0655158
+219,Condo/Co-op,10 Clover St #2,Boston,MA,2122,549000,2.0,1.5,1128.0,,1906.0,168.0,http://www.redfin.com/MA/Boston/10-Clover-St-02122/unit-2/home/69369912,42.285596500000004,-71.04512170000001
+220,Condo/Co-op,221 Mount Auburn St #302,Cambridge,MA,2138,1200000,1.0,1.0,998.0,,1960.0,1312.0,http://www.redfin.com/MA/Cambridge/221-Mt-Auburn-St-02138/unit-302/home/11587449,42.374825,-71.1302303
+221,Multi-Family (2-4 Unit),211 Chelsea St,Boston,MA,2128,1250000,11.0,3.0,3290.0,1616.0,1910.0,,http://www.redfin.com/MA/Boston/211-Chelsea-St-02128/home/9117681,42.3747958,-71.0327023
+222,Townhouse,138 Brown Ave #1,Boston,MA,2131,979900,4.0,2.5,2100.0,,2020.0,250.0,http://www.redfin.com/MA/Roslindale/138-Brown-Ave-02131/unit-1/home/172641519,42.284281299999996,-71.1211954
+223,Condo/Co-op,93 Baldwin Unit A,Boston,MA,2129,675000,2.0,1.5,927.0,,1890.0,240.0,http://www.redfin.com/MA/Charlestown/93-Baldwin-St-02129/unit-A/home/172641396,42.3829885,-71.0694505
+224,Condo/Co-op,514-516 Harvard St Unit 1C,Brookline,MA,2446,689900,3.0,2.0,1092.0,,1915.0,643.0,http://www.redfin.com/MA/Brookline/514-Harvard-St-02446/unit-1C/home/11450173,42.3481984,-71.1295329
+225,Multi-Family (2-4 Unit),96 Sheridan St,Boston,MA,2130,999990,5.0,3.0,2984.0,2100.0,1905.0,,http://www.redfin.com/MA/Jamaica-Plain/96-Sheridan-St-02130/unit-96A/home/9140674,42.3197878,-71.1062069
+226,Condo/Co-op,596 E 2Nd St #1,Boston,MA,2127,565000,2.0,1.0,708.0,708.0,1905.0,150.0,http://www.redfin.com/MA/Boston/596-E-2nd-St-02127/unit-1/home/45407395,42.337417200000004,-71.03927440000001
+227,Condo/Co-op,400 Savin Hill Ave #5,Boston,MA,2125,349000,1.0,1.0,669.0,,1965.0,180.0,http://www.redfin.com/MA/Boston/400-Savin-Hill-Ave-02125/unit-5/home/9063164,42.312242499999996,-71.0516968
+228,Condo/Co-op,7A Monmouth St #2,Boston,MA,2128,619900,2.0,2.0,1024.0,,1900.0,125.0,http://www.redfin.com/MA/Boston/7A-Monmouth-St-02128/unit-2/home/172641028,42.3793795,-71.03878459999999
+229,Townhouse,1 Prospect Ave #1,Boston,MA,2131,929900,3.0,2.5,2000.0,,2020.0,250.0,http://www.redfin.com/MA/Roslindale/1-Prospect-Ave-02131/unit-1/home/172641002,42.2842197,-71.1212475
+230,Single Family Residential,9 Russell St,Boston,MA,2129,1350000,3.0,1.5,1467.0,3520.0,1870.0,,http://www.redfin.com/MA/Charlestown/9-Russell-St-02129/home/9060359,42.37938270000001,-71.0644132
+231,Condo/Co-op,106 13th #236,Boston,MA,2129,410000,1.0,1.0,701.0,,1920.0,729.0,http://www.redfin.com/MA/Boston/106-13th-St-02129/unit-236/home/9051109,42.377705999999996,-71.0505749
+232,Townhouse,4 Mount Vernon St #1,Boston,MA,2129,649000,1.0,1.0,670.0,,1870.0,150.0,http://www.redfin.com/MA/Boston/4-Mt-Vernon-Ave-02129/unit-1/home/9304953,42.376009100000005,-71.05906850000001
+233,Condo/Co-op,132 Boylston #4,Boston,MA,2116,1479000,3.0,2.0,1622.0,,1899.0,689.0,http://www.redfin.com/MA/Boston/132-Boylston-St-02116/unit-4/home/12470845,42.3522586,-71.0660209
+234,Condo/Co-op,15 Sheffield Rd #1,Boston,MA,2131,519000,2.0,1.0,978.0,,1910.0,225.0,http://www.redfin.com/MA/Boston/15-Sheffield-Rd-02131/unit-1/home/145285764,42.2901511,-71.13370350000001
+235,Condo/Co-op,27 Monument Sq #1,Boston,MA,2129,639000,1.0,1.0,591.0,,1899.0,175.0,http://www.redfin.com/MA/Boston/27-Monument-Sq-02129/unit-1/home/9062330,42.377286600000005,-71.0608942
+236,Condo/Co-op,201 Newbury #204,Boston,MA,2116,1779000,2.0,2.0,1300.0,,1987.0,1457.0,http://www.redfin.com/MA/Boston/201-Newbury-St-02116/unit-204/home/9238145,42.3503967,-71.0804598
+237,Condo/Co-op,437 D St Unit 6C,Boston,MA,2210,1270000,1.0,1.0,1244.0,,1920.0,430.0,http://www.redfin.com/MA/Boston/437-D-St-02210/unit-6C/home/9185927,42.3451429,-71.0429517
+238,Townhouse,4 Dolans Ct #4,Boston,MA,2130,769000,2.0,2.0,1000.0,,1900.0,200.0,http://www.redfin.com/MA/Boston/4-Dolans-Ct-02130/unit-4/home/172637452,42.3132458,-71.10520749999999
+239,Condo/Co-op,238 Bremen #2,Boston,MA,2128,620000,2.0,2.0,1000.0,,2020.0,200.0,http://www.redfin.com/MA/Boston/238-Bremen-St-02128/unit-2/home/172636808,42.3744864,-71.03257459999999
+240,Condo/Co-op,233 Metropolitan Ave #2,Boston,MA,2131,599900,4.0,2.0,1950.0,,1910.0,175.0,http://www.redfin.com/MA/Roslindale/233-Metropolitan-Ave-02131/unit-2/home/171443141,42.276773,-71.1268643
+241,Condo/Co-op,63 Melcher St #301,Boston,MA,2210,610000,0.0,1.0,519.0,,1916.0,406.0,http://www.redfin.com/MA/Boston/63-Melcher-St-02210/unit-301/home/146401749,42.349001799999996,-71.04970870000001
+242,Condo/Co-op,21 Beacon Unit 9F,Boston,MA,2108,475000,1.0,1.0,427.0,,1899.0,427.0,http://www.redfin.com/MA/Boston/21-Beacon-St-02108/unit-9F/home/9276997,42.358197,-71.062431
+243,Condo/Co-op,53 Dwight St #1,Boston,MA,2118,2595000,3.0,3.5,2179.0,,1900.0,284.0,http://www.redfin.com/MA/Boston/53-Dwight-St-02118/unit-1/home/49729511,42.344719399999995,-71.06944870000001
+244,Condo/Co-op,141 Dorchester Ave #114,Boston,MA,2127,442600,2.0,1.0,956.0,,2006.0,289.0,http://www.redfin.com/MA/Boston/141-Dorchester-Ave-02127/unit-114/home/21718429,42.342340500000006,-71.0578677
+245,Condo/Co-op,71 Farragut Rd #1,Boston,MA,2127,839900,2.0,1.0,1040.0,1040.0,1930.0,330.0,http://www.redfin.com/MA/Boston/71-Farragut-Rd-02127/unit-1/home/9186811,42.3356427,-71.0253797
+246,Multi-Family (2-4 Unit),4 Benson St,Boston,MA,2135,1300000,7.0,3.0,2928.0,3960.0,1910.0,,http://www.redfin.com/MA/Brighton/4-Benson-St-02135/home/9011331,42.3590799,-71.1403703
+247,Multi-Family (2-4 Unit),8 Benson St,Boston,MA,2135,1300000,7.0,,2794.0,3960.0,1900.0,,http://www.redfin.com/MA/Boston/8-Benson-St-02135/home/9011326,42.3590971,-71.1407928
+248,Condo/Co-op,121 High St #3,Boston,MA,2129,899000,3.0,2.0,1046.0,,1920.0,220.0,http://www.redfin.com/MA/Charlestown/121-High-St-02129/unit-3/home/11511913,42.378368,-71.06594270000001
+249,Multi-Family (2-4 Unit),348 Saratoga St,Boston,MA,2128,1145678,11.0,3.5,5364.0,3000.0,1890.0,,http://www.redfin.com/MA/Boston/348-Saratoga-St-02128/home/11733434,42.3790181,-71.0304388
+250,Multi-Family (2-4 Unit),23 Winslow Rd,Brookline,MA,2446,3899900,8.0,6.0,4846.0,4846.0,1928.0,,http://www.redfin.com/MA/Brookline/23-Winslow-Rd-02446/home/11448448,42.350985200000004,-71.12277929999999
+251,Condo/Co-op,153 Bigelow St #1,Boston,MA,2135,549000,3.0,1.0,1039.0,13540.0,1980.0,,http://www.redfin.com/MA/Brighton/153-Bigelow-St-02135/unit-1/home/168914961,42.355627899999995,-71.1658087
+252,Condo/Co-op,841 Saratoga St #3,Boston,MA,2128,574900,3.0,2.0,1278.0,1278.0,1900.0,257.0,http://www.redfin.com/MA/Boston/841-Saratoga-St-02128/unit-3/home/12431895,42.3847586,-71.0138687
+253,Condo/Co-op,1 Beckler Ave #2,Boston,MA,2127,499000,1.0,1.0,522.0,522.0,1890.0,130.0,http://www.redfin.com/MA/Boston/1-Beckler-Ave-02127/unit-2/home/28627753,42.3333792,-71.03697340000001
+254,Condo/Co-op,1058 Washington St #1,Boston,MA,2124,470000,3.0,1.0,1484.0,6001.0,1920.0,150.0,http://www.redfin.com/MA/Boston/1058-Washington-St-02124/unit-1/home/145254826,42.2746805,-71.0697002
+255,Multi-Family (2-4 Unit),86 Ruthven St,Boston,MA,2121,779000,4.0,3.5,2520.0,4650.0,1905.0,,http://www.redfin.com/MA/Boston/86-Ruthven-St-02121/home/9092913,42.3133049,-71.0908409
+256,Condo/Co-op,931 South St #1,Boston,MA,2131,668000,2.0,2.0,2140.0,,1895.0,315.0,http://www.redfin.com/MA/Boston/931-South-St-02131/unit-1/home/9166758,42.2882404,-71.1364592
+257,Single Family Residential,55 Green St,Boston,MA,2129,1350000,4.0,2.5,1633.0,750.0,1880.0,,http://www.redfin.com/MA/Charlestown/55-Green-St-02129/home/9061967,42.3775918,-71.06283459999999
+258,Townhouse,48 Robey St #48,Boston,MA,2119,849000,3.0,2.5,1592.0,,2020.0,99999.0,http://www.redfin.com/MA/Roxbury/48-50-Robey-St-02119/unit-48/home/172626533,42.321855,-71.068237
+259,Condo/Co-op,101 Heath St #203,Boston,MA,2120,720000,3.0,2.0,1366.0,,2020.0,274.0,http://www.redfin.com/MA/Boston/101-Heath-St-02120/unit-203/home/170556513,42.3263576,-71.102345
+260,Multi-Family (2-4 Unit),79 Cottage St,Boston,MA,2128,1399000,4.0,3.0,2318.0,3000.0,1997.0,,http://www.redfin.com/MA/Boston/79-Cottage-St-02128/home/9108012,42.3675476,-71.0351747
+261,Condo/Co-op,366 W 2nd St #4,Boston,MA,2127,769000,2.0,1.5,866.0,,2006.0,281.0,http://www.redfin.com/MA/Boston/366-W-2nd-St-02127/unit-4/home/18982587,42.3383429,-71.0462104
+262,Condo/Co-op,65 Chester St #6,Boston,MA,2134,399000,2.0,1.0,650.0,,1920.0,470.0,http://www.redfin.com/MA/Boston/65-Chester-St-02134/unit-6/home/8992067,42.3527821,-71.1280084
+263,Condo/Co-op,30 Elgin St #2,Boston,MA,2132,729000,3.0,2.0,2010.0,,1938.0,,http://www.redfin.com/MA/Boston/30-Elgin-St-02132/unit-2/home/93034017,42.2802098,-71.160172
+264,Townhouse,158 Endicott St #4,Boston,MA,2113,1299900,3.0,2.5,1464.0,1464.0,1899.0,530.0,http://www.redfin.com/MA/Boston/158-Endicott-St-02113/unit-4/home/12310152,42.3653732,-71.0575608
+265,Condo/Co-op,135 Seaport Blvd #901,Boston,MA,2210,1199000,1.0,1.5,760.0,,2020.0,941.0,http://www.redfin.com/MA/Boston/135-Seaport-Blvd-02210/unit-901/home/172619955,42.3509604,-71.04390129999999
+266,Condo/Co-op,135 Seaport Blvd #818,Boston,MA,2210,798900,0.0,1.0,520.0,,2020.0,667.0,http://www.redfin.com/MA/Boston/135-Seaport-Blvd-02210/unit-818/home/168964674,42.3509604,-71.04390129999999
+267,Condo/Co-op,43 Westland Ave #303,Boston,MA,2115,769000,1.0,1.0,755.0,755.0,1910.0,510.0,http://www.redfin.com/MA/Boston/43-Westland-Ave-02115/unit-303/home/50281465,42.3440463,-71.087888
+268,Condo/Co-op,66 Montcalm Ave #1,Boston,MA,2135,485000,1.0,1.0,754.0,,1900.0,,http://www.redfin.com/MA/Brighton/66-Montcalm-Ave-02135/unit-1/home/172618800,42.3531027,-71.14854179999999
+269,Condo/Co-op,7 Cook #2,Boston,MA,2129,1450000,3.0,2.5,1600.0,,1875.0,275.0,http://www.redfin.com/MA/Charlestown/7-Cook-St-02129/unit-2/home/172610180,42.380103600000005,-71.064181
+270,Condo/Co-op,7 Cook St #1,Boston,MA,2129,1250000,2.0,2.5,1600.0,,1875.0,275.0,http://www.redfin.com/MA/Charlestown/7-Cook-St-02129/unit-1/home/172618426,42.380103600000005,-71.064181
+271,Condo/Co-op,408 Seaver St #4,Boston,MA,2121,499000,4.0,2.0,1915.0,1915.0,1905.0,290.0,http://www.redfin.com/MA/Boston/408-Seaver-St-02121/unit-4/home/12431291,42.303489,-71.0810691
+272,Condo/Co-op,657 E 6Th St #1,Boston,MA,2127,799900,2.0,2.0,1021.0,1021.0,1910.0,150.0,http://www.redfin.com/MA/Boston/657-E-6th-St-02127/unit-1/home/9227539,42.3328983,-71.0341065
+273,Condo/Co-op,6 Whittier Pl Unit 10M,Boston,MA,2114,739000,2.0,2.0,1272.0,,1964.0,1141.0,http://www.redfin.com/MA/Boston/6-Whittier-Pl-02114/unit-10M/home/9228326,42.3657336,-71.0669497
+274,Condo/Co-op,707 E 4Th St #1,Boston,MA,2127,799000,3.0,2.0,1293.0,1293.0,1890.0,208.0,http://www.redfin.com/MA/Boston/707-E-4th-St-02127/unit-1/home/54835549,42.3345941,-71.0363426
+275,Single Family Residential,11 Shute Path,Newton,MA,2459,1835000,5.0,5.5,5100.0,7021.0,2020.0,,http://www.redfin.com/MA/Newton/11-Shute-Path-02459/home/11490906,42.291071,-71.18432790000001
+276,Townhouse,241 Perkins Unit J702,Boston,MA,2130,735000,2.0,2.0,1500.0,,1976.0,806.0,http://www.redfin.com/MA/Jamaica-Plain/241-Perkins-St-02130/unit-J702/home/172616173,42.32115220000001,-71.1235806
+277,Condo/Co-op,9-15 Battery St #10,Boston,MA,2109,789000,2.0,1.0,854.0,854.0,1880.0,492.0,http://www.redfin.com/MA/Boston/9-Battery-St-02109/unit-10/home/9270830,42.366263599999996,-71.0526349
+278,Multi-Family (2-4 Unit),19 Carmen St,Boston,MA,2121,679900,6.0,3.0,3351.0,3668.0,1910.0,,http://www.redfin.com/MA/Dorchester/19-Carmen-St-02121/home/11505176,42.3007339,-71.0783526
+279,Multi-Family (2-4 Unit),87-93 Liverpool,Boston,MA,2128,3499999,6.0,7.0,6000.0,4875.0,2005.0,,http://www.redfin.com/MA/Boston/87-89-Liverpool-St-02128/home/172615716,42.3720881,-71.0407196
+280,Single Family Residential,76 Landseer,Boston,MA,2132,799000,4.0,1.5,1860.0,5097.0,1920.0,,http://www.redfin.com/MA/West-Roxbury/76-Landseer-St-02132/home/9214204,42.2786573,-71.15675759999999
+281,Townhouse,86 Litchfield St Unit A,Boston,MA,2135,759000,3.0,2.5,1430.0,,2009.0,255.0,http://www.redfin.com/MA/Brighton/86-Litchfield-St-02135/unit-A/home/39877308,42.361151799999995,-71.140488
+282,Condo/Co-op,11 Union Park #5,Boston,MA,2118,1175000,2.0,1.0,947.0,947.0,1899.0,244.0,http://www.redfin.com/MA/Boston/11-Union-Park-02118/unit-5/home/9281838,42.342609499999995,-71.07070440000001
+283,Condo/Co-op,32 Kilsyth Rd #1,Brookline,MA,2445,1649000,4.0,2.0,1948.0,,1905.0,1325.0,http://www.redfin.com/MA/Brookline/32-Kilsyth-Rd-02445/unit-1/home/11456227,42.3387042,-71.14474150000001
+284,Multi-Family (2-4 Unit),9A Monastery Rd,Boston,MA,2135,950000,5.0,2.5,1611.0,5347.0,1955.0,,http://www.redfin.com/MA/Brighton/9A-Monastery-Rd-02135/home/172615427,42.345882,-71.14716899999999
+285,Townhouse,67 Saint Botolph #1,Boston,MA,2116,2699000,3.0,2.5,2330.0,,2019.0,640.0,http://www.redfin.com/MA/Boston/67-St-Botolph-St-02116/unit-1/home/145154477,42.34566029999999,-71.08020959999999
+286,Condo/Co-op,383 Beacon St #2,Boston,MA,2116,975000,1.0,1.0,812.0,812.0,1870.0,200.0,http://www.redfin.com/MA/Boston/383-Beacon-St-02116/unit-2/home/172652520,42.35187379999999,-71.0846743
+287,Condo/Co-op,15 Walbridge St #4,Boston,MA,2134,379900,1.0,1.0,655.0,9999.0,1950.0,342.0,http://www.redfin.com/MA/Boston/15-Walbridge-St-02134/unit-4/home/9000439,42.34715739999999,-71.13550500000001
+288,Townhouse,263 Webster St #1,Boston,MA,2128,895000,3.0,2.5,1544.0,,2017.0,283.0,http://www.redfin.com/MA/Boston/263-Webster-St-02128/unit-1/home/144221140,42.364515999999995,-71.031312
+289,Townhouse,38 Broadlawn Dr #38,Newton,MA,2467,799000,3.0,2.5,1680.0,11501.0,1974.0,,http://www.redfin.com/MA/Chestnut-Hill/38-Broadlawn-Dr-02467/unit-38/home/137811683,42.302793900000005,-71.1668762
+290,Condo/Co-op,26 Claremont Park #1,Boston,MA,2118,1700000,2.0,2.5,1464.0,1464.0,1870.0,310.0,http://www.redfin.com/MA/Boston/26-Claremont-Park-02118/unit-1/home/39903343,42.3421764,-71.08170329999999
+291,Multi-Family (5+ Unit),888 Package Deal,Boston,MA,2128,2749000,22.0,9.5,6770.0,4161.0,,,http://www.redfin.com/MA/Boston/888-Package-Deal-02128/home/172614722,42.3695431,-71.0200613
+292,Single Family Residential,39 Greenwich Park,Boston,MA,2118,4995000,4.0,3.5,2572.0,1105.0,1899.0,,http://www.redfin.com/MA/Boston/39-Greenwich-Park-02118/home/9283210,42.3431001,-71.0809816
+293,Single Family Residential,169 W 9th,Boston,MA,2127,1089000,4.0,4.0,1750.0,1230.0,1900.0,,http://www.redfin.com/MA/Boston/169-W-9th-St-02127/home/9189929,42.3337292,-71.0533402
+294,Condo/Co-op,1682 Washington St #9,Boston,MA,2118,1295000,2.0,2.0,1559.0,1559.0,1875.0,606.0,http://www.redfin.com/MA/Boston/1682-Washington-St-02118/unit-9/home/9299067,42.337124200000005,-71.0754957
+295,Condo/Co-op,514 Massachusetts Ave #3,Boston,MA,2118,609000,2.0,1.0,660.0,660.0,1899.0,133.0,http://www.redfin.com/MA/Boston/514-Massachusetts-Ave-02118/unit-3/home/9287284,42.339163299999996,-71.07976740000001
+296,Condo/Co-op,100 Shawmut Ave #208,Boston,MA,2118,1599900,2.0,2.0,1182.0,,2021.0,1277.0,http://www.redfin.com/MA/Boston/100-Shawmut-Ave-02118/unit-208/home/172614200,42.346684100000004,-71.0656551
+297,Condo/Co-op,124 Everett St #1,Boston,MA,2128,625000,2.0,1.5,997.0,997.0,1900.0,222.0,http://www.redfin.com/MA/Boston/124-Everett-St-02128/unit-1/home/9328907,42.3670549,-71.0333202
+298,Condo/Co-op,34 Clark #2,Boston,MA,2109,693999,1.0,1.0,712.0,,1915.0,289.0,http://www.redfin.com/MA/Boston/34-Clark-St-02109/unit-2/home/11838721,42.3651714,-71.05220920000001
+299,Condo/Co-op,9 Appleton St #401,Boston,MA,2116,659900,1.0,1.0,610.0,,1880.0,259.0,http://www.redfin.com/MA/Boston/9-Appleton-St-02116/unit-401/home/9262409,42.3464941,-71.0701123
+300,Condo/Co-op,10 Nonantum St #1,Newton,MA,2458,589000,2.0,1.0,1183.0,10000.0,1917.0,,http://www.redfin.com/MA/Newton/10-Nonantum-St-02458/unit-1/home/11473914,42.35013060000001,-71.17531729999999
+301,Single Family Residential,25 Westover St,Boston,MA,2132,689000,4.0,1.5,1523.0,5000.0,1890.0,,http://www.redfin.com/MA/West-Roxbury/25-Westover-St-02132/home/9206076,42.292421999999995,-71.15680400000001
+302,Condo/Co-op,1038 Beacon St #403,Brookline,MA,2446,1319000,3.0,2.0,1505.0,,1898.0,941.0,http://www.redfin.com/MA/Brookline/1038-Beacon-St-02446/unit-403/home/11441459,42.3461112,-71.1086824
+303,Condo/Co-op,74 The Fenway #26,Boston,MA,2115,925000,2.0,1.0,980.0,980.0,1920.0,553.0,http://www.redfin.com/MA/Boston/74-Fenway-02115/unit-26/home/9265576,42.3428315,-71.0908989
+304,Condo/Co-op,50 Battery St Ph 6,Boston,MA,2109,3299000,3.0,3.5,2095.0,2095.0,1992.0,2036.0,http://www.redfin.com/MA/Boston/50-Battery-St-02109/unit-6/home/11509078,42.366269700000004,-71.0496096
+305,Condo/Co-op,134 Beach St Unit TwoA,Boston,MA,2111,1450000,3.0,2.5,2170.0,2170.0,1900.0,930.0,http://www.redfin.com/MA/Boston/134-Beach-St-02111/unit-TwoA/home/172613816,42.3507,-71.0571378
+306,Condo/Co-op,11 Monastery Unit A,Boston,MA,2135,525000,2.0,1.0,873.0,,1910.0,150.0,http://www.redfin.com/MA/Brighton/11-Monastery-Rd-02135/unit-A/home/172613764,42.345771,-71.146821
+307,Condo/Co-op,301 Shawmut Ave #25,Boston,MA,2118,1200000,2.0,1.0,1088.0,,1900.0,467.0,http://www.redfin.com/MA/Boston/301-Shawmut-Ave-02118/unit-25/home/9301416,42.342644,-71.0702488
+308,Condo/Co-op,1 Charles St S Unit 8H,Boston,MA,2116,1875000,2.0,2.0,1571.0,1571.0,2004.0,2136.0,http://www.redfin.com/MA/Boston/1-Charles-St-S-02116/unit-8H/home/9326093,42.351139700000004,-71.0671978
+309,Condo/Co-op,35 Webster St #302,Boston,MA,2128,589000,2.0,1.0,883.0,,1985.0,358.0,http://www.redfin.com/MA/Boston/35-Webster-St-02128/unit-302/home/9108122,42.367181099999996,-71.03909870000001
+310,Condo/Co-op,321 W 2nd St #15,Boston,MA,2127,1350000,2.0,2.0,1563.0,1563.0,2006.0,632.0,http://www.redfin.com/MA/Boston/321-W-2nd-St-02127/unit-15/home/18982393,42.3387508,-71.0475434
+311,Condo/Co-op,11 Prospect,Boston,MA,2129,1290000,2.0,2.0,1500.0,,1890.0,275.0,http://www.redfin.com/MA/Charlestown/11-Prospect-St-02129/unit-1/home/172524544,42.375113899999995,-71.0575071
+312,Condo/Co-op,500 Commercial St Unit B,Boston,MA,2109,2795000,2.0,2.0,2012.0,2012.0,1899.0,1221.0,http://www.redfin.com/MA/Boston/500-Commercial-St-02109/unit-B/home/9304840,42.367737299999995,-71.0548375
+313,Condo/Co-op,32 Anderson #2,Boston,MA,2114,1116000,2.0,1.5,935.0,,1910.0,400.0,http://www.redfin.com/MA/Boston/32-Anderson-St-02114/unit-2/home/9258238,42.360013,-71.0676225
+314,Single Family Residential,4 Bolton Pl,Boston,MA,2129,870000,2.0,2.0,1240.0,607.0,1850.0,,http://www.redfin.com/MA/Charlestown/4-Bolton-Pl-02129/home/9060910,42.378723,-71.06632900000001
+315,Condo/Co-op,339 S Huntington Ave #11,Boston,MA,2130,399900,1.0,1.0,721.0,,1910.0,487.0,http://www.redfin.com/MA/Boston/339-S-Huntington-Ave-02130/unit-11/home/9241985,42.3233783,-71.11250749999999
+316,Single Family Residential,8 Cook St,Boston,MA,2129,995000,3.0,1.5,1270.0,1142.0,1920.0,,http://www.redfin.com/MA/Charlestown/8-Cook-St-02129/home/9056027,42.3802612,-71.0643435
+317,Condo/Co-op,74-76 Rowe St #2,Boston,MA,2131,569900,3.0,1.0,1802.0,1802.0,1890.0,213.0,http://www.redfin.com/MA/Boston/74-Rowe-St-02131/unit-2/home/39913332,42.281994399999995,-71.1202264
+318,Condo/Co-op,156 Porter St #339,Boston,MA,2128,629000,1.0,1.5,1039.0,,1912.0,268.0,http://www.redfin.com/MA/Boston/156-Porter-St-02128/unit-339/home/11740520,42.371390500000004,-71.0324272
+319,Condo/Co-op,10 Charlesgate E #3,Boston,MA,2215,650000,1.0,1.0,709.0,709.0,1889.0,397.0,http://www.redfin.com/MA/Boston/10-Charlesgate-E-02215/unit-3/home/9240021,42.3498885,-71.0912422
+320,Condo/Co-op,15 Oakland St #3,Boston,MA,2135,545000,2.0,1.0,1206.0,,1920.0,200.0,http://www.redfin.com/MA/Boston/15-Oakland-St-02135/unit-3/home/18983215,42.3498324,-71.15761490000001
+321,Single Family Residential,7 Summer St,Boston,MA,2129,1649000,4.0,3.0,2125.0,926.0,1880.0,,http://www.redfin.com/MA/Charlestown/7-Summer-St-02129/home/9061478,42.3775529,-71.0640185
+322,Single Family Residential,91 Baxter St,Boston,MA,2127,950000,3.0,2.5,1486.0,1080.0,1920.0,,http://www.redfin.com/MA/Boston/91-Baxter-St-02127/home/9189479,42.3350166,-71.05324329999999
+323,Condo/Co-op,121 Tremont #316,Boston,MA,2135,440000,2.0,1.0,975.0,,1964.0,531.0,http://www.redfin.com/MA/Boston/121-Tremont-St-02135/unit-316/home/9040881,42.3518915,-71.1734404
+324,Single Family Residential,375 Baker St,Boston,MA,2132,699900,3.0,1.5,1400.0,4848.0,1929.0,,http://www.redfin.com/MA/West-Roxbury/375-Baker-St-02132/home/9215468,42.2826751,-71.1689765
+325,Condo/Co-op,500 Atlantic Ave Unit 17J,Boston,MA,2210,1699000,2.0,2.5,1484.0,,2006.0,2064.0,http://www.redfin.com/MA/Boston/500-Atlantic-Ave-02210/unit-17J/home/14370798,42.3538536,-71.0520022
+326,Condo/Co-op,1746 Commonwealth Ave #8,Boston,MA,2135,419000,1.0,1.0,630.0,,1920.0,382.0,http://www.redfin.com/MA/Boston/1746-Commonwealth-Ave-02135/unit-8/home/9023028,42.3409947,-71.1493442
+327,Condo/Co-op,48 Frankfort St #16,Boston,MA,2128,799000,3.0,1.5,1502.0,9999.0,1900.0,400.0,http://www.redfin.com/MA/Boston/48-Frankfort-St-02128/unit-16/home/9107546,42.370234499999995,-71.03520340000001
+328,Condo/Co-op,950 Dorchester Ave #206,Boston,MA,2125,398868,2.0,1.0,912.0,912.0,1899.0,306.0,http://www.redfin.com/MA/Boston/950-Dorchester-Ave-02125/unit-206/home/12432212,42.318092,-71.05617679999999
+329,Condo/Co-op,945 E Broadway #3,Boston,MA,2127,1750000,3.0,3.5,2256.0,,2016.0,888.0,http://www.redfin.com/MA/Boston/945-E-Broadway-02127/unit-3/home/145285871,42.33550379999999,-71.0261234
+330,Condo/Co-op,778 Boylston Unit 8G,Boston,MA,2116,1790000,1.0,1.5,1035.0,,2008.0,2589.0,http://www.redfin.com/MA/Boston/778-Boylston-St-02199/unit-8G/home/65896380,42.3487003,-71.0821395
+331,Condo/Co-op,290 Corey Rd #21,Boston,MA,2135,499000,2.0,1.0,685.0,,1965.0,363.0,http://www.redfin.com/MA/Boston/290-Corey-Rd-02135/unit-21/home/9001135,42.3460812,-71.1364552
+332,Multi-Family (2-4 Unit),6 Linwood St,Boston,MA,2119,1500000,8.0,3.0,3311.0,1514.0,1910.0,,http://www.redfin.com/MA/Boston/6-Linwood-St-02119/home/9290606,42.327731,-71.0928239
+333,Condo/Co-op,100 Riverway #1,Boston,MA,2215,899000,2.0,2.5,1240.0,,1890.0,512.0,http://www.redfin.com/MA/Boston/100-Riverway-02215/unit-1/home/11836941,42.3428018,-71.10372109999999
+334,Condo/Co-op,5 Appleton St Unit 3E,Boston,MA,2116,699000,1.0,1.0,710.0,,1900.0,245.0,http://www.redfin.com/MA/Boston/5-Appleton-St-02116/unit-3E/home/9235262,42.3466867,-71.06987579999999
+335,Condo/Co-op,281 Belgrade Ave #3,Boston,MA,2131,565000,3.0,1.5,1422.0,,1900.0,221.0,http://www.redfin.com/MA/Roslindale/281-Belgrade-Ave-02131/unit-3/home/172608883,42.2862793,-71.1429717
+336,Single Family Residential,115 Gordon Ave,Boston,MA,2136,674900,4.0,3.0,1952.0,10485.0,1950.0,,http://www.redfin.com/MA/Boston/115-Gordon-Ave-02136/home/9135449,42.25898370000001,-71.1300673
+337,Multi-Family (2-4 Unit),35 Melbourne St,Boston,MA,2124,1575000,8.0,6.0,3874.0,2442.0,1960.0,,http://www.redfin.com/MA/Boston/35-Melbourne-St-02124/home/9075519,42.289902399999995,-71.06571600000001
+338,Condo/Co-op,2451 Washington St #403,Boston,MA,2119,494000,2.0,2.0,1067.0,,2019.0,488.0,http://www.redfin.com/MA/Boston/2451-Washington-St-02119/unit-403/home/172608345,42.328578,-71.086495
+339,Condo/Co-op,21 Lamartine #1,Boston,MA,2130,559000,1.0,1.0,944.0,,2015.0,225.0,http://www.redfin.com/MA/Boston/21-Lamartine-St-02130/unit-1/home/70546451,42.322276,-71.10103459999999
+340,Condo/Co-op,104 BROOKLEY #1,Boston,MA,2130,599000,2.0,1.0,1050.0,,2020.0,150.0,http://www.redfin.com/MA/Jamaica-Plain/104-Brookley-Rd-02130/unit-1/home/172607793,42.3026976,-71.1051218
+341,Condo/Co-op,101 Heath St #301,Boston,MA,2120,760000,3.0,2.0,1466.0,,2020.0,293.0,http://www.redfin.com/MA/Boston/101-Heath-St-02120/unit-301/home/170596868,42.3263576,-71.102345
+342,Condo/Co-op,57 L St #13,Boston,MA,2127,1249000,3.0,2.0,1310.0,,2018.0,310.0,http://www.redfin.com/MA/Boston/57-L-St-02127/unit-13/home/146450993,42.3361222,-71.0356854
+343,Condo/Co-op,149 Centre St #1,Boston,MA,2119,419000,2.0,1.0,845.0,,1920.0,323.0,http://www.redfin.com/MA/Boston/149-Centre-St-02119/unit-1/home/11837539,42.326099299999996,-71.0967332
+344,Condo/Co-op,280 E Eagle St #1,Boston,MA,2128,559900,2.0,2.0,1011.0,,1900.0,200.0,http://www.redfin.com/MA/Boston/280-E-Eagle-St-02128/unit-1/home/172607452,42.381488,-71.03036879999999
+345,Condo/Co-op,150 Dorchester #512,Boston,MA,2127,1350000,2.0,2.0,1422.0,,2016.0,607.0,http://www.redfin.com/MA/Boston/150-Dorchester-Ave-02127/unit-512/home/104293543,42.3418223,-71.0569152
+346,Condo/Co-op,20 W Fifth Unit 4-K,Boston,MA,2127,930000,2.0,2.0,1051.0,,2021.0,564.0,http://www.redfin.com/MA/Boston/20-W-Fifth-St-02127/unit-4-K/home/172607403,42.3401945,-71.0561375
+347,Condo/Co-op,20 W Fifth Ph -6G,Boston,MA,2127,1199000,2.0,2.0,1102.0,,2021.0,693.0,http://www.redfin.com/MA/Boston/20-W-Fifth-St-02127/unit-6G/home/172607400,42.3401945,-71.0561375
+348,Single Family Residential,102 Davison St,Boston,MA,2136,599900,4.0,2.0,2322.0,6000.0,1950.0,,http://www.redfin.com/MA/Hyde-Park/102-Davison-St-02136/home/9126811,42.258918900000005,-71.1167911
+349,Multi-Family (5+ Unit),50 Bradshaw St,Boston,MA,2121,1150000,9.0,5.0,5930.0,6480.0,1920.0,,http://www.redfin.com/MA/Boston/50-Bradshaw-St-02121/home/9087062,42.298300299999994,-71.0836915
