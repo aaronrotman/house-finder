@@ -13,4 +13,7 @@ footer {
   h2 {
       padding: 20px;
   }
-  
+  #github-footer-logo {
+    height: 3em;
+    width: 3em;
+  }

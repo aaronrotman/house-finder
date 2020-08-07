@@ -51,125 +51,96 @@
     </div>
     <!-- USER INPUT FIELDS -->
     <div class="container-fluid user-inputs">
+        
         <div class="row">
             <h2>Fill out these inputs and tell us what is important to you.</h2>
         </div>
 
-       <!-- weather input -->
-       <div class="row">
-            <div class="input-group mb-3 col-sm">
-                <div class="input-group-prepend">
-                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">What's your favorite weather profile?</button>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">HOT and Sunny</a>
-                    <a class="dropdown-item" href="#">Not too hot, not too cold</a>
-                    <a class="dropdown-item" href="#">All 4 Seasons</a>
-                    <a class="dropdown-item" href="#">Surprise Me!</a>
-                </div>
-                </div>
-                <input type="text" class="form-control" aria-label="Text input with dropdown button">
+        <div class="row">
+            <!-- Weather input -->
+            <div class="container col-md-4">
+              <h5>What type of weather do you prefer?</h5>
+              <select>
+                <option>Cold</option>
+                <option>Temperate</option>
+                <option>Hot</option>
+              </select>
             </div>
-        
-            <!-- population input -->
-            <div class="input-group mb-3 col-sm">
-                <div class="input-group-prepend">
-                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How close to people do you like to be?</button>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">I prefer densely populated cities</a>
-                    <a class="dropdown-item" href="#">Looking to be close, but not too close to people</a>
-                    <a class="dropdown-item" href="#">I need solitude!</a>
-                    <a class="dropdown-item" href="#">Surprise Me!</a>
-                </div>
-                </div>
-                <input type="text" class="form-control" aria-label="Text input with dropdown button">
+
+            <!-- Budget input -->
+            <div class="container col-md-4">
+              <h5>What is your budget?</h5>
+              <select>
+                <option>$1 Million or more</option>
+                <option>$750k - $1,000k</option>
+                <option>$500k - $750k</option>
+                <option>$250k - $500k</option>
+                <option>$250k or less</option>
+              </select>
             </div>
+
+            <!-- Density input -->
+            <div class="container col-md-4">
+              <h5>How close to people do you like to be?</h5>
+              <select>
+                <option>I prefer densely populated cities</option>
+                <option>Looking to be close, but not too close to people</option>
+                <option>I need solitude!</option>
+                <option>Surprise Me!</option>
+              </select>
+            </div>
+
         </div>
 
         <div class="row">
-            <!-- House BUDGET -->
-            <div class="input-group mb-3 col-sm">
-                <div class="input-group-prepend">
-                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">What's your target BUDGET?</button>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">$1 Million or more</a>
-                    <a class="dropdown-item" href="#">$750k - $1,000k</a>
-                    <a class="dropdown-item" href="#">$500k - $750k</a>
-                    <a class="dropdown-item" href="#">$250k - $500k</a>
-                    <a class="dropdown-item" href="#">$250k or less</a>
-                </div>
-                </div>
-                <input type="text" class="form-control" aria-label="Text input with dropdown button">
-            </div>
-        
-            <!-- beds -->
-            <div class="input-group mb-3 col-sm">
-                <div class="input-group-prepend">
-                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How many bedrooms do you need?</button>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">4+</a>
-                    <a class="dropdown-item" href="#">3</a>
-                    <a class="dropdown-item" href="#">2</a>
-                    <a class="dropdown-item" href="#">1</a>
-                </div>
-                </div>
-                <input type="text" class="form-control" aria-label="Text input with dropdown button">
-            </div>
-            <!-- baths -->
-            <div class="input-group mb-3 col-sm">
-                <div class="input-group-prepend">
-                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How many bathrooms?</button>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">4+</a>
-                    <a class="dropdown-item" href="#">3</a>
-                    <a class="dropdown-item" href="#">2</a>
-                    <a class="dropdown-item" href="#">1</a>
-                </div>
-                </div>
-                <input type="text" class="form-control" aria-label="Text input with dropdown button">
-            </div>
-        </div>
+          <!-- Bedroom input -->
+          <div class="container col-md-4">
+            <h5>How many bedrooms do you need?</h5>
+            <select>
+              <option>4+</option>
+              <option>3</option>
+              <option>2</option>
+              <option>1</option>
+            </select>
+          </div>
+
+          <!-- Bathroom input -->
+          <div class="container col-md-4">
+            <h5>How many bathrooms?</h5>
+            <select>
+              <option>4+</option>
+              <option>3</option>
+              <option>2</option>
+              <option>1</option>
+            </select>
+          </div>
+
+          <!-- Other input -->
+          <div class="container col-md-4">
+            <h5>Other Input?</h5>
+            <select>
+              <option>Option 1</option>
+              <option>Option 2</option>
+              <option>Option 3</option>
+              <option>Option 4</option>
+            </select>
+          </div>
+
+      </div>
 
     </div>
     
   
-
-  <!-- Container Template (do not code, just copy and paste to create a new section) -->
-  <!-- <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm">
-        One of three columns
-      </div>
-      <div class="col-sm">
-        One of three columns
-      </div>
-      <div class="col-sm">
-        One of three columns
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm">
-        One of three columns
-      </div>
-      <div class="col-sm">
-        One of three columns
-      </div>
-      <div class="col-sm">
-        One of three columns
-      </div>
-    </div>
-  </div>
-   -->
   <!-- FOOTER -->
   <footer>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm">
-          <p>Put together with the brains of Aaron, Cynthia, and Jennifer in August of 2020. With the help of the UC Berkeley Extension Program.</p>
-        </div>
-      </div>
-      
+    <div class="container-fluid text-center">
+      <p>Put together with the brains of Aaron, Cynthia, and Jennifer in August of 2020. With the help of the UC Berkeley Extension Program.</p>
+      <a href="https://github.com/aaronrotman/final-project">
+        <img src="images/GitHub-Mark-120px-plus.png" alt="GitHub Logo" id="github-footer-logo" class="center-block">
+      </a>
     </div>
   </footer>
+
   <!-- Scripts -->
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
