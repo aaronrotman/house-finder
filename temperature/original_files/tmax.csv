@@ -1,6 +1,3 @@
-August 2019 Contiguous U.S. Statewide Maximum Temperature
-Units: Degrees Fahrenheit
-Missing: -99
 "Location ID","Location","Value","Rank","Anomaly (1901-2000 base period)","1901-2000 Mean"
 0100,"Alabama",91.3,83,0.7,90.6
 0200,"Arizona",96.6,125,5.3,91.3
