@@ -1,0 +1,494 @@
+﻿City,State,Abbr,Summer Temp,Winter Temp
+Aberdeen,South Dakota,SD,68.1,10.1
+Abilene,Texas,TX,86.6,45.3
+Akron,Ohio,OH,72.8,26.9
+Alamosa,Colorado,CO,64.2,8.9
+Albany,New York,NY,71.7,23.4
+Albuquerque,New Mexico,NM,79.6,36
+Alexander,Arkansas,AR,,
+Alexandria,Virginia,VA,,
+Allenton,Wisconsin,WI,,
+Allentown,Pennsylvania,PA,75,30.4
+Amarillo,Texas,TX,81.8,39.7
+Anchorage,Alaska,AK,62.7,20.4
+Antioch,Tennesse,TN,,
+Arleta,California,CA,,
+Asheville,North Carolina,NC,74,39.1
+Astoria,Oregon,OR,63.4,45.3
+Atlanta,Georgia,GA,82.5,45.9
+Atlantic City,New Jersey,NJ,76.2,33
+Atwater Village,California,CA,,
+Augusta,Georgia,GA,82.6,49.1
+Austin,Texas,TX,89.9,51.6
+Baltimore,Maryland,MD,77.9,33.5
+Bangor,Maine,ME,67.3,18.7
+Barrow,Alaska,AK,42.7,-8.6
+Baton Rouge,Louisiana,LA,84.3,51.3
+Bayside,Wisconsin,WI,,
+Bayside,New York,NY,,
+Beaver Dam,,WI,,
+Beckley,West Virginia,WV,70.8,31
+Belgium,,WI,,
+Bellerose,,NY,,
+Beloit,,WI,,
+Bensonhurst,,NY,,
+Benton,,AR,,
+Bethany,,OK,,
+Bethel,Alaska,AK,56.5,14
+Beverly Hills,,CA,,
+Billings,Montana,MT,72.7,29
+Binghamton,New York,NY,66.8,20.5
+Birmingham,Alabama,AL,82.1,45.1
+Bismarck,North Dakota,ND,67.5,13.1
+Blue Diamond,,NV,,
+Blue Hill,Massachusetts,MA,71.4,27.4
+Boise,Idaho,ID,76.9,35.4
+Boise,,ID,,
+Bonita,,CA,,
+Boston,Massachusetts,MA,73.7,30.8
+Boston,,MA,,
+Brentwood,,CA,,
+Brentwood,,TN,,
+Briarwood,,NY,,
+Bridgeport,Connecticut,CT,74.4,31.3
+Bristol,,WI,,
+Bronx,,NY,,
+Brookfield,,WI,,
+Brookline,,MA,,
+Brooklyn,,NY,,
+Brown Deer,,WI,,
+Brownsville,Texas,TX,89.3,62.8
+Brownsville,,WI,,
+Bryant,,AR,,
+Buffalo,New York,NY,70.3,23.1
+Burlington,Vermont,VT,70.2,17.5
+Bushwick,,NY,,
+Calabasas,,CA,,
+Cambridge,,MA,,
+Campbellsport,,WI,,
+Canarsie,,NY,,
+Canoga Park,,CA,,
+Cape Hatteras,North Carolina,NC,81.3,47.7
+Captain Cook,Hawaii,HI,-99,67.3
+Caribou,Maine,ME,65.1,10.7
+Carson City,Nevada,NV,77.7,39.3
+Cascade,,WI,,
+Casper,Wyoming,WY,69.7,26.9
+Cedar City,Utah,UT,73.9,28.9
+Cedar Grove,,WI,,
+Cedarburg,,WI,,
+Charleston,South Carolina,SC,81.9,50.9
+Charleston,West Virginia,WV,75.6,35.2
+Charlotte,North Carolina,NC,79.4,43.9
+Chatsworth,,CA,,
+Chattanooga,Tennessee,TN,81.4,42.7
+Cheyenne,Wyoming,WY,70.5,31
+Chicago,Illinois,IL,72.9,21.1
+Choctaw,,OK,,
+Chula Vista,,CA,,
+Cincinnati,Ohio,OH,75.7,30.5
+City Heights,,CA,,
+City Terrace,,CA,,
+Cleveland, Ohio,OH,73,28
+Clinton,,WI,,
+Colgate,,WI,,
+College Point,,NY,,
+Colorado Springs, Colorado,CO,73.1,33.1
+Columbia, Missouri,MO,76.5,30.4
+Columbia, South Carolina,SC,83,48.1
+Columbus, Georgia,GA,83.7,49.7
+Columbus, Ohio,OH,74.5,29.5
+Columbus,,WI,,
+Concord, New Hampshire,NH,68.4,21.8
+Cornwall,,NY,,
+Corona,,NY,,
+Corpus Christi, Texas,TX,87.4,57.7
+Cudahy,,WI,,
+Culver City,,CA,,
+Dallas, Texas,TX,88.9,47.6
+Darien,,WI,,
+Daytona Beach, Florida,FL,82.9,59
+Deerfield,,MO,,
+Del City,,OK,,
+Del Mar,,CA,,
+Del Rio, Texas,TX,90.7,53.5
+Delafield,,WI,,
+Delavan,,WI,,
+Des Moines, Iowa,IA,73.2,21
+Detroit, Michigan,MI,73.1,24
+Dickinson, North Dakota,ND,66.5,18
+Dodge City, Kansas,KS,80.3,33.6
+Douglaston,,NY,,
+Dousman,,WI,,
+Dubuque, Iowa,IA,68.3,15.6
+Duluth, Minnesota,MN,66.1,7.8
+E. Elmhurst,,NY,,
+Eagle,,WI,,
+Eagle,,ID,,
+Eagle Rock,,CA,,
+East Troy,,WI,,
+Echo Park,,CA,,
+Edgerton,,WI,,
+Edmond,,OK,,
+El Paso, Texas,TX,87.6,46.8
+El Segundo,,CA,,
+Elkhorn,,WI,,
+Elkins, West Virginia,WV,71,28.7
+Elko, Nevada,NV,71,29
+Elmhurst,,NY,,
+Elmont,,NY,,
+Ely, Nevada,NV,68,28.5
+Encino,,CA,,
+Erie, Pennsylvania,PA,72,26.9
+Escondido,,CA,,
+Eugene, Oregon,OR,69.9,41.7
+Eureka, California,CA,61.9,49.5
+Evansville, Indiana,IN,76.6,33
+Fairbanks, Alaska,AK,55.6,-6.7
+Far Rockaway,,NY,,
+Fargo, North Dakota,ND,66.5,6.5
+Flagstaff, Arizona,AZ,67.3,30.8
+Flatlands,,NY,,
+Flint, Michigan,MI,70.3,20.8
+Floral Park,,NY,,
+Flushing,,NY,,
+Fond Du Lac,,WI,,
+Fontana,,WI,,
+Forest Hills,,NY,,
+Fort Atkinson,,WI,,
+Fort Myers, Florida,FL,83.4,63.5
+Fort Smith, Arkansas,AR,83,40
+Fort Wayne, Indiana,IN,71.1,25.5
+Fox Lake,,WI,,
+Fox Point,,WI,,
+Franklin,,WI,,
+Franklin,,TN,,
+Fresh Meadows,,NY,,
+Fresno, California,CA,83.8,51.5
+Garden City,,ID,,
+Gardena,,CA,,
+Genoa City,,WI,,
+Germantown,,WI,,
+Glasgow, Montana,MT,70.2,22.3
+Glen Oaks,,NY,,
+Glendale,,WI,,
+Glendale,,CA,,
+Glendale,,NY,,
+Goodland, Kansas,KS,73.9,32.2
+Goodlettsville,,TN,,
+Grafton,,WI,,
+Granada Hills,,CA,,
+Grand Forks, North Dakota,ND,66.5,2.2
+Grand Island, Nebraska,NE,72.6,27.1
+Grand Junction, Colorado,CO,78.9,26.9
+Grand Rapids, Michigan,MI,70.8,21.9
+Great Falls, Montana,MT,66.8,29.8
+Green Bay, Wisconsin,WI,67.9,16
+Greenfield,,WI,,
+Greensboro, North Carolina,NC,77.5,40.6
+Greenville, South Carolina,SC,78.5,43.7
+Gresham,,OR,,
+Hales Corners,,WI,,
+Happy Valley,,OR,,
+Harbor City,,CA,,
+Harrisburg, Pennsylvania,PA,77,31.1
+Hartford, Connecticut,CT,72.8,26
+Hartford,,WI,,
+Hartland,,WI,,
+Helena, Montana,MT,69.1,25.1
+Henderson,,NV,,
+Hermitage,,TN,,
+Hilo, Hawaii,HI,78.4,71.8
+Hollis,,NY,,
+Hollywood Hills,,CA,,
+Homestead,,FL,,
+Honolulu Intl. Airport, Hawaii,HI,85.6,75.2
+Honolulu Zoo, Hawaii,HI,83.4,-99
+Houston, Texas,TX,86.7,54.5
+Howard Beach,,NY,,
+Hubertus,,WI,,
+Huntington, West Virginia,WV,75.3,35.1
+Huntsville,Alabama,AL,80,42.9
+Imperial Beach,,CA,,
+Indianapolis, Indiana,IN,74.7,27.5
+International Falls, Minnesota,MN,62.4,0.3
+Jackson, Mississippi,MS,82.5,47.2
+Jackson, Tennessee,TN,78.6,39.3
+Jackson,,WI,,
+Jackson Heights,,NY,,
+Jacksonville, Florida,FL,83.1,54.9
+Jacksonville,,AR,,
+Jamaica,,NY,,
+Janesville,,WI,,
+Jefferson,,WI,,
+Joelton,,TN,,
+Johnson City, Tennessee,TN,75.2,38.3
+Johnson Creek,,WI,,
+Jones,,OK,,
+Juneau, Alaska,AK,58.3,29.8
+Kahului, Hawaii,HI,82.3,71.6
+Kansas City, Missouri,MO,76,28.2
+Kansasville,,WI,,
+Kapalua, Hawaii,HI,81,72.5
+Kenosha,,WI,,
+Kew Garden Hills,,NY,,
+Kew Gardens,,NY,,
+Key West, Florida,FL,85.2,69.6
+Knoxville, Tennessee,TN,78.7,40.6
+Kula, Hawaii,HI,68.5,60.1
+La Crosse, Wisconsin,WI,71.9,15.7
+La Jolla,,CA,,
+La Mesa,,CA,,
+Lake Balboa,,CA,,
+Lake Geneva,,WI,,
+Lake Oswego,,OR,,
+Lander, Wyoming,WY,70.9,17.9
+Las Vegas, Nevada,NV,94.3,50.3
+Las Vegas,,NV,,
+Laurelton,,NY,,
+Lemon Grove,,CA,,
+Lewiston, Idaho,ID,76.9,36.9
+Lexington, Kentucky,KY,76.3,33.9
+Lihue, Hawaii,HI,81.8,72.3
+Lisbon,,WI,,
+Little Neck,,NY,,
+Little Rock, Arkansas,AR,81.9,41.8
+Little Rock,,AR,,
+Los Angeles, California,CA,69.7,57.7
+Los Angeles,,CA,,
+Louisville, Kentucky,KY,79.8,35.3
+Lubbock, Texas,TX,84.4,42.6
+Luther,,OK,,
+Mabelvale,,AR,,
+Macon, Georgia,GA,82.8,48.8
+Madison, Wisconsin,WI,68.5,16.1
+Madison,,TN,,
+Malba,,NY,,
+Marina Del Rey,,CA,,
+Maspeth,,NY,,
+Maumelle,,AR,,
+Mayville,,WI,,
+McLoud,,OK,,
+Medford, Oregon,OR,75.8,42.3
+Memphis, Tennessee,TN,82.2,41.9
+Menomonee Falls,,WI,,
+Mequon,,WI,,
+Meridian,,ID,,
+Miami, Florida,FL,84.1,68.6
+Miami,,FL,,
+Middle Village,,NY,,
+Midland, Texas,TX,87.7,46.1
+Milton,,WI,,
+Milwaukee, Wisconsin,WI,71.5,21.3
+Milwaukee,,WI,,
+Milwaukie,,OR,,
+Minneapolis-St. Paul, Minnesota,MN,71,14.4
+Minot, North Dakota,ND,67.3,12
+Mission Hills,,CA,,
+Missoula, Montana,MT,68.4,25.1
+Mobile, Alabama,AL,82.8,51.5
+Moline, Illinois,IL,73,19.8
+Monroe, Louisiana,LA,84.4,47.6
+Monterey Hills,,CA,,
+Montgomery, Alabama,AL,83.7,48.5
+Montpelier, Vermont,VT,64.5,13.7
+Moore,,OK,,
+Mount Juliet,,TN,,
+Mount Pleasant,,WI,,
+Mukwonago,,WI,,
+Muskego,,WI,,
+Muskegon, Michigan,MI,70.3,22.8
+Mustang,,OK,,
+Nashville, Tennessee,TN,80.3,40.1
+Nashville,,TN,,
+Nevada,Missouri,MO,90,42
+Nevada,,MO,,
+New Berlin,,WI,,
+New Orleans, Louisiana,LA,84.5,54.4
+New York, New York,NY,75.5,32.6
+New York,,NY,,
+Newalla,,OK,,
+Newton,,MA,,
+Nichols Hills,,OK,,
+Nolensville,,TN,,
+Nome, Alaska,AK,50.1,7.7
+Norfolk, Nebraska,NE,71.8,23.3
+Norfolk, Virginia,VA,79.6,42.7
+Norman,,OK,,
+North Hills,,CA,,
+North Hollywood,,CA,,
+North little Rock,,AR,,
+North Platte, Nebraska,NE,72.6,29
+Northridge,,CA,,
+Oak Creek,,WI,,
+Oconomowoc,,WI,,
+Oklahoma City, Oklahoma,OK,82,37.4
+Oklahoma City,,OK,,
+Old Hickory,,TN,,
+Olympia, Washington,WA,65.4,40.6
+Omaha, Nebraska,NE,75.4,24.7
+Oostburg,,WI,,
+Orlando, Florida,FL,83.6,60.6
+Oxon Hill,,MD,,
+Ozone Park,,NY,,
+Pacific Beach,,CA,,
+Pacific Palisades,,CA,,
+Pacoima,,CA,,
+Paducah, Kentucky,KY,78.5,36.7
+Panorama City,,CA,,
+Paradise Hills,,CA,,
+Paron,,AR,,
+Pendleton, Oregon,OR,73.3,36.7
+Peoria, Illinois,IL,73.5,22.6
+Pewaukee,,WI,,
+Philadelphia, Pennsylvania,PA,77.8,33.4
+Phoenix, Arizona,AZ,96.8,56
+Piedmont,,OK,,
+Pierre, South Dakota,SD,69.3,20.1
+Pittsburgh, Pennsylvania,PA,71.9,27.6
+Playa Del Rey,,CA,,
+Playa Vista,,CA,,
+Pleasant Prairie,,WI,,
+Plymouth,,WI,,
+Pocatello, Idaho,ID,69.3,25.2
+Port Washington,,WI,,
+Porter Ranch,,CA,,
+Portland, Maine,ME,68.6,23.1
+Portland, Oregon,OR,71.8,43.2
+Portland,,OR,,
+Providence, Rhode Island,RI,73.3,29.2
+Pueblo, Colorado,CO,78.1,33.6
+Queens,,NY,,
+Racine,,WI,,
+Raleigh, North Carolina,NC,78.4,42.1
+Rancho Palos Verdes,,CA,,
+Random Lake,,WI,,
+Rapid City, South Dakota,SD,67.8,26.6
+Rego Park,,NY,,
+Reno, Nevada,NV,77.7,39.3
+Richmond, Virginia,VA,79,39.2
+Richmond Hill,,NY,,
+Ridgewood,,NY,,
+Roanoke, Virginia,VA,77,36.3
+Rochester, Minnesota,MN,66.7,12.3
+Rockford, Illinois,IL,71.5,18.2
+Roswell, New Mexico,NM,85,41.8
+S. Ozone Park,,NY,,
+Sacramento, California,CA,77.9,50.2
+Saint Francis,,WI,,
+Salem, Oregon,OR,71,42.8
+Salem,,WI,,
+Salisbury, Maryland,MD,77.5,36
+Salt Lake City, Utah,UT,80.3,31
+San Antonio, Texas,TX,88.6,52.2
+San Diego, California,CA,71.6,58.7
+San Diego,,CA,,
+San Francisco, California,CA,67.2,54
+San Francisco,,CA,,
+San Pedro,,CA,,
+San Ysidro,,CA,,
+Santa Monica,,CA,,
+Santee,,CA,,
+Sault Ste. Marie, Michigan,MI,65.9,11.4
+Savannah, Georgia,GA,83.5,52.4
+Scott,,AR,,
+Scottsbluff, Nebraska,NE,73.1,30.5
+Scranton, Pennsylvania,PA,72,26.3
+Scripps Miramar,,CA,,
+Seattle, Washington,WA,69.1,45
+Seattle,,WA,,
+Shadow Hills,,CA,,
+Sheboygan,,WI,,
+Sheboygan Falls,,WI,,
+Sheridan,Wyoming,WY,69.3,27.1
+Sherman Oaks,,CA,,
+Sherwood,,AR,,
+Shoreline,,WA,,
+Shreveport, Louisiana,LA,86.1,47.9
+Silver Spring,,MD,,
+Sioux City, Iowa,IA,71.2,21.8
+Sioux Falls, South Dakota,SD,69.7,17
+Slinger,,WI,,
+Solana Beach,,CA,,
+Somerville,,MA,,
+South Bend, Indiana,IN,70,21.1
+South Milwaukee,,WI,,
+Spokane, Washington,WA,72.1,31
+Springfield, Illinois,IL,74.2,26.9
+Springfield, Missouri,MO,77.6,34.4
+St. Albans,,NY,,
+St. Louis, Missouri,MO,78.3,30.8
+St. Paul, Minnesota,MN,71,14.4
+Staten Island,,NY,,
+Studio City,,CA,,
+Sturtevant,,WI,,
+Stuyvesant Hts,,NY,,
+Sullivan,,WI,,
+Summit,,WI,,
+Sun Valley,,CA,,
+Sunland,,CA,,
+Sussex,,WI,,
+Sylmar,,CA,,
+Syracuse, New York,NY,69.3,22.1
+Takoma Park,,MD,,
+Tallahassee, Florida,FL,83.6,52.4
+Tampa, Florida,FL,84.6,61.6
+Tarzana,,CA,,
+The Village,,OK,,
+Tigard,,OR,,
+Toledo, Ohio,OH,73.4,24.9
+Toluca Lake,,CA,,
+Topeka, Kansas,KS,76.6,29.7
+Torrance,,CA,,
+Trevor,,WI,,
+Tucson, Arizona,AZ,89.3,52.7
+Tujunga,,CA,,
+Tulsa, Oklahoma,OK,82.3,38
+Tupelo, Mississippi,MS,81.9,43.5
+Twin Lakes,,WI,,
+Union Grove,,WI,,
+Valley Glen,,CA,,
+Valley Stream,,NY,,
+Valley Village,,CA,,
+Van Nuys,,CA,,
+Vancouver,,WA,,
+Venice,,CA,,
+Wales,,WI,,
+Walworth,,WI,,
+Warr Acres,,OK,,
+Washington,,DC,,
+Waterford,,WI,,
+Waterloo, Iowa,IA,69.2,16.7
+Waterloo,,WI,,
+Watertown,,WI,,
+Waukesha,,WI,,
+Waupun,,WI,,
+Wausau, Wisconsin,WI,65.3,12.5
+Wauwatosa,,WI,,
+West Allis,,WI,,
+West Bend,,WI,,
+West Hills,,CA,,
+West Hollywood,,CA,,
+West Palm Beach, Florida,FL,83.8,65.3
+Whitefish Bay,,WI,,
+Whites Creek,,TN,,
+Whitestone,,NY,,
+Whitewater,,WI,,
+Wichita, Kansas,KS,79.8,33.5
+Wichita Falls, Texas,TX,86.4,42.1
+Williams Bay,,WI,,
+Williamsport, Pennsylvania,PA,72,27.2
+Williston, North Dakota,ND,68,17
+Wilmington, Delaware,DE,76.7,32.6
+Wilmington, North Carolina,NC,81.3,46.6
+Wilmington,,CA,,
+Windsor Hills,,CA,,
+Winnetka,,CA,,
+Woodhaven,,NY,,
+Woodland Hills,,CA,,
+Woodside,,NY,,
+Worcester, Massachusetts,MA,69.3,23.3
+Yakima, Washington,WA,72.8,33.9
+Yonkers,,NY,,
+Yukon,,OK,,
+Yuma, Arizona,AZ,95.9,55.6
