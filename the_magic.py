@@ -64,11 +64,14 @@ house_list = []
 
 for i in range(4000):
     if kmeans.predict(Xlist[i].reshape(1, -1)) == cat:
-        # print (housing_training_data.iloc[i])
+        results_objects = housing_training_data.iloc[i]
         # print (housing_training_data.house_id[i])
         house_list.append(housing_training_data.house_id[i])
         # print (Xlist[i])
         # print (kmeans.predict(Xlist[i].reshape(1, -1)))
-        
+        # print(results_objects)
 
 print(house_list)
+print(results_objects[0])
+
+# send house list to front end...
