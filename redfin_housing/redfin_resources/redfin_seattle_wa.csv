@@ -12,7 +12,7 @@
 10,Condo/Co-op,411 Boylston Ave E #203,Seattle,WA,98102,320000,1,1.0,443.0,,1930.0,470.0,http://www.redfin.com/WA/Seattle/411-Boylston-Ave-E-98102/unit-203/home/52024,47.6224402,-122.323326
 11,Single Family Residential,2854 39th Ave W,Seattle,WA,98199,1250000,3,1.75,3080.0,6255.0,1949.0,,http://www.redfin.com/WA/Seattle/2854-39th-Ave-W-98199/home/126677,47.6465861,-122.40659209999998
 12,Townhouse,2404 S Grand St,Seattle,WA,98144,709900,3,2.5,1530.0,1921.0,2008.0,,http://www.redfin.com/WA/Seattle/2404-S-Grand-St-98144/home/17382707,47.587016399999996,-122.30089699999999
-13,Condo/Co-op,1808 Minor Ave #1011,Seattle,WA,98101,330000,0,1.0,352.0,,2020.0,309.0,http://www.redfin.com/WA/Seattle/1808-Minor-Ave-98101/unit-1011/home/171162302,47.616977922,-122.33058059999999
+13,Condo/Co-op,1808 Minor Ave #1011,Seattle,WA,98101,330000,0,1.0,352.0,,2020.0,309.0,http://www.redfin.com/WA/Seattle/1808-Minor-Ave-98101/unit-1011/home/171162302,47.61697792,-122.33058059999999
 14,Townhouse,7023 35th Ave NE Unit B,Seattle,WA,98115,725000,3,1.75,1280.0,847.0,2015.0,,http://www.redfin.com/WA/Seattle/7023-35th-Ave-NE-98115/unit-B/home/105510927,47.680164000000005,-122.29069399999999
 15,Condo/Co-op,103 Bellevue Ave E #301,Seattle,WA,98102,450000,1,1.0,708.0,,2004.0,431.0,http://www.redfin.com/WA/Seattle/103-Bellevue-Ave-E-98102/unit-301/home/2088107,47.6187221,-122.32707409999999
 16,Townhouse,8518 Nesbit Ave N Unit C,Seattle,WA,98103,529950,2,2.5,1110.0,10761.0,2007.0,,http://www.redfin.com/WA/Seattle/8518-Nesbit-Ave-N-98103/unit-C/home/103978824,47.691081700000005,-122.34310590000001
@@ -36,7 +36,7 @@
 34,Single Family Residential,6039 30th Ave NE,Seattle,WA,98115,799950,2,1.0,1830.0,3750.0,1909.0,,http://www.redfin.com/WA/Seattle/6039-30th-Ave-NE-98115/home/313339,47.6733414,-122.2956933
 35,Condo/Co-op,108 5th Ave S #304,Seattle,WA,98104,379950,1,1.0,584.0,,2001.0,358.0,http://www.redfin.com/WA/Seattle/108-5th-Ave-S-98104/unit-304/home/17088312,47.6013297,-122.3272364
 36,Single Family Residential,3043 NW 65th St,Seattle,WA,98117,799000,3,1.0,2210.0,4850.0,1908.0,,http://www.redfin.com/WA/Seattle/3043-NW-65th-St-98107/home/162322,47.6756971,-122.39755020000001
-37,Single Family Residential,820 Martin Luther King Jr Way,Seattle,WA,98122,820000,3,2.75,1710.0,3600.0,1994.0,,http://www.redfin.com/WA/Seattle/820-Martin-Luther-King-Jr-Way-98122/home/146831,47.609634723999996,-122.29607179999999
+37,Single Family Residential,820 Martin Luther King Jr Way,Seattle,WA,98122,820000,3,2.75,1710.0,3600.0,1994.0,,http://www.redfin.com/WA/Seattle/820-Martin-Luther-King-Jr-Way-98122/home/146831,47.60963472,-122.29607179999999
 38,Condo/Co-op,1740 Melrose Ave #706,Seattle,WA,98122,670000,2,1.75,1205.0,,1963.0,665.0,http://www.redfin.com/WA/Seattle/1740-Melrose-Ave-98122/unit-706/home/58556,47.6181312,-122.32753419999999
 39,Single Family Residential,12035 8th Ave NE,Seattle,WA,98125,868000,6,2.75,2460.0,12240.0,1963.0,,http://www.redfin.com/WA/Seattle/12035-8th-Ave-NE-98125/home/106339,47.716716,-122.3219881
 40,Single Family Residential,10225 28th Ave SW,Seattle,WA,98146,549950,5,1.75,2000.0,9879.0,1966.0,,http://www.redfin.com/WA/Seattle/10225-28th-Ave-SW-98146/home/180019,47.511554600000004,-122.3686449
@@ -209,143 +209,143 @@
 207,Single Family Residential,8438 34th Ave S,Seattle,WA,98118,437000,4,1.75,1200.0,5200.0,1930.0,,http://www.redfin.com/WA/Seattle/8438-34th-Ave-S-98118/home/481032,47.526739299999996,-122.28887409999999
 208,Single Family Residential,3279 35th Ave SW,Seattle,WA,98126,635000,3,1.75,1180.0,5571.0,1947.0,,http://www.redfin.com/WA/Seattle/3279-35th-Ave-SW-98126/home/329204,47.5732833,-122.3763237
 209,Townhouse,7123 Shinkle Pl SW,Seattle,WA,98106,495000,2,2.25,1592.0,1280.0,2010.0,190.0,http://www.redfin.com/WA/Seattle/7123-Shinkle-Pl-SW-98106/home/12090532,47.5385666,-122.36717730000001
-210,Single Family Residential,3020 NE 145th St,Shoreline,WA,98155,599000,3,1.0,1020.0,6135.0,1947.0,,http://www.redfin.com/WA/Shoreline/3020-NE-145th-St-98155/home/87741,47.734004299999995,-122.29556219999999
-211,Single Family Residential,4615 S Dawson St,Seattle,WA,98118,689950,4,1.5,2160.0,3829.0,1910.0,,http://www.redfin.com/WA/Seattle/4615-S-Dawson-St-98118/home/491021,47.554954200000005,-122.27475729999999
-212,Single Family Residential,9310 Renton Ave S,Seattle,WA,98118,660000,3,3.5,1621.0,1421.0,2014.0,,http://www.redfin.com/WA/Seattle/9310-Renton-Ave-S-98118/home/59703551,47.5187211,-122.27104229999999
-213,Single Family Residential,344 18th Ave E,Seattle,WA,98112,1885000,4,3.25,3033.0,5040.0,1905.0,,http://www.redfin.com/WA/Seattle/344-18th-Ave-E-98112/home/142918,47.6218339,-122.30839420000001
-214,Single Family Residential,9531 Evanston Ave N,Seattle,WA,98103,1759000,5,3.75,3800.0,6984.0,2020.0,,http://www.redfin.com/WA/Seattle/9531-Evanston-Ave-N-98103/home/99608,47.6988052,-122.3515659
-215,Townhouse,301 N 46th St Unit E,Seattle,WA,98103,689950,2,1.75,1004.0,921.0,2020.0,,http://www.redfin.com/WA/Seattle/301-N-46th-St-98103/unit-E/home/172658880,47.662161100000006,-122.35540390000001
-216,Condo/Co-op,108 5th Ave S #316,Seattle,WA,98104,280000,0,1.0,439.0,,2001.0,271.0,http://www.redfin.com/WA/Seattle/108-5th-Ave-S-98104/unit-316/home/12093509,47.6013297,-122.3272364
-217,Condo/Co-op,2830 NW 56th St #405,Seattle,WA,98107,540000,2,1.0,874.0,,1968.0,485.0,http://www.redfin.com/WA/Seattle/2830-NW-56th-St-98107/unit-405/home/12093108,47.6696811,-122.39418570000001
-218,Townhouse,3438 23rd Ave W Unit B,Seattle,WA,98199,848000,3,2.0,1850.0,1664.0,2013.0,,http://www.redfin.com/WA/Seattle/3438-23rd-Ave-W-98199/unit-B/home/124480,47.651441999999996,-122.38560600000001
-219,Single Family Residential,3805 W Parkmont Pl,Seattle,WA,98199,3188000,4,4.5,4440.0,5029.0,1999.0,,http://www.redfin.com/WA/Seattle/3805-W-Parkmont-Pl-98199/home/126263,47.6416982,-122.4071523
-220,Condo/Co-op,1500 4th Ave #903,Seattle,WA,98101,1100000,2,2.0,1812.0,,1909.0,1819.0,http://www.redfin.com/WA/Seattle/1500-4th-Ave-98101/unit-903/home/11360,47.610588,-122.336524
-221,Single Family Residential,2317 13th Ave E,Seattle,WA,98102,1750000,3,2.25,3990.0,4500.0,1921.0,,http://www.redfin.com/WA/Seattle/2317-13th-Ave-E-98102/home/135723,47.6401044,-122.31632720000002
-222,Single Family Residential,712 N 64th St,Seattle,WA,98103,1085000,3,2.75,2148.0,3500.0,1927.0,,http://www.redfin.com/WA/Seattle/712-N-64th-St-98103/home/299116,47.6755075,-122.34932509999999
-223,Multi-Family (2-4 Unit),629 W Nickerson,Seattle,WA,98119,1395000,6,4.0,3120.0,4400.0,1955.0,,http://www.redfin.com/WA/Seattle/629-W-Nickerson-St-98119/home/2084505,47.6516911,-122.3658754
-224,Condo/Co-op,737 Olive Way #2508,Seattle,WA,98101,888000,1,1.5,1092.0,29160.0,2009.0,762.0,http://www.redfin.com/WA/Seattle/737-Olive-Way-98101/unit-2508/home/21883638,47.6135679,-122.3340612
-225,Condo/Co-op,1730 Taylor Ave N #409,Seattle,WA,98109,500000,2,1.0,859.0,,1968.0,474.0,http://www.redfin.com/WA/Seattle/1730-Taylor-Ave-N-98109/unit-409/home/2116960,47.6346248,-122.34675279999999
-226,Single Family Residential,9907 31 Ave SW,Seattle,WA,98126,432000,2,1.0,710.0,6426.0,1942.0,,http://www.redfin.com/WA/Seattle/9907-31st-Ave-SW-98126/home/154869,47.5143777,-122.3721587
-227,Multi-Family (5+ Unit),2425 SW Barton St,Seattle,WA,98106,999900,1,1.0,2390.0,7168.0,1948.0,,http://www.redfin.com/WA/Seattle/2425-SW-Barton-St-98106/home/473615,47.5208297,-122.36431200000001
-228,Single Family Residential,1609 Ferry Ave SW,Seattle,WA,98116,950000,4,2.0,2700.0,5150.0,1925.0,,http://www.redfin.com/WA/Seattle/1609-Ferry-Ave-SW-98116/home/150832,47.588646600000004,-122.38268529999999
-229,Single Family Residential,5028 37th Ave SW,Seattle,WA,98126,1075000,3,2.75,2510.0,5080.0,1927.0,,http://www.redfin.com/WA/Seattle/5028-37th-Ave-SW-98126/home/470789,47.556527200000005,-122.37856049999999
-230,Single Family Residential,7914 18th Ave SW,Seattle,WA,98106,600000,3,1.75,1440.0,5160.0,1948.0,,http://www.redfin.com/WA/Seattle/7914-18th-Ave-SW-98106/home/475762,47.5314128,-122.3574428
-231,Single Family Residential,911 Martin Luther King Jr Way S,Seattle,WA,98144,950000,3,3.0,2060.0,3177.0,2012.0,,http://www.redfin.com/WA/Seattle/911-Martin-Luther-King-Jr-Way-S-98144/home/149134,47.59423820000001,-122.29833400000001
-232,Townhouse,309 Lee St,Seattle,WA,98109,1597500,3,3.75,2362.0,1288.0,2019.0,,http://www.redfin.com/WA/Seattle/309-Lee-St-98109/home/172654523,47.63124129999999,-122.35082140000002
-233,Condo/Co-op,2319 1st Ave #305,Seattle,WA,98121,1100000,2,2.0,1577.0,,2000.0,937.0,http://www.redfin.com/WA/Seattle/2319-1st-Ave-98121/unit-305/home/48490,47.6136191,-122.3474433
-234,Condo/Co-op,1929 42nd Ave E Unit B,Seattle,WA,98112,675000,2,1.0,963.0,3300.0,1987.0,350.0,http://www.redfin.com/WA/Seattle/1929-42nd-Ave-E-98112/unit-B/home/28108,47.6366508,-122.278724
-235,Single Family Residential,2234 2nd Ave W,Seattle,WA,98119,1398000,5,2.5,2150.0,2700.0,1904.0,,http://www.redfin.com/WA/Seattle/2234-2nd-Ave-W-98119/home/133176,47.6394343,-122.35934509999998
-236,Single Family Residential,3814 SW Myrtle St,Seattle,WA,98126,1175000,3,1.75,2360.0,6250.0,1955.0,,http://www.redfin.com/WA/Seattle/3814-SW-Myrtle-St-98126/home/468592,47.53989910000001,-122.38110049999999
-237,Condo/Co-op,588 Bell St #1403,Seattle,WA,98121,1000000,2,1.75,1156.0,41847.0,2015.0,987.0,http://www.redfin.com/WA/Seattle/588-Bell-St-98121/unit-1403/home/168659270,47.6164498,-122.3428091
-238,Single Family Residential,3212 S Edmunds St,Seattle,WA,98118,740000,3,2.5,1530.0,1280.0,2007.0,,http://www.redfin.com/WA/Seattle/3212-S-Edmunds-St-98118/home/12319150,47.5588406,-122.29087720000001
-239,Condo/Co-op,99 Union St #1201,Seattle,WA,98101,3500000,2,2.5,2082.0,,2008.0,2852.0,http://www.redfin.com/WA/Seattle/99-Union-St-98101/unit-1201/home/17863098,47.607378499999996,-122.3391595
-240,Condo/Co-op,5001 California Ave SW #406,Seattle,WA,98136,569950,2,1.75,1100.0,,2004.0,479.0,http://www.redfin.com/WA/Seattle/5001-California-Ave-SW-98136/unit-406/home/62316,47.557274799999995,-122.38729690000001
-241,Vacant Land,3500 S Edmunds St,Seattle,WA,98118,2300000,0,,,6401.0,,,http://www.redfin.com/WA/Seattle/3500-S-Edmunds-St-98118/home/172548,47.558865399999995,-122.2886504
-242,Single Family Residential,3602 SW Lander St,Seattle,WA,98126,1499000,4,3.75,3580.0,5000.0,1927.0,,http://www.redfin.com/WA/Seattle/3602-SW-Lander-St-98126/home/328000,47.579432000000004,-122.37732390000001
-243,Single Family Residential,10414 22nd Ave SW,Seattle,WA,98146,425000,3,1.0,750.0,8040.0,1944.0,,http://www.redfin.com/WA/Seattle/10414-22nd-Ave-SW-98146/home/179359,47.5095309,-122.3612697
-244,Condo/Co-op,321 10th Ave S #620,Seattle,WA,98104,485000,2,2.0,906.0,,2000.0,418.0,http://www.redfin.com/WA/Seattle/321-10th-Ave-S-98104/unit-620/home/12254,47.59941920000001,-122.31979740000001
-245,Vacant Land,2800 S Orcas St,Seattle,WA,98108,175000,0,,,8775.0,,,http://www.redfin.com/WA/Seattle/2800-S-Orcas-St-98108/home/172650725,47.550892,-122.29678009999999
-246,Condo/Co-op,3270 SW Graham St #501,Seattle,WA,98126,755000,4,2.5,1961.0,,2018.0,429.0,http://www.redfin.com/WA/Seattle/3270-SW-Graham-St-98126/unit-501/home/145541628,47.546777899999995,-122.37485120000001
-247,Condo/Co-op,1760 NW 56th St #106,Seattle,WA,98107,449999,1,1.0,662.0,,2016.0,265.0,http://www.redfin.com/WA/Seattle/1760-NW-56th-St-98107/unit-106/home/107948506,47.669648200000005,-122.38157240000001
-248,Single Family Residential,6533 38th Ave S,Seattle,WA,98118,569000,5,2.0,1440.0,4560.0,1998.0,,http://www.redfin.com/WA/Seattle/6533-38th-Ave-S-98118/home/478898,47.5432883,-122.28518159999999
-249,Single Family Residential,3248 NW Market St,Seattle,WA,98107,998000,3,2.5,2110.0,6950.0,1948.0,,http://www.redfin.com/WA/Seattle/3248-NW-Market-St-98107/home/161878,47.66883320000001,-122.4005098
-250,Condo/Co-op,1727 Harbor Ave SW Unit N106,Seattle,WA,98126,529900,1,0.75,1050.0,,1973.0,448.0,http://www.redfin.com/WA/Seattle/1727-Harbor-Ave-SW-98126/unit-N106/home/171135579,47.587098,-122.37896699999999
-251,Single Family Residential,4933 NE 86th St,Seattle,WA,98115,1700000,3,2.75,3789.0,7000.0,1977.0,,http://www.redfin.com/WA/Seattle/4933-NE-86th-St-98115/home/320928,47.691069299999995,-122.2732307
-252,Townhouse,956 N 42nd St Unit D,Seattle,WA,98103,850000,2,1.5,1340.0,1197.0,2003.0,,http://www.redfin.com/WA/Seattle/956-N-42nd-St-98103/unit-D/home/119592,47.657919,-122.3462596
-253,Condo/Co-op,526 1st Ave S #401,Seattle,WA,98104,585000,2,1.5,1292.0,,1909.0,632.0,http://www.redfin.com/WA/Seattle/526-1st-Ave-S-98104/unit-401/home/6873,47.597563799999996,-122.3337071
-254,Single Family Residential,9015 13th Ave SW,Seattle,WA,98106,442000,1,1.0,800.0,6660.0,1942.0,,http://www.redfin.com/WA/Seattle/9015-13th-Ave-SW-98106/home/475124,47.5223662,-122.35195759999999
-255,Condo/Co-op,2600 2nd Ave #602,Seattle,WA,98121,446500,1,1.0,682.0,25918.0,1993.0,580.0,http://www.redfin.com/WA/Seattle/2600-2nd-Ave-98121/unit-602/home/11331,47.616315045,-122.34909540000001
-256,Single Family Residential,8127 10th Ave SW,Seattle,WA,98106,495000,2,1.0,1010.0,7140.0,1952.0,,http://www.redfin.com/WA/Seattle/8127-10th-Ave-SW-98106/home/474663,47.529282099999996,-122.34847509999999
-257,Townhouse,201 27th Ave S,Seattle,WA,98144,699950,3,3.25,1328.0,,2002.0,390.0,http://www.redfin.com/WA/Seattle/201-27th-Ave-S-98144/home/242,47.6006289,-122.29828870000001
-258,Townhouse,7953 9th Ave SW Unit B,Seattle,WA,98106,439500,3,1.5,1300.0,1887.0,2008.0,,http://www.redfin.com/WA/Seattle/7953-9th-Ave-SW-98106/unit-B/home/18657776,47.530443,-122.347196
-259,Single Family Residential,3412 60th Ave SW,Seattle,WA,98116,879000,3,1.75,2750.0,5400.0,1924.0,,http://www.redfin.com/WA/Seattle/3412-60th-Ave-SW-98116/home/152027,47.5735302,-122.4091213
-260,Condo/Co-op,1136 13th Ave #102,Seattle,WA,98122,415000,1,1.0,736.0,11520.0,1924.0,742.0,http://www.redfin.com/WA/Seattle/1136-13th-Ave-98122/unit-102/home/108456576,47.6126959,-122.31508729999999
-261,Single Family Residential,5707 S Augusta St,Seattle,WA,98178,445000,3,2.0,1986.0,9100.0,1942.0,,http://www.redfin.com/WA/Seattle/5707-S-Augusta-St-98178/home/178239,47.4999178,-122.2606378
-262,Multi-Family (2-4 Unit),2630 58th Ave SW,Seattle,WA,98116,1100000,5,4.5,2382.0,3510.0,1940.0,,http://www.redfin.com/WA/Seattle/2630-58th-Ave-SW-98116/home/2068168,47.579901799999995,-122.4058919
-263,Single Family Residential,1707 Parkside Dr E,Seattle,WA,98112,3700000,4,3.5,4190.0,8301.0,1951.0,,http://www.redfin.com/WA/Seattle/1707-Parkside-Dr-E-98112/unit-EA/home/138842,47.6349266,-122.29115290000001
-264,Single Family Residential,7508 30th Ave SW,Seattle,WA,98125,595000,2,1.5,1750.0,5000.0,1941.0,,http://www.redfin.com/WA/Seattle/7508-30th-Ave-SW-98126/home/473584,47.5351994,-122.37082040000001
-265,Single Family Residential,3272 36th Ave SW,Seattle,WA,98126,1398500,4,3.25,3360.0,4449.0,2000.0,,http://www.redfin.com/WA/Seattle/3272-36th-Ave-SW-98126/home/327845,47.573494399999994,-122.3767399
-266,Townhouse,1616 20th Ave Unit C,Seattle,WA,98122,868000,3,3.5,1630.0,1585.0,2000.0,,http://www.redfin.com/WA/Seattle/1616-20th-Ave-98122/unit-C/home/143263,47.615739000000005,-122.305674
-267,Single Family Residential,4435 Renton Ave S,Seattle,WA,98108,845000,4,2.25,1829.0,2912.0,2013.0,127.0,http://www.redfin.com/WA/Seattle/4435-Renton-Ave-S-98108/home/28581778,47.5635932,-122.2925175
-268,Condo/Co-op,6960 California Ave SW Unit A206,Seattle,WA,98136,320000,1,1.0,600.0,,1989.0,298.0,http://www.redfin.com/WA/Seattle/6960-California-Ave-SW-98136/unit-A206/home/12538197,47.541087100000006,-122.3867872
-269,Single Family Residential,14035 27th Ave NE,Seattle,WA,98125,519000,2,1.0,1200.0,8511.0,1949.0,,http://www.redfin.com/WA/Seattle/14035-27th-Ave-NE-98125/home/114508,47.7311821,-122.29949920000001
-270,Townhouse,5212 B Brooklyn Ave NE,Seattle,WA,98105,864950,3,2.25,1330.0,1120.0,2020.0,,http://www.redfin.com/WA/Seattle/5212-Brooklyn-Ave-NE-98105/home/172646874,47.666921,-122.3138996
-271,Single Family Residential,4040 35th Ave SW,Seattle,WA,98126,775000,3,1.75,1640.0,4000.0,1940.0,,http://www.redfin.com/WA/Seattle/4040-35th-Ave-SW-98126/home/328358,47.5667324,-122.3759142
-272,Townhouse,2214 E Spruce St,Seattle,WA,98122,829000,3,3.0,1863.0,1443.0,2020.0,,http://www.redfin.com/WA/Seattle/2214-E-Spruce-St-98122/home/144334,47.603664200000004,-122.3030482
-273,Condo/Co-op,1920 4th Ave #1208,Seattle,WA,98101,1150000,2,2.0,1607.0,,2010.0,1343.0,http://www.redfin.com/WA/Seattle/1920-4th-Ave-98101/unit-1208/home/28624133,47.6129885,-122.3393103
-274,Townhouse,3666 Interlake Ave N Unit A,Seattle,WA,98103,689950,2,1.75,1024.0,731.0,2020.0,,http://www.redfin.com/WA/Seattle/3666-Interlake-Ave-N-98103/unit-A/home/172646758,47.65236779999999,-122.3410325
-275,Townhouse,1416 6th Ave N,Seattle,WA,98109,1599000,3,2.5,2374.0,1580.0,1996.0,150.0,http://www.redfin.com/WA/Seattle/1416-6th-Ave-N-98109/home/131830,47.631962,-122.344458
-276,Single Family Residential,13759 interlake Ave N,Seattle,WA,98133,589000,2,1.0,745.0,9160.0,1942.0,,http://www.redfin.com/WA/Seattle/13759-Interlake-Ave-N-98133/home/102315,47.73033579999999,-122.34154129999999
-277,Condo/Co-op,2717 Western Ave #9010,Seattle,WA,98121,649950,2,1.0,818.0,,2001.0,548.0,http://www.redfin.com/WA/Seattle/2717-Western-Ave-98121/unit-9010/home/66068,47.6152233,-122.3521882
-278,Multi-Family (5+ Unit),4345 32nd Ave W,Seattle,WA,98199,5495000,6,6.0,15240.0,12553.0,1976.0,,http://www.redfin.com/WA/Seattle/4345-32nd-Ave-W-98199/home/2082045,47.6597929,-122.39852179999998
-279,Condo/Co-op,905 Cherry St #205,Seattle,WA,98104,525000,2,2.0,862.0,10798.0,1969.0,806.0,http://www.redfin.com/WA/Seattle/905-Cherry-St-98104/unit-205/home/12090793,47.606223,-122.3249229
-280,Single Family Residential,4312 36th Ave NE,Seattle,WA,98105,1920000,5,5.5,4800.0,5000.0,2016.0,,http://www.redfin.com/WA/Seattle/4312-36th-Ave-NE-98105/home/122791,47.660264,-122.28904399999999
-281,Townhouse,503 F NE 72nd St,Seattle,WA,98115,689950,2,1.75,1196.0,720.0,2020.0,,http://www.redfin.com/WA/Seattle/503-NE-72nd-St-98115/unit-H/home/167400642,47.6807513,-122.32264140000001
-282,Condo/Co-op,1530 NW Market St #605,Seattle,WA,98107,519950,1,1.0,870.0,,2007.0,406.0,http://www.redfin.com/WA/Seattle/1530-NW-Market-St-98107/unit-605/home/17381888,47.6689309,-122.3779136
-283,Townhouse,110 21st Ave Unit A,Seattle,WA,98122,799950,3,2.5,1450.0,1100.0,2020.0,,http://www.redfin.com/WA/Seattle/110-21st-Ave-98122/unit-A/home/172645839,47.602016600000006,-122.30483079999999
-284,Townhouse,3737 S Dawson St,Seattle,WA,98118,729900,2,2.0,1281.0,1.0,2020.0,,http://www.redfin.com/WA/Seattle/3737-S-Dawson-St-98118/home/172645633,47.5554914,-122.28453119999999
-285,Multi-Family (2-4 Unit),3844 Fremont Ave N,Seattle,WA,98103,1195000,4,3.0,2400.0,3593.0,1930.0,,http://www.redfin.com/WA/Seattle/3844-Fremont-Ave-N-98103/home/2081947,47.653929999999995,-122.34960600000001
-286,Townhouse,8823 9th Ave SW Unit A,Seattle,WA,98106,510000,2,1.25,960.0,1126.0,2020.0,,http://www.redfin.com/WA/Seattle/8823-9th-Ave-SW-98106/unit-A/home/172645034,47.5239803,-122.34715700000001
-287,Townhouse,8821 9th Ave SW Unit A,Seattle,WA,98106,485000,2,1.5,955.0,1299.0,2020.0,,http://www.redfin.com/WA/Seattle/8821-9th-Ave-SW-98106/unit-A/home/172644882,47.52404310000001,-122.34717450000001
-288,Single Family Residential,2503 Nob Hill Ave N,Seattle,WA,98109,1279000,2,1.75,2405.0,2914.0,1929.0,,http://www.redfin.com/WA/Seattle/2503-Nob-Hill-Ave-N-98109/home/133836,47.6415581,-122.35076049999999
-289,Single Family Residential,2516 12th Ave W,Seattle,WA,98119,950000,3,1.5,2000.0,4000.0,1937.0,,http://www.redfin.com/WA/Seattle/2516-12th-Ave-W-98119/home/130159,47.641278799999995,-122.37221399999999
-290,Single Family Residential,8036 Sunnyside Ave N,Seattle,WA,98103,818000,3,2.25,1780.0,3720.0,1983.0,,http://www.redfin.com/WA/Seattle/8036-Sunnyside-Ave-N-98103/home/307482,47.688023799999996,-122.3293574
-291,Single Family Residential,2847 W 22nd Ave,Seattle,WA,98199,989000,3,2.0,1961.0,4800.0,1904.0,,http://www.redfin.com/WA/Seattle/2847-22nd-Ave-W-98199/home/123157,47.6461402,-122.3849513
-292,Single Family Residential,3211 28th Ave W,Seattle,WA,98199,1388000,4,2.5,3150.0,6000.0,1938.0,,http://www.redfin.com/WA/Seattle/3211-28th-Ave-W-98199/home/128369,47.6491281,-122.39323459999999
-293,Single Family Residential,,Seattle,WA,98199,4400000,3,2.0,3200.0,31335.0,1938.0,,http://www.redfin.com/WA/Seattle/Undisclosed-address-98199/home/172644434,47.674864,-122.419303
-294,Condo/Co-op,410 W Roy St Unit E106,Seattle,WA,98119,619000,2,2.0,1071.0,,1982.0,511.0,http://www.redfin.com/WA/Seattle/410-W-Roy-St-98119/unit-E106/home/47511,47.6261249,-122.3633389
-295,Condo/Co-op,2720 3rd Ave #317,Seattle,WA,98121,584000,1,1.0,899.0,,2008.0,639.0,http://www.redfin.com/WA/Seattle/2720-3rd-Ave-98121/unit-317/home/12536969,47.617666,-122.34920149999999
-296,Single Family Residential,4340 S Bennett St,Seattle,WA,98118,815000,3,1.0,1150.0,5712.0,1909.0,,http://www.redfin.com/WA/Seattle/4340-S-Bennett-St-98118/home/491593,47.5544835,-122.27761880000001
-297,Single Family Residential,10415 8th Ave S,Seattle,WA,98168,308000,3,2.0,1930.0,28840.0,1939.0,,http://www.redfin.com/WA/Seattle/10415-8th-Ave-S-98168/home/187693,47.509904,-122.323852
-298,Condo/Co-op,2720 3rd Ave #909,Seattle,WA,98121,989000,2,1.75,1269.0,,2008.0,898.0,http://www.redfin.com/WA/Seattle/2720-3rd-Ave-98121/unit-909/home/12536942,47.617666,-122.34920149999999
-299,Single Family Residential,5927 California Ave SW,Seattle,WA,98136,620000,3,3.5,1396.0,1723.0,2009.0,,http://www.redfin.com/WA/Seattle/5927-California-Ave-SW-98136/home/21617227,47.5494503,-122.38755819999999
-300,Single Family Residential,5370 S Kenyon St,Seattle,WA,98118,3645000,5,3.25,4410.0,26969.0,1949.0,,http://www.redfin.com/WA/Seattle/5370-S-Kenyon-St-98118/home/489758,47.531946000000005,-122.26406940000001
-301,Single Family Residential,11050 84th Ave S,Seattle,WA,98178,549900,2,1.0,1730.0,9135.0,1919.0,,http://www.redfin.com/WA/Seattle/11050-84th-Ave-S-98178/home/198331,47.5028549,-122.2272061
-302,Townhouse,2105 E Alder St,Seattle,WA,98112,785000,3,2.25,1630.0,930.0,2016.0,,http://www.redfin.com/WA/Seattle/2105-E-Alder-St-98122/home/109236871,47.6041626,-122.3047278
-303,Condo/Co-op,535 20th Ave E #205,Seattle,WA,98112,495000,1,1.0,592.0,7937.0,1923.0,534.0,http://www.redfin.com/WA/Seattle/535-20th-Ave-E-98112/unit-205/home/10748,47.624238399999996,-122.3063712
-304,Single Family Residential,10600 10th Pl NE,Seattle,WA,98125,899900,5,2.25,2786.0,6760.0,1956.0,,http://www.redfin.com/WA/Seattle/10600-10th-Pl-NE-98125/home/108119,47.70625870000001,-122.31650790000002
-305,Condo/Co-op,606 E Thomas St Unit R,Seattle,WA,98102,300000,1,1.0,570.0,,1906.0,400.0,http://www.redfin.com/WA/Seattle/606-E-Thomas-St-98102/unit-R/home/172642942,47.6210029,-122.3237672
-306,Townhouse,3212 15th Ave W Unit C,Seattle,WA,98119,684995,2,1.5,1410.0,619.0,2020.0,68.0,http://www.redfin.com/WA/Seattle/3212-15th-Ave-W-98119/unit-C/home/168932052,47.648949,-122.37591689999999
-307,Single Family Residential,2415 S Graham St,Seattle,WA,98108,658000,4,2.5,1950.0,7500.0,1900.0,,http://www.redfin.com/WA/Seattle/2415-S-Graham-St-98108/home/481547,47.5462084,-122.3017399
-308,Condo/Co-op,401 9th Ave N #206,Seattle,WA,98109,575000,1,1.0,815.0,,2009.0,430.0,http://www.redfin.com/WA/Seattle/401-9th-Ave-N-98109/unit-206/home/21616517,47.6223874,-122.3401325
-309,Single Family Residential,3032 SW Holly St,Seattle,WA,98126,665000,3,2.25,1920.0,2744.0,2014.0,96.0,http://www.redfin.com/WA/Seattle/3032-SW-Holly-St-98126/home/18662002,47.5430119,-122.37203259999998
-310,Condo/Co-op,8750 Greenwood Ave N Unit S208,Seattle,WA,98103,500000,2,1.75,1131.0,,1998.0,367.0,http://www.redfin.com/WA/Seattle/8750-Greenwood-Ave-N-98103/unit-S208/home/60386,47.6938207,-122.3548912
-311,Single Family Residential,930 Federal Ave E,Seattle,WA,98102,1990000,4,2.5,4050.0,4200.0,1921.0,,http://www.redfin.com/WA/Seattle/930-Federal-Ave-E-98102/home/136100,47.627742,-122.3188652
-312,Single Family Residential,5621 SW Bradford St,Seattle,WA,98116,1250000,5,3.5,3214.0,7250.0,1991.0,,http://www.redfin.com/WA/Seattle/5621-SW-Bradford-St-98116/home/152305,47.569182,-122.40462079999999
-313,Condo/Co-op,308 Summit Ave E #402,Seattle,WA,98102,445000,1,1.0,620.0,,1967.0,373.0,http://www.redfin.com/WA/Seattle/308-Summit-Ave-E-98102/unit-402/home/8398,47.6212755,-122.324949
-314,Single Family Residential,5011 54th Ave S,Seattle,WA,98118,950000,3,2.5,1970.0,6700.0,1955.0,,http://www.redfin.com/WA/Seattle/5011-54th-Ave-S-98118/home/490243,47.5566559,-122.26619140000001
-315,Condo/Co-op,4525 S Henderson St #203,Seattle,WA,98118,264000,1,1.0,521.0,,1967.0,189.0,http://www.redfin.com/WA/Seattle/4525-S-Henderson-St-98118/unit-203/home/21616925,47.52301129999999,-122.27535630000001
-316,Single Family Residential,6003 37th Ave SW,Seattle,WA,98126,695000,3,1.75,1380.0,6016.0,1944.0,,http://www.redfin.com/WA/Seattle/6003-37th-Ave-SW-98126/home/470646,47.5482343,-122.3793213
-317,Condo/Co-op,2000 Third Ave #2106,Seattle,WA,98101,1525888,2,2.0,1077.0,,2023.0,995.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-2106/home/167980159,47.612671999999996,-122.34082690000001
-318,Condo/Co-op,2000 Third Ave #4305,Seattle,WA,98101,3458888,3,3.0,1522.0,,2023.0,1406.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-4305/home/172641563,47.6128244,-122.3410175
-319,Condo/Co-op,2000 Third Ave #809,Seattle,WA,98101,1298888,2,2.0,940.0,,2023.0,868.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-809/home/172641530,47.6128244,-122.3410175
-320,Condo/Co-op,2000 Third Ave #913,Seattle,WA,98101,753888,1,1.0,548.0,,2023.0,507.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-913/home/167980161,47.612671999999996,-122.34082690000001
-321,Condo/Co-op,11005 Glen acres Dr S Unit D,Seattle,WA,98168,299999,2,2.5,1320.0,,1979.0,823.0,http://www.redfin.com/WA/Burien/11005-Glen-Acres-Dr-S-98168/unit-D/home/109243300,47.50505510000001,-122.32096820000001
-322,Single Family Residential,13738 Palatine Ave N,Seattle,WA,98133,749500,3,2.0,2030.0,5950.0,1950.0,,http://www.redfin.com/WA/Seattle/13738-Palatine-Ave-N-98133/home/95468,47.729803600000004,-122.3565604
-323,Condo/Co-op,2000 Third Ave #804,Seattle,WA,98101,929888,2,2.0,686.0,,2023.0,633.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-804/home/172641484,47.6128244,-122.3410175
-324,Condo/Co-op,2000 Third Ave #803,Seattle,WA,98101,662888,0,1.0,394.0,,2023.0,364.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-803/home/167979930,47.612671999999996,-122.34082690000001
-325,Townhouse,12032 33rd Ave NE Unit A,Seattle,WA,98125,649950,3,2.5,1570.0,990.0,2020.0,,http://www.redfin.com/WA/Seattle/12032-33rd-Ave-NE-98125/unit-A/home/172641416,47.7165467,-122.2924203
-326,Single Family Residential,5235 48th Ave SW,Seattle,WA,98136,785000,3,1.75,1880.0,5760.0,1950.0,,http://www.redfin.com/WA/Seattle/5235-48th-Ave-SW-98136/home/153564,47.554613200000006,-122.39393100000001
-327,Other,2143 N Northlake Way #55,Seattle,WA,98103,699000,2,0.75,600.0,600.0,1984.0,507.0,http://www.redfin.com/WA/Seattle/2143-N-Northlake-Way-98103/unit-55/home/34039,47.6471085,-122.3325745
-328,Single Family Residential,809 31st Ave S,Seattle,WA,98144,1125000,5,3.25,2950.0,4958.0,1915.0,,http://www.redfin.com/WA/Seattle/809-31st-Ave-S-98144/home/148730,47.5954829,-122.2930105
-329,Single Family Residential,1466 Magnolia Blvd W,Seattle,WA,98199,1245000,3,2.25,2230.0,3618.0,1950.0,,http://www.redfin.com/WA/Seattle/1466-Magnolia-Blvd-W-98199/home/126285,47.633596399999995,-122.39697609999999
-330,Single Family Residential,2214 W Halladay St,Seattle,WA,98199,1995000,7,5.5,4590.0,5000.0,1964.0,,http://www.redfin.com/WA/Seattle/2214-W-Halladay-St-98199/home/2079559,47.64237670000001,-122.3858767
-331,Townhouse,1909 8th Ave W Unit B,Seattle,WA,98119,678000,2,1.5,830.0,1241.0,2005.0,,http://www.redfin.com/WA/Seattle/1909-8th-Ave-W-98119/unit-B/home/2070116,47.6363167,-122.3681317
-332,Condo/Co-op,200 W Highland Dr #502,Seattle,WA,98119,5000000,2,1.5,2484.0,,2009.0,1710.0,http://www.redfin.com/WA/Seattle/200-W-Highland-Dr-98119/unit-502/home/21883465,47.6299024,-122.35958329999998
-333,Condo/Co-op,76 Cedar St #904,Seattle,WA,98121,549000,1,1.5,867.0,,2008.0,646.0,http://www.redfin.com/WA/Seattle/76-Cedar-St-98121/unit-904/home/12537808,47.615605200000005,-122.35169440000001
-334,Condo/Co-op,5501 11th Ave NW #201,Seattle,WA,98107,395000,1,1.0,680.0,,1969.0,425.0,http://www.redfin.com/WA/Seattle/5501-11th-Ave-NW-98107/unit-201/home/12091898,47.6689366,-122.37119709999999
-335,Single Family Residential,4406 34th Ave S,Seattle,WA,98118,850000,6,3.25,2700.0,5000.0,1983.0,,http://www.redfin.com/WA/Seattle/4406-34th-Ave-S-98118/home/172380,47.5637696,-122.2900783
-336,Townhouse,5609 28th Ave NW,Seattle,WA,98107,740000,3,2.5,1430.0,1732.0,1999.0,,http://www.redfin.com/WA/Seattle/5609-28th-Ave-NW-98107/home/161944,47.669754,-122.39321399999999
-337,Condo/Co-op,1808 Minor Ave #901,Seattle,WA,98101,789000,1,1.0,646.0,,2020.0,569.0,http://www.redfin.com/WA/Seattle/1808-Minor-Ave-98101/unit-901/home/172354387,47.6169782,-122.3305804
-338,Condo/Co-op,1620 43rd Ave E Unit 15A-B,Seattle,WA,98112,2950000,2,2.5,2758.0,,1969.0,2500.0,http://www.redfin.com/WA/Seattle/1620-43rd-Ave-E-98112/unit-15A-B/home/172640693,47.6337689,-122.27617959999999
-339,Condo/Co-op,10810 Drive S Glen Acres Unit T19,Seattle,WA,98168,314950,2,2.25,1443.0,,1967.0,918.0,http://www.redfin.com/WA/Seattle/10810-Glen-Acres-Dr-S-98168/unit-T19/home/13480,47.5060453,-122.32126770000002
-340,Single Family Residential,5614 12th Ave NE,Seattle,WA,98105,1350000,5,3.0,3060.0,4500.0,1906.0,,http://www.redfin.com/WA/Seattle/5614-12th-Ave-NE-98105/home/311911,47.6699275,-122.3148166
-341,Single Family Residential,8809 17th Ave SW,Seattle,WA,98106,689000,5,2.0,2040.0,8981.0,1919.0,,http://www.redfin.com/WA/Seattle/8809-17th-Ave-SW-98106/home/474286,47.524387700000005,-122.35670079999998
-342,Condo/Co-op,506 E Howell St Unit W301,Seattle,WA,98122,595000,2,2.0,890.0,6849.0,1992.0,592.0,http://www.redfin.com/WA/Seattle/506-E-Howell-St-98122/unit-W301/home/9243,47.61803270000001,-122.32492240000002
-343,Single Family Residential,3712 NE 55th St,Seattle,WA,98105,824950,3,1.75,1680.0,4725.0,1940.0,,http://www.redfin.com/WA/Seattle/3712-NE-55th-St-98105/home/314003,47.668681799999995,-122.2873426
-344,Single Family Residential,2641 W Boston St,Seattle,WA,98199,1349000,4,2.5,2580.0,4000.0,1931.0,,http://www.redfin.com/WA/Seattle/2641-W-Boston-St-98199/home/124783,47.6381851,-122.3922088
-345,Single Family Residential,2837 12th Ave W,Seattle,WA,98119,998888,4,1.75,1820.0,5800.0,1946.0,,http://www.redfin.com/WA/Seattle/2837-12th-Ave-W-98119/home/129191,47.646283700000005,-122.37281609999998
-346,Single Family Residential,5527 56th Ave S,Seattle,WA,98118,998000,5,2.75,2860.0,5000.0,1929.0,,http://www.redfin.com/WA/Seattle/5527-56th-Ave-S-98118/home/489318,47.551759999999994,-122.2636825
-347,Single Family Residential,1904 24TH Ave S,Seattle,WA,98144,719000,3,2.25,1450.0,824.0,2016.0,100.0,http://www.redfin.com/WA/Seattle/1904-24th-Ave-S-98144/home/109230506,47.586149,-122.30138999999998
-348,Single Family Residential,4610 S Gazelle,Seattle,WA,98118,515000,3,2.0,1550.0,5500.0,1957.0,,http://www.redfin.com/WA/Seattle/4610-S-Gazelle-St-98118/home/175355,47.5127011,-122.2748477
-349,Townhouse,2705 SW Sylvan Heights Dr,Seattle,WA,98106,515000,2,2.25,1420.0,1245.0,2007.0,190.0,http://www.redfin.com/WA/Seattle/2705-SW-Sylvan-Heights-Dr-98106/home/12090508,47.5395964,-122.36816440000001
+210,Single Family Residential,4615 S Dawson St,Seattle,WA,98118,689950,4,1.5,2160.0,3829.0,1910.0,,http://www.redfin.com/WA/Seattle/4615-S-Dawson-St-98118/home/491021,47.554954200000005,-122.27475729999999
+211,Single Family Residential,9310 Renton Ave S,Seattle,WA,98118,660000,3,3.5,1621.0,1421.0,2014.0,,http://www.redfin.com/WA/Seattle/9310-Renton-Ave-S-98118/home/59703551,47.5187211,-122.27104229999999
+212,Single Family Residential,344 18th Ave E,Seattle,WA,98112,1885000,4,3.25,3033.0,5040.0,1905.0,,http://www.redfin.com/WA/Seattle/344-18th-Ave-E-98112/home/142918,47.6218339,-122.30839420000001
+213,Single Family Residential,9531 Evanston Ave N,Seattle,WA,98103,1759000,5,3.75,3800.0,6984.0,2020.0,,http://www.redfin.com/WA/Seattle/9531-Evanston-Ave-N-98103/home/99608,47.6988052,-122.3515659
+214,Townhouse,301 N 46th St Unit E,Seattle,WA,98103,689950,2,1.75,1004.0,921.0,2020.0,,http://www.redfin.com/WA/Seattle/301-N-46th-St-98103/unit-E/home/172658880,47.662161100000006,-122.35540390000001
+215,Condo/Co-op,108 5th Ave S #316,Seattle,WA,98104,280000,0,1.0,439.0,,2001.0,271.0,http://www.redfin.com/WA/Seattle/108-5th-Ave-S-98104/unit-316/home/12093509,47.6013297,-122.3272364
+216,Condo/Co-op,2830 NW 56th St #405,Seattle,WA,98107,540000,2,1.0,874.0,,1968.0,485.0,http://www.redfin.com/WA/Seattle/2830-NW-56th-St-98107/unit-405/home/12093108,47.6696811,-122.39418570000001
+217,Townhouse,3438 23rd Ave W Unit B,Seattle,WA,98199,848000,3,2.0,1850.0,1664.0,2013.0,,http://www.redfin.com/WA/Seattle/3438-23rd-Ave-W-98199/unit-B/home/124480,47.651441999999996,-122.38560600000001
+218,Single Family Residential,3805 W Parkmont Pl,Seattle,WA,98199,3188000,4,4.5,4440.0,5029.0,1999.0,,http://www.redfin.com/WA/Seattle/3805-W-Parkmont-Pl-98199/home/126263,47.6416982,-122.4071523
+219,Condo/Co-op,1500 4th Ave #903,Seattle,WA,98101,1100000,2,2.0,1812.0,,1909.0,1819.0,http://www.redfin.com/WA/Seattle/1500-4th-Ave-98101/unit-903/home/11360,47.610588,-122.336524
+220,Single Family Residential,2317 13th Ave E,Seattle,WA,98102,1750000,3,2.25,3990.0,4500.0,1921.0,,http://www.redfin.com/WA/Seattle/2317-13th-Ave-E-98102/home/135723,47.6401044,-122.31632720000002
+221,Single Family Residential,712 N 64th St,Seattle,WA,98103,1085000,3,2.75,2148.0,3500.0,1927.0,,http://www.redfin.com/WA/Seattle/712-N-64th-St-98103/home/299116,47.6755075,-122.34932509999999
+222,Multi-Family (2-4 Unit),629 W Nickerson,Seattle,WA,98119,1395000,6,4.0,3120.0,4400.0,1955.0,,http://www.redfin.com/WA/Seattle/629-W-Nickerson-St-98119/home/2084505,47.6516911,-122.3658754
+223,Condo/Co-op,737 Olive Way #2508,Seattle,WA,98101,888000,1,1.5,1092.0,29160.0,2009.0,762.0,http://www.redfin.com/WA/Seattle/737-Olive-Way-98101/unit-2508/home/21883638,47.6135679,-122.3340612
+224,Condo/Co-op,1730 Taylor Ave N #409,Seattle,WA,98109,500000,2,1.0,859.0,,1968.0,474.0,http://www.redfin.com/WA/Seattle/1730-Taylor-Ave-N-98109/unit-409/home/2116960,47.6346248,-122.34675279999999
+225,Single Family Residential,9907 31 Ave SW,Seattle,WA,98126,432000,2,1.0,710.0,6426.0,1942.0,,http://www.redfin.com/WA/Seattle/9907-31st-Ave-SW-98126/home/154869,47.5143777,-122.3721587
+226,Multi-Family (5+ Unit),2425 SW Barton St,Seattle,WA,98106,999900,1,1.0,2390.0,7168.0,1948.0,,http://www.redfin.com/WA/Seattle/2425-SW-Barton-St-98106/home/473615,47.5208297,-122.36431200000001
+227,Single Family Residential,1609 Ferry Ave SW,Seattle,WA,98116,950000,4,2.0,2700.0,5150.0,1925.0,,http://www.redfin.com/WA/Seattle/1609-Ferry-Ave-SW-98116/home/150832,47.588646600000004,-122.38268529999999
+228,Single Family Residential,5028 37th Ave SW,Seattle,WA,98126,1075000,3,2.75,2510.0,5080.0,1927.0,,http://www.redfin.com/WA/Seattle/5028-37th-Ave-SW-98126/home/470789,47.556527200000005,-122.37856049999999
+229,Single Family Residential,7914 18th Ave SW,Seattle,WA,98106,600000,3,1.75,1440.0,5160.0,1948.0,,http://www.redfin.com/WA/Seattle/7914-18th-Ave-SW-98106/home/475762,47.5314128,-122.3574428
+230,Single Family Residential,911 Martin Luther King Jr Way S,Seattle,WA,98144,950000,3,3.0,2060.0,3177.0,2012.0,,http://www.redfin.com/WA/Seattle/911-Martin-Luther-King-Jr-Way-S-98144/home/149134,47.59423820000001,-122.29833400000001
+231,Townhouse,309 Lee St,Seattle,WA,98109,1597500,3,3.75,2362.0,1288.0,2019.0,,http://www.redfin.com/WA/Seattle/309-Lee-St-98109/home/172654523,47.63124129999999,-122.35082140000002
+232,Condo/Co-op,2319 1st Ave #305,Seattle,WA,98121,1100000,2,2.0,1577.0,,2000.0,937.0,http://www.redfin.com/WA/Seattle/2319-1st-Ave-98121/unit-305/home/48490,47.6136191,-122.3474433
+233,Condo/Co-op,1929 42nd Ave E Unit B,Seattle,WA,98112,675000,2,1.0,963.0,3300.0,1987.0,350.0,http://www.redfin.com/WA/Seattle/1929-42nd-Ave-E-98112/unit-B/home/28108,47.6366508,-122.278724
+234,Single Family Residential,2234 2nd Ave W,Seattle,WA,98119,1398000,5,2.5,2150.0,2700.0,1904.0,,http://www.redfin.com/WA/Seattle/2234-2nd-Ave-W-98119/home/133176,47.6394343,-122.35934509999998
+235,Single Family Residential,3814 SW Myrtle St,Seattle,WA,98126,1175000,3,1.75,2360.0,6250.0,1955.0,,http://www.redfin.com/WA/Seattle/3814-SW-Myrtle-St-98126/home/468592,47.53989910000001,-122.38110049999999
+236,Condo/Co-op,588 Bell St #1403,Seattle,WA,98121,1000000,2,1.75,1156.0,41847.0,2015.0,987.0,http://www.redfin.com/WA/Seattle/588-Bell-St-98121/unit-1403/home/168659270,47.6164498,-122.3428091
+237,Single Family Residential,3212 S Edmunds St,Seattle,WA,98118,740000,3,2.5,1530.0,1280.0,2007.0,,http://www.redfin.com/WA/Seattle/3212-S-Edmunds-St-98118/home/12319150,47.5588406,-122.29087720000001
+238,Condo/Co-op,99 Union St #1201,Seattle,WA,98101,3500000,2,2.5,2082.0,,2008.0,2852.0,http://www.redfin.com/WA/Seattle/99-Union-St-98101/unit-1201/home/17863098,47.607378499999996,-122.3391595
+239,Condo/Co-op,5001 California Ave SW #406,Seattle,WA,98136,569950,2,1.75,1100.0,,2004.0,479.0,http://www.redfin.com/WA/Seattle/5001-California-Ave-SW-98136/unit-406/home/62316,47.557274799999995,-122.38729690000001
+240,Vacant Land,3500 S Edmunds St,Seattle,WA,98118,2300000,0,,,6401.0,,,http://www.redfin.com/WA/Seattle/3500-S-Edmunds-St-98118/home/172548,47.558865399999995,-122.2886504
+241,Single Family Residential,3602 SW Lander St,Seattle,WA,98126,1499000,4,3.75,3580.0,5000.0,1927.0,,http://www.redfin.com/WA/Seattle/3602-SW-Lander-St-98126/home/328000,47.579432000000004,-122.37732390000001
+242,Single Family Residential,10414 22nd Ave SW,Seattle,WA,98146,425000,3,1.0,750.0,8040.0,1944.0,,http://www.redfin.com/WA/Seattle/10414-22nd-Ave-SW-98146/home/179359,47.5095309,-122.3612697
+243,Condo/Co-op,321 10th Ave S #620,Seattle,WA,98104,485000,2,2.0,906.0,,2000.0,418.0,http://www.redfin.com/WA/Seattle/321-10th-Ave-S-98104/unit-620/home/12254,47.59941920000001,-122.31979740000001
+244,Vacant Land,2800 S Orcas St,Seattle,WA,98108,175000,0,,,8775.0,,,http://www.redfin.com/WA/Seattle/2800-S-Orcas-St-98108/home/172650725,47.550892,-122.29678009999999
+245,Condo/Co-op,3270 SW Graham St #501,Seattle,WA,98126,755000,4,2.5,1961.0,,2018.0,429.0,http://www.redfin.com/WA/Seattle/3270-SW-Graham-St-98126/unit-501/home/145541628,47.546777899999995,-122.37485120000001
+246,Condo/Co-op,1760 NW 56th St #106,Seattle,WA,98107,449999,1,1.0,662.0,,2016.0,265.0,http://www.redfin.com/WA/Seattle/1760-NW-56th-St-98107/unit-106/home/107948506,47.669648200000005,-122.38157240000001
+247,Single Family Residential,6533 38th Ave S,Seattle,WA,98118,569000,5,2.0,1440.0,4560.0,1998.0,,http://www.redfin.com/WA/Seattle/6533-38th-Ave-S-98118/home/478898,47.5432883,-122.28518159999999
+248,Single Family Residential,3248 NW Market St,Seattle,WA,98107,998000,3,2.5,2110.0,6950.0,1948.0,,http://www.redfin.com/WA/Seattle/3248-NW-Market-St-98107/home/161878,47.66883320000001,-122.4005098
+249,Condo/Co-op,1727 Harbor Ave SW Unit N106,Seattle,WA,98126,529900,1,0.75,1050.0,,1973.0,448.0,http://www.redfin.com/WA/Seattle/1727-Harbor-Ave-SW-98126/unit-N106/home/171135579,47.587098,-122.37896699999999
+250,Single Family Residential,4933 NE 86th St,Seattle,WA,98115,1700000,3,2.75,3789.0,7000.0,1977.0,,http://www.redfin.com/WA/Seattle/4933-NE-86th-St-98115/home/320928,47.691069299999995,-122.2732307
+251,Townhouse,956 N 42nd St Unit D,Seattle,WA,98103,850000,2,1.5,1340.0,1197.0,2003.0,,http://www.redfin.com/WA/Seattle/956-N-42nd-St-98103/unit-D/home/119592,47.657919,-122.3462596
+252,Condo/Co-op,526 1st Ave S #401,Seattle,WA,98104,585000,2,1.5,1292.0,,1909.0,632.0,http://www.redfin.com/WA/Seattle/526-1st-Ave-S-98104/unit-401/home/6873,47.597563799999996,-122.3337071
+253,Single Family Residential,9015 13th Ave SW,Seattle,WA,98106,442000,1,1.0,800.0,6660.0,1942.0,,http://www.redfin.com/WA/Seattle/9015-13th-Ave-SW-98106/home/475124,47.5223662,-122.35195759999999
+254,Condo/Co-op,2600 2nd Ave #602,Seattle,WA,98121,446500,1,1.0,682.0,25918.0,1993.0,580.0,http://www.redfin.com/WA/Seattle/2600-2nd-Ave-98121/unit-602/home/11331,47.61631505,-122.34909540000001
+255,Single Family Residential,8127 10th Ave SW,Seattle,WA,98106,495000,2,1.0,1010.0,7140.0,1952.0,,http://www.redfin.com/WA/Seattle/8127-10th-Ave-SW-98106/home/474663,47.529282099999996,-122.34847509999999
+256,Townhouse,201 27th Ave S,Seattle,WA,98144,699950,3,3.25,1328.0,,2002.0,390.0,http://www.redfin.com/WA/Seattle/201-27th-Ave-S-98144/home/242,47.6006289,-122.29828870000001
+257,Townhouse,7953 9th Ave SW Unit B,Seattle,WA,98106,439500,3,1.5,1300.0,1887.0,2008.0,,http://www.redfin.com/WA/Seattle/7953-9th-Ave-SW-98106/unit-B/home/18657776,47.530443,-122.347196
+258,Single Family Residential,3412 60th Ave SW,Seattle,WA,98116,879000,3,1.75,2750.0,5400.0,1924.0,,http://www.redfin.com/WA/Seattle/3412-60th-Ave-SW-98116/home/152027,47.5735302,-122.4091213
+259,Condo/Co-op,1136 13th Ave #102,Seattle,WA,98122,415000,1,1.0,736.0,11520.0,1924.0,742.0,http://www.redfin.com/WA/Seattle/1136-13th-Ave-98122/unit-102/home/108456576,47.6126959,-122.31508729999999
+260,Single Family Residential,5707 S Augusta St,Seattle,WA,98178,445000,3,2.0,1986.0,9100.0,1942.0,,http://www.redfin.com/WA/Seattle/5707-S-Augusta-St-98178/home/178239,47.4999178,-122.2606378
+261,Multi-Family (2-4 Unit),2630 58th Ave SW,Seattle,WA,98116,1100000,5,4.5,2382.0,3510.0,1940.0,,http://www.redfin.com/WA/Seattle/2630-58th-Ave-SW-98116/home/2068168,47.579901799999995,-122.4058919
+262,Single Family Residential,1707 Parkside Dr E,Seattle,WA,98112,3700000,4,3.5,4190.0,8301.0,1951.0,,http://www.redfin.com/WA/Seattle/1707-Parkside-Dr-E-98112/unit-EA/home/138842,47.6349266,-122.29115290000001
+263,Single Family Residential,7508 30th Ave SW,Seattle,WA,98125,595000,2,1.5,1750.0,5000.0,1941.0,,http://www.redfin.com/WA/Seattle/7508-30th-Ave-SW-98126/home/473584,47.5351994,-122.37082040000001
+264,Single Family Residential,3272 36th Ave SW,Seattle,WA,98126,1398500,4,3.25,3360.0,4449.0,2000.0,,http://www.redfin.com/WA/Seattle/3272-36th-Ave-SW-98126/home/327845,47.573494399999994,-122.3767399
+265,Townhouse,1616 20th Ave Unit C,Seattle,WA,98122,868000,3,3.5,1630.0,1585.0,2000.0,,http://www.redfin.com/WA/Seattle/1616-20th-Ave-98122/unit-C/home/143263,47.615739000000005,-122.305674
+266,Single Family Residential,4435 Renton Ave S,Seattle,WA,98108,845000,4,2.25,1829.0,2912.0,2013.0,127.0,http://www.redfin.com/WA/Seattle/4435-Renton-Ave-S-98108/home/28581778,47.5635932,-122.2925175
+267,Condo/Co-op,6960 California Ave SW Unit A206,Seattle,WA,98136,320000,1,1.0,600.0,,1989.0,298.0,http://www.redfin.com/WA/Seattle/6960-California-Ave-SW-98136/unit-A206/home/12538197,47.541087100000006,-122.3867872
+268,Single Family Residential,14035 27th Ave NE,Seattle,WA,98125,519000,2,1.0,1200.0,8511.0,1949.0,,http://www.redfin.com/WA/Seattle/14035-27th-Ave-NE-98125/home/114508,47.7311821,-122.29949920000001
+269,Townhouse,5212 B Brooklyn Ave NE,Seattle,WA,98105,864950,3,2.25,1330.0,1120.0,2020.0,,http://www.redfin.com/WA/Seattle/5212-Brooklyn-Ave-NE-98105/home/172646874,47.666921,-122.3138996
+270,Single Family Residential,4040 35th Ave SW,Seattle,WA,98126,775000,3,1.75,1640.0,4000.0,1940.0,,http://www.redfin.com/WA/Seattle/4040-35th-Ave-SW-98126/home/328358,47.5667324,-122.3759142
+271,Townhouse,2214 E Spruce St,Seattle,WA,98122,829000,3,3.0,1863.0,1443.0,2020.0,,http://www.redfin.com/WA/Seattle/2214-E-Spruce-St-98122/home/144334,47.603664200000004,-122.3030482
+272,Condo/Co-op,1920 4th Ave #1208,Seattle,WA,98101,1150000,2,2.0,1607.0,,2010.0,1343.0,http://www.redfin.com/WA/Seattle/1920-4th-Ave-98101/unit-1208/home/28624133,47.6129885,-122.3393103
+273,Townhouse,3666 Interlake Ave N Unit A,Seattle,WA,98103,689950,2,1.75,1024.0,731.0,2020.0,,http://www.redfin.com/WA/Seattle/3666-Interlake-Ave-N-98103/unit-A/home/172646758,47.65236779999999,-122.3410325
+274,Townhouse,1416 6th Ave N,Seattle,WA,98109,1599000,3,2.5,2374.0,1580.0,1996.0,150.0,http://www.redfin.com/WA/Seattle/1416-6th-Ave-N-98109/home/131830,47.631962,-122.344458
+275,Single Family Residential,13759 interlake Ave N,Seattle,WA,98133,589000,2,1.0,745.0,9160.0,1942.0,,http://www.redfin.com/WA/Seattle/13759-Interlake-Ave-N-98133/home/102315,47.73033579999999,-122.34154129999999
+276,Condo/Co-op,2717 Western Ave #9010,Seattle,WA,98121,649950,2,1.0,818.0,,2001.0,548.0,http://www.redfin.com/WA/Seattle/2717-Western-Ave-98121/unit-9010/home/66068,47.6152233,-122.3521882
+277,Multi-Family (5+ Unit),4345 32nd Ave W,Seattle,WA,98199,5495000,6,6.0,15240.0,12553.0,1976.0,,http://www.redfin.com/WA/Seattle/4345-32nd-Ave-W-98199/home/2082045,47.6597929,-122.39852179999998
+278,Condo/Co-op,905 Cherry St #205,Seattle,WA,98104,525000,2,2.0,862.0,10798.0,1969.0,806.0,http://www.redfin.com/WA/Seattle/905-Cherry-St-98104/unit-205/home/12090793,47.606223,-122.3249229
+279,Single Family Residential,4312 36th Ave NE,Seattle,WA,98105,1920000,5,5.5,4800.0,5000.0,2016.0,,http://www.redfin.com/WA/Seattle/4312-36th-Ave-NE-98105/home/122791,47.660264,-122.28904399999999
+280,Townhouse,503 F NE 72nd St,Seattle,WA,98115,689950,2,1.75,1196.0,720.0,2020.0,,http://www.redfin.com/WA/Seattle/503-NE-72nd-St-98115/unit-H/home/167400642,47.6807513,-122.32264140000001
+281,Condo/Co-op,1530 NW Market St #605,Seattle,WA,98107,519950,1,1.0,870.0,,2007.0,406.0,http://www.redfin.com/WA/Seattle/1530-NW-Market-St-98107/unit-605/home/17381888,47.6689309,-122.3779136
+282,Townhouse,110 21st Ave Unit A,Seattle,WA,98122,799950,3,2.5,1450.0,1100.0,2020.0,,http://www.redfin.com/WA/Seattle/110-21st-Ave-98122/unit-A/home/172645839,47.602016600000006,-122.30483079999999
+283,Townhouse,3737 S Dawson St,Seattle,WA,98118,729900,2,2.0,1281.0,1.0,2020.0,,http://www.redfin.com/WA/Seattle/3737-S-Dawson-St-98118/home/172645633,47.5554914,-122.28453119999999
+284,Multi-Family (2-4 Unit),3844 Fremont Ave N,Seattle,WA,98103,1195000,4,3.0,2400.0,3593.0,1930.0,,http://www.redfin.com/WA/Seattle/3844-Fremont-Ave-N-98103/home/2081947,47.653929999999995,-122.34960600000001
+285,Townhouse,8823 9th Ave SW Unit A,Seattle,WA,98106,510000,2,1.25,960.0,1126.0,2020.0,,http://www.redfin.com/WA/Seattle/8823-9th-Ave-SW-98106/unit-A/home/172645034,47.5239803,-122.34715700000001
+286,Townhouse,8821 9th Ave SW Unit A,Seattle,WA,98106,485000,2,1.5,955.0,1299.0,2020.0,,http://www.redfin.com/WA/Seattle/8821-9th-Ave-SW-98106/unit-A/home/172644882,47.52404310000001,-122.34717450000001
+287,Single Family Residential,2503 Nob Hill Ave N,Seattle,WA,98109,1279000,2,1.75,2405.0,2914.0,1929.0,,http://www.redfin.com/WA/Seattle/2503-Nob-Hill-Ave-N-98109/home/133836,47.6415581,-122.35076049999999
+288,Single Family Residential,2516 12th Ave W,Seattle,WA,98119,950000,3,1.5,2000.0,4000.0,1937.0,,http://www.redfin.com/WA/Seattle/2516-12th-Ave-W-98119/home/130159,47.641278799999995,-122.37221399999999
+289,Single Family Residential,8036 Sunnyside Ave N,Seattle,WA,98103,818000,3,2.25,1780.0,3720.0,1983.0,,http://www.redfin.com/WA/Seattle/8036-Sunnyside-Ave-N-98103/home/307482,47.688023799999996,-122.3293574
+290,Single Family Residential,2847 W 22nd Ave,Seattle,WA,98199,989000,3,2.0,1961.0,4800.0,1904.0,,http://www.redfin.com/WA/Seattle/2847-22nd-Ave-W-98199/home/123157,47.6461402,-122.3849513
+291,Single Family Residential,3211 28th Ave W,Seattle,WA,98199,1388000,4,2.5,3150.0,6000.0,1938.0,,http://www.redfin.com/WA/Seattle/3211-28th-Ave-W-98199/home/128369,47.6491281,-122.39323459999999
+292,Single Family Residential,,Seattle,WA,98199,4400000,3,2.0,3200.0,31335.0,1938.0,,http://www.redfin.com/WA/Seattle/Undisclosed-address-98199/home/172644434,47.674864,-122.419303
+293,Condo/Co-op,410 W Roy St Unit E106,Seattle,WA,98119,619000,2,2.0,1071.0,,1982.0,511.0,http://www.redfin.com/WA/Seattle/410-W-Roy-St-98119/unit-E106/home/47511,47.6261249,-122.3633389
+294,Condo/Co-op,2720 3rd Ave #317,Seattle,WA,98121,584000,1,1.0,899.0,,2008.0,639.0,http://www.redfin.com/WA/Seattle/2720-3rd-Ave-98121/unit-317/home/12536969,47.617666,-122.34920149999999
+295,Single Family Residential,4340 S Bennett St,Seattle,WA,98118,815000,3,1.0,1150.0,5712.0,1909.0,,http://www.redfin.com/WA/Seattle/4340-S-Bennett-St-98118/home/491593,47.5544835,-122.27761880000001
+296,Single Family Residential,10415 8th Ave S,Seattle,WA,98168,308000,3,2.0,1930.0,28840.0,1939.0,,http://www.redfin.com/WA/Seattle/10415-8th-Ave-S-98168/home/187693,47.509904,-122.323852
+297,Condo/Co-op,2720 3rd Ave #909,Seattle,WA,98121,989000,2,1.75,1269.0,,2008.0,898.0,http://www.redfin.com/WA/Seattle/2720-3rd-Ave-98121/unit-909/home/12536942,47.617666,-122.34920149999999
+298,Single Family Residential,5927 California Ave SW,Seattle,WA,98136,620000,3,3.5,1396.0,1723.0,2009.0,,http://www.redfin.com/WA/Seattle/5927-California-Ave-SW-98136/home/21617227,47.5494503,-122.38755819999999
+299,Single Family Residential,5370 S Kenyon St,Seattle,WA,98118,3645000,5,3.25,4410.0,26969.0,1949.0,,http://www.redfin.com/WA/Seattle/5370-S-Kenyon-St-98118/home/489758,47.531946000000005,-122.26406940000001
+300,Single Family Residential,11050 84th Ave S,Seattle,WA,98178,549900,2,1.0,1730.0,9135.0,1919.0,,http://www.redfin.com/WA/Seattle/11050-84th-Ave-S-98178/home/198331,47.5028549,-122.2272061
+301,Townhouse,2105 E Alder St,Seattle,WA,98112,785000,3,2.25,1630.0,930.0,2016.0,,http://www.redfin.com/WA/Seattle/2105-E-Alder-St-98122/home/109236871,47.6041626,-122.3047278
+302,Condo/Co-op,535 20th Ave E #205,Seattle,WA,98112,495000,1,1.0,592.0,7937.0,1923.0,534.0,http://www.redfin.com/WA/Seattle/535-20th-Ave-E-98112/unit-205/home/10748,47.624238399999996,-122.3063712
+303,Single Family Residential,10600 10th Pl NE,Seattle,WA,98125,899900,5,2.25,2786.0,6760.0,1956.0,,http://www.redfin.com/WA/Seattle/10600-10th-Pl-NE-98125/home/108119,47.70625870000001,-122.31650790000002
+304,Condo/Co-op,606 E Thomas St Unit R,Seattle,WA,98102,300000,1,1.0,570.0,,1906.0,400.0,http://www.redfin.com/WA/Seattle/606-E-Thomas-St-98102/unit-R/home/172642942,47.6210029,-122.3237672
+305,Townhouse,3212 15th Ave W Unit C,Seattle,WA,98119,684995,2,1.5,1410.0,619.0,2020.0,68.0,http://www.redfin.com/WA/Seattle/3212-15th-Ave-W-98119/unit-C/home/168932052,47.648949,-122.37591689999999
+306,Single Family Residential,2415 S Graham St,Seattle,WA,98108,658000,4,2.5,1950.0,7500.0,1900.0,,http://www.redfin.com/WA/Seattle/2415-S-Graham-St-98108/home/481547,47.5462084,-122.3017399
+307,Condo/Co-op,401 9th Ave N #206,Seattle,WA,98109,575000,1,1.0,815.0,,2009.0,430.0,http://www.redfin.com/WA/Seattle/401-9th-Ave-N-98109/unit-206/home/21616517,47.6223874,-122.3401325
+308,Single Family Residential,3032 SW Holly St,Seattle,WA,98126,665000,3,2.25,1920.0,2744.0,2014.0,96.0,http://www.redfin.com/WA/Seattle/3032-SW-Holly-St-98126/home/18662002,47.5430119,-122.37203259999998
+309,Condo/Co-op,8750 Greenwood Ave N Unit S208,Seattle,WA,98103,500000,2,1.75,1131.0,,1998.0,367.0,http://www.redfin.com/WA/Seattle/8750-Greenwood-Ave-N-98103/unit-S208/home/60386,47.6938207,-122.3548912
+310,Single Family Residential,930 Federal Ave E,Seattle,WA,98102,1990000,4,2.5,4050.0,4200.0,1921.0,,http://www.redfin.com/WA/Seattle/930-Federal-Ave-E-98102/home/136100,47.627742,-122.3188652
+311,Single Family Residential,5621 SW Bradford St,Seattle,WA,98116,1250000,5,3.5,3214.0,7250.0,1991.0,,http://www.redfin.com/WA/Seattle/5621-SW-Bradford-St-98116/home/152305,47.569182,-122.40462079999999
+312,Condo/Co-op,308 Summit Ave E #402,Seattle,WA,98102,445000,1,1.0,620.0,,1967.0,373.0,http://www.redfin.com/WA/Seattle/308-Summit-Ave-E-98102/unit-402/home/8398,47.6212755,-122.324949
+313,Single Family Residential,5011 54th Ave S,Seattle,WA,98118,950000,3,2.5,1970.0,6700.0,1955.0,,http://www.redfin.com/WA/Seattle/5011-54th-Ave-S-98118/home/490243,47.5566559,-122.26619140000001
+314,Condo/Co-op,4525 S Henderson St #203,Seattle,WA,98118,264000,1,1.0,521.0,,1967.0,189.0,http://www.redfin.com/WA/Seattle/4525-S-Henderson-St-98118/unit-203/home/21616925,47.52301129999999,-122.27535630000001
+315,Single Family Residential,6003 37th Ave SW,Seattle,WA,98126,695000,3,1.75,1380.0,6016.0,1944.0,,http://www.redfin.com/WA/Seattle/6003-37th-Ave-SW-98126/home/470646,47.5482343,-122.3793213
+316,Condo/Co-op,2000 Third Ave #2106,Seattle,WA,98101,1525888,2,2.0,1077.0,,2023.0,995.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-2106/home/167980159,47.612671999999996,-122.34082690000001
+317,Condo/Co-op,2000 Third Ave #4305,Seattle,WA,98101,3458888,3,3.0,1522.0,,2023.0,1406.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-4305/home/172641563,47.6128244,-122.3410175
+318,Condo/Co-op,2000 Third Ave #809,Seattle,WA,98101,1298888,2,2.0,940.0,,2023.0,868.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-809/home/172641530,47.6128244,-122.3410175
+319,Condo/Co-op,2000 Third Ave #913,Seattle,WA,98101,753888,1,1.0,548.0,,2023.0,507.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-913/home/167980161,47.612671999999996,-122.34082690000001
+320,Condo/Co-op,11005 Glen acres Dr S Unit D,Seattle,WA,98168,299999,2,2.5,1320.0,,1979.0,823.0,http://www.redfin.com/WA/Burien/11005-Glen-Acres-Dr-S-98168/unit-D/home/109243300,47.50505510000001,-122.32096820000001
+321,Single Family Residential,13738 Palatine Ave N,Seattle,WA,98133,749500,3,2.0,2030.0,5950.0,1950.0,,http://www.redfin.com/WA/Seattle/13738-Palatine-Ave-N-98133/home/95468,47.729803600000004,-122.3565604
+322,Condo/Co-op,2000 Third Ave #804,Seattle,WA,98101,929888,2,2.0,686.0,,2023.0,633.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-804/home/172641484,47.6128244,-122.3410175
+323,Condo/Co-op,2000 Third Ave #803,Seattle,WA,98101,662888,0,1.0,394.0,,2023.0,364.0,http://www.redfin.com/WA/Seattle/2000-3rd-Ave-98121/unit-803/home/167979930,47.612671999999996,-122.34082690000001
+324,Townhouse,12032 33rd Ave NE Unit A,Seattle,WA,98125,649950,3,2.5,1570.0,990.0,2020.0,,http://www.redfin.com/WA/Seattle/12032-33rd-Ave-NE-98125/unit-A/home/172641416,47.7165467,-122.2924203
+325,Single Family Residential,5235 48th Ave SW,Seattle,WA,98136,785000,3,1.75,1880.0,5760.0,1950.0,,http://www.redfin.com/WA/Seattle/5235-48th-Ave-SW-98136/home/153564,47.554613200000006,-122.39393100000001
+326,Other,2143 N Northlake Way #55,Seattle,WA,98103,699000,2,0.75,600.0,600.0,1984.0,507.0,http://www.redfin.com/WA/Seattle/2143-N-Northlake-Way-98103/unit-55/home/34039,47.6471085,-122.3325745
+327,Single Family Residential,809 31st Ave S,Seattle,WA,98144,1125000,5,3.25,2950.0,4958.0,1915.0,,http://www.redfin.com/WA/Seattle/809-31st-Ave-S-98144/home/148730,47.5954829,-122.2930105
+328,Single Family Residential,1466 Magnolia Blvd W,Seattle,WA,98199,1245000,3,2.25,2230.0,3618.0,1950.0,,http://www.redfin.com/WA/Seattle/1466-Magnolia-Blvd-W-98199/home/126285,47.633596399999995,-122.39697609999999
+329,Single Family Residential,2214 W Halladay St,Seattle,WA,98199,1995000,7,5.5,4590.0,5000.0,1964.0,,http://www.redfin.com/WA/Seattle/2214-W-Halladay-St-98199/home/2079559,47.64237670000001,-122.3858767
+330,Townhouse,1909 8th Ave W Unit B,Seattle,WA,98119,678000,2,1.5,830.0,1241.0,2005.0,,http://www.redfin.com/WA/Seattle/1909-8th-Ave-W-98119/unit-B/home/2070116,47.6363167,-122.3681317
+331,Condo/Co-op,200 W Highland Dr #502,Seattle,WA,98119,5000000,2,1.5,2484.0,,2009.0,1710.0,http://www.redfin.com/WA/Seattle/200-W-Highland-Dr-98119/unit-502/home/21883465,47.6299024,-122.35958329999998
+332,Condo/Co-op,76 Cedar St #904,Seattle,WA,98121,549000,1,1.5,867.0,,2008.0,646.0,http://www.redfin.com/WA/Seattle/76-Cedar-St-98121/unit-904/home/12537808,47.615605200000005,-122.35169440000001
+333,Condo/Co-op,5501 11th Ave NW #201,Seattle,WA,98107,395000,1,1.0,680.0,,1969.0,425.0,http://www.redfin.com/WA/Seattle/5501-11th-Ave-NW-98107/unit-201/home/12091898,47.6689366,-122.37119709999999
+334,Single Family Residential,4406 34th Ave S,Seattle,WA,98118,850000,6,3.25,2700.0,5000.0,1983.0,,http://www.redfin.com/WA/Seattle/4406-34th-Ave-S-98118/home/172380,47.5637696,-122.2900783
+335,Townhouse,5609 28th Ave NW,Seattle,WA,98107,740000,3,2.5,1430.0,1732.0,1999.0,,http://www.redfin.com/WA/Seattle/5609-28th-Ave-NW-98107/home/161944,47.669754,-122.39321399999999
+336,Condo/Co-op,1808 Minor Ave #901,Seattle,WA,98101,789000,1,1.0,646.0,,2020.0,569.0,http://www.redfin.com/WA/Seattle/1808-Minor-Ave-98101/unit-901/home/172354387,47.6169782,-122.3305804
+337,Condo/Co-op,1620 43rd Ave E Unit 15A-B,Seattle,WA,98112,2950000,2,2.5,2758.0,,1969.0,2500.0,http://www.redfin.com/WA/Seattle/1620-43rd-Ave-E-98112/unit-15A-B/home/172640693,47.6337689,-122.27617959999999
+338,Condo/Co-op,10810 Drive S Glen Acres Unit T19,Seattle,WA,98168,314950,2,2.25,1443.0,,1967.0,918.0,http://www.redfin.com/WA/Seattle/10810-Glen-Acres-Dr-S-98168/unit-T19/home/13480,47.5060453,-122.32126770000002
+339,Single Family Residential,5614 12th Ave NE,Seattle,WA,98105,1350000,5,3.0,3060.0,4500.0,1906.0,,http://www.redfin.com/WA/Seattle/5614-12th-Ave-NE-98105/home/311911,47.6699275,-122.3148166
+340,Single Family Residential,8809 17th Ave SW,Seattle,WA,98106,689000,5,2.0,2040.0,8981.0,1919.0,,http://www.redfin.com/WA/Seattle/8809-17th-Ave-SW-98106/home/474286,47.524387700000005,-122.35670079999998
+341,Condo/Co-op,506 E Howell St Unit W301,Seattle,WA,98122,595000,2,2.0,890.0,6849.0,1992.0,592.0,http://www.redfin.com/WA/Seattle/506-E-Howell-St-98122/unit-W301/home/9243,47.61803270000001,-122.32492240000002
+342,Single Family Residential,3712 NE 55th St,Seattle,WA,98105,824950,3,1.75,1680.0,4725.0,1940.0,,http://www.redfin.com/WA/Seattle/3712-NE-55th-St-98105/home/314003,47.668681799999995,-122.2873426
+343,Single Family Residential,2641 W Boston St,Seattle,WA,98199,1349000,4,2.5,2580.0,4000.0,1931.0,,http://www.redfin.com/WA/Seattle/2641-W-Boston-St-98199/home/124783,47.6381851,-122.3922088
+344,Single Family Residential,2837 12th Ave W,Seattle,WA,98119,998888,4,1.75,1820.0,5800.0,1946.0,,http://www.redfin.com/WA/Seattle/2837-12th-Ave-W-98119/home/129191,47.646283700000005,-122.37281609999998
+345,Single Family Residential,5527 56th Ave S,Seattle,WA,98118,998000,5,2.75,2860.0,5000.0,1929.0,,http://www.redfin.com/WA/Seattle/5527-56th-Ave-S-98118/home/489318,47.551759999999994,-122.2636825
+346,Single Family Residential,1904 24TH Ave S,Seattle,WA,98144,719000,3,2.25,1450.0,824.0,2016.0,100.0,http://www.redfin.com/WA/Seattle/1904-24th-Ave-S-98144/home/109230506,47.586149,-122.30138999999998
+347,Single Family Residential,4610 S Gazelle,Seattle,WA,98118,515000,3,2.0,1550.0,5500.0,1957.0,,http://www.redfin.com/WA/Seattle/4610-S-Gazelle-St-98118/home/175355,47.5127011,-122.2748477
+348,Townhouse,2705 SW Sylvan Heights Dr,Seattle,WA,98106,515000,2,2.25,1420.0,1245.0,2007.0,190.0,http://www.redfin.com/WA/Seattle/2705-SW-Sylvan-Heights-Dr-98106/home/12090508,47.5395964,-122.36816440000001
+349,Single Family Residential,3020 NE 145th St,Shoreline,WA,98155,599000,3,1.0,1020.0,6135.0,1947.0,,http://www.redfin.com/WA/Shoreline/3020-NE-145th-St-98155/home/87741,47.734004299999995,-122.29556219999999

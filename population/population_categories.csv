@@ -980,6 +980,7 @@ Arkansas,Louann,164,small
 Arkansas,Lowell,7327,middle
 Arkansas,Luxora,1178,small
 Arkansas,Lynn,288,small
+Arkansas,Mabelvale,12846,small
 Arkansas,Madison,769,small
 Arkansas,Magazine,847,small
 Arkansas,Magness,202,small
@@ -1036,7 +1037,7 @@ Arkansas,Nimmons,69,small
 Arkansas,Norfork,511,small
 Arkansas,Norman,378,small
 Arkansas,Norphlet,844,small
-Arkansas,North Little Rock,62304,large
+Arkansas,North little Rock,62304,large
 Arkansas,O'Kean,194,small
 Arkansas,Oak Grove,369,small
 Arkansas,Oak Grove Heights,889,small
@@ -1057,6 +1058,7 @@ Arkansas,Pangburn,601,small
 Arkansas,Paragould,26113,middle
 Arkansas,Paris,3532,middle
 Arkansas,Parkdale,277,small
+Arkansas,Paron,521,small
 Arkansas,Parkin,1105,small
 Arkansas,Patmos,64,small
 Arkansas,Patterson,452,small
@@ -1104,6 +1106,7 @@ Arkansas,Russell,216,small
 Arkansas,Russellville,27920,middle
 Arkansas,Salem,1635,small
 Arkansas,Salesville,450,small
+Arkansas,Scott,22,small
 Arkansas,Scranton,224,small
 Arkansas,Searcy,22858,middle
 Arkansas,Sedgwick,152,small
@@ -1194,6 +1197,24 @@ Arkansas,Wrightsville,2114,small
 Arkansas,Wynne,8367,middle
 Arkansas,Yellville,1204,small
 Arkansas,Zinc,103,small
+California,Arleta,31068,middle
+California,Canoga Park,60578,large
+California,City Heights,74843,large
+California,City Terrace,12132,middle
+California,Culver City,39214,middle
+California,Eagle Rock,34644,middle
+California,Echo Park,43832,middle
+California,Encino,44581,middle
+California,Granada Hills,50535,large
+California,Harbor City,36040,middle
+California,Hollywood Hills,22988,middle
+California,La Jolla,46781,middle
+California,Lake Balboa,26195,middle
+California,Marina Del Rey,8866,middle
+California,Mission Hills,15056,middle
+California,Monterey Hills,21978,middle
+California,Chatsworth,41255,middle
+California,Bonita,13324,middle
 California,Adelanto,31765,middle
 California,Agoura Hills,20330,middle
 California,Alameda,73812,large
@@ -2031,7 +2052,7 @@ Delaware,Viola,157,small
 Delaware,Wilmington,70851,large
 Delaware,Woodside,181,small
 Delaware,Wyoming,1313,small
-District of Columbia,Washington,601723,large
+DC,Washington DC,601723,large
 Florida,Alachua,9059,middle
 Florida,Alford,489,small
 Florida,Altamonte Springs,41496,middle
@@ -11332,7 +11353,7 @@ New York,Baxter Estates village,999,small
 New York,Bayville village,6669,middle
 New York,Beacon,15541,middle
 New York,Belle Terre village,792,small
-New York,Bellerose village,1193,small
+New York,Bellerose,1193,small
 New York,Bellport village,2084,small
 New York,Belmont village,969,small
 New York,Bemus Point village,364,small
@@ -11413,7 +11434,7 @@ New York,Copenhagen village,801,small
 New York,Corfu village,709,small
 New York,Corinth village,2559,middle
 New York,Corning,11183,middle
-New York,Cornwall-on-Hudson village,3018,middle
+New York,Cornwall,3018,middle
 New York,Cortland,19204,middle
 New York,Cove Neck village,286,small
 New York,Coxsackie village,2813,middle
@@ -11466,7 +11487,7 @@ New York,Farnham village,382,small
 New York,Fayetteville village,4373,middle
 New York,Fishkill village,2171,small
 New York,Fleischmanns village,351,small
-New York,Floral Park village,15863,middle
+New York,Floral Park,15863,middle
 New York,Florida village,2833,middle
 New York,Flower Hill village,4665,middle
 New York,Fonda village,795,small
@@ -11663,7 +11684,7 @@ New York,Nichols village,512,small
 New York,Nissequogue village,1749,small
 New York,North Collins village,1232,small
 New York,North Haven village,833,small
-New York,North Hills village,5075,middle
+New York,North Hills,5075,middle
 New York,North Hornell village,778,small
 New York,North Syracuse village,6800,middle
 New York,North Tonawanda,31568,middle
@@ -11835,7 +11856,7 @@ New York,Upper Nyack village,2063,small
 New York,Utica,62235,large
 New York,Valatie village,1819,small
 New York,Valley Falls village,466,small
-New York,Valley Stream village,37511,middle
+New York,Valley Stream,37511,middle
 New York,Van Etten village,537,small
 New York,Vernon village,1172,small
 New York,Victor village,2696,middle
@@ -14117,7 +14138,7 @@ Oklahoma,Okarche,1215,small
 Oklahoma,Okay,620,small
 Oklahoma,Okeene,1204,small
 Oklahoma,Okemah,3223,middle
-Oklahoma,Oklahoma,579999,large
+Oklahoma,Oklahoma City,579999,large
 Oklahoma,Okmulgee,12321,middle
 Oklahoma,Oktaha,390,small
 Oklahoma,Olustee,607,small
@@ -16160,6 +16181,12 @@ Tennessee,Algood,3495,middle
 Tennessee,Allardt,634,small
 Tennessee,Altamont,1045,small
 Tennessee,Ardmore,1213,small
+Tennessee,Antioch,86261,large
+Tennessee,Hermitage,39026,middle
+Tennessee,Joelton,6980,middle
+Tennessee,Madison,40778,middle
+Tennessee,Old Hickory,24105,middle
+Tennessee,Whites Creek,3965,middle
 Tennessee,Arlington,11517,middle
 Tennessee,Ashland,4541,middle
 Tennessee,Athens,13458,middle
@@ -18731,6 +18758,7 @@ West Virginia,Windsor Heights village,423,small
 West Virginia,Winfield,2301,small
 West Virginia,Womelsdorf,250,small
 West Virginia,Worthington,158,small
+Wisconsin,Allenton,925,small
 Wisconsin,Abbotsford,2310,small
 Wisconsin,Adams,1967,small
 Wisconsin,Adell village,516,small
@@ -18768,10 +18796,10 @@ Wisconsin,Barneveld village,1231,small
 Wisconsin,Barron,3423,middle
 Wisconsin,Bay village,500,small
 Wisconsin,Bayfield,487,small
-Wisconsin,Bayside village,4389,middle
+Wisconsin,Bayside,4389,middle
 Wisconsin,Bear Creek village,448,small
 Wisconsin,Beaver Dam,16214,middle
-Wisconsin,Belgium village,2245,small
+Wisconsin,Belgium,2245,small
 Wisconsin,Bell Center village,117,small
 Wisconsin,Belleville village,2385,small
 Wisconsin,Bellevue village,14570,middle
@@ -18801,12 +18829,12 @@ Wisconsin,Boyceville village,1086,small
 Wisconsin,Boyd village,552,small
 Wisconsin,Brandon village,879,small
 Wisconsin,Brillion,3148,middle
-Wisconsin,Bristol village,2584,middle
+Wisconsin,Bristol,2584,middle
 Wisconsin,Brodhead,3293,middle
 Wisconsin,Brookfield,37920,middle
 Wisconsin,Brooklyn village,1401,small
-Wisconsin,Brown Deer village,11999,middle
-Wisconsin,Brownsville village,581,small
+Wisconsin,Brown Deer,11999,middle
+Wisconsin,Brownsville,581,small
 Wisconsin,Browntown village,280,small
 Wisconsin,Bruce village,779,small
 Wisconsin,Buffalo,1023,small
@@ -18819,15 +18847,15 @@ Wisconsin,Cambria village,767,small
 Wisconsin,Cambridge village,1457,small
 Wisconsin,Cameron village,1783,small
 Wisconsin,Camp Douglas village,601,small
-Wisconsin,Campbellsport village,2016,small
-Wisconsin,Cascade village,709,small
+Wisconsin,Campbellsport,2016,small
+Wisconsin,Cascade,709,small
 Wisconsin,Casco village,583,small
 Wisconsin,Cashton village,1102,small
 Wisconsin,Cassville village,947,small
 Wisconsin,Catawba village,110,small
 Wisconsin,Cazenovia village,318,small
 Wisconsin,Cecil village,570,small
-Wisconsin,Cedar Grove village,2113,small
+Wisconsin,Cedar Grove,2113,small
 Wisconsin,Cedarburg,11412,middle
 Wisconsin,Centuria village,948,small
 Wisconsin,Chaseburg village,284,small
@@ -18838,13 +18866,14 @@ Wisconsin,Chippewa Falls,13661,middle
 Wisconsin,Clayton village,571,small
 Wisconsin,Clear Lake village,1070,small
 Wisconsin,Cleveland village,1485,small
-Wisconsin,Clinton village,2154,small
+Wisconsin,Clinton,2154,small
 Wisconsin,Clintonville,4559,middle
 Wisconsin,Clyman village,422,small
 Wisconsin,Cobb village,458,small
 Wisconsin,Cochrane village,450,small
 Wisconsin,Colby,1852,small
 Wisconsin,Coleman village,724,small
+Wisconsin,Colgate,4886,middle
 Wisconsin,Colfax village,1158,small
 Wisconsin,Coloma village,450,small
 Wisconsin,Columbus,4991,middle
@@ -18863,7 +18892,7 @@ Wisconsin,Cumberland,2170,small
 Wisconsin,Curtiss village,216,small
 Wisconsin,Dallas village,409,small
 Wisconsin,Dane village,995,small
-Wisconsin,Darien village,1580,small
+Wisconsin,Darien,1580,small
 Wisconsin,Darlington,2451,small
 Wisconsin,De Pere,23800,middle
 Wisconsin,De Soto village,287,small
@@ -18876,14 +18905,14 @@ Wisconsin,Denmark village,2123,small
 Wisconsin,Dickeyville village,1061,small
 Wisconsin,Dodgeville,4693,middle
 Wisconsin,Dorchester village,876,small
-Wisconsin,Dousman village,2302,small
+Wisconsin,Dousman,2302,small
 Wisconsin,Downing village,265,small
 Wisconsin,Doylestown village,297,small
 Wisconsin,Dresser village,895,small
 Wisconsin,Durand,1931,small
 Wisconsin,Eagle River,1398,small
-Wisconsin,Eagle village,1950,small
-Wisconsin,East Troy village,4281,middle
+Wisconsin,Eagle,1950,small
+Wisconsin,East Troy,4281,middle
 Wisconsin,Eastman village,428,small
 Wisconsin,Eau Claire,65883,large
 Wisconsin,Eden village,875,small
@@ -18915,14 +18944,14 @@ Wisconsin,Fennimore,2497,small
 Wisconsin,Fenwood village,152,small
 Wisconsin,Ferryville village,176,small
 Wisconsin,Fitchburg,25260,middle
-Wisconsin,Fond du Lac,43021,middle
-Wisconsin,Fontana-on-Geneva Lake village,1672,small
+Wisconsin,Fond Du Lac,43021,middle
+Wisconsin,Fontana,1672,small
 Wisconsin,Footville village,808,small
 Wisconsin,Forestville village,430,small
 Wisconsin,Fort Atkinson,12368,middle
 Wisconsin,Fountain,859,small
 Wisconsin,Fox Lake,1519,small
-Wisconsin,Fox Point village,6701,middle
+Wisconsin,Fox Point,6701,middle
 Wisconsin,Francis Creek village,669,small
 Wisconsin,Franklin,35451,middle
 Wisconsin,Frederic village,1137,small
@@ -18932,16 +18961,15 @@ Wisconsin,Friendship village,725,small
 Wisconsin,Friesland village,356,small
 Wisconsin,Galesville,1481,small
 Wisconsin,Gays Mills village,491,small
-Wisconsin,Genoa village,253,small
-Wisconsin,Genoa village,3042,middle
-Wisconsin,Germantown village,19749,middle
+Wisconsin,Genoa City,3042,middle
+Wisconsin,Germantown,19749,middle
 Wisconsin,Gillett,1386,small
 Wisconsin,Gilman village,410,small
 Wisconsin,Glen Flora village,92,small
 Wisconsin,Glenbeulah village,463,small
 Wisconsin,Glendale,12872,middle
 Wisconsin,Glenwood,1242,small
-Wisconsin,Grafton village,11459,middle
+Wisconsin,Grafton,11459,middle
 Wisconsin,Granton village,355,small
 Wisconsin,Grantsburg village,1341,small
 Wisconsin,Gratiot village,236,small
@@ -18951,11 +18979,11 @@ Wisconsin,Greendale village,14046,middle
 Wisconsin,Greenfield,36720,middle
 Wisconsin,Greenwood,1026,small
 Wisconsin,Gresham village,586,small
-Wisconsin,Hales Corners village,7692,middle
+Wisconsin,Hales Corners,7692,middle
 Wisconsin,Hammond village,1922,small
 Wisconsin,Hancock village,417,small
 Wisconsin,Hartford,14223,middle
-Wisconsin,Hartland village,9110,middle
+Wisconsin,Hartland,9110,middle
 Wisconsin,Hatley village,574,small
 Wisconsin,Haugen village,287,small
 Wisconsin,Hawkins village,305,small
@@ -18972,6 +19000,7 @@ Wisconsin,Holmen village,9005,middle
 Wisconsin,Horicon,3655,middle
 Wisconsin,Hortonville village,2711,middle
 Wisconsin,Howard village,17399,middle
+Wisconsin,Hubertus,5302,middle
 Wisconsin,Howards Grove village,3188,middle
 Wisconsin,Hudson,12719,middle
 Wisconsin,Hurley,1547,small
@@ -18982,11 +19011,12 @@ Wisconsin,Ingram village,78,small
 Wisconsin,Iola village,1301,small
 Wisconsin,Iron Ridge village,929,small
 Wisconsin,Ironton village,253,small
-Wisconsin,Jackson village,6753,middle
+Wisconsin,Jackson,6753,middle
 Wisconsin,Janesville,63575,large
 Wisconsin,Jefferson,7973,middle
-Wisconsin,Johnson Creek village,2738,middle
+Wisconsin,Johnson Creek,2738,middle
 Wisconsin,Junction village,439,small
+Wisconsin,Kansasville,2600,small
 Wisconsin,Juneau,2814,middle
 Wisconsin,Kaukauna,15462,middle
 Wisconsin,Kekoskee village,161,small
@@ -19055,7 +19085,7 @@ Wisconsin,Mellen,731,small
 Wisconsin,Melrose village,503,small
 Wisconsin,Melvina village,104,small
 Wisconsin,Menasha,17353,middle
-Wisconsin,Menomonee Falls village,35626,middle
+Wisconsin,Menomonee Falls,35626,middle
 Wisconsin,Menomonie,16264,middle
 Wisconsin,Mequon,23132,middle
 Wisconsin,Merrill,9661,middle
@@ -19081,9 +19111,9 @@ Wisconsin,Mosinee,3988,middle
 Wisconsin,Mount Calvary village,762,small
 Wisconsin,Mount Hope village,225,small
 Wisconsin,Mount Horeb village,7009,middle
-Wisconsin,Mount Pleasant village,26197,middle
+Wisconsin,Mount Pleasant,26197,middle
 Wisconsin,Mount Sterling village,211,small
-Wisconsin,Mukwonago village,7355,middle
+Wisconsin,Mukwonago,7355,middle
 Wisconsin,Muscoda village,1299,small
 Wisconsin,Muskego,24135,middle
 Wisconsin,Nashotah village,1395,small
@@ -19099,7 +19129,7 @@ Wisconsin,New Auburn village,548,small
 Wisconsin,New Berlin,39584,middle
 Wisconsin,New Glarus village,2172,small
 Wisconsin,New Holstein,3236,middle
-Wisconsin,New Lisbon,2554,middle
+Wisconsin,Lisbon,2554,middle
 Wisconsin,New London,7295,middle
 Wisconsin,New Richmond,8375,middle
 Wisconsin,Newburg village,1254,small
@@ -19123,7 +19153,7 @@ Wisconsin,Oliver village,399,small
 Wisconsin,Omro,3517,middle
 Wisconsin,Onalaska,17736,middle
 Wisconsin,Ontario village,554,small
-Wisconsin,Oostburg village,2887,middle
+Wisconsin,Oostburg,2887,middle
 Wisconsin,Oregon village,9231,middle
 Wisconsin,Orfordville village,1442,small
 Wisconsin,Osceola village,2568,middle
@@ -19147,7 +19177,7 @@ Wisconsin,Pittsville,874,small
 Wisconsin,Plain village,773,small
 Wisconsin,Plainfield village,862,small
 Wisconsin,Platteville,11224,middle
-Wisconsin,Pleasant Prairie village,19719,middle
+Wisconsin,Pleasant Prairie,19719,middle
 Wisconsin,Plover village,12123,middle
 Wisconsin,Plum village,599,small
 Wisconsin,Plymouth,8445,middle
@@ -19169,7 +19199,7 @@ Wisconsin,Pulaski village,3539,middle
 Wisconsin,Racine,78860,large
 Wisconsin,Radisson village,241,small
 Wisconsin,Randolph village,1811,small
-Wisconsin,Random Lake village,1594,small
+Wisconsin,Random Lake,1594,small
 Wisconsin,Readstown village,415,small
 Wisconsin,Redgranite village,2149,small
 Wisconsin,Reedsburg,9200,middle
@@ -19214,7 +19244,7 @@ Wisconsin,Shorewood village,13162,middle
 Wisconsin,Shullsburg,1226,small
 Wisconsin,Siren village,806,small
 Wisconsin,Sister Bay village,876,small
-Wisconsin,Slinger village,5068,middle
+Wisconsin,Slinger,5068,middle
 Wisconsin,Soldiers Grove village,592,small
 Wisconsin,Solon Springs village,600,small
 Wisconsin,Somerset village,2635,middle
@@ -19227,7 +19257,7 @@ Wisconsin,Spring Green village,1628,small
 Wisconsin,Spring Valley village,1352,small
 Wisconsin,St. Cloud village,477,small
 Wisconsin,St. Croix Falls,2133,small
-Wisconsin,St. Francis,9365,middle
+Wisconsin,Saint Francis,9365,middle
 Wisconsin,St. Nazianz village,783,small
 Wisconsin,Stanley,3608,middle
 Wisconsin,Star Prairie village,561,small
@@ -19241,14 +19271,16 @@ Wisconsin,Stoughton,12611,middle
 Wisconsin,Stratford village,1578,small
 Wisconsin,Strum village,1114,small
 Wisconsin,Sturgeon Bay,9144,middle
-Wisconsin,Sturtevant village,6970,middle
+Wisconsin,Sturtevant,6970,middle
 Wisconsin,Suamico village,11346,middle
-Wisconsin,Sullivan village,669,small
+Wisconsin,Summit,4676,middle
+Wisconsin,Sullivan,669,small
 Wisconsin,Sun Prairie,29364,middle
 Wisconsin,Superior,27244,middle
 Wisconsin,Superior village,664,small
 Wisconsin,Suring village,544,small
-Wisconsin,Sussex village,10518,middle
+Wisconsin,Sussex,10518,middle
+Wisconsin,Trevor,6930,middle
 Wisconsin,Taylor village,476,small
 Wisconsin,Tennyson village,355,small
 Wisconsin,Theresa village,1262,small
@@ -19260,10 +19292,10 @@ Wisconsin,Tomahawk,3397,middle
 Wisconsin,Tony village,113,small
 Wisconsin,Trempealeau village,1529,small
 Wisconsin,Turtle Lake village,1050,small
-Wisconsin,Twin Lakes village,5989,middle
+Wisconsin,Twin Lakes,5989,middle
 Wisconsin,Two Rivers,11712,middle
 Wisconsin,Union Center village,200,small
-Wisconsin,Union Grove village,4915,middle
+Wisconsin,Union Grove,4915,middle
 Wisconsin,Unity village,343,small
 Wisconsin,Valders village,962,small
 Wisconsin,Verona,10619,middle
@@ -19271,11 +19303,11 @@ Wisconsin,Vesper village,584,small
 Wisconsin,Viola village,699,small
 Wisconsin,Viroqua,4362,middle
 Wisconsin,Waldo village,503,small
-Wisconsin,Wales village,2549,middle
-Wisconsin,Walworth village,2816,middle
+Wisconsin,Wales,2549,middle
+Wisconsin,Walworth,2816,middle
 Wisconsin,Warrens village,363,small
 Wisconsin,Washburn,2117,small
-Wisconsin,Waterford village,5368,middle
+Wisconsin,Waterford,5368,middle
 Wisconsin,Waterloo,3333,middle
 Wisconsin,Watertown,23861,middle
 Wisconsin,Waukesha,70718,large
@@ -19292,7 +19324,7 @@ Wisconsin,West Allis,60411,large
 Wisconsin,West Baraboo village,1414,small
 Wisconsin,West Bend,31078,middle
 Wisconsin,West Milwaukee village,4206,middle
-Wisconsin,West Salem village,4799,middle
+Wisconsin,Salem,4799,middle
 Wisconsin,Westby,2200,small
 Wisconsin,Westfield village,1254,small
 Wisconsin,Weston village,14868,middle
@@ -19300,13 +19332,13 @@ Wisconsin,Weyauwega,1900,small
 Wisconsin,Weyerhaeuser village,238,small
 Wisconsin,Wheeler village,348,small
 Wisconsin,White Lake village,363,small
-Wisconsin,Whitefish Bay village,14110,middle
+Wisconsin,Whitefish Bay,14110,middle
 Wisconsin,Whitehall,1558,small
 Wisconsin,Whitelaw village,757,small
 Wisconsin,Whitewater,14390,middle
 Wisconsin,Whiting village,1724,small
 Wisconsin,Wild Rose village,725,small
-Wisconsin,Williams Bay village,2564,middle
+Wisconsin,Williams Bay,2564,middle
 Wisconsin,Wilson village,184,small
 Wisconsin,Wilton village,504,small
 Wisconsin,Wind Point village,1723,small
@@ -19422,3 +19454,86 @@ Wyoming,Wheatland,3627,middle
 Wyoming,Worland,5487,middle
 Wyoming,Wright,1807,small
 Wyoming,Yoder,151,small
+Oklahoma,Del City,21747,middle
+Oklahoma,Newalla,9514,middle
+New York,Bayside,43808,middle
+New York,Bensonhurst,151705,large
+New York,Briarwood,53877,large
+New York,Bronx,1418000,large
+New York,Brooklyn,2533000,large
+New York,Bushwick,129239,large
+New York,Canarsie,83639,large
+New York,College Point,35916,middle
+New York,Corona,109695,large
+New York,Douglaston,17823,middle
+New York,E. Elmhurst,23150,middle
+New York,Elmhurst,88427,large
+New York,Elmont,33198,middle
+New York,Far Rockaway,60035,large
+New York,Flatlands,64762,large
+New York,Flushing,72008,large
+New York,Forest Hills,83728,large
+New York,Fresh Meadows,39024,middle
+New York,Glen Oaks,29506,middle
+New York,Glendale,32496,middle
+New York,Hollis,20269,middle
+New York,Howard Beach,26148,middle
+New York,Jackson Heights,108152,large
+New York,Jamaica,"53,751",large
+New York,Kew Garden Hills,41824,middle
+New York,Laurelton,24453,middle
+New York,Little Neck,17823,middle
+New York,Malba,39902,middle
+New York,Maspeth,30516,middle
+New York,Middle Village,37929,middle
+New York,Ozone Park,21376,middle
+New York,Queens Village,52504,large
+New York,Queens,2230772,large
+New York,Rego Park,28260,middle
+New York,Richmond Hill,62982,large
+New York,Ridgewood,69317,large
+New York,S. Ozone Park,75858,large
+New York,St. Albans,48593,middle
+New York,Staten Island,476143,large
+New York,Woodhaven,56674,large
+New York,Whitestone,34953,middle
+New York,Woodside,45099,middle
+New York,Kew Gardens,22645,middle
+New York,Stuyvesant Hts,153547,large
+California,North Hollywood,87241,large
+California,Northridge,61993,large
+California,Pacific Beach,22691,middle
+California,Pacoima,37705,middle
+California,Panorama City,69817,large
+California,Paradise Hills,37040,middle
+California,Playa Del Rey,11500,middle
+California,Playa Vista,14037,middle
+California,Porter Ranch,37075,middle
+California,San Pedro,86000,large
+California,San Ysidro,28008,middle
+California,Scripps Miramar,32476,middle
+California,Shadow Hills,3739,middle
+California,Sherman Oaks,52677,large
+California,Studio City,38237,middle
+California,Sun Valley,81788,large
+California,Sunland,59087,large
+California,Tarzana,35502,middle
+California,Toluca Lake,7782,middle
+California,Tujunga,59087,large
+California,Valley Glen,59230,large
+California,Van Nuys,136443,large
+California,Venice,40885,middle
+California,West Hills,41426,middle
+California,North Hills,34119,middle
+California,Pacific Palisades,28000,middle
+California,Sylmar,79614,large
+California,Valley Village,24330,middle
+California,Wilmington,53815,large
+California,Windsor Hills,11075,middle
+California,Winnetka,40943,middle
+California,Woodland Hills,67006,large
+Idaho,Garden City,11911,middle
+Massachusetts,Brookline,58732,large
+Maryland,Oxon Hill,17722,middle
+Maryland,Silver Spring,71452,large
+Nevada,Blue Diamond,290,small

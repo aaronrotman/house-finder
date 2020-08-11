@@ -100,7 +100,7 @@ Grand Junction,Colorado,CO,78.9,26.9
 Pueblo,Colorado,CO,78.1,33.6
 Bridgeport,Connecticut,CT,74.4,31.3
 Hartford,Connecticut,CT,72.8,26
-Washington DC,,DC,84,27
+Washington DC,DC,DC,84,27
 Wilmington,Delaware,DE,76.7,32.6
 Daytona Beach,Florida,FL,82.9,59
 Fort Myers,Florida,FL,83.4,63.5
@@ -262,6 +262,7 @@ Maspeth,New York,NY,75.5,32.6
 Middle Village,New York,NY,75.5,32.6
 New York,New York,NY,75.5,32.6
 Ozone Park,New York,NY,75.5,32.6
+Queens Village,New York,NY,75.5,32.6
 Queens,New York,NY,75.5,32.6
 Rego Park,New York,NY,75.5,32.6
 Richmond Hill,New York,NY,75.5,32.6
@@ -325,23 +326,23 @@ Aberdeen,South Dakota,SD,68.1,10.1
 Pierre,South Dakota,SD,69.3,20.1
 Rapid City,South Dakota,SD,67.8,26.6
 Sioux Falls,South Dakota,SD,69.7,17
-Antioch,Tennesse,TN,88,27
-Brentwood,Tennesse,TN,89,25
-Chattanooga,Tennesse,TN,81.4,42.7
-Franklin,Tennesse,TN,90,27
-Goodlettsville,Tennesse,TN,87,25
-Hermitage,Tennesse,TN,80.3,40.1
-Jackson,Tennesse,TN,78.6,39.3
-Joelton,Tennesse,TN,80.3,40.1
-Johnson City,Tennesse,TN,75.2,38.3
-Knoxville,Tennesse,TN,78.7,40.6
-Madison,Tennesse,TN,80.3,40.1
-Memphis,Tennesse,TN,82.2,41.9
-Mount Juliet,Tennesse,TN,88,27
-Nashville,Tennesse,TN,80.3,40.1
-Nolensville,Tennesse,TN,90,27
-Old Hickory,Tennesse,TN,80.3,40.1
-Whites Creek,Tennesse,TN,80.3,40.1
+Antioch,Tennessee,TN,88,27
+Brentwood,Tennessee,TN,89,25
+Chattanooga,Tennessee,TN,81.4,42.7
+Franklin,Tennessee,TN,90,27
+Goodlettsville,Tennessee,TN,87,25
+Hermitage,Tennessee,TN,80.3,40.1
+Jackson,Tennessee,TN,78.6,39.3
+Joelton,Tennessee,TN,80.3,40.1
+Johnson City,Tennessee,TN,75.2,38.3
+Knoxville,Tennessee,TN,78.7,40.6
+Madison,Tennessee,TN,80.3,40.1
+Memphis,Tennessee,TN,82.2,41.9
+Mount Juliet,Tennessee,TN,88,27
+Nashville,Tennessee,TN,80.3,40.1
+Nolensville,Tennessee,TN,90,27
+Old Hickory,Tennessee,TN,80.3,40.1
+Whites Creek,Tennessee,TN,80.3,40.1
 Abilene,Texas,TX,86.6,45.3
 Amarillo,Texas,TX,81.8,39.7
 Austin,Texas,TX,89.9,51.6

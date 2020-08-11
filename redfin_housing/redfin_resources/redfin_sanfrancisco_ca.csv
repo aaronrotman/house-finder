@@ -1,7 +1,7 @@
 ,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
 0,Single Family Residential,2122 42nd Ave,San Francisco,CA,94116,1249000,2.0,1.0,,2996.0,1947.0,,http://www.redfin.com/CA/San-Francisco/2122-42nd-Ave-94116/home/650255,37.7470845,-122.5004754
 1,Condo/Co-op,3690 17th St,San Francisco,CA,94114,1495000,3.0,2.0,1336.0,,1994.0,325.0,http://www.redfin.com/CA/San-Francisco/3690-17th-St-94114/home/1873817,37.7630045,-122.42823729999999
-2,Single Family Residential,28-30 Santa Marina,San Francisco,CA,94110,2600000,6.0,4.0,2872.0,2500.0,,,http://www.redfin.com/CA/San-Francisco/28-30-Santa-Marina-St-94110/home/172641283,37.740179518000005,-122.4225591
+2,Single Family Residential,28-30 Santa Marina,San Francisco,CA,94110,2600000,6.0,4.0,2872.0,2500.0,,,http://www.redfin.com/CA/San-Francisco/28-30-Santa-Marina-St-94110/home/172641283,37.74017952,-122.4225591
 3,Condo/Co-op,1998 Broadway #807,San Francisco,CA,94109,1495000,2.0,2.0,1030.0,,1964.0,1251.0,http://www.redfin.com/CA/San-Francisco/1998-Broadway-94109/unit-807/home/1865773,37.7952766,-122.4297868
 4,Condo/Co-op,47 Beideman St,San Francisco,CA,94115,1695000,2.0,1.5,1962.0,,1900.0,285.0,http://www.redfin.com/CA/San-Francisco/47-Beideman-St-94115/home/594065,37.782188,-122.438629
 5,Condo/Co-op,330 Mission Bay Blvd #116,San Francisco,CA,94158,1695000,2.0,2.0,1569.0,,2008.0,1011.0,http://www.redfin.com/CA/San-Francisco/330-Mission-Bay-Blvd-N-94158/unit-116/home/23424492,37.771662,-122.3874533
@@ -13,7 +13,7 @@
 11,Condo/Co-op,1781 Oak St #3,San Francisco,CA,94117,998000,2.0,1.0,772.0,,1924.0,250.0,http://www.redfin.com/CA/San-Francisco/1781-Oak-St-94117/unit-3/home/69371364,37.7714744,-122.4485572
 12,Condo/Co-op,400 Beale St #811,San Francisco,CA,94105,999000,2.0,2.0,990.0,,2002.0,894.0,http://www.redfin.com/CA/San-Francisco/400-Beale-St-94105/unit-811/home/869767,37.7869049,-122.39092020000001
 13,Condo/Co-op,886 Alabama St,San Francisco,CA,94110,1299000,4.0,2.0,1500.0,,1900.0,,http://www.redfin.com/CA/San-Francisco/886-Alabama-St-94110/home/147062861,37.757822999999995,-122.4116736
-14,Condo/Co-op,1075 Market St #211,SAN FRANCISCO,CA,94103,569998,0.0,1.0,423.0,,2018.0,626.0,http://www.redfin.com/CA/San-Francisco/1075-Market-St-94103/unit-211/home/146122166,37.7807996,-122.4118342
+14,Condo/Co-op,1075 Market St #211,San Francisco,CA,94103,569998,0.0,1.0,423.0,,2018.0,626.0,http://www.redfin.com/CA/San-Francisco/1075-Market-St-94103/unit-211/home/146122166,37.7807996,-122.4118342
 15,Condo/Co-op,1548 Jones St,San Francisco,CA,94109,1295000,2.0,2.0,1158.0,,1910.0,339.0,http://www.redfin.com/CA/San-Francisco/1548-Jones-St-94109/home/56449599,37.7956865,-122.4147746
 16,Condo/Co-op,2040 Franklin St #1004,San Francisco,CA,94109,998000,1.0,1.0,919.0,,1966.0,942.0,http://www.redfin.com/CA/San-Francisco/2040-Franklin-St-94109/unit-1004/home/1483570,37.7935189,-122.4243158
 17,Condo/Co-op,260 King St #903,San Francisco,CA,94107,1099000,2.0,2.0,1286.0,,2004.0,932.0,http://www.redfin.com/CA/San-Francisco/260-King-St-94107/unit-903/home/22889838,37.7776422,-122.39341809999999
@@ -24,7 +24,7 @@
 22,Single Family Residential,817 Guerrero St,San Francisco,CA,94110,2600000,2.0,2.0,,2495.0,1900.0,,http://www.redfin.com/CA/San-Francisco/817-Guerrero-St-94110/home/1711073,37.758045,-122.4232997
 23,Condo/Co-op,51 Innes Ct #207,San Francisco,CA,94124,699777,1.0,1.0,720.0,,2017.0,504.0,http://www.redfin.com/CA/San-Francisco/51-Innes-Ct-94124/unit-207/home/160765879,37.727211700000005,-122.367848
 24,Townhouse,13 Jennifer Pl,San Francisco,CA,94107,1099000,2.0,1.0,1384.0,,2000.0,129.0,http://www.redfin.com/CA/San-Francisco/13-Jennifer-Pl-94107/home/12396914,37.7800244,-122.40237479999999
-25,Condo/Co-op,3241 Mission St #8,SAN FRANCISCO,CA,94110,675000,1.0,1.0,639.0,,1980.0,230.0,http://www.redfin.com/CA/San-Francisco/3241-3243-Mission-St-94110/unit-8/home/144284923,37.744802,-122.41997279999998
+25,Condo/Co-op,3241 Mission St #8,San Francisco,CA,94110,675000,1.0,1.0,639.0,,1980.0,230.0,http://www.redfin.com/CA/San-Francisco/3241-3243-Mission-St-94110/unit-8/home/144284923,37.744802,-122.41997279999998
 26,Single Family Residential,2205 Scott St,San Francisco,CA,94115,5900000,3.0,2.5,3158.0,2250.0,1924.0,,http://www.redfin.com/CA/San-Francisco/2205-Scott-St-94115/home/586557,37.7903302,-122.43943610000001
 27,Condo/Co-op,190 Cervantes Blvd #104,San Francisco,CA,94123,975000,1.0,1.0,775.0,,1992.0,375.0,http://www.redfin.com/CA/San-Francisco/190-Cervantes-Blvd-94123/unit-104/home/560183,37.8049611,-122.44036299999999
 28,Condo/Co-op,140 South Van Ness Ave #740,San Francisco,CA,94103,1098000,2.0,2.0,1115.0,,2002.0,598.0,http://www.redfin.com/CA/San-Francisco/140-S-Van-Ness-Ave-94103/unit-740/home/1009232,37.7715637,-122.4188013
@@ -41,7 +41,7 @@
 39,Condo/Co-op,250 King St #912,San Francisco,CA,94107,895000,1.0,1.0,888.0,,2004.0,850.0,http://www.redfin.com/CA/San-Francisco/250-King-St-94107/unit-912/home/22889616,37.7776422,-122.39341809999999
 40,Condo/Co-op,355 1st St Unit S2103,San Francisco,CA,94105,985000,1.0,1.0,722.0,,2004.0,807.0,http://www.redfin.com/CA/San-Francisco/355-1st-St-94105/unit-S2103/home/879020,37.7870311,-122.39364209999998
 41,Single Family Residential,447 Edinburgh St,San Francisco,CA,94112,1495000,4.0,3.5,2250.0,2500.0,1900.0,,http://www.redfin.com/CA/San-Francisco/447-Edinburgh-St-94112/home/1439809,37.7219456,-122.4311858
-42,Condo/Co-op,834 Jones St Unit C,SAN FRANCISCO,CA,94109,1548000,3.0,2.0,1465.0,,2009.0,450.0,http://www.redfin.com/CA/San-Francisco/834-Jones-St-94109/unit-C/home/28939319,37.789159600000005,-122.41352490000001
+42,Condo/Co-op,834 Jones St Unit C,San Francisco,CA,94109,1548000,3.0,2.0,1465.0,,2009.0,450.0,http://www.redfin.com/CA/San-Francisco/834-Jones-St-94109/unit-C/home/28939319,37.789159600000005,-122.41352490000001
 43,Condo/Co-op,120 Hancock St,San Francisco,CA,94114,1298000,3.0,1.0,1100.0,,1907.0,284.0,http://www.redfin.com/CA/San-Francisco/120-Hancock-St-94114/home/708652,37.760568,-122.431068
 44,Multi-Family (2-4 Unit),1496 SILVER Ave,San Francisco,CA,94134,1500000,6.0,,2720.0,1796.0,1977.0,,http://www.redfin.com/CA/San-Francisco/1496-Silver-Ave-94134/home/769879,37.7319465,-122.40665890000001
 45,Condo/Co-op,3236 Divisadero St,San Francisco,CA,94123,2450000,3.0,2.5,1900.0,,1924.0,330.0,http://www.redfin.com/CA/San-Francisco/3236-Divisadero-St-94123/home/148073531,37.7995885,-122.4425277
@@ -50,7 +50,7 @@
 48,Condo/Co-op,177 Townsend St #625,San Francisco,CA,94107,1225000,2.0,2.0,1020.0,,2007.0,783.0,http://www.redfin.com/CA/San-Francisco/177-Townsend-St-94107/unit-625/home/17304765,37.7789817,-122.39175149999998
 49,Condo/Co-op,6620 Geary Blvd #7,San Francisco,CA,94121,1195000,2.0,1.0,1355.0,,1981.0,506.0,http://www.redfin.com/CA/San-Francisco/6620-Geary-Blvd-94121/unit-7/home/2030930,37.7801272,-122.4905966
 50,Condo/Co-op,74 New Montgomery St #307,San Francisco,CA,94105,845000,1.0,1.0,694.0,,1914.0,896.0,http://www.redfin.com/CA/San-Francisco/74-New-Montgomery-St-94105/unit-307/home/17305973,37.7874578,-122.40130979999999
-51,Condo/Co-op,770 16th Ave,SAN FRANCISCO,CA,94118,1540000,2.0,2.0,1525.0,3190.0,1922.0,235.0,http://www.redfin.com/CA/San-Francisco/770-16th-Ave-94118/home/1603144,37.773582,-122.47425
+51,Condo/Co-op,770 16th Ave,San Francisco,CA,94118,1540000,2.0,2.0,1525.0,3190.0,1922.0,235.0,http://www.redfin.com/CA/San-Francisco/770-16th-Ave-94118/home/1603144,37.773582,-122.47425
 52,Condo/Co-op,1688 SW Pine St Unit W407,San Francisco,CA,94109,1650000,2.0,2.0,1164.0,,2016.0,801.0,http://www.redfin.com/CA/San-Francisco/1688-Pine-St-94109/unit-W407/home/108249630,37.789553000000005,-122.42327879999999
 53,Condo/Co-op,135 Red Rock Way Unit 107L,San Francisco,CA,94131-3502,589000,0.0,1.0,592.0,,1972.0,494.0,http://www.redfin.com/CA/San-Francisco/135-Red-Rock-Way-94131/unit-107L/home/1008075,37.7461571,-122.4420357
 54,Condo/Co-op,400 Avila St #302,San Francisco,CA,94123,1195000,1.0,1.0,,,1991.0,568.0,http://www.redfin.com/CA/San-Francisco/400-Avila-St-94123/unit-302/home/172664275,37.805002,-122.44057520000001
@@ -60,14 +60,14 @@
 58,Single Family Residential,193 Bepler St,San Francisco,CA,94112,998999,3.0,2.5,1600.0,2554.0,1986.0,,http://www.redfin.com/CA/San-Francisco/193-Bepler-St-94112/home/1497249,37.708271,-122.46426740000001
 59,Multi-Family (5+ Unit),494 29th Ave,San Francisco,CA,94121,5000000,12.0,,9240.0,3598.0,1924.0,,http://www.redfin.com/CA/San-Francisco/494-29th-Ave-94121/home/609560,37.780178,-122.48884740000001
 60,Condo/Co-op,2177 3rd St #405,San Francisco,CA,94107,935000,1.0,1.0,719.0,,2020.0,825.0,http://www.redfin.com/CA/San-Francisco/2177-3rd-St-94107/unit-405/home/172663570,37.7622702,-122.3882952
-61,Single Family Residential,129 Acadia St,SAN FRANCISCO,CA,94131,1094800,2.0,1.5,850.0,2500.0,1906.0,,http://www.redfin.com/CA/San-Francisco/129-Acadia-St-94131/home/1496871,37.732035700000004,-122.4377662
+61,Single Family Residential,129 Acadia St,San Francisco,CA,94131,1094800,2.0,1.5,850.0,2500.0,1906.0,,http://www.redfin.com/CA/San-Francisco/129-Acadia-St-94131/home/1496871,37.732035700000004,-122.4377662
 62,Townhouse,188 Carnelian Way,San Francisco,CA,94131,2150000,4.0,2.5,1959.0,,1976.0,910.0,http://www.redfin.com/CA/San-Francisco/188-Carnelian-Way-94131/home/1869863,37.747669,-122.44008500000001
 63,Condo/Co-op,216 27th Ave #2,San Francisco,CA,94121,1695000,2.0,2.5,1630.0,,2019.0,303.0,http://www.redfin.com/CA/San-Francisco/216-27th-Ave-94121/unit-2/home/169876963,37.7852493,-122.4870236
 64,Single Family Residential,2085 Ocean Ave,San Francisco,CA,94127,1799000,4.0,3.0,2438.0,7762.0,1922.0,,http://www.redfin.com/CA/San-Francisco/2085-Ocean-Ave-94127/home/1599427,37.726275799999996,-122.46568070000001
 65,Condo/Co-op,218 27th Ave #3,San Francisco,CA,94121,2299000,3.0,2.5,2100.0,,2019.0,354.0,http://www.redfin.com/CA/San-Francisco/218-27th-Ave-94121/unit-3/home/169876962,37.785246,-122.486928
 66,Condo/Co-op,214 27th Ave #1,San Francisco,CA,94121,1495000,3.0,3.5,1390.0,,2019.0,283.0,http://www.redfin.com/CA/San-Francisco/214-27th-Ave-94121/unit-1/home/169876964,37.785257200000004,-122.48702420000001
 67,Condo/Co-op,1095 Natoma St #8,San Francisco,CA,94103,995000,1.0,2.0,1059.0,,2000.0,525.0,http://www.redfin.com/CA/San-Francisco/1095-Natoma-St-94103/unit-8/home/114072611,37.7724601,-122.41706210000001
-68,Condo/Co-op,630 Natoma St #2,SAN FRANCISCO,CA,94103,1595000,2.0,2.5,1580.0,,2019.0,500.0,http://www.redfin.com/CA/San-Francisco/630-Natoma-St-94103/unit-2/home/168161118,37.777929799999995,-122.410875
+68,Condo/Co-op,630 Natoma St #2,San Francisco,CA,94103,1595000,2.0,2.5,1580.0,,2019.0,500.0,http://www.redfin.com/CA/San-Francisco/630-Natoma-St-94103/unit-2/home/168161118,37.777929799999995,-122.410875
 69,Condo/Co-op,818 Van Ness Ave #402,San Francisco,CA,94109,899000,1.0,1.0,867.0,,2008.0,599.0,http://www.redfin.com/CA/San-Francisco/818-Van-Ness-Ave-94109/unit-402/home/40138557,37.7832423,-122.4204784
 70,Single Family Residential,22 Taraval St,San Francisco,CA,94116,2695000,4.0,3.5,2902.0,3333.0,1929.0,51.0,http://www.redfin.com/CA/San-Francisco/22-Taraval-St-94116/home/1734040,37.7439329,-122.46447090000001
 71,Condo/Co-op,239 Brannan St Unit 12J,San Francisco,CA,94107,1645000,2.0,2.0,1393.0,,2002.0,1275.0,http://www.redfin.com/CA/San-Francisco/239-Brannan-St-94107/unit-12J/home/1957896,37.7826448,-122.39038810000001
@@ -84,10 +84,10 @@
 82,Single Family Residential,2340 Washington St,San Francisco,CA,94115,11500000,5.0,5.5,6200.0,3219.0,1906.0,,http://www.redfin.com/CA/San-Francisco/2340-Washington-St-94115/home/1145287,37.792187,-122.43184199999999
 83,Multi-Family (2-4 Unit),128 Duncan St,San Francisco,CA,94110,1850000,6.0,1.0,2470.0,2850.0,1900.0,,http://www.redfin.com/CA/San-Francisco/128-Duncan-St-94110/home/967202,37.7465754,-122.423057
 84,Condo/Co-op,1650 Jackson St #401,San Francisco,CA,94109,925000,1.0,1.0,843.0,,1991.0,810.0,http://www.redfin.com/CA/San-Francisco/1650-Jackson-St-94109/unit-401/home/1825282,37.794306799999994,-122.422273
-85,Condo/Co-op,2040 Franklin St #508,SAN FRANCISCO,CA,94109,825000,1.0,1.5,1040.0,,1966.0,854.0,http://www.redfin.com/CA/San-Francisco/2040-Franklin-St-94109/unit-508/home/1366651,37.7935189,-122.4243158
+85,Condo/Co-op,2040 Franklin St #508,San Francisco,CA,94109,825000,1.0,1.5,1040.0,,1966.0,854.0,http://www.redfin.com/CA/San-Francisco/2040-Franklin-St-94109/unit-508/home/1366651,37.7935189,-122.4243158
 86,Condo/Co-op,56 Glover St,San Francisco,CA,94109,1249000,2.0,1.0,1042.0,,1912.0,391.0,http://www.redfin.com/CA/San-Francisco/56-Glover-St-94109/home/52228435,37.797246200000004,-122.41625659999998
 87,Condo/Co-op,1320 Stevenson St Unit C406,San Francisco,CA,94103,899000,2.0,1.0,971.0,,1997.0,518.0,http://www.redfin.com/CA/San-Francisco/1320-Stevenson-St-94103/unit-C406/home/1478886,37.771152,-122.42205929999999
-88,Condo/Co-op,50 Jerrold Ave #214,SAN FRANCISCO,CA,94124,849000,2.0,2.0,1015.0,,2016.0,525.0,http://www.redfin.com/CA/San-Francisco/50-Jerrold-Ave-94124/unit-214/home/131989566,37.727771399999995,-122.36945049999999
+88,Condo/Co-op,50 Jerrold Ave #214,San Francisco,CA,94124,849000,2.0,2.0,1015.0,,2016.0,525.0,http://www.redfin.com/CA/San-Francisco/50-Jerrold-Ave-94124/unit-214/home/131989566,37.727771399999995,-122.36945049999999
 89,Condo/Co-op,875 Vermont St #202,San Francisco,CA,94107,639000,0.0,1.0,318.0,,1965.0,109.0,http://www.redfin.com/CA/San-Francisco/875-Vermont-St-94107/unit-202/home/1024960,37.758574700000004,-122.403605
 90,Single Family Residential,4836 3rd St,San Francisco,CA,94124,759900,2.0,2.0,2420.0,2737.0,1912.0,,http://www.redfin.com/CA/San-Francisco/4836-3rd-St-94124/home/62549398,37.7343688,-122.39111899999999
 91,Single Family Residential,20 Milton St,San Francisco,CA,94112,1849000,3.0,2.0,1800.0,2400.0,2000.0,,http://www.redfin.com/CA/San-Francisco/20-Milton-St-94112/home/1714684,37.733880299999996,-122.42971409999998
@@ -109,9 +109,9 @@
 107,Condo/Co-op,451 Kansas St #373,San Francisco,CA,94107,899000,1.0,1.0,658.0,,2007.0,513.0,http://www.redfin.com/CA/San-Francisco/451-Kansas-St-94107/unit-373/home/23424328,37.764113,-122.4029865
 108,Condo/Co-op,1925 Gough St #41,San Francisco,CA,94109,4950000,3.0,3.5,4000.0,,1908.0,2467.0,http://www.redfin.com/CA/San-Francisco/1925-Gough-St-94109/unit-041/home/12400277,37.7915055,-122.4261534
 109,Multi-Family (2-4 Unit),20 Oakwood St,San Francisco,CA,94110,2195000,4.0,,3160.0,1929.0,1926.0,,http://www.redfin.com/CA/San-Francisco/20-Oakwood-St-94110/home/1003958,37.7610672,-122.4252679
-110,Multi-Family (2-4 Unit),2914-2916 Franklin St,SAN FRANCISCO,CA,94123,1998000,4.0,,3528.0,2188.0,1929.0,,http://www.redfin.com/CA/San-Francisco/2914-Franklin-St-94123/home/561870,37.8014696,-122.4259813
+110,Multi-Family (2-4 Unit),2914-2916 Franklin St,San Francisco,CA,94123,1998000,4.0,,3528.0,2188.0,1929.0,,http://www.redfin.com/CA/San-Francisco/2914-Franklin-St-94123/home/561870,37.8014696,-122.4259813
 111,Single Family Residential,268 Mallorca Way,San Francisco,CA,94123,6500000,6.0,5.5,5005.0,2200.0,1926.0,,http://www.redfin.com/CA/San-Francisco/268-Mallorca-Way-94123/home/1304705,37.8034795,-122.43907859999999
-112,Multi-Family (2-4 Unit),46 Dearborn St,SAN FRANCISCO,CA,94110,2085000,8.0,,4272.0,3092.0,1907.0,,http://www.redfin.com/CA/San-Francisco/46-Dearborn-St-94110/unit-52/home/1873836,37.7624152,-122.4232316
+112,Multi-Family (2-4 Unit),46 Dearborn St,San Francisco,CA,94110,2085000,8.0,,4272.0,3092.0,1907.0,,http://www.redfin.com/CA/San-Francisco/46-Dearborn-St-94110/unit-52/home/1873836,37.7624152,-122.4232316
 113,Condo/Co-op,1695 18th St #205,San Francisco,CA,94107,895000,1.0,1.0,1161.0,,1996.0,538.0,http://www.redfin.com/CA/San-Francisco/1695-18th-St-94107/unit-205/home/2004957,37.7620315,-122.39915259999998
 114,Single Family Residential,1714 39th Ave,San Francisco,CA,94122,1395000,3.0,2.0,1268.0,2996.0,1941.0,,http://www.redfin.com/CA/San-Francisco/1714-39th-Ave-94122/home/1253718,37.754839399999994,-122.49781270000001
 115,Condo/Co-op,708 Long Bridge St #1410,San Francisco,CA,94158,2295000,2.0,2.0,1383.0,,2016.0,1200.0,http://www.redfin.com/CA/San-Francisco/708-Long-Bridge-St-94158/unit-1410/home/109278639,37.7720304,-122.39357679999999
@@ -133,18 +133,18 @@
 131,Condo/Co-op,380 14th St #205,San Francisco,CA,94103,366537,1.0,1.0,455.0,,2012.0,571.0,http://www.redfin.com/CA/San-Francisco/380-14th-St-94103/unit-205/home/40625774,37.7683409,-122.4217428
 132,Condo/Co-op,420 N Mission Bay Blvd #1401,San Francisco,CA,94115,2958000,3.0,2.0,1921.0,,2012.0,954.0,http://www.redfin.com/CA/San-Francisco/420-Mission-Bay-Blvd-N-94158/unit-1401/home/40626104,37.771593599999996,-122.38858929999999
 133,Condo/Co-op,1 Daniel Burnham #924,San Francisco,CA,94109,1200000,2.0,2.0,1150.0,,,1121.0,http://www.redfin.com/CA/San-Francisco/1-Daniel-Burnham-Ct-94109/unit-924/home/1915044,37.7867552,-122.42249070000001
-134,Single Family Residential,119 Victoria St,SAN FRANCISCO,CA,94132,999999,2.0,1.0,1087.0,2495.0,1946.0,,http://www.redfin.com/CA/San-Francisco/119-Victoria-St-94132/home/831528,37.7129048,-122.46553229999999
+134,Single Family Residential,119 Victoria St,San Francisco,CA,94132,999999,2.0,1.0,1087.0,2495.0,1946.0,,http://www.redfin.com/CA/San-Francisco/119-Victoria-St-94132/home/831528,37.7129048,-122.46553229999999
 135,Single Family Residential,341 San Fernando Way,San Francisco,CA,94127,2080000,5.0,4.0,2723.0,4029.0,1927.0,,http://www.redfin.com/CA/San-Francisco/341-San-Fernando-Way-94127/home/1884638,37.731151000000004,-122.4694351
 136,Condo/Co-op,201 Folsom St Unit 16H,San Francisco,CA,94105,1150000,1.0,1.0,851.0,,2016.0,1125.0,http://www.redfin.com/CA/San-Francisco/201-Folsom-St-94105/unit-16H/home/108574875,37.788705900000004,-122.3922385
 137,Condo/Co-op,1177 California St #622,San Francisco,CA,94108,699000,0.0,1.0,535.0,,1978.0,1019.0,http://www.redfin.com/CA/San-Francisco/1177-California-St-94108/unit-622/home/998555,37.791026200000005,-122.4136476
 138,Condo/Co-op,508 Oak St,San Francisco,CA,94102,1549000,2.0,2.0,1201.0,,1900.0,,http://www.redfin.com/CA/San-Francisco/508-Oak-St-94102/home/109315295,37.774578999999996,-122.428129
-139,Condo/Co-op,2145 Franklin St #5,SAN FRANCISCO,CA,94109,1895000,3.0,2.0,1810.0,,1917.0,600.0,http://www.redfin.com/CA/San-Francisco/2145-Franklin-St-94109/unit-5/home/1030194,37.7943509,-122.4250239
+139,Condo/Co-op,2145 Franklin St #5,San Francisco,CA,94109,1895000,3.0,2.0,1810.0,,1917.0,600.0,http://www.redfin.com/CA/San-Francisco/2145-Franklin-St-94109/unit-5/home/1030194,37.7943509,-122.4250239
 140,Condo/Co-op,1720 Clay St #4,San Francisco,CA,94109,925000,1.0,1.5,862.0,,2000.0,538.0,http://www.redfin.com/CA/San-Francisco/1720-Clay-St-94109/unit-4/home/1399276,37.7926927,-122.4213669
 141,Condo/Co-op,1695 18th St #304,San Francisco,CA,94107,725000,1.0,1.5,715.0,,1996.0,454.0,http://www.redfin.com/CA/San-Francisco/1695-18th-St-94107/unit-304/home/1487433,37.7620315,-122.39915259999998
 142,Condo/Co-op,2009 Divisadero St Unit 4A,San Francisco,CA,94115,1225000,2.0,2.0,968.0,,1987.0,636.0,http://www.redfin.com/CA/San-Francisco/2009-Divisadero-St-94115/unit-4A/home/1739662,37.788278600000005,-122.4407629
 143,Single Family Residential,70 Rockaway St,San Francisco,CA,94127,1795000,3.0,2.5,,2325.0,1941.0,,http://www.redfin.com/CA/San-Francisco/70-Rockaway-Ave-94127/home/683565,37.743776399999994,-122.45793629999999
 144,Condo/Co-op,305 Guerrero St,San Francisco,CA,94103,1425000,3.0,2.0,1219.0,,2003.0,500.0,http://www.redfin.com/CA/San-Francisco/305-Guerrero-St-94103/home/868650,37.766285499999995,-122.4239936
-145,Single Family Residential,2431 Pacheco St,SAN FRANCISCO,CA,94116,1100000,2.0,1.0,1050.0,1873.0,1948.0,,http://www.redfin.com/CA/San-Francisco/2431-Pacheco-St-94116/home/982187,37.7498795,-122.4864374
+145,Single Family Residential,2431 Pacheco St,San Francisco,CA,94116,1100000,2.0,1.0,1050.0,1873.0,1948.0,,http://www.redfin.com/CA/San-Francisco/2431-Pacheco-St-94116/home/982187,37.7498795,-122.4864374
 146,Multi-Family (5+ Unit),3590 21st St,San Francisco,CA,94114,7500000,24.0,,15957.0,10657.0,1971.0,,http://www.redfin.com/CA/San-Francisco/3590-21st-St-94114/home/1212604,37.7566762,-122.42756909999999
 147,Condo/Co-op,1626 North Point St #101,San Francisco,CA,94123,1595000,2.0,2.0,1509.0,,1935.0,552.0,http://www.redfin.com/CA/San-Francisco/1626-N-Point-St-94123/unit-101/home/1010384,37.80424910000001,-122.43409170000001
 148,Condo/Co-op,1099 23rd St #16,San Francisco,CA,94107,1349000,2.0,2.5,1746.0,,2000.0,797.0,http://www.redfin.com/CA/San-Francisco/1099-23rd-St-94107/unit-16/home/12397219,37.7550088,-122.39059920000001
@@ -161,7 +161,7 @@
 159,Condo/Co-op,1211 York St,San Francisco,CA,94110,899000,2.0,1.0,975.0,,1875.0,,http://www.redfin.com/CA/San-Francisco/1211-York-St-94110/home/172644525,37.752437799999996,-122.40804550000001
 160,Single Family Residential,737 Lisbon St,San Francisco,CA,94112,699000,2.0,2.0,,2495.0,1922.0,,http://www.redfin.com/CA/San-Francisco/737-Lisbon-St-94112/home/792180,37.716805900000004,-122.43728629999998
 161,Condo/Co-op,425 14th St #3,San Francisco,CA,94103,1449000,2.0,2.0,1099.0,,2001.0,733.0,http://www.redfin.com/CA/San-Francisco/425-14th-St-94103/unit-3/home/856961,37.767835999999996,-122.42280339999999
-162,Multi-Family (2-4 Unit),1225-1229 Rhode Island St,SAN FRANCISCO,CA,94107,1688000,5.0,,2000.0,2500.0,1911.0,,http://www.redfin.com/CA/San-Francisco/1225-Rhode-Island-St-94107/home/1597993,37.754189399999994,-122.4012409
+162,Multi-Family (2-4 Unit),1225-1229 Rhode Island St,San Francisco,CA,94107,1688000,5.0,,2000.0,2500.0,1911.0,,http://www.redfin.com/CA/San-Francisco/1225-Rhode-Island-St-94107/home/1597993,37.754189399999994,-122.4012409
 163,Single Family Residential,1910 Palou Ave,San Francisco,CA,94124,1499000,5.0,5.0,3206.0,2495.0,1900.0,,http://www.redfin.com/CA/San-Francisco/1910-Palou-Ave-94124/home/745243,37.737507,-122.396598
 164,Single Family Residential,615 Missouri St,San Francisco,CA,94107,2795000,3.0,2.0,1990.0,1873.0,1925.0,,http://www.redfin.com/CA/San-Francisco/615-Missouri-St-94107/home/1131874,37.7585564,-122.39592079999998
 165,Single Family Residential,152 28th Ave,San Francisco,CA,94121,3800000,4.0,3.0,2942.0,3789.0,1922.0,,http://www.redfin.com/CA/San-Francisco/152-28th-Ave-94121/home/1031692,37.7865208,-122.48818419999999
@@ -209,7 +209,7 @@
 207,Single Family Residential,216 Bridgeview Dr,San Francisco,CA,94124,1228000,4.0,3.0,2010.0,2513.0,1946.0,,http://www.redfin.com/CA/San-Francisco/216-Bridgeview-Dr-94124/home/1922654,37.7346874,-122.3976024
 208,Multi-Family (2-4 Unit),810-812 Taraval St,San Francisco,CA,94116,2390000,7.0,6.0,6387.0,2500.0,1923.0,,http://www.redfin.com/CA/San-Francisco/810-Taraval-St-94116/home/656030,37.7433331,-122.4749298
 209,Condo/Co-op,250 King St #874,San Francisco,CA,94107,1138000,2.0,1.5,1104.0,,2004.0,899.0,http://www.redfin.com/CA/San-Francisco/250-King-St-94107/unit-874/home/22889661,37.7776422,-122.39341809999999
-210,Condo/Co-op,301 Main St Unit 15CD,SAN FRANCISCO,CA,94105,4199000,2.0,2.5,2174.0,,2008.0,1867.0,http://www.redfin.com/CA/San-Francisco/301-Main-St-94105/unit-15-CD/home/114084259,37.789375899999996,-122.39097190000001
+210,Condo/Co-op,301 Main St Unit 15CD,San Francisco,CA,94105,4199000,2.0,2.5,2174.0,,2008.0,1867.0,http://www.redfin.com/CA/San-Francisco/301-Main-St-94105/unit-15-CD/home/114084259,37.789375899999996,-122.39097190000001
 211,Condo/Co-op,1925 Pacific Ave #2,San Francisco,CA,94109,1995000,3.0,2.0,1700.0,,1918.0,1000.0,http://www.redfin.com/CA/San-Francisco/1925-Pacific-Ave-94109/unit-2/home/568045,37.7941053,-122.42697009999999
 212,Condo/Co-op,404 Hoffman Ave,San Francisco,CA,94111,1350000,2.0,2.0,,,1966.0,,http://www.redfin.com/CA/San-Francisco/404-Hoffman-Ave-94114/home/2034874,37.7505304,-122.4408582
 213,Condo/Co-op,650 Delancey St #423,San Francisco,CA,94107,1595000,2.0,2.0,1437.0,,1996.0,641.0,http://www.redfin.com/CA/San-Francisco/650-Delancey-St-94107/unit-423/home/12396507,37.7827748,-122.38968829999999
@@ -218,7 +218,7 @@
 216,Condo/Co-op,6509 Geary Blvd #104,San Francisco,CA,94121,829000,2.0,1.0,763.0,,1981.0,361.0,http://www.redfin.com/CA/San-Francisco/6509-Geary-Blvd-94121/unit-104/home/1910220,37.7795735,-122.48931340000001
 217,Condo/Co-op,15 Rico Way #1,San Francisco,CA,94123,1195000,2.0,1.5,1045.0,,1929.0,441.0,http://www.redfin.com/CA/San-Francisco/15-Rico-Way-94123/unit-1/home/40127223,37.804723700000004,-122.4385182
 218,Condo/Co-op,5175 Diamond Heights Blvd #106,San Francisco,CA,94131,1095000,2.0,2.0,1225.0,,1980.0,602.0,http://www.redfin.com/CA/San-Francisco/5175-Diamond-Heights-Blvd-94131/unit-106/home/1473028,37.7462036,-122.43992620000002
-219,Condo/Co-op,460 Francisco St #102,SAN FRANCISCO,CA,94133,720000,1.0,1.0,585.0,,1982.0,273.0,http://www.redfin.com/CA/San-Francisco/460-Francisco-St-94133/unit-102/home/1963058,37.8049401,-122.41282360000001
+219,Condo/Co-op,460 Francisco St #102,San Francisco,CA,94133,720000,1.0,1.0,585.0,,1982.0,273.0,http://www.redfin.com/CA/San-Francisco/460-Francisco-St-94133/unit-102/home/1963058,37.8049401,-122.41282360000001
 220,Condo/Co-op,8400 Oceanview Ter #120,San Francisco,CA,94132,649000,1.0,1.0,669.0,,2002.0,549.0,http://www.redfin.com/CA/San-Francisco/8400-Oceanview-Ter-94132/unit-120/home/1569219,37.7104174,-122.4677028
 221,Condo/Co-op,2448 Lombard St #311,San Francisco,CA,94123,1574000,2.0,2.0,,,2020.0,649.0,http://www.redfin.com/CA/San-Francisco/2448-Lombard-St-94123/unit-311/home/172631434,37.799330700000006,-122.44205929999998
 222,Condo/Co-op,150 San Carlos St #150,San Francisco,CA,94110,975000,2.0,1.0,927.0,,1908.0,300.0,http://www.redfin.com/CA/San-Francisco/150-San-Carlos-St-94110/unit-150/home/101769262,37.760934999999996,-122.420252
@@ -235,8 +235,8 @@
 233,Multi-Family (2-4 Unit),15-17 States St,San Francisco,CA,94114,2348888,4.0,2.0,2420.0,2604.0,1957.0,,http://www.redfin.com/CA/San-Francisco/15-States-St-94114/home/1316299,37.7632211,-122.4357662
 234,Single Family Residential,279 Faxon Ave,San Francisco,CA,94112,1395000,3.0,2.0,1650.0,2813.0,1951.0,,http://www.redfin.com/CA/San-Francisco/279-Faxon-Ave-94112/home/1017787,37.7196024,-122.46050149999999
 235,Condo/Co-op,2250 24th St #331,San Francisco,CA,94107,849000,2.0,1.0,,,1989.0,529.0,http://www.redfin.com/CA/San-Francisco/2250-24th-St-94107/unit-331/home/737484,37.7539036,-122.40201259999999
-236,Single Family Residential,239 SAWYER St,SAN FRANCISCO,CA,94134,914500,2.0,1.0,1100.0,1875.0,1959.0,,http://www.redfin.com/CA/San-Francisco/239-Sawyer-St-94134/home/1222670,37.714460200000005,-122.41366540000001
-237,Single Family Residential,1815 Vallejo St,SAN FRANCISCO,CA,94123,4395000,5.0,3.0,3600.0,6605.0,1900.0,,http://www.redfin.com/CA/San-Francisco/1815-Vallejo-St-94123/home/2023307,37.7960653,-122.42732
+236,Single Family Residential,239 SAWYER St,San Francisco,CA,94134,914500,2.0,1.0,1100.0,1875.0,1959.0,,http://www.redfin.com/CA/San-Francisco/239-Sawyer-St-94134/home/1222670,37.714460200000005,-122.41366540000001
+237,Single Family Residential,1815 Vallejo St,San Francisco,CA,94123,4395000,5.0,3.0,3600.0,6605.0,1900.0,,http://www.redfin.com/CA/San-Francisco/1815-Vallejo-St-94123/home/2023307,37.7960653,-122.42732
 238,Multi-Family (2-4 Unit),109 111A Fillmore St,San Francisco,CA,94117,2495000,10.0,,4320.0,1950.0,1910.0,,http://www.redfin.com/CA/San-Francisco/111a-Fillmore-St-94117/home/172622272,37.770482799999996,-122.4303335
 239,Multi-Family (2-4 Unit),339 27th St,San Francisco,CA,94131,2499000,3.0,2.0,2222.0,2465.0,1900.0,,http://www.redfin.com/CA/San-Francisco/339-27th-St-94131/home/937946,37.7466773,-122.4278455
 240,Single Family Residential,2458 29th Ave,San Francisco,CA,94116,1088000,2.0,1.0,1350.0,3000.0,1924.0,,http://www.redfin.com/CA/San-Francisco/2458-29th-Ave-94116/home/1878329,37.7414795,-122.4860287
@@ -248,12 +248,12 @@
 246,Single Family Residential,810 Faxon Ave,San Francisco,CA,94112-1206,1998888,4.0,2.5,2335.0,4687.0,1920.0,,http://www.redfin.com/CA/San-Francisco/810-Faxon-Ave-94112/home/696892,37.7279421,-122.4596612
 247,Multi-Family (2-4 Unit),635-637 South Van Ness Ave,San Francisco,CA,94110,2295000,,2.0,5320.0,2940.0,1912.0,,http://www.redfin.com/CA/San-Francisco/635-S-Van-Ness-Ave-94110/home/1542460,37.7629884,-122.41691979999999
 248,Condo/Co-op,22 Isis St,San Francisco,CA,94103,1249000,2.0,1.0,1221.0,,1907.0,150.0,http://www.redfin.com/CA/San-Francisco/22-Isis-St-94103/home/1694484,37.770348600000005,-122.41479950000002
-249,Condo/Co-op,3375 17th St #202,SAN FRANCISCO,CA,94110,1399000,2.0,2.0,1343.0,10890.0,2003.0,574.0,http://www.redfin.com/CA/San-Francisco/3375-17th-St-94110/unit-202/home/1552695,37.7630976,-122.4212949
+249,Condo/Co-op,3375 17th St #202,San Francisco,CA,94110,1399000,2.0,2.0,1343.0,10890.0,2003.0,574.0,http://www.redfin.com/CA/San-Francisco/3375-17th-St-94110/unit-202/home/1552695,37.7630976,-122.4212949
 250,Single Family Residential,2371 Diamond St,San Francisco,CA,94131,1700000,4.0,2.5,2599.0,3227.0,1908.0,,http://www.redfin.com/CA/San-Francisco/2371-Diamond-St-94131/home/1186741,37.73838610000001,-122.43658290000002
-251,Condo/Co-op,1568 Indiana St #8,SAN FRANCISCO,CA,94107,848500,1.0,1.5,1211.0,,1999.0,300.0,http://www.redfin.com/CA/San-Francisco/1568-Indiana-St-94107/unit-8/home/1521886,37.7506125,-122.39080259999999
+251,Condo/Co-op,1568 Indiana St #8,San Francisco,CA,94107,848500,1.0,1.5,1211.0,,1999.0,300.0,http://www.redfin.com/CA/San-Francisco/1568-Indiana-St-94107/unit-8/home/1521886,37.7506125,-122.39080259999999
 252,Single Family Residential,2050 24th Ave,San Francisco,CA,94116,995000,3.0,2.0,1359.0,3000.0,1943.0,,http://www.redfin.com/CA/San-Francisco/2050-24th-Ave-94116/home/1894786,37.7493153,-122.4812863
-253,Condo/Co-op,1000 North Point St #203,SAN FRANCISCO,CA,94109,599000,1.0,1.0,582.0,,1963.0,792.0,http://www.redfin.com/CA/San-Francisco/1000-N-Point-St-94109/unit-203/home/12395474,37.8055099,-122.42415729999999
-254,Condo/Co-op,501 Crescent Way #5112,SAN FRANCISCO,CA,94134,748800,2.0,2.0,875.0,,2006.0,488.0,http://www.redfin.com/CA/San-Francisco/501-Crescent-Way-94134/unit-5112/home/22888811,37.711928799999995,-122.3886055
+253,Condo/Co-op,1000 North Point St #203,San Francisco,CA,94109,599000,1.0,1.0,582.0,,1963.0,792.0,http://www.redfin.com/CA/San-Francisco/1000-N-Point-St-94109/unit-203/home/12395474,37.8055099,-122.42415729999999
+254,Condo/Co-op,501 Crescent Way #5112,San Francisco,CA,94134,748800,2.0,2.0,875.0,,2006.0,488.0,http://www.redfin.com/CA/San-Francisco/501-Crescent-Way-94134/unit-5112/home/22888811,37.711928799999995,-122.3886055
 255,Single Family Residential,166 Meadowbrook Dr,San Francisco,CA,94123,1985000,3.0,3.0,,2495.0,1941.0,,http://www.redfin.com/CA/San-Francisco/166-Meadowbrook-Dr-94132/home/1599974,37.731457,-122.484187
 256,Condo/Co-op,2000 Washington St #1,San Francisco,CA,94109,9000000,3.0,3.5,4438.0,,1922.0,3109.0,http://www.redfin.com/CA/San-Francisco/2000-Washington-St-94109/unit-001/home/12401087,37.792936,-122.4264631
 257,Condo/Co-op,1001 Pine St #802,San Francisco,CA,94109,895000,2.0,1.0,815.0,,1963.0,649.0,http://www.redfin.com/CA/San-Francisco/1001-Pine-St-94109/unit-802/home/553623,37.7903477,-122.41256750000001
@@ -285,7 +285,7 @@
 283,Single Family Residential,583 Vienna St,San Francisco,CA,94112,899000,3.0,1.0,1330.0,2500.0,1912.0,,http://www.redfin.com/CA/San-Francisco/583-Vienna-St-94112/home/1345369,37.7191723,-122.43111940000001
 284,Condo/Co-op,1000 3rd St #910,San Francisco,CA,94158,1075000,1.0,1.0,829.0,,2018.0,820.0,http://www.redfin.com/CA/San-Francisco/1000-3rd-St-94158/unit-910/home/167382687,37.7752125,-122.39022759999999
 285,Condo/Co-op,25 Orben Pl,San Francisco,CA,94115,899000,1.0,1.0,,,1900.0,325.0,http://www.redfin.com/CA/San-Francisco/25-Orben-Pl-94115/home/1529837,37.7884021,-122.43308710000001
-286,Multi-Family (2-4 Unit),3877 Cesar Chavez St,SAN FRANCISCO,CA,94131,1895000,3.0,,2069.0,2848.0,1900.0,,http://www.redfin.com/CA/San-Francisco/3877-Cesar-Chavez-94131/home/1046112,37.747546500000006,-122.4264669
+286,Multi-Family (2-4 Unit),3877 Cesar Chavez St,San Francisco,CA,94131,1895000,3.0,,2069.0,2848.0,1900.0,,http://www.redfin.com/CA/San-Francisco/3877-Cesar-Chavez-94131/home/1046112,37.747546500000006,-122.4264669
 287,Condo/Co-op,3252 Clay St,San Francisco,CA,94115,2450000,2.0,2.0,2325.0,,1912.0,250.0,http://www.redfin.com/CA/San-Francisco/3252-Clay-St-94115/home/1716507,37.78935,-122.44668999999999
 288,Multi-Family (5+ Unit),51 Sycamore St,San Francisco,CA,94110,3250000,15.0,,7110.0,2796.0,1907.0,,http://www.redfin.com/CA/San-Francisco/51-Sycamore-St-94110/home/1230981,37.7625415,-122.4206842
 289,Condo/Co-op,261 Buena Vista Ave,San Francisco,CA,94117,1695000,3.0,2.0,1815.0,,1909.0,700.0,http://www.redfin.com/CA/San-Francisco/261-Buena-Vista-Ave-E-94117/home/1750066,37.768033,-122.439031
@@ -326,9 +326,9 @@
 324,Condo/Co-op,108 San Jose Ave #1,San Francisco,CA,94110,1595000,3.0,2.0,,,2001.0,295.0,http://www.redfin.com/CA/San-Francisco/108-San-Jose-Ave-94110/unit-1/home/1795709,37.75303529999999,-122.421807
 325,Single Family Residential,2455 44Th Ave,San Francisco,CA,94116,1395000,3.0,2.0,1450.0,3000.0,1944.0,,http://www.redfin.com/CA/San-Francisco/2455-44th-Ave-94116/home/659610,37.740820899999996,-122.50265279999999
 326,Single Family Residential,195 Portola Dr,San Francisco,CA,94131,1995000,3.0,2.0,1705.0,2670.0,1936.0,,http://www.redfin.com/CA/San-Francisco/195-Portola-Dr-94114/home/681131,37.7475177,-122.4438154
-327,Condo/Co-op,148 Divisadero St Unit C,San Francisco,CA,94117,1549000,2.0,2.0,1201.0,,1984.0,250.0,http://www.redfin.com/CA/San-Francisco/148-Divisadero-St-94117/unit-C/home/1324044,37.769794565,-122.4365061
+327,Condo/Co-op,148 Divisadero St Unit C,San Francisco,CA,94117,1549000,2.0,2.0,1201.0,,1984.0,250.0,http://www.redfin.com/CA/San-Francisco/148-Divisadero-St-94117/unit-C/home/1324044,37.76979457,-122.4365061
 328,Condo/Co-op,401 Harrison Unit 5E,San Francisco,CA,94105,969000,1.0,1.0,707.0,,2014.0,1225.0,http://www.redfin.com/CA/San-Francisco/401-Harrison-St-94105/unit-5E/home/144063870,37.7864989,-122.39214869999999
-329,Condo/Co-op,219 Brannan St Unit 2G,SAN FRANCISCO,CA,94107,2368000,3.0,3.0,1694.0,,2000.0,1295.0,http://www.redfin.com/CA/San-Francisco/219-Brannan-St-94107/unit-2G/home/847470,37.7830623,-122.3901122
+329,Condo/Co-op,219 Brannan St Unit 2G,San Francisco,CA,94107,2368000,3.0,3.0,1694.0,,2000.0,1295.0,http://www.redfin.com/CA/San-Francisco/219-Brannan-St-94107/unit-2G/home/847470,37.7830623,-122.3901122
 330,Single Family Residential,923 Central Ave,San Francisco,CA,94115,2249000,4.0,2.0,2455.0,3025.0,1905.0,,http://www.redfin.com/CA/San-Francisco/923-Central-Ave-94115/home/2023675,37.778641,-122.445617
 331,Single Family Residential,56 Laura St,San Francisco,CA,94112,1295000,4.0,3.0,2290.0,1999.0,1900.0,,http://www.redfin.com/CA/San-Francisco/56-Laura-St-94112/home/958311,37.7103391,-122.45069369999999
 332,Condo/Co-op,3439 Sacramento St #401,San Francisco,CA,94118,3350000,3.0,2.0,1942.0,,2000.0,1064.0,http://www.redfin.com/CA/San-Francisco/3439-Sacramento-St-94118/unit-401/home/877319,37.787612700000004,-122.4492889
@@ -337,13 +337,13 @@
 335,Condo/Co-op,1101 Green St #902,San Francisco,CA,94109,1195000,1.0,1.0,930.0,,1930.0,1501.0,http://www.redfin.com/CA/San-Francisco/1101-Green-St-94109/unit-902/home/1902860,37.7982344,-122.41739399999999
 336,Single Family Residential,328 Richland Ave,San Francisco,CA,94110,2598000,4.0,4.0,2980.0,2500.0,1909.0,,http://www.redfin.com/CA/San-Francisco/328-Richland-Ave-94110/home/1149900,37.7355766,-122.4191961
 337,Condo/Co-op,4500 California Ave,San Francisco,CA,94118,1295000,2.0,2.0,1392.0,,,461.0,http://www.redfin.com/CA/San-Francisco/4500-California-St-94118/home/11892944,37.78508370000001,-122.46580870000001
-338,Condo/Co-op,300 Berry St #1411,SAN FRANCISCO,CA,94158,1350000,2.0,1.0,995.0,,2009.0,621.0,http://www.redfin.com/CA/San-Francisco/300-Berry-St-94158/unit-1411/home/28938799,37.773929700000004,-122.3962408
+338,Condo/Co-op,300 Berry St #1411,San Francisco,CA,94158,1350000,2.0,1.0,995.0,,2009.0,621.0,http://www.redfin.com/CA/San-Francisco/300-Berry-St-94158/unit-1411/home/28938799,37.773929700000004,-122.3962408
 339,Single Family Residential,124 Hamilton St #00,San Francisco,CA,94134,1225000,3.0,2.0,2300.0,3598.0,1977.0,,http://www.redfin.com/CA/San-Francisco/124-Hamilton-St-94134/unit-00/home/172583431,37.72926470000001,-122.4111091
 340,Condo/Co-op,601 Van Ness Ave #728,San Francisco,CA,94102,499000,0.0,1.0,490.0,,1982.0,820.0,http://www.redfin.com/CA/San-Francisco/601-Van-Ness-Ave-94102/unit-728/home/1483740,37.7813857,-122.42140630000002
 341,Condo/Co-op,201 Sansome St #801,San Francisco,CA,94104,819000,1.0,1.0,658.0,,1909.0,644.0,http://www.redfin.com/CA/San-Francisco/201-Sansome-St-94104/unit-801/home/12277366,37.7922568,-122.40124229999999
 342,Condo/Co-op,555 4th St #742,San Francisco,CA,94107,795000,1.0,1.0,699.0,,2006.0,605.0,http://www.redfin.com/CA/San-Francisco/555-4th-St-94107/unit-742/home/12402468,37.7794218,-122.39671240000001
 343,Single Family Residential,1916 23rd Ave,San Francisco,CA,94116,1380000,3.0,2.0,1450.0,2688.0,1940.0,,http://www.redfin.com/CA/San-Francisco/1916-23rd-Ave-94116/home/1889286,37.7518109,-122.480294
-344,Single Family Residential,3585-3587 Mission St,SAN FRANCISCO,CA,94110,1800000,4.0,3.0,2780.0,2308.0,1978.0,,http://www.redfin.com/CA/San-Francisco/3585-Mission-St-94110/home/1213884,37.7391846,-122.42363259999999
+344,Single Family Residential,3585-3587 Mission St,San Francisco,CA,94110,1800000,4.0,3.0,2780.0,2308.0,1978.0,,http://www.redfin.com/CA/San-Francisco/3585-Mission-St-94110/home/1213884,37.7391846,-122.42363259999999
 345,Condo/Co-op,2002 3rd St #219,San Francisco,CA,94107,995000,2.0,2.0,1139.0,,2002.0,618.0,http://www.redfin.com/CA/San-Francisco/2002-3rd-St-94107/unit-219/home/12397994,37.763988399999995,-122.3891649
 346,Single Family Residential,237 Avila St,San Francisco,CA,94123,4000000,4.0,3.5,2937.0,2504.0,1925.0,,http://www.redfin.com/CA/San-Francisco/237-Avila-St-94123/home/1779540,37.803067799999994,-122.4411258
 347,Condo/Co-op,408 Utah St,San Francisco,CA,94110,1495000,2.0,1.5,,,1912.0,,http://www.redfin.com/CA/San-Francisco/408-Utah-St-94110/unit-410/home/1113315,37.7642674,-122.4067146

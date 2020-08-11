@@ -25,7 +25,7 @@
 23,Single Family Residential,801 Stanford St,Santa Monica,CA,90403.0,3749000.0,2.0,2.5,2246.0,19991.0,1939.0,,http://www.redfin.com/CA/Santa-Monica/801-Stanford-St-90403/home/6762314,34.0445057,-118.47961869999999
 24,Single Family Residential,7246 N Cherry Ln,Van Nuys,CA,91405.0,545000.0,3.0,3.0,1498.0,2027.0,2016.0,80.0,http://www.redfin.com/CA/Van-Nuys/7246-Cherry-Ln-91405/home/109716997,34.2026859,-118.4402455
 25,Vacant Land,4291 Scandia Way,Los Angeles,CA,90065.0,200000.0,,,,5325.0,,,http://www.redfin.com/CA/Los-Angeles/4291-Scandia-Way-90065/home/23151322,34.1191545,-118.22174050000001
-26,Condo/Co-op,11505 Amalfi Way,Northridge,CA,91326.0,699999.0,3.0,3.0,1399.0,41817.0,2012.0,212.0,http://www.redfin.com/CA/Porter-Ranch/11505-Amalfi-Way-91326/home/51576125,34.279830813000004,-118.58044720000001
+26,Condo/Co-op,11505 Amalfi Way,Northridge,CA,91326.0,699999.0,3.0,3.0,1399.0,41817.0,2012.0,212.0,http://www.redfin.com/CA/Porter-Ranch/11505-Amalfi-Way-91326/home/51576125,34.27983081,-118.58044720000001
 27,Multi-Family (2-4 Unit),4546 St Elmo Dr,Los Angeles,CA,90019.0,1749000.0,8.0,4.0,4892.0,7003.0,1928.0,,http://www.redfin.com/CA/Los-Angeles/4546-St-Elmo-Dr-90019/home/6905933,34.041812,-118.338201
 28,Single Family Residential,4426 San Andreas Ave,Los Angeles,CA,90065.0,1149900.0,3.0,3.0,2436.0,4662.0,1991.0,,http://www.redfin.com/CA/Los-Angeles/4426-San-Andreas-Ave-90065/home/7078233,34.1099859,-118.2191051
 29,Condo/Co-op,11949 Goshen Ave #102,Los Angeles,CA,90049.0,845000.0,2.0,2.5,1100.0,23617.0,1986.0,379.0,http://www.redfin.com/CA/Los-Angeles/11949-Goshen-Ave-90049/unit-102/home/6761478,34.0471096,-118.46616100000001
@@ -38,7 +38,7 @@
 36,Multi-Family (2-4 Unit),422 Sherman Canal,Venice,CA,90291.0,2264000.0,2.0,2.0,1010.0,2850.0,1922.0,,http://www.redfin.com/CA/Venice/422-Sherman-Canal-90291/home/6734686,33.9835706,-118.4647145
 37,Condo/Co-op,4411 Los Feliz Blvd #605,Los Angeles,CA,90027.0,723990.0,1.0,1.0,812.0,93209.0,1966.0,701.0,http://www.redfin.com/CA/Los-Angeles/4411-Los-Feliz-Blvd-90027/unit-605/home/7133042,34.11248270000001,-118.28639479999998
 38,Single Family Residential,4647 Ensenada Dr,Woodland Hills,CA,91364.0,899000.0,5.0,4.0,3219.0,8451.0,1985.0,,http://www.redfin.com/CA/Woodland-Hills/4647-Ensenada-Dr-91364/home/4204598,34.152963299999996,-118.59848190000001
-39,Single Family Residential,6152 Jumilla Ave,Woodland Hills,CA,91367.0,570000.0,4.0,2.5,1566.0,9519.0,1955.0,,http://www.redfin.com/CA/Woodland-Hills/6152-Jumilla-Ave-91367/home/4036306,34.182510584,-118.56360190000001
+39,Single Family Residential,6152 Jumilla Ave,Woodland Hills,CA,91367.0,570000.0,4.0,2.5,1566.0,9519.0,1955.0,,http://www.redfin.com/CA/Woodland-Hills/6152-Jumilla-Ave-91367/home/4036306,34.18251058,-118.56360190000001
 40,Multi-Family (2-4 Unit),802 E 74th St,Los Angeles,CA,90001.0,390000.0,2.0,2.0,1312.0,3136.0,1924.0,,http://www.redfin.com/CA/Los-Angeles/802-E-74th-St-90001/home/7284883,33.972809999999996,-118.26061499999999
 41,Single Family Residential,1020 Glen Arbor Ave,Eagle Rock,CA,90041.0,1100000.0,2.0,2.0,1962.0,4420.0,1921.0,,http://www.redfin.com/CA/Los-Angeles/1020-Glen-Arbor-Ave-90041/home/7084473,34.1331239,-118.18815729999999
 42,Single Family Residential,7429 Mclennan Ave,Lake Balboa,CA,91406.0,869950.0,5.0,3.0,2373.0,6869.0,2019.0,,http://www.redfin.com/CA/Lake-Balboa/7429-McLennan-Ave-91406/home/167912840,34.2052505,-118.5002636
@@ -48,7 +48,7 @@
 46,Single Family Residential,12906 Warren Ave,Los Angeles,CA,90066.0,2295000.0,4.0,3.5,2267.0,6050.0,2014.0,,http://www.redfin.com/CA/Los-Angeles/12906-Warren-Ave-90066/home/6745237,34.009791299999996,-118.45010220000002
 47,Single Family Residential,3614 Willowcrest Ave,Studio City,CA,91604.0,1250000.0,2.0,2.0,2221.0,7635.0,1954.0,,http://www.redfin.com/CA/Studio-City/3614-Willowcrest-Ave-91604/home/5253672,34.1356894,-118.36932209999999
 48,Single Family Residential,7015 Earldom Ave,Playa Del Rey,CA,90293.0,1895000.0,4.0,3.0,2642.0,4948.0,1955.0,,http://www.redfin.com/CA/Playa-Del-Rey/7015-Earldom-Ave-90293/home/23051327,33.958039299999996,-118.44511990000001
-49,Mobile/Manufactured Home,6 Coronado Way #6,Mission Hills (San Fernando),CA,91345.0,165000.0,3.0,2.0,,,2000.0,,http://www.redfin.com/CA/Mission-Hills/6-Coronado-Way-91345/unit-6/home/172633422,34.2682955,-118.46611909999999
+49,Mobile/Manufactured Home,6 Coronado Way #6,Mission Hills,CA,91345.0,165000.0,3.0,2.0,,,2000.0,,http://www.redfin.com/CA/Mission-Hills/6-Coronado-Way-91345/unit-6/home/172633422,34.2682955,-118.46611909999999
 50,Single Family Residential,20639 Chatsboro Dr,Woodland Hills,CA,91364.0,3249000.0,5.0,3.75,5278.0,21743.0,1985.0,555.0,http://www.redfin.com/CA/Woodland-Hills/20639-Chatsboro-Dr-91364/home/4231479,34.1507619,-118.583615
 51,Single Family Residential,1647 S Ogden Dr,Los Angeles,CA,90019.0,1299000.0,2.0,2.5,1682.0,6375.0,1926.0,,http://www.redfin.com/CA/Los-Angeles/1647-S-Ogden-Dr-90019/home/6903886,34.0458868,-118.3662362
 52,Condo/Co-op,3223 W 6th St #408,Los Angeles,CA,90020.0,759000.0,2.0,2.0,1450.0,59715.0,2009.0,713.0,http://www.redfin.com/CA/Los-Angeles/3223-W-6th-St-90020/unit-408/home/21914729,34.0642234,-118.29257240000001
@@ -93,7 +93,7 @@
 91,Condo/Co-op,444 S Gramercy Pl #23,Los Angeles,CA,90020.0,569000.0,2.0,2.5,1286.0,22528.0,1974.0,247.0,http://www.redfin.com/CA/Los-Angeles/444-S-Gramercy-Pl-90020/unit-23/home/7090944,34.0657561,-118.3124664
 92,Single Family Residential,9116 Alcott St,Los Angeles,CA,90035.0,3995000.0,4.0,3.25,3026.0,9616.0,1932.0,,http://www.redfin.com/CA/Los-Angeles/9116-Alcott-St-90035/home/6788124,34.0541106,-118.3906366
 93,Single Family Residential,7310 Wish Ave,Van Nuys,CA,91406.0,619000.0,2.0,1.75,1352.0,6000.0,1950.0,,http://www.redfin.com/CA/Van-Nuys/7310-Wish-Ave-91406/home/4521182,34.203298700000005,-118.50653600000001
-94,Single Family Residential,10988 Noble Ave,Mission Hills (San Fernando),CA,91345.0,580000.0,4.0,2.0,1540.0,6837.0,1952.0,,http://www.redfin.com/CA/Mission-Hills/10988-Noble-Ave-91345/home/5590265,34.2691178,-118.45927340000001
+94,Single Family Residential,10988 Noble Ave,Mission Hills,CA,91345.0,580000.0,4.0,2.0,1540.0,6837.0,1952.0,,http://www.redfin.com/CA/Mission-Hills/10988-Noble-Ave-91345/home/5590265,34.2691178,-118.45927340000001
 95,Single Family Residential,6207 Madden Ave,Los Angeles,CA,90043.0,689000.0,3.0,1.0,1036.0,4913.0,1939.0,,http://www.redfin.com/CA/Los-Angeles/6207-Madden-Ave-90043/home/6418746,33.9833797,-118.32574209999999
 96,Condo/Co-op,12801 Moorpark St #101,Studio City,CA,91604.0,459000.0,2.0,1.0,970.0,40656.0,1971.0,425.0,http://www.redfin.com/CA/Studio-City/12801-Moorpark-St-91604/unit-101/home/5221670,34.150784200000004,-118.4115363
 97,Single Family Residential,5329 Brynhurst Ave,Los Angeles,CA,90043.0,1098000.0,3.0,2.0,1647.0,7000.0,1919.0,,http://www.redfin.com/CA/Los-Angeles/5329-Brynhurst-Ave-90043/home/6865218,33.994042799999995,-118.33366000000001
