@@ -75,3 +75,6 @@ print(house_list)
 print(results_objects[0])
 
 # send house list to front end...
+house_data_for_results = pd.read_csv("combination_data/housing_complete_data.csv")
+results_df = house_data_for_results[house_data_for_results["house_id"].isin(house_list)]
+results_df
