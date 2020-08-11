@@ -13,7 +13,16 @@ footer {
   h2 {
       padding: 20px;
   }
+
   #github-footer-logo {
     height: 3em;
     width: 3em;
+  }
+
+  .jumbotron {
+    background-color: lightblue;
+  }
+
+  #submit-button {
+    margin: 1em;
   }

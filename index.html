@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Required meta tags -->
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Relocation Recommendation</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
@@ -13,36 +15,36 @@
 
 <body>
     <!-- JUMBOTRON -->
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron jumbotron-fluid text-center">
         <div class="container">
           <h1 class="display-4">Relocation Recommendation!</h1>
-          <p class="lead">Struggling to find out WHERE you should relocate? Try our Relocation Recommendator and see what homes fit your criteria!</p>
+          <p class="lead">Struggling to find out WHERE you should relocate?<br>Try our Relocation Recommendator and see what homes fit your criteria!</p>
         </div>
       </div>
   <!-- HOME GALLERY -->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm">
-                <div class="card" style="width: 18rem;">
+            <div class="col-4">
+                <div class="card text-center" style="width: 18rem;">
                     <img src="resources/bernadette-gatsby-bN_TkedaBuQ-unsplash.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                    <p class="card-text">Are you a city person at heart? Looking to let go of your car and live life at your local jaunts?</p>
+                      <p class="card-text">Are you a city person at heart? Looking to let go of your car and live life at your local jaunts?</p>
                     </div>
                 </div>
             </div>
-            <div class="col-sm">
+            <div class="col-4">
                 <div class="card" style="width: 18rem;">
                     <img src="resources/ralph-ravi-kayden-2d4lAQAlbDA-unsplash.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                    <p class="card-text">Are you looking for life in the suburbs where your kids can swim at home and ride their bikes with the neighborhood kids?</p>
+                      <p class="card-text">Are you looking for life in the suburbs where your kids can swim at home and ride their bikes with the neighborhood kids?</p>
                     </div>
                 </div>
             </div>
-            <div class="col-sm">
+            <div class="col-4">
                 <div class="card" style="width: 18rem;">
                     <img src="resources/phil-hearing-IYfp2Ixe9nM-unsplash.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                    <p class="card-text">Or maybe you are looking for that country home to grow the garden of your dreams and sip your morning coffee from your porch. </p>
+                      <p class="card-text">Or maybe you are looking for that country home to grow the garden of your dreams and sip your morning coffee from your porch. </p>
                     </div>
                 </div>
             </div>
@@ -53,79 +55,97 @@
     <div class="container-fluid user-inputs">
         
         <div class="row">
-            <h2>Fill out these inputs and tell us what is important to you.</h2>
+          <h2>Please fill out the inputs below so that we can make our recommendation.</h2>
         </div>
 
         <div class="row">
-            <!-- Weather input -->
-            <div class="container col-md-4">
+            <!-- Temperature input -->
+            <div class="container col-md-3">
               <h5>What type of weather do you prefer?</h5>
-              <select>
+              <select id="temp-input" onChange="selectTemp(this.value)">
                 <option>Cold</option>
                 <option>Temperate</option>
                 <option>Hot</option>
               </select>
             </div>
-
+            <!-- Population input -->
+            <div class="container col-md-3">
+              <h5>What size city do you want?</h5>
+              <select id="popSize-input" onChange="selectPopSize(this.value)">
+                <option>Big City</option>
+                <option>Medium City</option>
+                <option>Small Town</option>
+              </select>
+            </div>
+            <!-- Square-footage input -->
+            <div class="container col-md-3">
+              <h5>What size house do you want?</h5>
+              <select id="squareFeet-input" onChange="selectSquareFeet(this.value)">
+                <option>3000+</option>
+                <option>1500</option>
+                <option>750</option>
+              </select>
+            </div>
             <!-- Budget input -->
-            <div class="container col-md-4">
+            <div class="container col-md-3">
               <h5>What is your budget?</h5>
-              <select>
-                <option>$1 Million or more</option>
-                <option>$750k - $1,000k</option>
-                <option>$500k - $750k</option>
-                <option>$250k - $500k</option>
-                <option>$250k or less</option>
+              <select id="budget-input" onChange="selectBudget(this.value)">
+                <option>1000000+</option>
+                <option>750000</option>
+                <option>500000</option>
+                <option>250000</option>
               </select>
             </div>
-
-            <!-- Density input -->
-            <div class="container col-md-4">
-              <h5>How close to people do you like to be?</h5>
-              <select>
-                <option>I prefer densely populated cities</option>
-                <option>Looking to be close, but not too close to people</option>
-                <option>I need solitude!</option>
-                <option>Surprise Me!</option>
-              </select>
-            </div>
-
         </div>
+
 
         <div class="row">
           <!-- Bedroom input -->
-          <div class="container col-md-4">
+          <div class="container col-md-3">
             <h5>How many bedrooms do you need?</h5>
-            <select>
+            <select id="bedroom-input" onChange="selectBedrooms(this.value)">
               <option>4+</option>
               <option>3</option>
               <option>2</option>
               <option>1</option>
             </select>
           </div>
-
           <!-- Bathroom input -->
-          <div class="container col-md-4">
+          <div class="container col-md-3">
             <h5>How many bathrooms?</h5>
-            <select>
+            <select id="bathroom-input" onChange="selectBathrooms(this.value)">
               <option>4+</option>
               <option>3</option>
               <option>2</option>
               <option>1</option>
             </select>
           </div>
-
-          <!-- Other input -->
-          <div class="container col-md-4">
-            <h5>Other Input?</h5>
-            <select>
-              <option>Option 1</option>
-              <option>Option 2</option>
-              <option>Option 3</option>
-              <option>Option 4</option>
+          <!-- Lot size input -->
+          <div class="container col-md-3">
+            <h5>How big do you want your yard? (square-feet)</h5>
+            <select id="lotSize-input" onChange="selectLotSize(this.value)">
+              <option>1000</option>
+              <option>100</option>
+              <option>50</option>
+              <option>25</option>
             </select>
           </div>
-
+          <!-- HOA input -->
+          <div class="container col-md-3">
+            <h5>Select your HOA fee budget?</h5>
+            <select id="hoa-input" onChange="selectHoaBudget(this.value)">
+              <option>1000+</option>
+              <option>500</option>
+              <option>100</option>
+              <option>0</option>
+            </select>
+          </div>
+      </div>
+      <div class="row">
+        <div class="col-12 text-center">
+          <!-- Submit button -->
+          <button type="button" class="btn btn-success" id="submit-button" onClick="submitInput()">Submit</button>
+        </div>  
       </div>
 
     </div>
@@ -162,11 +182,12 @@
     </div>
   </footer>
 
-  <!-- Scripts -->
-  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-  
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script> -->
+<script type=text/javascript src="app.js"></script>
   
 </body>
 </html>
