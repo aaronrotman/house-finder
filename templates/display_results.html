@@ -10,20 +10,9 @@
 </head>
 
 <body>
-  <div class="container text-center">
-    <h1 class="jumbotron">Dogs up for Adoption!</h1>
-    <div>
-      <ul style="list-style: none;">
-
-        <!-- Loop through the dictionary -->
-        
-        {% for dog in dogs %}
-          <li style="color:blue">{{ dog.name }} who is a {{ dog.type }}</li>
-        {% endfor %}
-
-      </ul>
-    </div>
-  </div>
+  {% for key,value in x.iterrows() %}
+      <option value="{{ value['id'] }}">{{ value['text'] }}</option>
+  {% endfor %}
 </body>
 
 </html>

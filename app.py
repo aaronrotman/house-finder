@@ -7,10 +7,10 @@ app = Flask(__name__)
 
 # create route that renders index.html template
 # List of dictionaries
-dogs = [{"name": "Fido", "type": "Lab"},
-        {"name": "Rex", "type": "Collie"},
-        {"name": "Suzzy", "type": "Terrier"},
-        {"name": "Tomato", "type": "Retriever"}]
+# dogs = [{"name": "Fido", "type": "Lab"},
+#         {"name": "Rex", "type": "Collie"},
+#         {"name": "Suzzy", "type": "Terrier"},
+#         {"name": "Tomato", "type": "Retriever"}]
 
 
 # create route that renders index.html template

@@ -13,13 +13,12 @@ from sklearn.preprocessing import StandardScaler
 import warnings
 warnings.simplefilter('ignore')
 import numpy as np
+import csv
 
-# importing data
-housing_training_data = pd.read_csv("housing_training_data.csv")
-# housing_training_data.head()
+housing_training_data = pd.read_csv("housing_training_data.csv", encoding='utf-8')
 
 
-X = housing_training_data[["temp_range", "population", "square_feet", 'price', "beds", 'baths', "lot_size", 'hoa_permonth',]]
+X = housing_training_data[['price', "beds", 'baths', "square_feet", "lot_size", 'hoa_permonth', "Summer Temp", "Winter Temp", "population"]]
 # print(X.shape)
 
 
