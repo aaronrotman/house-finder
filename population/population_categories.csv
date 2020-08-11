@@ -66,7 +66,7 @@ Texas,Corpus Christi,305215,large
 California,Riverside,303871,large
 Ohio,Cincinnati,296943,large
 Kentucky,Lexington-Fayette urban county,295803,large
-Alaska,Anchorage municipality,291826,large
+Alaska,Adak,326,small
 California,Stockton,291707,large
 Ohio,Toledo,287208,large
 Minnesota,St. Paul,285068,large
@@ -1202,7 +1202,7 @@ Massachusetts,Franklin,31635,middle
 Utah,Tooele,31605,middle
 Kentucky,Hopkinsville,31577,middle
 New York,North Tonawanda,31568,middle
-Alaska,Fairbanks,31535,middle
+Alaska,Akhiok,71,small
 West Virginia,Parkersburg,31492,middle
 Indiana,Michigan,31479,middle
 Texas,Schertz,31465,middle
@@ -1210,7 +1210,7 @@ Delaware,Newark,31454,middle
 Kentucky,Richmond,31364,middle
 New York,Spring Valley village,31347,middle
 Illinois,Gurnee village,31295,middle
-Alaska,Juneau and borough,31275,middle
+Alaska,Akiak,346,small
 New York,Jamestown,31146,middle
 Washington,University Place,31144,middle
 Wisconsin,West Bend,31078,middle
@@ -3308,7 +3308,7 @@ Texas,Graham,8903,middle
 Pennsylvania,Middletown borough,8901,middle
 Utah,Grantsville,8893,middle
 Pennsylvania,Carbondale,8891,middle
-Alaska,Sitka and borough,8881,middle
+Alaska,Akutan,1027,small
 Oklahoma,Sallisaw,8880,middle
 Illinois,Riverside village,8875,middle
 Missouri,Monett,8873,middle
@@ -3545,7 +3545,7 @@ California,Rolling Hills Estates,8067,middle
 Missouri,Brentwood,8055,middle
 New York,Ilion village,8053,middle
 Alabama,Arab,8050,middle
-Alaska,Ketchikan,8050,middle
+Alaska,Alakanuk,677,small
 Tennessee,Jefferson,8047,middle
 Missouri,Maplewood,8046,middle
 Alabama,Bay Minette,8044,middle
@@ -3610,7 +3610,7 @@ North Carolina,Marion,7838,middle
 Illinois,Calumet Park village,7835,middle
 Iowa,Creston,7834,middle
 Pennsylvania,Conshohocken borough,7833,middle
-Alaska,Wasilla,7831,middle
+Alaska,Aleknagik,219,small
 Oklahoma,Cushing,7826,middle
 Mississippi,Flowood,7823,middle
 New Jersey,Caldwell borough,7822,middle
@@ -3851,7 +3851,7 @@ Ohio,Cortland,7104,middle
 Maryland,Ocean,7102,middle
 Ohio,Canal Winchester,7101,middle
 Ohio,Delphos,7101,middle
-Alaska,Kenai,7100,middle
+Alaska,Allakaket,105,small
 West Virginia,Elkins,7094,middle
 Pennsylvania,Huntingdon borough,7093,middle
 New Jersey,Linwood,7092,middle
@@ -4198,7 +4198,7 @@ Louisiana,Walker,6138,middle
 Kansas,Eudora,6136,middle
 Utah,Ephraim,6135,middle
 Delaware,Elsmere,6131,middle
-Alaska,Kodiak,6130,middle
+Alaska,Ambler,258,small
 Indiana,Sellersburg,6128,middle
 New Jersey,Carlstadt borough,6127,middle
 Oregon,Sheridan,6127,middle
@@ -4228,7 +4228,7 @@ Tennessee,Erwin,6097,middle
 North Carolina,Hillsborough,6087,middle
 Washington,Brier,6087,middle
 Michigan,Holly village,6086,middle
-Alaska,Bethel,6080,middle
+Alaska,Anaktuvuk Pass,324,small
 Texas,Marble Falls,6077,middle
 Alabama,Roanoke,6074,middle
 North Carolina,Selma,6073,middle
@@ -4290,7 +4290,7 @@ New Jersey,Little Silver borough,5950,middle
 Missouri,Charleston,5947,middle
 Nebraska,Ralston,5943,middle
 California,Holtville,5939,middle
-Alaska,Palmer,5937,middle
+Alaska,Anchor Point,1930,small
 Tennessee,Kingston,5934,middle
 Wisconsin,Elm Grove village,5934,middle
 Minnesota,Kasson,5931,middle
@@ -4737,7 +4737,6 @@ Texas,Port Isabel,5006,middle
 New Jersey,Highlands borough,5005,middle
 New York,Kings Point village,5005,middle
 North Carolina,Edenton,5004,middle
-Alaska,Homer,5003,middle
 Florida,Wauchula,5001,middle
 Louisiana,Mansfield,5001,middle
 New Jersey,Clementon borough,5000,middle
@@ -5114,7 +5113,7 @@ New Jersey,Atlantic Highlands borough,4385,middle
 Pennsylvania,Scottdale borough,4384,middle
 Indiana,Winfield,4383,middle
 Arkansas,Prairie Grove,4380,middle
-Alaska,Unalaska,4376,middle
+Alaska,Anchorage,291826,large
 Oklahoma,Sayre,4375,middle
 New York,Fayetteville village,4373,middle
 Kansas,Wamego,4372,middle
@@ -5254,7 +5253,7 @@ Iowa,Asbury,4170,middle
 Texas,Morgan's Point Resort,4170,middle
 Indiana,Whiteland,4169,middle
 North Carolina,Cramerton,4165,middle
-Alaska,Soldotna,4163,middle
+Alaska,Anderson,246,small
 Pennsylvania,Mahanoy borough,4162,middle
 California,Del Mar,4161,middle
 Georgia,Cornelia,4160,middle
@@ -5396,7 +5395,7 @@ Texas,Willow Park,3982,middle
 Alabama,Union Springs,3980,middle
 Georgia,Madison,3979,middle
 Nebraska,Cozad,3977,middle
-Alaska,Valdez,3976,middle
+Alaska,Angoon,459,small
 Washington,Montesano,3976,middle
 Pennsylvania,Irwin borough,3973,middle
 Wisconsin,Prairie du Sac village,3972,middle
@@ -5674,7 +5673,7 @@ Indiana,Leo-Cedarville,3603,middle
 Texas,Cotulla,3603,middle
 New York,Spencerport village,3601,middle
 Minnesota,Sleepy Eye,3599,middle
-Alaska,Nome,3598,middle
+Alaska,Aniak,501,small
 Minnesota,Melrose,3598,middle
 Illinois,Hainesville village,3597,middle
 Michigan,Imlay,3597,middle
@@ -6040,7 +6039,7 @@ Tennessee,White Bluff,3206,middle
 Alabama,Brownsboro,3205,small
 Oregon,Oakridge,3205,middle
 Illinois,Westville village,3202,middle
-Alaska,Kotzebue,3201,middle
+Alaska,Anvik,85,small
 Illinois,Deer Park village,3200,middle
 Oklahoma,Hinton,3196,middle
 North Carolina,Lillington,3194,middle
@@ -6569,7 +6568,7 @@ Oregon,Estacada,2695,middle
 Minnesota,Cokato,2694,middle
 Ohio,Middlefield village,2694,middle
 Tennessee,Clifton,2694,middle
-Alaska,Seward,2693,middle
+Alaska,Atka,61,small
 New York,Munsey Park village,2693,middle
 Pennsylvania,Bath borough,2693,middle
 Colorado,Palisade,2692,middle
@@ -7032,7 +7031,7 @@ Virginia,Shenandoah,2373,small
 Arkansas,Bethel Heights,2372,small
 Illinois,Seneca village,2371,small
 Washington,Brewster,2370,small
-Alaska,Wrangell and borough,2369,small
+Alaska,Atqasuk,233,small
 New Jersey,Alpha borough,2369,small
 Nevada,Carlin,2368,small
 Kansas,Cherryvale,2367,small
@@ -7089,7 +7088,7 @@ Idaho,Dalton Gardens,2335,small
 Colorado,Bayfield,2333,small
 South Dakota,Redfield,2333,small
 Pennsylvania,Brownsville borough,2331,small
-Alaska,Dillingham,2329,small
+Alaska,Badger,19482,middle
 North Dakota,Casselton,2329,small
 Kansas,Sterling,2328,small
 New Mexico,Bayard,2328,small
@@ -7203,7 +7202,7 @@ Indiana,Waterloo,2242,small
 Kentucky,Junction,2241,small
 Kentucky,Cave,2240,small
 Texas,Tool,2240,small
-Alaska,Cordova,2239,small
+Alaska,Barrow,4257,middle
 Kentucky,Cumberland,2237,small
 Texas,Olmos Park,2237,small
 Illinois,Tremont village,2236,small
@@ -7431,7 +7430,7 @@ Oregon,Union,2121,small
 Idaho,Kellogg,2120,small
 Wisconsin,Kohler village,2120,small
 Texas,Huntington,2118,small
-Alaska,North Pole,2117,small
+Alaska,Bethel,6080,middle
 Georgia,Pearson,2117,small
 Pennsylvania,South Greensburg borough,2117,small
 Texas,Fritch,2117,small
@@ -7812,7 +7811,6 @@ Minnesota,Ortonville,1916,small
 Pennsylvania,Conyngham borough,1914,small
 Pennsylvania,North York borough,1914,small
 Indiana,Edgewood,1913,small
-Alaska,Houston,1912,small
 Mississippi,Walnut Grove,1911,small
 Pennsylvania,Forest borough,1911,small
 Wyoming,Afton,1911,small
@@ -9639,7 +9637,7 @@ Ohio,Jeffersonville village,1203,small
 Pennsylvania,Tatamy borough,1203,small
 Texas,Valley Mills,1203,small
 Texas,Petersburg,1202,small
-Alaska,Craig,1201,small
+Alaska,Bettles,12,small
 Kansas,Hoxie,1201,small
 Michigan,Edmore village,1201,small
 Georgia,Cave Spring,1200,small
@@ -10022,7 +10020,7 @@ Kansas,Solomon,1095,small
 Indiana,Russiaville,1094,small
 Missouri,Stover,1094,small
 Wyoming,Marbleton,1094,small
-Alaska,Hooper Bay,1093,small
+Alaska,Big Lake,3350,middle
 Michigan,Carson,1093,small
 Michigan,Fruitport village,1093,small
 Minnesota,Nicollet,1093,small
@@ -10283,7 +10281,7 @@ New York,New Berlin village,1028,small
 North Carolina,Banner Elk,1028,small
 North Carolina,Stedman,1028,small
 Alabama,Leesburg,1027,small
-Alaska,Akutan,1027,small
+Alaska,Brevig Mission,388,small
 Colorado,Minturn,1027,small
 Nebraska,Friend,1027,small
 Ohio,North Randall village,1027,small
@@ -10504,7 +10502,7 @@ Illinois,Leland village,977,small
 Iowa,Fruitland,977,small
 Oklahoma,Gore,977,small
 West Virginia,Carpendale,977,small
-Alaska,Sand Point,976,small
+Alaska,Buckland,416,small
 Kentucky,Watterson Park,976,small
 Minnesota,Taylors Falls,976,small
 Ohio,Ottoville village,976,small
@@ -10592,7 +10590,7 @@ Illinois,Rapids village,959,small
 Kentucky,Rolling Hills,959,small
 Missouri,Norwood Court,959,small
 West Virginia,East Bank,959,small
-Alaska,Delta Junction,958,small
+Alaska,Chefornak,418,small
 Indiana,Jamestown,958,small
 Indiana,Waynetown,958,small
 Maryland,Willards,958,small
@@ -10674,7 +10672,7 @@ Montana,White Sulphur Springs,939,small
 Nebraska,Curtis,939,small
 North Carolina,Magnolia,939,small
 Alaska,Chevak,938,small
-Alaska,King Cove,938,small
+Alaska,Chignik,91,small
 Iowa,Le Grand,938,small
 Montana,Troy,938,small
 New Mexico,Magdalena village,938,small
@@ -11220,7 +11218,7 @@ Michigan,Deckerville village,830,small
 Nebraska,Hooper,830,small
 New York,Saddle Rock village,830,small
 Ohio,Rio Grande village,830,small
-Alaska,Selawik,829,small
+Alaska,Chuathbaluk,118,small
 Illinois,Tiskilwa village,829,small
 Michigan,Gobles,829,small
 Nebraska,Doniphan village,829,small
@@ -11291,7 +11289,7 @@ Oklahoma,Blair,818,small
 Pennsylvania,Ringtown borough,818,small
 Vermont,Orleans village,818,small
 Wisconsin,Birnamwood village,818,small
-Alaska,Togiak,817,small
+Alaska,Chugiak,9181,middle
 Florida,Jupiter Island,817,small
 Kentucky,Fincastle,817,small
 Ohio,Killbuck village,817,small
@@ -11309,7 +11307,7 @@ Oklahoma,Davenport,814,small
 Texas,Celeste,814,small
 Texas,Simonton,814,small
 Virginia,Damascus,814,small
-Alaska,Mountain Village,813,small
+Alaska,Clam Gulch,176,small
 Kansas,Meriden,813,small
 Kansas,Mount Hope,813,small
 Kentucky,Campbellsburg,813,small
@@ -11604,7 +11602,7 @@ Kentucky,Taylorsville,763,small
 Ohio,Scio village,763,small
 Pennsylvania,Gordon borough,763,small
 Texas,Fairchilds village,763,small
-Alaska,Emmonak,762,small
+Alaska,Clark's Point,62,small
 Arkansas,Quitman,762,small
 Arkansas,Tyronza,762,small
 Iowa,Whiting,762,small
@@ -11618,7 +11616,7 @@ South Carolina,Cottageville,762,small
 Wisconsin,Mount Calvary village,762,small
 Illinois,Ashkum village,761,small
 Illinois,Elizabeth village,761,small
-Alaska,Hoonah,760,small
+Alaska,Coffman Cove,176,small
 Maryland,Chevy Chase Section Three village,760,small
 Minnesota,Karlstad,760,small
 Nebraska,Clay Center,760,small
@@ -11650,7 +11648,7 @@ Wyoming,Dayton,757,small
 Indiana,Shoals,756,small
 Iowa,Murray,756,small
 Ohio,Marshallville village,756,small
-Alaska,Klawock,755,small
+Alaska,Cold Bay,108,small
 Arkansas,Rockport,755,small
 Iowa,Merrill,755,small
 Nebraska,Juniata village,755,small
@@ -11861,7 +11859,7 @@ Indiana,Homecroft,722,small
 North Carolina,Taylortown,722,small
 Ohio,New Straitsville village,722,small
 Pennsylvania,Deemston borough,722,small
-Alaska,Kwethluk,721,small
+Alaska,Cooper Landing,289,small
 Georgia,Blythe,721,small
 Nebraska,Newman Grove,721,small
 North Dakota,Mott,721,small
@@ -12067,7 +12065,7 @@ Minnesota,Hampton,689,small
 Minnesota,Marine on St. Croix,689,small
 Oregon,Powers,689,small
 Pennsylvania,New Florence borough,689,small
-Alaska,Unalakleet,688,small
+Alaska,Cordova,2239,small
 Illinois,Bluford village,688,small
 Kentucky,Wickliffe,688,small
 Louisiana,Waterproof,688,small
@@ -12116,7 +12114,7 @@ Ohio,Warsaw village,682,small
 Ohio,West Mansfield village,682,small
 Oregon,Condon,682,small
 Texas,Westover Hills,682,small
-Alaska,Gambell,681,small
+Alaska,Craig,1201,small
 Arkansas,Palestine,681,small
 Illinois,Alhambra village,681,small
 Illinois,South Wilmington village,681,small
@@ -12141,7 +12139,7 @@ North Carolina,Pikeville,678,small
 Ohio,Bloomdale village,678,small
 Pennsylvania,Picture Rocks borough,678,small
 Texas,Happy,678,small
-Alaska,Alakanuk,677,small
+Alaska,Deering,122,small
 Arkansas,Imboden,677,small
 Idaho,Dubois,677,small
 Illinois,Davis village,677,small
@@ -12162,7 +12160,7 @@ Ohio,Timberlake village,675,small
 Pennsylvania,Sankertown borough,675,small
 South Carolina,Six Mile,675,small
 West Virginia,Ridgeley,675,small
-Alaska,Point Hope,674,small
+Alaska,Delta Junction,958,small
 Illinois,Grafton,674,small
 Indiana,Oldenburg,674,small
 New Mexico,Cloudcroft village,674,small
@@ -12186,7 +12184,7 @@ New York,Port Leyden village,672,small
 North Dakota,Lakota,672,small
 Oklahoma,Binger,672,small
 Tennessee,Palmer,672,small
-Alaska,Savoonga,671,small
+Alaska,Dillingham,2329,small
 Illinois,Alpha village,671,small
 Minnesota,Motley,671,small
 Ohio,Malta village,671,small
@@ -12195,7 +12193,7 @@ Arkansas,Oxford,670,small
 Florida,Sea Ranch Lakes village,670,small
 Georgia,White,670,small
 Wisconsin,Eleva village,670,small
-Alaska,Quinhagak,669,small
+Alaska,Diomede,115,small
 Illinois,Valier village,669,small
 Kansas,Hoyt,669,small
 Missouri,Hawk Point,669,small
@@ -12203,7 +12201,7 @@ Missouri,New Bloomfield,669,small
 Utah,Eureka,669,small
 Wisconsin,Francis Creek village,669,small
 Wisconsin,Sullivan,669,small
-Alaska,Noorvik,668,small
+Alaska,Eagle,86,small
 Georgia,Alapaha,668,small
 Illinois,Golconda,668,small
 Mississippi,Renova,668,small
@@ -12738,7 +12736,7 @@ Wisconsin,Soldiers Grove village,592,small
 Nebraska,Exeter village,591,small
 New York,Odessa village,591,small
 Tennessee,Michie,591,small
-Alaska,Toksook Bay,590,small
+Alaska,Eagle River,28308,middle
 Florida,St. Lucie Village,590,small
 Illinois,Mechanicsburg village,590,small
 Illinois,Thomson village,590,small
@@ -12793,7 +12791,7 @@ Texas,Graford,584,small
 West Virginia,Rowlesburg,584,small
 Wisconsin,Vesper village,584,small
 Alabama,Castleberry,583,small
-Alaska,Fort Yukon,583,small
+Alaska,Eek,296,small
 Arkansas,Highfill,583,small
 Minnesota,Good Thunder,583,small
 New York,Morris village,583,small
@@ -12828,7 +12826,7 @@ Michigan,Sunfield village,578,small
 Tennessee,Elkton,578,small
 Texas,Deport,578,small
 Utah,Oak,578,small
-Alaska,Kotlik,577,small
+Alaska,Egegik,109,small
 Georgia,Carnesville,577,small
 Iowa,Doon,577,small
 Iowa,Shueyville,577,small
@@ -12888,7 +12886,7 @@ North Carolina,Newton Grove,569,small
 Ohio,Meyers Lake village,569,small
 Ohio,Port Washington village,569,small
 Utah,Myton,569,small
-Alaska,Pilot Station,568,small
+Alaska,Ekwok,115,small
 Colorado,Westcliffe,568,small
 Missouri,Higbee,568,small
 Nebraska,Greenwood village,568,small
@@ -12921,7 +12919,7 @@ Oklahoma,Keota,564,small
 Virginia,Boykins,564,small
 Washington,Lind,564,small
 Wisconsin,Lena village,564,small
-Alaska,Shishmaref,563,small
+Alaska,Elim,330,small
 Michigan,Ashley village,563,small
 Michigan,Dansville village,563,small
 Michigan,Fairgrove village,563,small
@@ -12974,7 +12972,7 @@ New York,DeRuyter village,558,small
 New York,Sharon Springs village,558,small
 Ohio,Buchtel village,558,small
 Alabama,Valley Head,558,small
-Alaska,Kake,557,small
+Alaska,Emmonak,762,small
 Arkansas,Holland,557,small
 Arkansas,Humphrey,557,small
 Iowa,Early,557,small
@@ -12983,8 +12981,7 @@ Kansas,Little River,557,small
 Louisiana,Chatham,557,small
 Ohio,Phillipsburg village,557,small
 Tennessee,Big Sandy,557,small
-Alaska,Stebbins,556,small
-Alaska,Wainwright,556,small
+Alaska,Fairbanks,31535,middle
 Idaho,Dover,556,small
 Iowa,Grandview,556,small
 North Carolina,Arapahoe,556,small
@@ -13353,7 +13350,7 @@ Ohio,Amsterdam village,511,small
 Texas,New Berlin,511,small
 Texas,Snook,511,small
 Alabama,Glen Allen,510,small
-Alaska,New Stuyahok,510,small
+Alaska,False Pass,35,small
 Georgia,Helen,510,small
 Iowa,Dow,510,small
 Minnesota,Franklin,510,small
@@ -13388,7 +13385,7 @@ Pennsylvania,Green Lane borough,508,small
 Pennsylvania,Orangeville borough,508,small
 South Carolina,Lane,508,small
 West Virginia,Paw Paw,508,small
-Alaska,St. Mary's,507,small
+Alaska,Fort Yukon,583,small
 Colorado,Mountain View,507,small
 Iowa,Klemme,507,small
 Iowa,Latimer,507,small
@@ -13447,7 +13444,7 @@ South Carolina,Campobello,502,small
 South Dakota,Bowdle,502,small
 Tennessee,Pittman Center,502,small
 Texas,Rose,502,small
-Alaska,Aniak,501,small
+Alaska,Galena,470,small
 Arkansas,Leola,501,small
 Idaho,Craigmont,501,small
 Iowa,Allerton,501,small
@@ -13496,7 +13493,7 @@ South Dakota,Presho,497,small
 Texas,Lefors,497,small
 Texas,San Leanna village,497,small
 Wisconsin,Elmwood Park village,497,small
-Alaska,Nunapitchuk,496,small
+Alaska,Gambell,681,small
 Idaho,New Meadows,496,small
 Illinois,Naplate village,496,small
 Iowa,Oxford Junction,496,small
@@ -13639,7 +13636,7 @@ Mississippi,Jumpertown,480,small
 Pennsylvania,Petersburg borough,480,small
 Pennsylvania,Shippenville borough,480,small
 Virginia,Quantico,480,small
-Alaska,St. Paul,479,small
+Alaska,Girdwood,2065,small
 Arkansas,Crawfordsville,479,small
 Indiana,Roann,479,small
 New York,Panama village,479,small
@@ -13690,7 +13687,7 @@ Pennsylvania,South Heights borough,475,small
 Tennessee,Ducktown,475,small
 Utah,Big Water,475,small
 Alabama,Shorter,474,small
-Alaska,Scammon Bay,474,small
+Alaska,Golovin,156,small
 Georgia,Menlo,474,small
 Illinois,Congerville village,474,small
 Missouri,Camden Point,474,small
@@ -13719,7 +13716,7 @@ Nebraska,Palmer village,472,small
 South Dakota,Montrose,472,small
 Texas,Pattison,472,small
 Wisconsin,Kendall village,472,small
-Alaska,Thorne Bay,471,small
+Alaska,Goodnews Bay,243,small
 Colorado,Grand Lake,471,small
 Georgia,Whigham,471,small
 Illinois,Monroe Center village,471,small
@@ -13731,7 +13728,7 @@ Missouri,Wilbur Park village,471,small
 North Carolina,Macclesfield,471,small
 Ohio,Waite Hill village,471,small
 Oregon,Gates,471,small
-Alaska,Galena,470,small
+Alaska,Grayling,194,small
 Arkansas,Ravenden,470,small
 Illinois,Ipava village,470,small
 Louisiana,Hodge village,470,small
@@ -13823,7 +13820,7 @@ Pennsylvania,Finleyville borough,461,small
 Indiana,St. Joe,460,small
 Iowa,Delhi,460,small
 Pennsylvania,Cooperstown borough,460,small
-Alaska,Angoon,459,small
+Alaska,Gustavus,442,small
 Iowa,Little Rock,459,small
 Kansas,Kismet,459,small
 Mississippi,Weir,459,small
@@ -13986,8 +13983,8 @@ Iowa,Milton,443,small
 Michigan,Fife Lake village,443,small
 South Dakota,Timber Lake,443,small
 Texas,Bedias,443,small
-Alaska,Gustavus,442,small
-Alaska,Manokotak,442,small
+Alaska,Holy Cross,178,small
+Alaska,Homer,5003,middle
 Kansas,Edna,442,small
 Kansas,Rolla,442,small
 Minnesota,Racine,442,small
@@ -14225,7 +14222,6 @@ Nebraska,Clearwater village,419,small
 Oklahoma,Amber,419,small
 Oklahoma,Fanshawe,419,small
 Texas,Gallatin,419,small
-Alaska,Chefornak,418,small
 California,Tehama,418,small
 Michigan,Estral Beach village,418,small
 Mississippi,Ethel,418,small
@@ -14246,7 +14242,7 @@ Ohio,Rocky Ridge village,417,small
 Oklahoma,Delaware,417,small
 Oklahoma,Lamont,417,small
 Wisconsin,Hancock village,417,small
-Alaska,Buckland,416,small
+Alaska,Hoonah,760,small
 Colorado,Nunn,416,small
 Idaho,Fairfield,416,small
 Illinois,Sadorus village,416,small
@@ -14268,7 +14264,7 @@ South Dakota,Hurley,415,small
 Texas,Hebron,415,small
 Utah,Charleston,415,small
 Wisconsin,Readstown village,415,small
-Alaska,Marshall,414,small
+Alaska,Hooper Bay,1093,small
 Arkansas,Mount Pleasant,414,small
 Indiana,Orestes,414,small
 Kansas,Altoona,414,small
@@ -14288,7 +14284,7 @@ Alabama,Highland Lake,412,small
 Mississippi,Glen,412,small
 Pennsylvania,Mill Village borough,412,small
 Pennsylvania,Weissport borough,412,small
-Alaska,Saxman,411,small
+Alaska,Houston,1912,small
 Florida,Caryville,411,small
 Michigan,Onekama village,411,small
 Minnesota,Morton,411,small
@@ -14356,7 +14352,6 @@ Kansas,Axtell,406,small
 Michigan,Perrinton village,406,small
 South Dakota,Hoven,406,small
 West Virginia,Kermit,406,small
-Alaska,Napaskiak,405,small
 Arkansas,Gateway,405,small
 Colorado,Wiley,405,small
 Idaho,Eden,405,small
@@ -14385,7 +14380,7 @@ Nebraska,Beaver Crossing village,403,small
 Oklahoma,Ripley,403,small
 Pennsylvania,Wattsburg borough,403,small
 Texas,Millsap,403,small
-Alaska,Nuiqsut,402,small
+Alaska,Hughes,77,small
 Illinois,McClure village,402,small
 Iowa,Mondamin,402,small
 Michigan,Akron village,402,small
@@ -14395,7 +14390,7 @@ Ohio,Grover Hill village,402,small
 South Carolina,Summit,402,small
 Texas,Howardwick,402,small
 Wisconsin,Lohrville village,402,small
-Alaska,St. Michael,401,small
+Alaska,Huslia,275,small
 Indiana,Amo,401,small
 Iowa,Worthington,401,small
 Kentucky,Fredonia,401,small
@@ -14497,7 +14492,7 @@ Michigan,Otter Lake village,389,small
 Missouri,Westphalia,389,small
 North Carolina,St. Helena village,389,small
 Virginia,Pocahontas,389,small
-Alaska,Brevig Mission,388,small
+Alaska,Hydaburg,376,small
 Kansas,Quenemo,388,small
 Kentucky,McHenry,388,small
 Louisiana,North Hodge village,388,small
@@ -14605,7 +14600,7 @@ Pennsylvania,New Galilee borough,379,small
 Texas,Reklaw,379,small
 West Virginia,Meadow Bridge,379,small
 Wisconsin,Bagley village,379,small
-Alaska,Nenana,378,small
+Alaska,Indian,50,small
 Arkansas,Colt,378,small
 Arkansas,Norman,378,small
 Illinois,Bay View Gardens village,378,small
@@ -14621,7 +14616,6 @@ New York,Delanson village,377,small
 Texas,Retreat,377,small
 Wisconsin,Amherst Junction village,377,small
 Wisconsin,Pound village,377,small
-Alaska,Hydaburg,376,small
 Illinois,Scales Mound village,376,small
 Iowa,Callender,376,small
 Kentucky,Gamaliel,376,small
@@ -14648,7 +14642,7 @@ Oklahoma,Kaw,375,small
 Texas,Edom,375,small
 West Virginia,Farmington,375,small
 Wisconsin,Butternut village,375,small
-Alaska,Kivalina,374,small
+Alaska,Juneau,31275,middle
 Arkansas,Wilton,374,small
 Delaware,Houston,374,small
 Iowa,Holy Cross,374,small
@@ -14788,7 +14782,7 @@ Nebraska,Silver Creek village,362,small
 Pennsylvania,Lewisberry borough,362,small
 Texas,Bellevue,362,small
 Wisconsin,Rock Springs village,362,small
-Alaska,Kiana,361,small
+Alaska,Kake,557,small
 Illinois,Belle Rive village,361,small
 Iowa,Lacona,361,small
 Iowa,Ryan,361,small
@@ -14857,7 +14851,7 @@ Wisconsin,Granton village,355,small
 Wisconsin,Tennyson village,355,small
 Alabama,Hytop,354,small
 Alabama,Napier Field,354,small
-Alaska,Napakiak,354,small
+Alaska,Kaktovik,239,small
 Arkansas,Montrose,354,small
 Minnesota,Garfield,354,small
 Missouri,Bunceton,354,small
@@ -14933,8 +14927,8 @@ Michigan,Gaastra,347,small
 Nebraska,Campbell village,347,small
 Ohio,Conesville village,347,small
 Alabama,Cuba,346,small
-Alaska,Akiak,346,small
-Alaska,McGrath,346,small
+Alaska,Kaltag,190,small
+Alaska,Kasaan,49,small
 Indiana,Burnettsville,346,small
 Iowa,Donahue,346,small
 Louisiana,South Mansfield village,346,small
@@ -15099,7 +15093,7 @@ Oklahoma,Wyandotte,333,small
 South Dakota,Bison,333,small
 Wisconsin,Arpin village,333,small
 Alabama,Gordon,332,small
-Alaska,Koyuk,332,small
+Alaska,Kasilof,549,small
 Georgia,Keysville,332,small
 Idaho,Dietrich,332,small
 Minnesota,Cuyuna,332,small
@@ -15120,7 +15114,7 @@ North Dakota,St. Thomas,331,small
 Oklahoma,Silo,331,small
 South Dakota,Ethan,331,small
 Texas,Alma,331,small
-Alaska,Elim,330,small
+Alaska,Kenai,7100,middle
 Illinois,Fillmore village,330,small
 Iowa,Diagonal,330,small
 Minnesota,Oslo,330,small
@@ -15159,7 +15153,6 @@ Utah,Koosharem,327,small
 Utah,Scipio,327,small
 Wyoming,Meeteetse,327,small
 Alabama,Gordonville,326,small
-Alaska,Adak,326,small
 Illinois,Kenney village,326,small
 Mississippi,Beauregard village,326,small
 Mississippi,Chunky,326,small
@@ -15184,7 +15177,7 @@ Oklahoma,Coyle,325,small
 Tennessee,Grand Junction,325,small
 Texas,Bayside,325,small
 Texas,Palisades village,325,small
-Alaska,Anaktuvuk Pass,324,small
+Alaska,Ketchikan,8050,middle
 Illinois,Middletown village,324,small
 Illinois,Woodland village,324,small
 Indiana,Marshall,324,small
@@ -15334,7 +15327,7 @@ Pennsylvania,Wallaceton borough,313,small
 South Dakota,Langford,313,small
 Washington,LaCrosse,313,small
 Wisconsin,Winter village,313,small
-Alaska,Russian Mission,312,small
+Alaska,Kiana,361,small
 Iowa,Granville,312,small
 Missouri,Amazonia village,312,small
 Montana,Hysham,312,small
@@ -15523,7 +15516,7 @@ Oklahoma,Kinta,297,small
 Texas,Tira,297,small
 Wisconsin,Doylestown village,297,small
 Wisconsin,Oakdale village,297,small
-Alaska,Eek,296,small
+Alaska,King Cove,938,small
 Georgia,Between,296,small
 Iowa,Blakesburg,296,small
 Iowa,Stockport,296,small
@@ -15701,7 +15694,7 @@ Alabama,Waldo,283,small
 Alabama,Anderson,282,small
 Alabama,Pine Ridge,282,small
 Alabama,Repton,282,small
-Alaska,Lower Kalskag,282,small
+Alaska,Kivalina,374,small
 Colorado,Empire,282,small
 Georgia,Siloam,282,small
 Iowa,Holland,282,small
@@ -15722,7 +15715,7 @@ North Carolina,Stonewall,281,small
 North Dakota,Scranton,281,small
 Texas,Cranfills Gap,281,small
 West Virginia,Cairo,281,small
-Alaska,Nightmute,280,small
+Alaska,Klawock,755,small
 Georgia,Climax,280,small
 Missouri,Prairie Home,280,small
 New York,Hammond village,280,small
@@ -15777,7 +15770,7 @@ North Carolina,Severn,276,small
 Ohio,Clay Center village,276,small
 Pennsylvania,New Ringgold borough,276,small
 Wisconsin,Milladore village,276,small
-Alaska,Huslia,275,small
+Alaska,Kobuk,151,small
 Arkansas,Buckner,275,small
 Illinois,Bush village,275,small
 Iowa,Maurice,275,small
@@ -15916,7 +15909,7 @@ Ohio,Malinta village,265,small
 Oklahoma,Big Cabin,265,small
 Tennessee,Milledgeville,265,small
 Wisconsin,Downing village,265,small
-Alaska,Nulato,264,small
+Alaska,Kodiak,6130,middle
 Colorado,Hillrose,264,small
 Delaware,Ardentown village,264,small
 Georgia,Gumbranch,264,small
@@ -15942,7 +15935,6 @@ South Dakota,Willow Lake,263,small
 Tennessee,Parrottsville,263,small
 Texas,Marquez,263,small
 Wyoming,Kaycee,263,small
-Alaska,Shungnak,262,small
 Arkansas,Black Oak,262,small
 Iowa,Cumberland,262,small
 Iowa,Wadena,262,small
@@ -15986,7 +15978,7 @@ Missouri,Winston village,259,small
 Oklahoma,Braggs,259,small
 Alabama,County Line,258,small
 Alabama,Sweet Water,258,small
-Alaska,Ambler,258,small
+Alaska,Kotlik,577,small
 Colorado,Sugar,258,small
 Louisiana,Castor village,258,small
 Michigan,Daggett village,258,small
@@ -16017,7 +16009,7 @@ Nebraska,Panama village,256,small
 Oklahoma,Carter,256,small
 Oklahoma,Garvin,256,small
 South Dakota,New Effington,256,small
-Alaska,Seldovia,255,small
+Alaska,Kotzebue,3201,middle
 Arkansas,Campbell Station,255,small
 Arkansas,Letona,255,small
 Arkansas,Wabbaseka,255,small
@@ -16084,7 +16076,7 @@ Kentucky,Dover,252,small
 Louisiana,Noble village,252,small
 Minnesota,Milroy,252,small
 North Dakota,Davenport,252,small
-Alaska,Shaktoolik,251,small
+Alaska,Koyuk,332,small
 Illinois,Bardolph village,251,small
 Illinois,Henning village,251,small
 Illinois,Kangley village,251,small
@@ -16142,8 +16134,8 @@ Oklahoma,Arcadia,247,small
 Oklahoma,Johnson,247,small
 Texas,North Cleveland,247,small
 Texas,Streetman,247,small
-Alaska,Anderson,246,small
-Alaska,Tanana,246,small
+Alaska,Koyukuk,96,small
+Alaska,Kupreanof,27,small
 Georgia,Avera,246,small
 Illinois,Bone Gap village,246,small
 Illinois,Forest village,246,small
@@ -16177,7 +16169,7 @@ New York,Ellisburg village,244,small
 North Dakota,Grenora,244,small
 Ohio,Burkettsville village,244,small
 Virginia,Surry,244,small
-Alaska,Goodnews Bay,243,small
+Alaska,Kwethluk,721,small
 Minnesota,Eitzen,243,small
 Missouri,Grandin,243,small
 Missouri,Oak Ridge,243,small
@@ -16229,7 +16221,7 @@ North Carolina,Roxobel,240,small
 South Dakota,Kennebec,240,small
 Texas,Millican,240,small
 Texas,Progreso Lakes,240,small
-Alaska,Kaktovik,239,small
+Alaska,Larsen Bay,87,small
 Georgia,Norwood,239,small
 Georgia,Oliver,239,small
 Illinois,Fieldon village,239,small
@@ -16321,7 +16313,7 @@ North Carolina,Halifax,234,small
 Pennsylvania,Burnside borough,234,small
 South Dakota,Delmont,234,small
 Texas,Roaring Springs,234,small
-Alaska,Atqasuk,233,small
+Alaska,Lower Kalskag,282,small
 Colorado,Brookside,233,small
 Colorado,Kit Carson,233,small
 Indiana,Clifford,233,small
@@ -16381,7 +16373,7 @@ Pennsylvania,Clarksville borough,230,small
 Pennsylvania,Hopewell borough,230,small
 Utah,Henrieville,230,small
 Wyoming,Fort Laramie,230,small
-Alaska,Teller,229,small
+Alaska,Manokotak,442,small
 Illinois,Clear Lake village,229,small
 Illinois,Palmer village,229,small
 Iowa,Olds,229,small
@@ -16534,7 +16526,7 @@ Ohio,Hanging Rock village,221,small
 Ohio,Hills and Dales village,221,small
 Ohio,Jenera village,221,small
 West Virginia,Huttonsville,221,small
-Alaska,Whittier,220,small
+Alaska,Marshall,414,small
 Illinois,Bryant village,220,small
 Illinois,Radom village,220,small
 Illinois,Rio village,220,small
@@ -16552,7 +16544,7 @@ North Carolina,Mesic,220,small
 Oklahoma,Canadian,220,small
 Oklahoma,Liberty,220,small
 Texas,Ackerly,220,small
-Alaska,Aleknagik,219,small
+Alaska,McGrath,346,small
 California,Industry,219,small
 Florida,Glen Ridge,219,small
 Idaho,Irwin,219,small
@@ -16568,7 +16560,7 @@ Pennsylvania,Sylvania borough,219,small
 South Carolina,Sellers,219,small
 Utah,Hanksville,219,small
 Virginia,Pamplin,219,small
-Alaska,Old Harbor,218,small
+Alaska,Mekoryuk,191,small
 Georgia,Roopville,218,small
 Indiana,Monterey,218,small
 Indiana,Spring Lake,218,small
@@ -16670,7 +16662,7 @@ New York,Burke village,211,small
 West Virginia,Falling Spring,211,small
 Wisconsin,Mount Sterling village,211,small
 Alabama,Paint Rock,210,small
-Alaska,Upper Kalskag,210,small
+Alaska,Mountain Village,813,small
 Georgia,Taylorsville,210,small
 Idaho,East Hope,210,small
 Illinois,Donnellson village,210,small
@@ -16905,8 +16897,8 @@ Missouri,Sheridan,195,small
 Oregon,Elkton,195,small
 South Carolina,Mount Croghan,195,small
 Wyoming,Edgerton,195,small
-Alaska,Grayling,194,small
-Alaska,Port Lions,194,small
+Alaska,Napakiak,354,small
+Alaska,Napaskiak,405,small
 Arkansas,O'Kean,194,small
 Illinois,Broughton village,194,small
 Kansas,Luray,194,small
@@ -16952,7 +16944,7 @@ North Carolina,Seven Devils,192,small
 North Dakota,Petersburg,192,small
 North Dakota,Sanborn,192,small
 Pennsylvania,West Sunbury borough,192,small
-Alaska,Mekoryuk,191,small
+Alaska,Nenana,378,small
 Arkansas,Burdette,191,small
 Iowa,Barnum,191,small
 Iowa,Beaman,191,small
@@ -16973,9 +16965,9 @@ Pennsylvania,Benson borough,191,small
 South Dakota,Reliance,191,small
 Utah,Junction,191,small
 Wyoming,Elk Mountain,191,small
-Alaska,Kaltag,190,small
+Alaska,New Stuyahok,510,small
 Alaska,Newhalen,190,small
-Alaska,White Mountain,190,small
+Alaska,Nightmute,280,small
 Kansas,Garfield,190,small
 Kansas,McCracken,190,small
 Michigan,Copper village,190,small
@@ -17017,7 +17009,7 @@ Pennsylvania,New Lebanon borough,188,small
 Texas,Mobile,188,small
 Alabama,Yellow Bluff,188,small
 Alabama,Glenwood,187,small
-Alaska,Nunam Iqua,187,small
+Alaska,Nikiski/North Kenai,4493,middle
 Georgia,Rebecca,187,small
 Idaho,Onaway,187,small
 Illinois,North Henderson village,187,small
@@ -17159,7 +17151,7 @@ Ohio,Linndale village,179,small
 South Carolina,Pomaria,179,small
 Texas,Mullin,179,small
 Wisconsin,Elderon village,179,small
-Alaska,Holy Cross,178,small
+Alaska,Nikolaevsk,318,small
 Illinois,Old Mill Creek village,178,small
 Illinois,West Point village,178,small
 Iowa,Prairieburg,178,small
@@ -17192,7 +17184,7 @@ Ohio,Sugar Bush Knolls village,177,small
 Oregon,Adrian,177,small
 South Dakota,Mission Hill,177,small
 Alabama,Gu-Win,176,small
-Alaska,Coffman Cove,176,small
+Alaska,Nikolai,94,small
 Arkansas,Friendship,176,small
 Colorado,Crowley,176,small
 Illinois,Claremont village,176,small
@@ -17347,7 +17339,7 @@ Utah,Cannonville,167,small
 Utah,Snowville,167,small
 West Virginia,Pax,167,small
 Alabama,Talladega Springs,166,small
-Alaska,Ruby,166,small
+Alaska,Ninilchik,883,small
 Georgia,Haralson,166,small
 Illinois,Campus village,166,small
 Indiana,Poneto,166,small
@@ -17378,7 +17370,7 @@ Oklahoma,Bromide,165,small
 Oklahoma,Hunter,165,small
 Oklahoma,Wainwright,165,small
 Pennsylvania,Lenhartsville borough,165,small
-Alaska,Nondalton,164,small
+Alaska,Nome,3598,middle
 Arkansas,Louann,164,small
 Illinois,Coleta village,164,small
 Illinois,Ridott village,164,small
@@ -17427,7 +17419,6 @@ Oklahoma,Martha,162,small
 Oklahoma,Rocky,162,small
 South Carolina,Silverstreet,162,small
 Wisconsin,Lime Ridge village,162,small
-Alaska,Ouzinkie,161,small
 Arkansas,Anthonyville,161,small
 Kentucky,Prestonville,161,small
 Maryland,Hillsboro,161,small
@@ -17511,7 +17502,7 @@ Pennsylvania,Timblin borough,157,small
 Pennsylvania,Woodcock borough,157,small
 Texas,Cool,157,small
 Wyoming,Frannie,157,small
-Alaska,Golovin,156,small
+Alaska,Nondalton,164,small
 Georgia,Girard,156,small
 Illinois,Ferris village,156,small
 Indiana,Cedar Grove,156,small
@@ -17579,7 +17570,7 @@ North Dakota,Wing,152,small
 Ohio,Clifton village,152,small
 Oklahoma,Burlington,152,small
 Wisconsin,Fenwood village,152,small
-Alaska,Kobuk,151,small
+Alaska,Noorvik,668,small
 Illinois,Dorchester village,151,small
 Iowa,Brunsville,151,small
 Iowa,McClelland,151,small
@@ -17672,7 +17663,7 @@ North Dakota,Dunn Center,146,small
 South Dakota,Goodwin,146,small
 Washington,Farmington,146,small
 Alabama,North Johns,145,small
-Alaska,Wales,145,small
+Alaska,North Pole,2117,small
 Arkansas,Ben Lomond,145,small
 Arkansas,Mount Vernon,145,small
 Illinois,Broadwell village,145,small
@@ -17910,7 +17901,6 @@ Oklahoma,Peoria,132,small
 West Virginia,Friendly,132,small
 Wisconsin,Lynxville village,132,small
 Wisconsin,Woodman village,132,small
-Alaska,Tenakee Springs,131,small
 Colorado,Marble,131,small
 Georgia,Deepstep,131,small
 Georgia,Ranger,131,small
@@ -18062,7 +18052,7 @@ Minnesota,Quamba,123,small
 Nebraska,Ruskin village,123,small
 North Dakota,Pick,123,small
 Ohio,Harbor View village,123,small
-Alaska,Deering,122,small
+Alaska,Nuiqsut,402,small
 Delaware,Henlopen Acres,122,small
 Georgia,Vernonburg,122,small
 Illinois,Mound Station village,122,small
@@ -18120,7 +18110,7 @@ Utah,Alton,119,small
 Utah,Fairfield,119,small
 Virginia,Scottsburg,119,small
 Wisconsin,Maiden Rock village,119,small
-Alaska,Chuathbaluk,118,small
+Alaska,Nulato,264,small
 Arkansas,Ravenden Springs,118,small
 Colorado,Black Hawk,118,small
 Louisiana,Lillie village,118,small
@@ -18169,8 +18159,8 @@ Nebraska,Barneston village,116,small
 North Dakota,Sheldon,116,small
 Oklahoma,Bridgeport,116,small
 Alabama,Lowndesboro,115,small
-Alaska,Diomede,115,small
-Alaska,Ekwok,115,small
+Alaska,Nunam Iqua,187,small
+Alaska,Nunapitchuk,496,small
 Arkansas,Allport,115,small
 Arkansas,Daisy,115,small
 Arkansas,Jennette,115,small
@@ -18267,7 +18257,7 @@ North Carolina,Seven Springs,110,small
 North Dakota,Newburg,110,small
 North Dakota,Wildrose,110,small
 Wisconsin,Catawba village,110,small
-Alaska,Egegik,109,small
+Alaska,Old Harbor,218,small
 Arkansas,Minturn,109,small
 Colorado,Campo,109,small
 Florida,Belleair Shore,109,small
@@ -18281,7 +18271,6 @@ Pennsylvania,Homewood borough,109,small
 South Dakota,Corona,109,small
 Texas,Aquilla,109,small
 Texas,Dodson,109,small
-Alaska,Cold Bay,108,small
 Illinois,Old Ripley village,108,small
 Illinois,Walnut Hill village,108,small
 Iowa,Arion,108,small
@@ -18339,7 +18328,7 @@ Texas,O'Brien,106,small
 Utah,Lynndyl,106,small
 Washington,Waverly,106,small
 Wyoming,Bairoil,106,small
-Alaska,Allakaket,105,small
+Alaska,Ouzinkie,161,small
 Arkansas,Big Flat,105,small
 Arkansas,Hunter,105,small
 Georgia,Geneva,105,small
@@ -18391,8 +18380,7 @@ Ohio,Centerville village,103,small
 Oklahoma,Fair Oaks,103,small
 Oklahoma,Manchester,103,small
 South Carolina,Pawleys Island,103,small
-Alaska,Port Heiden,102,small
-Alaska,St. George,102,small
+Alaska,Palmer,5937,middle
 Arkansas,South Lead Hill,102,small
 Iowa,Fraser,102,small
 Iowa,St. Anthony,102,small
@@ -18471,7 +18459,7 @@ Texas,Neylandville,97,small
 West Virginia,Auburn,97,small
 Wyoming,Dixon,97,small
 Alabama,Blue Springs,96,small
-Alaska,Koyukuk,96,small
+Alaska,Pelican,88,small
 Arkansas,Coy,96,small
 Arkansas,McCaskill,96,small
 Colorado,Raymer,96,small
@@ -18506,7 +18494,7 @@ Texas,Spofford,95,small
 Wisconsin,Conrath village,95,small
 Wyoming,Manville,95,small
 Alabama,Needham,94,small
-Alaska,Nikolai,94,small
+Alaska,Pilot Point,68,small
 Arkansas,Lonsdale,94,small
 Georgia,Manassas,94,small
 Illinois,Russellville village,94,small
@@ -18564,7 +18552,7 @@ Oklahoma,Etowah,92,small
 Pennsylvania,Newburg borough,92,small
 Wisconsin,Glen Flora village,92,small
 Wyoming,Kirby,92,small
-Alaska,Chignik,91,small
+Alaska,Pilot Station,568,small
 Idaho,White Bird,91,small
 Iowa,Zwingle,91,small
 Missouri,Brumley,91,small
@@ -18613,7 +18601,7 @@ Nebraska,Riverton village,89,small
 Oklahoma,Strang,89,small
 South Carolina,Pelzer,89,small
 South Dakota,Eden,89,small
-Alaska,Pelican,88,small
+Alaska,Platinum,61,small
 Colorado,Sheridan Lake,88,small
 Illinois,Mount Erie village,88,small
 Iowa,Cylinder,88,small
@@ -18629,7 +18617,7 @@ Oklahoma,Lake Aluma,88,small
 South Carolina,Ulmer,88,small
 Tennessee,Cottage Grove,88,small
 Wisconsin,Couderay village,88,small
-Alaska,Larsen Bay,87,small
+Alaska,Point Hope,674,small
 Arkansas,Springtown,87,small
 Arkansas,Vandervoort,87,small
 Georgia,Tarrytown,87,small
@@ -18646,7 +18634,7 @@ North Dakota,Dodge,87,small
 North Dakota,Montpelier,87,small
 Ohio,Otway village,87,small
 Oklahoma,Sweetwater,87,small
-Alaska,Eagle,86,small
+Alaska,Port Alexander,52,small
 Arkansas,Guion,86,small
 Florida,Indian Creek village,86,small
 Idaho,Hope,86,small
@@ -18667,7 +18655,7 @@ Missouri,Arrow Point village,86,small
 North Dakota,Zeeland,86,small
 Ohio,Antioch village,86,small
 Ohio,Lower Salem village,86,small
-Alaska,Anvik,85,small
+Alaska,Port Graham,177,small
 Arkansas,Ozan,85,small
 Illinois,Adeline village,85,small
 Iowa,Nemaha,85,small
@@ -18699,7 +18687,7 @@ North Carolina,Hassell,84,small
 North Dakota,Hurdsfield,84,small
 North Dakota,Maxbass,84,small
 South Dakota,Dante,84,small
-Alaska,Shageluk,83,small
+Alaska,Port Heiden,102,small
 Illinois,Bingham village,83,small
 Illinois,Detroit village,83,small
 Illinois,Keenes village,83,small
@@ -18787,7 +18775,7 @@ North Dakota,Martin,78,small
 Pennsylvania,St. Clairsville borough,78,small
 South Dakota,Sherman,78,small
 Wisconsin,Ingram village,78,small
-Alaska,Hughes,77,small
+Alaska,Port Lions,194,small
 Illinois,Johnsonville village,77,small
 Iowa,Plover,77,small
 Kansas,Elsmore,77,small
@@ -18866,7 +18854,6 @@ South Carolina,Jamestown,72,small
 South Dakota,Bradley,72,small
 South Dakota,Strandburg,72,small
 South Dakota,Stratford,72,small
-Alaska,Akhiok,71,small
 Idaho,Reubens,71,small
 Iowa,Dana,71,small
 Iowa,Orchard,71,small
@@ -18909,7 +18896,7 @@ Nebraska,Reynolds village,69,small
 New Mexico,Taos Ski Valley village,69,small
 South Dakota,Twin Brooks,69,small
 Texas,Sun Valley,69,small
-Alaska,Pilot Point,68,small
+Alaska,Quinhagak,669,small
 Arkansas,McNab,68,small
 Colorado,Haswell,68,small
 Illinois,Golden Gate village,68,small
@@ -19012,7 +18999,6 @@ Ohio,Jacksonburg village,63,small
 Oklahoma,Brooksville,63,small
 South Dakota,Camp Crook,63,small
 South Dakota,Orient,63,small
-Alaska,Clark's Point,62,small
 Arkansas,Fourche,62,small
 Georgia,Rest Haven,62,small
 Missouri,Ethel,62,small
@@ -19022,8 +19008,8 @@ Oklahoma,Webb,62,small
 South Dakota,Ree Heights,62,small
 South Dakota,Wood,62,small
 Wyoming,Hartville,62,small
-Alaska,Atka,61,small
-Alaska,Platinum,61,small
+Alaska,Ruby,166,small
+Alaska,Russian Mission,312,small
 Arkansas,Hindsville,61,small
 Arkansas,Rudy,61,small
 Arkansas,Waldenburg,61,small
@@ -19140,7 +19126,7 @@ North Dakota,Niagara,53,small
 Oklahoma,Lima,53,small
 South Dakota,Garden,53,small
 Alabama,Dayton,52,small
-Alaska,Port Alexander,52,small
+Alaska,Salcha,1095,small
 Illinois,Burnt Prairie village,52,small
 Iowa,Rinard,52,small
 Minnesota,Leonidas,52,small
@@ -19170,7 +19156,7 @@ North Dakota,Woodworth,50,small
 Oklahoma,Hollister,50,small
 South Dakota,Raymond,50,small
 Alabama,Benton,49,small
-Alaska,Kasaan,49,small
+Alaska,Sand Point,976,small
 Iowa,Gillett Grove,49,small
 Iowa,Pleasanton,49,small
 Kansas,Edmond,49,small
@@ -19325,7 +19311,7 @@ Ohio,Rendville village,36,small
 Oklahoma,Texola,36,small
 Oregon,Shaniko,36,small
 South Dakota,Tolstoy,36,small
-Alaska,False Pass,35,small
+Alaska,Savoonga,671,small
 Illinois,Bentley,35,small
 Kansas,Byers,35,small
 Kentucky,Concord,35,small
@@ -19391,7 +19377,7 @@ Missouri,South Lineville,28,small
 Nebraska,Preston village,28,small
 North Dakota,Egeland,28,small
 North Dakota,Sarles,28,small
-Alaska,Kupreanof,27,small
+Alaska,Saxman,411,small
 Indiana,New Amsterdam,27,small
 Missouri,Bigelow village,27,small
 North Dakota,Antler,27,small
@@ -19497,7 +19483,7 @@ Maryland,Port Tobacco Village,13,small
 Missouri,Champ village,13,small
 North Dakota,Kief,13,small
 Oklahoma,Loveland,13,small
-Alaska,Bettles,12,small
+Alaska,Scammon Bay,474,small
 Florida,Weeki Wachee,12,small
 Minnesota,Kinbrae,12,small
 New Jersey,Pine Valley borough,12,small
@@ -19548,3 +19534,38 @@ South Dakota,White Rock,3,small
 Nebraska,Gross village,2,small
 Oklahoma,Lotsee,2,small
 Nebraska,Monowi village,1,small
+Alaska,Selawik,829,small
+Alaska,Seldovia,255,small
+Alaska,Seward,2693,middle
+Alaska,Shageluk,83,small
+Alaska,Shaktoolik,251,small
+Alaska,Shishmaref,563,small
+Alaska,Shungnak,262,small
+Alaska,Sitka and borough,8881,middle
+Alaska,Soldotna,4163,middle
+Alaska,St. George,102,small
+Alaska,St. Mary's,507,small
+Alaska,St. Michael,401,small
+Alaska,St. Paul,479,small
+Alaska,Stebbins,556,small
+Alaska,Sterling,5617,middle
+Alaska,Sutton,1447,small
+Alaska,Talkeetna,876,small
+Alaska,Tanana,246,small
+Alaska,Teller,229,small
+Alaska,Tenakee Springs,131,small
+Alaska,Thorne Bay,471,small
+Alaska,Togiak,817,small
+Alaska,Toksook Bay,590,small
+Alaska,Trapper Creek,481,small
+Alaska,Unalakleet,688,small
+Alaska,Unalaska,4376,middle
+Alaska,Upper Kalskag,210,small
+Alaska,Valdez,3976,middle
+Alaska,Wainwright,556,small
+Alaska,Wales,145,small
+Alaska,Wasilla,7831,middle
+Alaska,White Mountain,190,small
+Alaska,Whittier,220,small
+Alaska,Willow,2102,small
+Alaska,Wrangell and borough,2369,small
