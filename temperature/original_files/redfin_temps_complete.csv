@@ -56,10 +56,10 @@ Anchorage,Alaska,AK,62.7,20.4
 Badger,Alaska,AK,55.6,-6.7
 Barrow,Alaska,AK,42.7,-8.6
 Bethel,Alaska,AK,56.5,14
-Flagstaff,Arizona,AZ,67.3,30.8
-Phoenix,Arizona,AZ,96.8,56
-Tucson,Arizona,AZ,89.3,52.7
-Yuma,Arizona,AZ,95.9,55.6
+Anthem,Arizona,AZ,101,43
+Apache Junction,Arizona,AZ,103,42
+Avondale,Arizona,AZ,100,39
+Buckeye,Arizona,AZ,106,37
 Alexander,Arkansas,AR,81.9,41.8
 Benton,Arkansas,AR,92,27
 Bryant,Arkansas,AR,92,27
@@ -161,132 +161,130 @@ Homestead,Florida,FL,90,56
 Jacksonville,Florida,FL,83.1,54.9
 Key West,Florida,FL,85.2,69.6
 Miami,Florida,FL,84.1,68.6
-Miami,Florida,FL,91,60
-Orlando,Florida,FL,83.6,60.6
-Tallahassee,Florida,FL,83.6,52.4
-Tampa,Florida,FL,84.6,61.6
-West Palm Beach,Florida,FL,83.8,65.3
-Atlanta,Georgia,GA,82.5,45.9
-Augusta,Georgia,GA,82.6,49.1
-Columbus,Georgia,GA,83.7,49.7
-Macon,Georgia,GA,82.8,48.8
-Savannah,Georgia,GA,83.5,52.4
-Captain Cook,Hawaii,HI,79,55
-Hilo,Hawaii,HI,78.4,71.8
-Honolulu Intl. Airport,Hawaii,HI,85.6,75.2
-Honolulu Zoo,Hawaii,HI,83.4,-99
-Kahului,Hawaii,HI,82.3,71.6
-Kapalua,Hawaii,HI,81,72.5
-Kula,Hawaii,HI,68.5,60.1
-Lihue,Hawaii,HI,81.8,72.3
-Boise,Idaho,ID,76.9,35.4
-Boise,Idaho,ID,90,25
-Eagle,Idaho,ID,90,25
+Orlando,Florida,FL,91,60
+Tallahassee,Florida,FL,83.6,60.6
+Tampa,Florida,FL,83.6,52.4
+West Palm Beach,Florida,FL,84.6,61.6
+Atlanta,Georgia,GA,83.8,65.3
+Augusta,Georgia,GA,82.5,45.9
+Columbus,Georgia,GA,82.6,49.1
+Macon,Georgia,GA,83.7,49.7
+Savannah,Georgia,GA,82.8,48.8
+Captain Cook,Hawaii,HI,83.5,52.4
+Hilo,Hawaii,HI,79,55
+Honolulu Intl. Airport,Hawaii,HI,78.4,71.8
+Honolulu Zoo,Hawaii,HI,85.6,75.2
+Kahului,Hawaii,HI,83.4,-99
+Kapalua,Hawaii,HI,82.3,71.6
+Kula,Hawaii,HI,81,72.5
+Lihue,Hawaii,HI,68.5,60.1
+Boise,Idaho,ID,81.8,72.3
+Eagle,Idaho,ID,76.9,35.4
 Garden City,Idaho,ID,90,25
-Lewiston,Idaho,ID,76.9,36.9
-Meridian,Idaho,ID,89,21
-Pocatello,Idaho,ID,69.3,25.2
-Chicago,Illinois,IL,72.9,21.1
-Moline,Illinois,IL,73,19.8
-Peoria,Illinois,IL,73.5,22.6
-Rockford,Illinois,IL,71.5,18.2
-Springfield,Illinois,IL,74.2,26.9
-Evansville,Indiana,IN,76.6,33
-Fort Wayne,Indiana,IN,71.1,25.5
-Indianapolis,Indiana,IN,74.7,27.5
-South Bend,Indiana,IN,70,21.1
-Des Moines,Iowa,IA,73.2,21
-Dubuque,Iowa,IA,68.3,15.6
-Sioux City,Iowa,IA,71.2,21.8
-Waterloo,Iowa,IA,69.2,16.7
-Dodge City,Kansas,KS,80.3,33.6
-Goodland,Kansas,KS,73.9,32.2
-Topeka,Kansas,KS,76.6,29.7
-Wichita,Kansas,KS,79.8,33.5
-Lexington,Kentucky,KY,76.3,33.9
-Louisville,Kentucky,KY,79.8,35.3
-Paducah,Kentucky,KY,78.5,36.7
-Baton Rouge,Louisiana,LA,84.3,51.3
-Monroe,Louisiana,LA,84.4,47.6
-New Orleans,Louisiana,LA,84.5,54.4
-Shreveport,Louisiana,LA,86.1,47.9
-Bangor,Maine,ME,67.3,18.7
-Caribou,Maine,ME,65.1,10.7
-Portland,Maine,ME,68.6,23.1
-Baltimore,Maryland,MD,77.9,33.5
-Oxon Hill,Maryland,MD,87,29
-Salisbury,Maryland,MD,77.5,36
-Silver Spring,Maryland,MD,83,24
-Takoma Park,Maryland,MD,83,24
-Blue Hill,Massachusetts,MA,71.4,27.4
-Boston,Massachusetts,MA,73.7,30.8
-Brookline,Massachusetts,MA,73.7,30.8
+Lewiston,Idaho,ID,90,25
+Meridian,Idaho,ID,90,25
+Pocatello,Idaho,ID,76.9,36.9
+Chicago,Illinois,IL,89,21
+Moline,Illinois,IL,69.3,25.2
+Peoria,Illinois,IL,72.9,21.1
+Rockford,Illinois,IL,73,19.8
+Springfield,Illinois,IL,73.5,22.6
+Evansville,Indiana,IN,71.5,18.2
+Fort Wayne,Indiana,IN,74.2,26.9
+Indianapolis,Indiana,IN,76.6,33
+South Bend,Indiana,IN,71.1,25.5
+Des Moines,Iowa,IA,74.7,27.5
+Dubuque,Iowa,IA,70,21.1
+Sioux City,Iowa,IA,73.2,21
+Waterloo,Iowa,IA,68.3,15.6
+Dodge City,Kansas,KS,71.2,21.8
+Goodland,Kansas,KS,69.2,16.7
+Topeka,Kansas,KS,80.3,33.6
+Wichita,Kansas,KS,73.9,32.2
+Lexington,Kentucky,KY,76.6,29.7
+Louisville,Kentucky,KY,79.8,33.5
+Paducah,Kentucky,KY,76.3,33.9
+Baton Rouge,Louisiana,LA,79.8,35.3
+Monroe,Louisiana,LA,78.5,36.7
+New Orleans,Louisiana,LA,84.3,51.3
+Shreveport,Louisiana,LA,84.4,47.6
+Bangor,Maine,ME,84.5,54.4
+Caribou,Maine,ME,86.1,47.9
+Portland,Maine,ME,67.3,18.7
+Baltimore,Maryland,MD,65.1,10.7
+Oxon Hill,Maryland,MD,68.6,23.1
+Salisbury,Maryland,MD,77.9,33.5
+Silver Spring,Maryland,MD,87,29
+Takoma Park,Maryland,MD,77.5,36
+Blue Hill,Massachusetts,MA,83,24
+Boston,Massachusetts,MA,83,24
+Brookline,Massachusetts,MA,71.4,27.4
 Cambridge,Massachusetts,MA,73.7,30.8
-Newton,Massachusetts,MA,82,16
+Newton,Massachusetts,MA,73.7,30.8
 Somerville,Massachusetts,MA,73.7,30.8
-Worcester,Massachusetts,MA,69.3,23.3
-Detroit,Michigan,MI,73.1,24
-Flint,Michigan,MI,70.3,20.8
-Grand Rapids,Michigan,MI,70.8,21.9
-Muskegon,Michigan,MI,70.3,22.8
-Sault Ste. Marie,Michigan,MI,65.9,11.4
-Duluth,Minnesota,MN,66.1,7.8
-International Falls,Minnesota,MN,62.4,0.3
-Minneapolis,Minnesota,MN,71,14.4
-Rochester,Minnesota,MN,66.7,12.3
+Worcester,Massachusetts,MA,82,16
+Detroit,Michigan,MI,73.7,30.8
+Flint,Michigan,MI,69.3,23.3
+Grand Rapids,Michigan,MI,73.1,24
+Muskegon,Michigan,MI,70.3,20.8
+Sault Ste. Marie,Michigan,MI,70.8,21.9
+Duluth,Minnesota,MN,70.3,22.8
+International Falls,Minnesota,MN,65.9,11.4
+Minneapolis,Minnesota,MN,66.1,7.8
+Rochester,Minnesota,MN,62.4,0.3
 St. Paul,Minnesota,MN,71,14.4
-Jackson,Mississippi,MS,82.5,47.2
-Tupelo,Mississippi,MS,81.9,43.5
-Columbia,Missouri,MO,76.5,30.4
-Deerfield,Missouri,MO,90,22
-Kansas City,Missouri,MO,76,28.2
+Jackson,Mississippi,MS,66.7,12.3
+Tupelo,Mississippi,MS,71,14.4
+Columbia,Missouri,MO,82.5,47.2
+Deerfield,Missouri,MO,81.9,43.5
+Kansas City,Missouri,MO,76.5,30.4
 Nevada,Missouri,MO,90,22
-Springfield,Missouri,MO,77.6,34.4
-St. Louis,Missouri,MO,78.3,30.8
-Billings,Montana,MT,72.7,29
-Glasgow,Montana,MT,70.2,22.3
-Great Falls,Montana,MT,66.8,29.8
-Helena,Montana,MT,69.1,25.1
-Missoula,Montana,MT,68.4,25.1
-Grand Island,Nebraska,NE,72.6,27.1
-Norfolk,Nebraska,NE,71.8,23.3
-North Platte,Nebraska,NE,72.6,29
-Omaha,Nebraska,NE,75.4,24.7
-Scottsbluff,Nebraska,NE,73.1,30.5
-Blue Diamond,Nevada,NV,94.3,50.3
-Carson City,Nevada,NV,77.7,39.3
-Elko,Nevada,NV,71,29
-Ely,Nevada,NV,68,28.5
-Henderson,Nevada,NV,100,31
-Las Vegas,Nevada,NV,94.3,50.3
-Reno,Nevada,NV,77.7,39.3
-Concord,New Hampshire,NH,68.4,21.8
-Atlantic City,New Jersey,NJ,76.2,33
-Albuquerque,New Mexico,NM,79.6,36
-Roswell,New Mexico,NM,85,41.8
-Albany,New York,NY,71.7,23.4
-Bayside,New York,NY,75.5,32.6
-Bellerose,New York,NY,83,26
+Springfield,Missouri,MO,76,28.2
+St. Louis,Missouri,MO,90,22
+Billings,Montana,MT,77.6,34.4
+Glasgow,Montana,MT,78.3,30.8
+Great Falls,Montana,MT,72.7,29
+Helena,Montana,MT,70.2,22.3
+Missoula,Montana,MT,66.8,29.8
+Grand Island,Nebraska,NE,69.1,25.1
+Norfolk,Nebraska,NE,68.4,25.1
+North Platte,Nebraska,NE,72.6,27.1
+Omaha,Nebraska,NE,71.8,23.3
+Scottsbluff,Nebraska,NE,72.6,29
+Blue Diamond,Nevada,NV,75.4,24.7
+Carson City,Nevada,NV,73.1,30.5
+Elko,Nevada,NV,94.3,50.3
+Ely,Nevada,NV,77.7,39.3
+Henderson,Nevada,NV,71,29
+Las Vegas,Nevada,NV,68,28.5
+Reno,Nevada,NV,100,31
+Concord,New Hampshire,NH,94.3,50.3
+Atlantic City,New Jersey,NJ,77.7,39.3
+Albuquerque,New Mexico,NM,68.4,21.8
+Roswell,New Mexico,NM,76.2,33
+Albany,New York,NY,79.6,36
+Bayside,New York,NY,85,41.8
+Bellerose,New York,NY,71.7,23.4
 Bensonhurst,New York,NY,75.5,32.6
-Binghamton,New York,NY,66.8,20.5
+Binghamton,New York,NY,83,26
 Briarwood,New York,NY,75.5,32.6
-Bronx,New York,NY,75.5,32.6
+Bronx,New York,NY,66.8,20.5
 Brooklyn,New York,NY,75.5,32.6
-Buffalo,New York,NY,70.3,23.1
+Buffalo,New York,NY,75.5,32.6
 Bushwick,New York,NY,75.5,32.6
-Canarsie,New York,NY,75.5,32.6
+Canarsie,New York,NY,70.3,23.1
 College Point,New York,NY,75.5,32.6
-Cornwall,New York,NY,83,20
+Cornwall,New York,NY,75.5,32.6
 Corona,New York,NY,75.5,32.6
-Douglaston,New York,NY,75.5,32.6
+Douglaston,New York,NY,83,20
 E. Elmhurst,New York,NY,75.5,32.6
 Elmhurst,New York,NY,75.5,32.6
 Elmont,New York,NY,75.5,32.6
 Far Rockaway,New York,NY,75.5,32.6
 Flatlands,New York,NY,75.5,32.6
-Floral Park,New York,NY,83,26
+Floral Park,New York,NY,75.5,32.6
 Flushing,New York,NY,75.5,32.6
-Forest Hills,New York,NY,75.5,32.6
+Forest Hills,New York,NY,83,26
 Fresh Meadows,New York,NY,75.5,32.6
 Glen Oaks,New York,NY,75.5,32.6
 Glendale,New York,NY,75.5,32.6
@@ -312,250 +310,291 @@ S. Ozone Park,New York,NY,75.5,32.6
 St. Albans,New York,NY,75.5,32.6
 Staten Island,New York,NY,75.5,32.6
 Stuyvesant Hts,New York,NY,75.5,32.6
-Syracuse,New York,NY,69.3,22.1
+Syracuse,New York,NY,75.5,32.6
 Valley Stream,New York,NY,75.5,32.6
-Whitestone,New York,NY,75.5,32.6
+Whitestone,New York,NY,69.3,22.1
 Woodhaven,New York,NY,75.5,32.6
 Woodside,New York,NY,75.5,32.6
 Yonkers,New York,NY,75.5,32.6
-Asheville,North Carolina,NC,74,39.1
-Cape Hatteras,North Carolina,NC,81.3,47.7
-Charlotte,North Carolina,NC,79.4,43.9
-Greensboro,North Carolina,NC,77.5,40.6
-Raleigh,North Carolina,NC,78.4,42.1
-Wilmington,North Carolina,NC,81.3,46.6
-Bismarck,North Dakota,ND,67.5,13.1
-Dickinson,North Dakota,ND,66.5,18
-Fargo,North Dakota,ND,66.5,6.5
-Grand Forks,North Dakota,ND,66.5,2.2
-Minot,North Dakota,ND,67.3,12
-Williston,North Dakota,ND,68,17
-Akron,Ohio,OH,72.8,26.9
-Cincinnati,Ohio,OH,75.7,30.5
-Cleveland,Ohio,OH,73,28
-Columbus,Ohio,OH,74.5,29.5
-Toledo,Ohio,OH,73.4,24.9
-Bethany,Oklahoma,OK,92,28
-Choctaw,Oklahoma,OK,94,28
-Del City,Oklahoma,OK,82,37.4
-Edmond,Oklahoma,OK,82,37.4
+Asheville,North Carolina,NC,75.5,32.6
+Cape Hatteras,North Carolina,NC,75.5,32.6
+Charlotte,North Carolina,NC,74,39.1
+Greensboro,North Carolina,NC,81.3,47.7
+Raleigh,North Carolina,NC,79.4,43.9
+Wilmington,North Carolina,NC,77.5,40.6
+Bismarck,North Dakota,ND,78.4,42.1
+Dickinson,North Dakota,ND,81.3,46.6
+Fargo,North Dakota,ND,67.5,13.1
+Grand Forks,North Dakota,ND,66.5,18
+Minot,North Dakota,ND,66.5,6.5
+Williston,North Dakota,ND,66.5,2.2
+Akron,Ohio,OH,67.3,12
+Cincinnati,Ohio,OH,68,17
+Cleveland,Ohio,OH,72.8,26.9
+Columbus,Ohio,OH,75.7,30.5
+Toledo,Ohio,OH,73,28
+Bethany,Oklahoma,OK,74.5,29.5
+Choctaw,Oklahoma,OK,73.4,24.9
+Del City,Oklahoma,OK,92,28
+Edmond,Oklahoma,OK,94,28
 Jones,Oklahoma,OK,82,37.4
 Luther,Oklahoma,OK,82,37.4
 McLoud,Oklahoma,OK,82,37.4
 Moore,Oklahoma,OK,82,37.4
 Mustang,Oklahoma,OK,82,37.4
 Newalla,Oklahoma,OK,82,37.4
-Nichols Hills,Oklahoma,OK,92,28
-Norman,Oklahoma,OK,92,27
-Oklahoma City,Oklahoma,OK,82,37.4
-Piedmont,Oklahoma,OK,82,37.4
+Nichols Hills,Oklahoma,OK,82,37.4
+Norman,Oklahoma,OK,82,37.4
+Oklahoma City,Oklahoma,OK,92,28
+Piedmont,Oklahoma,OK,92,27
 The Village,Oklahoma,OK,82,37.4
-Tulsa,Oklahoma,OK,82.3,38
-Warr Acres,Oklahoma,OK,92,28
-Yukon,Oklahoma,OK,92,28
-Astoria,Oregon,OR,63.4,45.3
-Eugene,Oregon,OR,69.9,41.7
-Gresham,Oregon,OR,81,36
-Happy Valley,Oregon,OR,81,36
+Tulsa,Oklahoma,OK,82,37.4
+Warr Acres,Oklahoma,OK,82,37.4
+Yukon,Oklahoma,OK,82.3,38
+Astoria,Oregon,OR,92,28
+Eugene,Oregon,OR,92,28
+Gresham,Oregon,OR,63.4,45.3
+Happy Valley,Oregon,OR,69.9,41.7
 Lake Oswego,Oregon,OR,81,36
-Medford,Oregon,OR,75.8,42.3
+Medford,Oregon,OR,81,36
 Milwaukie,Oregon,OR,81,36
-Pendleton,Oregon,OR,73.3,36.7
+Pendleton,Oregon,OR,75.8,42.3
 Portland,Oregon,OR,81,36
-Salem,Oregon,OR,71,42.8
+Salem,Oregon,OR,73.3,36.7
 Tigard,Oregon,OR,81,36
-Allentown,Pennsylvania,PA,75,30.4
-Erie,Pennsylvania,PA,72,26.9
-Harrisburg,Pennsylvania,PA,77,31.1
-Philadelphia,Pennsylvania,PA,77.8,33.4
-Pittsburgh,Pennsylvania,PA,71.9,27.6
-Scranton,Pennsylvania,PA,72,26.3
-Williamsport,Pennsylvania,PA,72,27.2
-Providence,Rhode Island,RI,73.3,29.2
-Charleston,South Carolina,SC,81.9,50.9
-Columbia,South Carolina,SC,83,48.1
-Greenville,South Carolina,SC,78.5,43.7
-Aberdeen,South Dakota,SD,68.1,10.1
-Pierre,South Dakota,SD,69.3,20.1
-Rapid City,South Dakota,SD,67.8,26.6
-Sioux Falls,South Dakota,SD,69.7,17
-Antioch,Tennessee,TN,88,27
-Brentwood,Tennessee,TN,89,25
-Chattanooga,Tennessee,TN,81.4,42.7
-Franklin,Tennessee,TN,90,27
-Goodlettsville,Tennessee,TN,87,25
-Hermitage,Tennessee,TN,80.3,40.1
-Jackson,Tennessee,TN,78.6,39.3
+Allentown,Pennsylvania,PA,71,42.8
+Erie,Pennsylvania,PA,81,36
+Harrisburg,Pennsylvania,PA,75,30.4
+Philadelphia,Pennsylvania,PA,72,26.9
+Pittsburgh,Pennsylvania,PA,77,31.1
+Scranton,Pennsylvania,PA,77.8,33.4
+Williamsport,Pennsylvania,PA,71.9,27.6
+Providence,Rhode Island,RI,72,26.3
+Charleston,South Carolina,SC,72,27.2
+Columbia,South Carolina,SC,73.3,29.2
+Greenville,South Carolina,SC,81.9,50.9
+Aberdeen,South Dakota,SD,83,48.1
+Pierre,South Dakota,SD,78.5,43.7
+Rapid City,South Dakota,SD,68.1,10.1
+Sioux Falls,South Dakota,SD,69.3,20.1
+Antioch,Tennessee,TN,67.8,26.6
+Brentwood,Tennessee,TN,69.7,17
+Chattanooga,Tennessee,TN,88,27
+Franklin,Tennessee,TN,89,25
+Goodlettsville,Tennessee,TN,81.4,42.7
+Hermitage,Tennessee,TN,90,27
+Jackson,Tennessee,TN,87,25
 Joelton,Tennessee,TN,80.3,40.1
-Johnson City,Tennessee,TN,75.2,38.3
-Knoxville,Tennessee,TN,78.7,40.6
-Madison,Tennessee,TN,80.3,40.1
-Memphis,Tennessee,TN,82.2,41.9
-Mount Juliet,Tennessee,TN,88,27
-Nashville,Tennessee,TN,80.3,40.1
-Nolensville,Tennessee,TN,90,27
+Johnson City,Tennessee,TN,78.6,39.3
+Knoxville,Tennessee,TN,80.3,40.1
+Madison,Tennessee,TN,75.2,38.3
+Memphis,Tennessee,TN,78.7,40.6
+Mount Juliet,Tennessee,TN,80.3,40.1
+Nashville,Tennessee,TN,82.2,41.9
+Nolensville,Tennessee,TN,88,27
 Old Hickory,Tennessee,TN,80.3,40.1
-Whites Creek,Tennessee,TN,80.3,40.1
-Abilene,Texas,TX,86.6,45.3
-Amarillo,Texas,TX,81.8,39.7
-Austin,Texas,TX,89.9,51.6
-Brownsville,Texas,TX,89.3,62.8
-Corpus Christi,Texas,TX,87.4,57.7
-Dallas,Texas,TX,88.9,47.6
-Del Rio,Texas,TX,90.7,53.5
-El Paso,Texas,TX,87.6,46.8
-Houston,Texas,TX,86.7,54.5
-Lubbock,Texas,TX,84.4,42.6
-Midland,Texas,TX,87.7,46.1
-San Antonio,Texas,TX,88.6,52.2
-Wichita Falls,Texas,TX,86.4,42.1
-Cedar City,Utah,UT,73.9,28.9
-Salt Lake City,Utah,UT,80.3,31
-Burlington,Vermont,VT,70.2,17.5
-Montpelier,Vermont,VT,64.5,13.7
-Alexandria,Virginia,VA,87,29
-Norfolk,Virginia,VA,79.6,42.7
-Richmond,Virginia,VA,79,39.2
-Roanoke,Virginia,VA,77,36.3
-Olympia,Washington,WA,65.4,40.6
-Seattle,Washington,WA,69.1,45
-Shoreline,Washington,WA,69.1,45
-Spokane,Washington,WA,72.1,31
-Vancouver,Washington,WA,79,33
-Yakima,Washington,WA,72.8,33.9
-Beckley,West Virginia,WV,70.8,31
-Charleston,West Virginia,WV,75.6,35.2
-Elkins,West Virginia,WV,71,28.7
-Huntington,West Virginia,WV,75.3,35.1
-Allenton,Wisconsin,WI,80,11
-Bayside,Wisconsin,WI,79,11
-Beaver Dam,Wisconsin,WI,80,9
-Belgium,Wisconsin,WI,78,13
-Beloit,Wisconsin,WI,81,13
-Bristol,Wisconsin,WI,78,16
-Brookfield,Wisconsin,WI,80,12
-Brown Deer,Wisconsin,WI,79,11
-Brownsville,Wisconsin,WI,80,11
-Campbellsport,Wisconsin,WI,80,11
-Cascade,Wisconsin,WI,78,13
-Cedar Grove,Wisconsin,WI,78,13
-Cedarburg,Wisconsin,WI,79,11
-Clinton,Wisconsin,WI,80,10
+Whites Creek,Tennessee,TN,90,27
+Abilene,Texas,TX,80.3,40.1
+Amarillo,Texas,TX,80.3,40.1
+Austin,Texas,TX,86.6,45.3
+Brownsville,Texas,TX,81.8,39.7
+Corpus Christi,Texas,TX,89.9,51.6
+Dallas,Texas,TX,89.3,62.8
+Del Rio,Texas,TX,87.4,57.7
+El Paso,Texas,TX,88.9,47.6
+Houston,Texas,TX,90.7,53.5
+Lubbock,Texas,TX,87.6,46.8
+Midland,Texas,TX,86.7,54.5
+San Antonio,Texas,TX,84.4,42.6
+Wichita Falls,Texas,TX,87.7,46.1
+Cedar City,Utah,UT,88.6,52.2
+Salt Lake City,Utah,UT,86.4,42.1
+Burlington,Vermont,VT,73.9,28.9
+Montpelier,Vermont,VT,80.3,31
+Alexandria,Virginia,VA,70.2,17.5
+Norfolk,Virginia,VA,64.5,13.7
+Richmond,Virginia,VA,87,29
+Roanoke,Virginia,VA,79.6,42.7
+Olympia,Washington,WA,79,39.2
+Seattle,Washington,WA,77,36.3
+Shoreline,Washington,WA,65.4,40.6
+Spokane,Washington,WA,69.1,45
+Vancouver,Washington,WA,69.1,45
+Yakima,Washington,WA,72.1,31
+Beckley,West Virginia,WV,79,33
+Charleston,West Virginia,WV,72.8,33.9
+Elkins,West Virginia,WV,70.8,31
+Huntington,West Virginia,WV,75.6,35.2
+Allenton,Wisconsin,WI,71,28.7
+Bayside,Wisconsin,WI,75.3,35.1
+Beaver Dam,Wisconsin,WI,80,11
+Belgium,Wisconsin,WI,79,11
+Beloit,Wisconsin,WI,80,9
+Bristol,Wisconsin,WI,78,13
+Brookfield,Wisconsin,WI,81,13
+Brown Deer,Wisconsin,WI,78,16
+Brownsville,Wisconsin,WI,80,12
+Campbellsport,Wisconsin,WI,79,11
+Cascade,Wisconsin,WI,80,11
+Cedar Grove,Wisconsin,WI,80,11
+Cedarburg,Wisconsin,WI,78,13
+Clinton,Wisconsin,WI,78,13
 Colgate,Wisconsin,WI,79,11
 Columbus,Wisconsin,WI,80,10
-Cudahy,Wisconsin,WI,71.5,21.3
+Cudahy,Wisconsin,WI,79,11
 Darien,Wisconsin,WI,80,10
-Delafield,Wisconsin,WI,80,10
+Delafield,Wisconsin,WI,71.5,21.3
 Delavan,Wisconsin,WI,80,10
-Dousman,Wisconsin,WI,80,11
-Eagle,Wisconsin,WI,80,11
+Dousman,Wisconsin,WI,80,10
+Eagle,Wisconsin,WI,80,10
 East Troy,Wisconsin,WI,80,11
-Edgerton,Wisconsin,WI,81,11
-Elkhorn,Wisconsin,WI,80,10
-Fond Du Lac,Wisconsin,WI,80,11
+Edgerton,Wisconsin,WI,80,11
+Elkhorn,Wisconsin,WI,80,11
+Fond Du Lac,Wisconsin,WI,81,11
 Fontana,Wisconsin,WI,80,10
-Fort Atkinson,Wisconsin,WI,81,11
+Fort Atkinson,Wisconsin,WI,80,11
 Fox Lake,Wisconsin,WI,80,10
-Fox Point,Wisconsin,WI,79,11
-Franklin,Wisconsin,WI,80,11
-Genoa City,Wisconsin,WI,82,10
-Germantown,Wisconsin,WI,79,11
-Glendale,Wisconsin,WI,79,11
-Grafton,Wisconsin,WI,80,11
-Green Bay,Wisconsin,WI,67.9,16
+Fox Point,Wisconsin,WI,81,11
+Franklin,Wisconsin,WI,80,10
+Genoa City,Wisconsin,WI,79,11
+Germantown,Wisconsin,WI,80,11
+Glendale,Wisconsin,WI,82,10
+Grafton,Wisconsin,WI,79,11
+Green Bay,Wisconsin,WI,79,11
 Greenfield,Wisconsin,WI,80,11
-Hales Corners,Wisconsin,WI,81,10
-Hartford,Wisconsin,WI,79,9
-Hartland,Wisconsin,WI,80,10
-Hubertus,Wisconsin,WI,78,8
-Jackson,Wisconsin,WI,79,11
-Janesville,Wisconsin,WI,81,11
-Jefferson,Wisconsin,WI,81,10
+Hales Corners,Wisconsin,WI,67.9,16
+Hartford,Wisconsin,WI,80,11
+Hartland,Wisconsin,WI,81,10
+Hubertus,Wisconsin,WI,79,9
+Jackson,Wisconsin,WI,80,10
+Janesville,Wisconsin,WI,78,8
+Jefferson,Wisconsin,WI,79,11
 Johnson Creek,Wisconsin,WI,81,11
-Kansasville,Wisconsin,WI,79,11
-Kenosha,Wisconsin,WI,78,16
-La Crosse,Wisconsin,WI,71.9,15.7
-Lake Geneva,Wisconsin,WI,83,12
-Lisbon,Wisconsin,WI,79,11
-Madison,Wisconsin,WI,68.5,16.1
-Mayville,Wisconsin,WI,80,11
-Menomonee Falls,Wisconsin,WI,79,11
-Mequon,Wisconsin,WI,79,11
-Milton,Wisconsin,WI,81,11
-Milwaukee,Wisconsin,WI,71.5,21.3
-Mount Pleasant,Wisconsin,WI,80,11
-Mukwonago,Wisconsin,WI,80,11
-Muskego,Wisconsin,WI,79,11
+Kansasville,Wisconsin,WI,81,10
+Kenosha,Wisconsin,WI,81,11
+La Crosse,Wisconsin,WI,79,11
+Lake Geneva,Wisconsin,WI,78,16
+Lisbon,Wisconsin,WI,71.9,15.7
+Madison,Wisconsin,WI,83,12
+Mayville,Wisconsin,WI,79,11
+Menomonee Falls,Wisconsin,WI,68.5,16.1
+Mequon,Wisconsin,WI,80,11
+Milton,Wisconsin,WI,79,11
+Milwaukee,Wisconsin,WI,79,11
+Mount Pleasant,Wisconsin,WI,81,11
+Mukwonago,Wisconsin,WI,71.5,21.3
+Muskego,Wisconsin,WI,80,11
 New Berlin,Wisconsin,WI,80,11
 Oak Creek,Wisconsin,WI,79,11
-Oconomowoc,Wisconsin,WI,80,10
-Oostburg,Wisconsin,WI,78,13
-Pewaukee,Wisconsin,WI,79,11
-Pleasant Prairie,Wisconsin,WI,79,11
+Oconomowoc,Wisconsin,WI,80,11
+Oostburg,Wisconsin,WI,79,11
+Pewaukee,Wisconsin,WI,80,10
+Pleasant Prairie,Wisconsin,WI,78,13
 Plymouth,Wisconsin,WI,79,11
-Port Washington,Wisconsin,WI,78,13
-Racine,Wisconsin,WI,77,15
-Random Lake,Wisconsin,WI,81,12
+Port Washington,Wisconsin,WI,79,11
+Racine,Wisconsin,WI,79,11
+Random Lake,Wisconsin,WI,78,13
 Saint Francis,Wisconsin,WI,77,15
 Salem,Wisconsin,WI,81,12
-Sheboygan,Wisconsin,WI,80,13
-Sheboygan Falls,Wisconsin,WI,80,13
-Slinger,Wisconsin,WI,79,11
-South Milwaukee,Wisconsin,WI,79,14
-Sturtevant,Wisconsin,WI,81,12
-Sullivan,Wisconsin,WI,80,11
-Summit,Wisconsin,WI,80,10
-Sussex,Wisconsin,WI,79,11
-Trevor,Wisconsin,WI,81,12
-Twin Lakes,Wisconsin,WI,80,10
-Union Grove,Wisconsin,WI,80,12
+Sheboygan,Wisconsin,WI,77,15
+Sheboygan Falls,Wisconsin,WI,81,12
+Slinger,Wisconsin,WI,80,13
+South Milwaukee,Wisconsin,WI,80,13
+Sturtevant,Wisconsin,WI,79,11
+Sullivan,Wisconsin,WI,79,14
+Summit,Wisconsin,WI,81,12
+Sussex,Wisconsin,WI,80,11
+Trevor,Wisconsin,WI,80,10
+Twin Lakes,Wisconsin,WI,79,11
+Union Grove,Wisconsin,WI,81,12
 Wales,Wisconsin,WI,80,10
-Walworth,Wisconsin,WI,80,10
-Waterford,Wisconsin,WI,80,11
-Waterloo,Wisconsin,WI,81,11
-Watertown,Wisconsin,WI,80,10
-Waukesha,Wisconsin,WI,80,11
+Walworth,Wisconsin,WI,80,12
+Waterford,Wisconsin,WI,80,10
+Waterloo,Wisconsin,WI,80,10
+Watertown,Wisconsin,WI,80,11
+Waukesha,Wisconsin,WI,81,11
 Waupun,Wisconsin,WI,80,10
-Wausau,Wisconsin,WI,65.3,12.5
+Wausau,Wisconsin,WI,80,11
 Wauwatosa,Wisconsin,WI,80,10
-West Allis,Wisconsin,WI,80,13
-West Bend,Wisconsin,WI,79,11
-Whitefish Bay,Wisconsin,WI,79,11
-Whitewater,Wisconsin,WI,80,11
-Williams Bay,Wisconsin,WI,80,10
-Casper,Wyoming,WY,69.7,26.9
-Cheyenne,Wyoming,WY,70.5,31
-Lander,Wyoming,WY,70.9,17.9
-Sheridan,Wyoming,WY,69.3,27.1
-Big Lake,Alaska,AK,68,7
-Chugiak,Alaska,AK,62.7,20.4
-Clam Gulch,Alaska,AK,61,19
-Cooper Landing,Alaska,AK,66,6
-Eagle River,Alaska,AK,62.7,20.4
-Fairbanks,Alaska,AK,55.6,-6.7
+West Allis,Wisconsin,WI,65.3,12.5
+West Bend,Wisconsin,WI,80,10
+Whitefish Bay,Wisconsin,WI,80,13
+Whitewater,Wisconsin,WI,79,11
+Williams Bay,Wisconsin,WI,79,11
+Casper,Wyoming,WY,80,11
+Cheyenne,Wyoming,WY,80,10
+Lander,Wyoming,WY,69.7,26.9
+Sheridan,Wyoming,WY,70.5,31
+Big Lake,Alaska,AK,70.9,17.9
+Chugiak,Alaska,AK,69.3,27.1
+Clam Gulch,Alaska,AK,68,7
+Cooper Landing,Alaska,AK,62.7,20.4
+Eagle River,Alaska,AK,61,19
+Fairbanks,Alaska,AK,66,6
 Girdwood,Alaska,AK,62.7,20.4
-Homer,Alaska,AK,61,19
-Houston,Alaska,AK,68,7
-Indian,Alaska,AK,62,21
-Juneau,Alaska,AK,58.3,29.8
-Kasilof,Alaska,AK,61,7
-Kenai,Alaska,AK,64,8
-Kodiak,Alaska,AK,61,26
+Homer,Alaska,AK,55.6,-6.7
+Houston,Alaska,AK,62.7,20.4
+Indian,Alaska,AK,61,19
+Juneau,Alaska,AK,68,7
+Kasilof,Alaska,AK,62,21
+Kenai,Alaska,AK,58.3,29.8
+Kodiak,Alaska,AK,61,7
 Nikiski/North Kenai,Alaska,AK,64,8
-Nikolaevsk,Alaska,AK,61,19
-Ninilchik,Alaska,AK,61,19
-Nome,Alaska,AK,50.1,7.7
-North Pole,Alaska,AK,55.6,-6.7
-Palmer,Alaska,AK,65,12
-Port Graham,Alaska,AK,61,19
-Port Lions,Alaska,AK,61,26
-Salcha,Alaska,AK,65,14
-Seldovia,Alaska,AK,61,19
-Seward,Alaska,AK,62,21
-Soldotna,Alaska,AK,64,8
-Sterling,Alaska,AK,64,8
-Sutton,Alaska,AK,66,7
-Talkeetna,Alaska,AK,65,6
-Trapper Creek,Alaska,AK,65,6
-Wasilla,Alaska,AK,68,7
-Willow,Alaska,AK,68,7
+Nikolaevsk,Alaska,AK,61,26
+Ninilchik,Alaska,AK,64,8
+Nome,Alaska,AK,61,19
+North Pole,Alaska,AK,61,19
+Palmer,Alaska,AK,50.1,7.7
+Port Graham,Alaska,AK,55.6,-6.7
+Port Lions,Alaska,AK,65,12
+Salcha,Alaska,AK,61,19
+Seldovia,Alaska,AK,61,26
+Seward,Alaska,AK,65,14
+Soldotna,Alaska,AK,61,19
+Sterling,Alaska,AK,62,21
+Sutton,Alaska,AK,64,8
+Talkeetna,Alaska,AK,64,8
+Trapper Creek,Alaska,AK,66,7
+Wasilla,Alaska,AK,65,6
+Willow,Alaska,AK,65,6
+Carefree,Arizona,AZ,101,43
+Casa Grande,Arizona,AZ,103,37
+Cave Creek,Arizona,AZ,101,43
+Chandler,Arizona,AZ,101,39
+Coolidge,Arizona,AZ,104,36
+El Mirage,Arizona,AZ,101,43
+Flagstaff,Arizona,AZ,78,11
+Florence,Arizona,AZ,101,38
+Fountain Hills,Arizona,AZ,101,42
+Gilbert,Arizona,AZ,101,39
+Glendale,Arizona,AZ,101,43
+Gold Canyon,Arizona,AZ,103,42
+Goodyear,Arizona,AZ,100,39
+Guadalupe,Arizona,AZ,101,39
+Laveen,Arizona,AZ,105,42
+Litchfield Park,Arizona,AZ,103,42
+Maricopa,Arizona,AZ,106,36
+Mesa,Arizona,AZ,104,42
+New River,Arizona,AZ,101,43
+Paradise Valley,Arizona,AZ,102,43
+Peoria,Arizona,AZ,101,43
+Phoenix,Arizona,AZ,104,46
+Queen Creek,Arizona,AZ,101,40
+Rio Verde,Arizona,AZ,103,41
+San Tan Valley,Arizona,AZ,96.8,56
+Scottsdale,Arizona,AZ,102,43
+Sun City,Arizona,AZ,105,42
+Sun City West,Arizona,AZ,101,43
+Sun Lakes,Arizona,AZ,100,39
+Surprise,Arizona,AZ,105,42
+Tempe,Arizona,AZ,100,39
+Tolleson,Arizona,AZ,105,42
+Tucson,Arizona,AZ,99,42
+Waddell,Arizona,AZ,101,43
+Wickenburg,Arizona,AZ,100,33
+Wittmann,Arizona,AZ,105,37
+Youngtown,Arizona,AZ,105,42
+Yuma,Arizona,AZ,106,46
+,,,,
+,,,,
+,,,95.9,55.6
