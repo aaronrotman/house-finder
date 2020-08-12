@@ -96,11 +96,11 @@ function selectBathrooms() {
 // LOT SIZE INPUT
 // Select the lot size input dropdown menu
 var lotSizeMenu = d3.select("#lotSize-input");
-lotSize = parseInt(lotSizeMenu.property("value"));
+lotSize = lotSizeMenu.property("value");
 
 // Function to handle changes in the lot size selection dropdown menu
 function selectLotSize() {
-    lotSize = parseInt(lotSizeMenu.property("value"));
+    lotSize = lotSizeMenu.property("value");
     console.log(`Lot Size Selected: ${lotSize}`) 
     return lotSize;
 }
@@ -137,6 +137,25 @@ function submitInput() {
     userInputs.push(lotSize);
     userInputs.push(hoa_permonth);
     console.log(`Input submitted: ${userInputs}`);
+    console.log(userInputs);
     return userInputs;
 }
 
+// $(document).ready(function() {
+//     $("#button").bind('click', function(){
+//         //Get all words from list
+//         var list = [];
+//         $("#wordlist option").each(function(){
+//             list.push($(this).val());
+//         });
+//         //var list = $( "#wordlist option" ).val();
+//         console.log(list);
+//         $.getJSON($SCRIPT_ROOT + '/_array2python', {
+//             wordlist: list.toString()
+//         }, function(data){
+//             console.log(data.result)
+//             $( "#result" ).text(data.result);
+//         });
+//         return false;
+//     });
+// });
