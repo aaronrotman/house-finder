@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Relocation Recommendation</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href={{ url_for('static', filename = 'style.css') }}>
+</head>
+
+<body>
+    <!-- JUMBOTRON -->
+    <div class="jumbotron jumbotron-fluid text-center">
+        <div class="container container-fluid">
+          <h1 class="display-4">Relocation Recommendation!</h1>
+          <p class="lead">Struggling to find out WHERE you should relocate?<br>Try our relocation recommendation tool and see what homes fit your criteria!</p>
+        </div>
+      </div>
+  <!-- HOME GALLERY -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card text-center">
+                    <img src="{{ url_for('static', filename = 'images/bernadette-gatsby-bN_TkedaBuQ-unsplash.jpg') }}" class="card-img-top" alt="...">
+                    
+                    <div class="card-body">
+                      <p class="card-text">Are you a city person at heart? Looking to let go of your car and live life at your local jaunts?</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card"">
+                    <img src="{{ url_for('static', filename = 'images/ralph-ravi-kayden-2d4lAQAlbDA-unsplash.jpg') }}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <p class="card-text">Are you looking for life in the suburbs where your kids can swim at home and ride their bikes with the neighborhood kids?</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="{{ url_for('static', filename = 'images/phil-hearing-IYfp2Ixe9nM-unsplash.jpg') }}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <p class="card-text">Or maybe you are looking for that country home to grow the garden of your dreams and sip your morning coffee from your porch. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <!-- USER INPUT FIELDS -->
+    {% block main %}
+
+    <div class="container">
+      <div class="row">
+        <div class="col">
+  
+          <h1 class="text-center">Please enter your preferences below.</h1>
+          <hr>
+  
+          <form action="/" method="POST" id="user-inputs">
+            <!-- Summer Weather Input -->
+            <div class="form-group">
+              <label>Summer Temperature (F)</label>
+              <input type="number" class="form-control" id="summer-temp" name="summer-temp" placeholder="Degrees fahrenheit" required>
+            </div>
+            <!-- Winter Weather Input -->
+            <div class="form-group">
+              <label>Winter Temperature (F)</label>
+              <input type="number" class="form-control" id="winter-temp" name="winter-temp" placeholder="Degrees fahrenheit" required>
+            </div>
+            <!-- City Size Input -->
+            <div class="form-group">
+              <label>What size city do you prefer?</label>
+              <select class="form-control" id="city-size" name="city-size">
+                <option value="Big City">Big City</option>
+                <option value="Medium City">Medium City</option>
+                <option value="Small Town">Small Town</option>
+              </select>
+            </div>
+            <!-- House Size Input -->
+            <div class="form-group">
+              <label>House Size</label>
+              <input type="number" class="form-control" id="house-size" name="house-size" placeholder="Square Feet" required>
+            </div>
+            <!-- Budget Input -->
+            <div class="form-group">
+              <label>Budget</label>
+              <input type="number" class="form-control" id="budget" name="budget" placeholder="Enter a whole number" required>
+            </div>
+            <!-- Bedroom Input -->
+            <div class="form-group">
+              <label>How many bedrooms would you prefer?</label>
+              <select class="form-control" id="bedrooms" name="bedrooms">
+                <option value="4">6</option>
+                <option value="3">5</option>
+                <option value="4">4</option>
+                <option value="3">3</option>
+                <option value="4">2</option>
+                <option value="3">1</option>
+              </select>
+            </div>
+            <!-- Bathroom Input -->
+            <div class="form-group">
+              <label>How many bathrooms would you prefer?</label>
+              <select class="form-control" id="bathrooms" name="bathrooms">
+                <option value="4">6</option>
+                <option value="3">5</option>
+                <option value="4">4</option>
+                <option value="3">3</option>
+                <option value="4">2</option>
+                <option value="3">1</option>
+              </select>
+            </div>
+            <!-- Yard Input -->
+            <div class="form-group">
+              <label>Do you want a yard?</label>
+              <select class="form-control" id="yard" name="yard">
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+              </select>
+            </div>
+            <!-- Submit Button -->
+            <div class="text-center">
+              <button type="submit" id="submit-button" class="btn btn-primary">Submit</button>
+            </div>
+          </form>
+  
+        </div>
+      </div>
+    </div>
+  
+    {% endblock %}
+
+
+  
+  <!-- FOOTER -->
+  <footer>
+    <div class="container-fluid text-center">
+      <p>Put together with the brains of Aaron, Cynthia, and Jennifer in August of 2020. With the help of the UC Berkeley Extension Program.</p>
+      <a href="https://github.com/aaronrotman/final-project">
+        <img src="{{ url_for('static', filename = 'images/GitHub-Mark-120px-plus.png') }}" id="github-footer-logo" class="center-block">
+      </a>
+    </div>
+  </footer>
+
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script> -->
+<script type="text/javascript" src="{{ url_for('static', filename = 'app.js') }}"></script>
+  
+</body>
+</html>
