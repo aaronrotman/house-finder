@@ -1,4 +1,41 @@
 ﻿temp_city,temp_state,temp_abbr,Summer Temp,Winter Temp
+Anchor Point,Alaska,AK,61,19
+Anchorage,Alaska,AK,62.7,20.4
+Badger,Alaska,AK,55.6,-6.7
+Barrow,Alaska,AK,42.7,-8.6
+Bethel,Alaska,AK,56.5,14
+Big Lake,Alaska,AK,70.9,17.9
+Chugiak,Alaska,AK,69.3,27.1
+Clam Gulch,Alaska,AK,68,7
+Cooper Landing,Alaska,AK,62.7,20.4
+Eagle River,Alaska,AK,61,19
+Fairbanks,Alaska,AK,66,6
+Girdwood,Alaska,AK,62.7,20.4
+Homer,Alaska,AK,55.6,-6.7
+Houston,Alaska,AK,62.7,20.4
+Indian,Alaska,AK,61,19
+Juneau,Alaska,AK,68,7
+Kasilof,Alaska,AK,62,21
+Kenai,Alaska,AK,58.3,29.8
+Kodiak,Alaska,AK,61,7
+Nikiski/North Kenai,Alaska,AK,64,8
+Nikolaevsk,Alaska,AK,61,26
+Ninilchik,Alaska,AK,64,8
+Nome,Alaska,AK,61,19
+North Pole,Alaska,AK,61,19
+Palmer,Alaska,AK,50.1,7.7
+Port Graham,Alaska,AK,55.6,-6.7
+Port Lions,Alaska,AK,65,12
+Salcha,Alaska,AK,61,19
+Seldovia,Alaska,AK,61,26
+Seward,Alaska,AK,65,14
+Soldotna,Alaska,AK,61,19
+Sterling,Alaska,AK,62,21
+Sutton,Alaska,AK,64,8
+Talkeetna,Alaska,AK,64,8
+Trapper Creek,Alaska,AK,66,7
+Wasilla,Alaska,AK,65,6
+Willow,Alaska,AK,65,6
 Alabaster,Alabama,AL,90,34
 Ardmore,Alabama,AL,89,28
 Athens,Alabama,AL,89,28
@@ -51,15 +88,6 @@ Trinity,Alabama,AL,91,30
 Trussville,Alabama,AL,82,45
 Vestavia Hills,Alabama,AL,91,30
 Wilsonville,Alabama,AL,82,45
-Anchor Point,Alaska,AK,61,19
-Anchorage,Alaska,AK,62.7,20.4
-Badger,Alaska,AK,55.6,-6.7
-Barrow,Alaska,AK,42.7,-8.6
-Bethel,Alaska,AK,56.5,14
-Anthem,Arizona,AZ,101,43
-Apache Junction,Arizona,AZ,103,42
-Avondale,Arizona,AZ,100,39
-Buckeye,Arizona,AZ,106,37
 Alexander,Arkansas,AR,81.9,41.8
 Benton,Arkansas,AR,92,27
 Bryant,Arkansas,AR,92,27
@@ -69,9 +97,52 @@ Little Rock,Arkansas,AR,81.9,41.8
 Mabelvale,Arkansas,AR,81.9,41.8
 Maumelle,Arkansas,AR,81.9,41.8
 North little Rock,Arkansas,AR,81.9,41.8
+North Little Rock,Arkansas,AR,81.9,41.8
 Paron,Arkansas,AR,90,28
 Scott,Arkansas,AR,81.9,41.8
 Sherwood,Arkansas,AR,81.9,41.8
+Anthem,Arizona,AZ,101,43
+Apache Junction,Arizona,AZ,103,42
+Avondale,Arizona,AZ,100,39
+Buckeye,Arizona,AZ,106,37
+Carefree,Arizona,AZ,101,43
+Casa Grande,Arizona,AZ,103,37
+Cave Creek,Arizona,AZ,101,43
+Chandler,Arizona,AZ,101,39
+Coolidge,Arizona,AZ,104,36
+El Mirage,Arizona,AZ,101,43
+Flagstaff,Arizona,AZ,78,11
+Florence,Arizona,AZ,101,38
+Fountain Hills,Arizona,AZ,101,42
+Gilbert,Arizona,AZ,101,39
+Glendale,Arizona,AZ,101,43
+Gold Canyon,Arizona,AZ,103,42
+Goodyear,Arizona,AZ,100,39
+Guadalupe,Arizona,AZ,101,39
+Laveen,Arizona,AZ,105,42
+Litchfield Park,Arizona,AZ,103,42
+Maricopa,Arizona,AZ,106,36
+Mesa,Arizona,AZ,104,42
+New River,Arizona,AZ,101,43
+Paradise Valley,Arizona,AZ,102,43
+Peoria,Arizona,AZ,101,43
+Phoenix,Arizona,AZ,104,46
+Queen Creek,Arizona,AZ,101,40
+Rio Verde,Arizona,AZ,103,41
+San Tan Valley,Arizona,AZ,96.8,56
+Scottsdale,Arizona,AZ,102,43
+Sun City,Arizona,AZ,105,42
+Sun City West,Arizona,AZ,101,43
+Sun Lakes,Arizona,AZ,100,39
+Surprise,Arizona,AZ,105,42
+Tempe,Arizona,AZ,100,39
+Tolleson,Arizona,AZ,105,42
+Tucson,Arizona,AZ,99,42
+Waddell,Arizona,AZ,101,43
+Wickenburg,Arizona,AZ,100,33
+Wittmann,Arizona,AZ,105,37
+Youngtown,Arizona,AZ,105,42
+Yuma,Arizona,AZ,106,46
 Arleta,California,CA,79,51
 Atwater Village,California,CA,79,51
 Beverly Hills,California,CA,79,51
@@ -151,8 +222,52 @@ Alamosa,Colorado,CO,64.2,8.9
 Colorado Springs,Colorado,CO,73.1,33.1
 Grand Junction,Colorado,CO,78.9,26.9
 Pueblo,Colorado,CO,78.1,33.6
-Bridgeport,Connecticut,CT,74.4,31.3
-Hartford,Connecticut,CT,72.8,26
+Avon,Connecticut,CT,82,19
+Bethel,Connecticut,CT,82,19
+Bloomfield,Connecticut,CT,82,19
+Branford,Connecticut,CT,82,19
+Bridgeport,Connecticut,CT,82,19
+Cos Cob,Connecticut,CT,82,19
+Danbury,Connecticut,CT,82,19
+Darien,Connecticut,CT,82,19
+Derby,Connecticut,CT,82,19
+East Hartford,Connecticut,CT,82,19
+East Haven,Connecticut,CT,82,19
+Fairfield,Connecticut,CT,82,19
+Farmington,Connecticut,CT,82,19
+Greenwich,Connecticut,CT,82,19
+Hamden,Connecticut,CT,82,19
+Hartford,Connecticut,CT,82,19
+Manchester,Connecticut,CT,82,19
+Milford,Connecticut,CT,82,19
+New Britain,Connecticut,CT,82,19
+New Canaan,Connecticut,CT,82,19
+New Haven,Connecticut,CT,82,19
+Newington,Connecticut,CT,82,19
+Newtown,Connecticut,CT,82,19
+North Branford,Connecticut,CT,82,19
+North Haven,Connecticut,CT,82,19
+Norwalk,Connecticut,CT,82,19
+Old Greenwich,Connecticut,CT,82,19
+Orange,Connecticut,CT,82,19
+Redding,Connecticut,CT,82,19
+Ridgefield,Connecticut,CT,82,19
+Riverside,Connecticut,CT,82,19
+Shelton,Connecticut,CT,82,19
+Simsbury,Connecticut,CT,82,19
+Stamford,Connecticut,CT,82,19
+Stratford,Connecticut,CT,82,19
+Trumbull,Connecticut,CT,82,19
+Waterbury,Connecticut,CT,82,19
+West Hartford,Connecticut,CT,82,19
+West Haven,Connecticut,CT,82,19
+Weston,Connecticut,CT,82,19
+Westport,Connecticut,CT,82,19
+Wethersfield,Connecticut,CT,82,19
+Wilton,Connecticut,CT,82,19
+Windsor,Connecticut,CT,82,19
+Wolcott,Connecticut,CT,82,19
+Woodbridge,Connecticut,CT,82,19
 Washington DC,DC,DC,84,27
 Wilmington,Delaware,DE,76.7,32.6
 Daytona Beach,Florida,FL,82.9,59
@@ -178,6 +293,10 @@ Kahului,Hawaii,HI,83.4,-99
 Kapalua,Hawaii,HI,82.3,71.6
 Kula,Hawaii,HI,81,72.5
 Lihue,Hawaii,HI,68.5,60.1
+Des Moines,Iowa,IA,74.7,27.5
+Dubuque,Iowa,IA,70,21.1
+Sioux City,Iowa,IA,73.2,21
+Waterloo,Iowa,IA,68.3,15.6
 Boise,Idaho,ID,81.8,72.3
 Eagle,Idaho,ID,76.9,35.4
 Garden City,Idaho,ID,90,25
@@ -193,10 +312,6 @@ Evansville,Indiana,IN,71.5,18.2
 Fort Wayne,Indiana,IN,74.2,26.9
 Indianapolis,Indiana,IN,76.6,33
 South Bend,Indiana,IN,71.1,25.5
-Des Moines,Iowa,IA,74.7,27.5
-Dubuque,Iowa,IA,70,21.1
-Sioux City,Iowa,IA,73.2,21
-Waterloo,Iowa,IA,68.3,15.6
 Dodge City,Kansas,KS,71.2,21.8
 Goodland,Kansas,KS,69.2,16.7
 Topeka,Kansas,KS,80.3,33.6
@@ -208,14 +323,6 @@ Baton Rouge,Louisiana,LA,79.8,35.3
 Monroe,Louisiana,LA,78.5,36.7
 New Orleans,Louisiana,LA,84.3,51.3
 Shreveport,Louisiana,LA,84.4,47.6
-Bangor,Maine,ME,84.5,54.4
-Caribou,Maine,ME,86.1,47.9
-Portland,Maine,ME,67.3,18.7
-Baltimore,Maryland,MD,65.1,10.7
-Oxon Hill,Maryland,MD,68.6,23.1
-Salisbury,Maryland,MD,77.9,33.5
-Silver Spring,Maryland,MD,87,29
-Takoma Park,Maryland,MD,77.5,36
 Blue Hill,Massachusetts,MA,83,24
 Boston,Massachusetts,MA,83,24
 Brookline,Massachusetts,MA,71.4,27.4
@@ -223,6 +330,14 @@ Cambridge,Massachusetts,MA,73.7,30.8
 Newton,Massachusetts,MA,73.7,30.8
 Somerville,Massachusetts,MA,73.7,30.8
 Worcester,Massachusetts,MA,82,16
+Baltimore,Maryland,MD,65.1,10.7
+Oxon Hill,Maryland,MD,68.6,23.1
+Salisbury,Maryland,MD,77.9,33.5
+Silver Spring,Maryland,MD,87,29
+Takoma Park,Maryland,MD,77.5,36
+Bangor,Maine,ME,84.5,54.4
+Caribou,Maine,ME,86.1,47.9
+Portland,Maine,ME,67.3,18.7
 Detroit,Michigan,MI,73.7,30.8
 Flint,Michigan,MI,69.3,23.3
 Grand Rapids,Michigan,MI,73.1,24
@@ -233,24 +348,40 @@ International Falls,Minnesota,MN,65.9,11.4
 Minneapolis,Minnesota,MN,66.1,7.8
 Rochester,Minnesota,MN,62.4,0.3
 St. Paul,Minnesota,MN,71,14.4
-Jackson,Mississippi,MS,66.7,12.3
-Tupelo,Mississippi,MS,71,14.4
 Columbia,Missouri,MO,82.5,47.2
 Deerfield,Missouri,MO,81.9,43.5
 Kansas City,Missouri,MO,76.5,30.4
 Nevada,Missouri,MO,90,22
 Springfield,Missouri,MO,76,28.2
 St. Louis,Missouri,MO,90,22
+Jackson,Mississippi,MS,66.7,12.3
+Tupelo,Mississippi,MS,71,14.4
 Billings,Montana,MT,77.6,34.4
 Glasgow,Montana,MT,78.3,30.8
 Great Falls,Montana,MT,72.7,29
 Helena,Montana,MT,70.2,22.3
 Missoula,Montana,MT,66.8,29.8
+Asheville,North Carolina,NC,75.5,32.6
+Cape Hatteras,North Carolina,NC,75.5,32.6
+Charlotte,North Carolina,NC,74,39.1
+Greensboro,North Carolina,NC,81.3,47.7
+Raleigh,North Carolina,NC,79.4,43.9
+Wilmington,North Carolina,NC,77.5,40.6
+Bismarck,North Dakota,ND,78.4,42.1
+Dickinson,North Dakota,ND,81.3,46.6
+Fargo,North Dakota,ND,67.5,13.1
+Grand Forks,North Dakota,ND,66.5,18
+Minot,North Dakota,ND,66.5,6.5
+Williston,North Dakota,ND,66.5,2.2
 Grand Island,Nebraska,NE,69.1,25.1
 Norfolk,Nebraska,NE,68.4,25.1
 North Platte,Nebraska,NE,72.6,27.1
 Omaha,Nebraska,NE,71.8,23.3
 Scottsbluff,Nebraska,NE,72.6,29
+Concord,New Hampshire,NH,94.3,50.3
+Atlantic City,New Jersey,NJ,77.7,39.3
+Albuquerque,New Mexico,NM,68.4,21.8
+Roswell,New Mexico,NM,76.2,33
 Blue Diamond,Nevada,NV,75.4,24.7
 Carson City,Nevada,NV,73.1,30.5
 Elko,Nevada,NV,94.3,50.3
@@ -258,10 +389,6 @@ Ely,Nevada,NV,77.7,39.3
 Henderson,Nevada,NV,71,29
 Las Vegas,Nevada,NV,68,28.5
 Reno,Nevada,NV,100,31
-Concord,New Hampshire,NH,94.3,50.3
-Atlantic City,New Jersey,NJ,77.7,39.3
-Albuquerque,New Mexico,NM,68.4,21.8
-Roswell,New Mexico,NM,76.2,33
 Albany,New York,NY,79.6,36
 Bayside,New York,NY,85,41.8
 Bellerose,New York,NY,71.7,23.4
@@ -316,18 +443,7 @@ Whitestone,New York,NY,69.3,22.1
 Woodhaven,New York,NY,75.5,32.6
 Woodside,New York,NY,75.5,32.6
 Yonkers,New York,NY,75.5,32.6
-Asheville,North Carolina,NC,75.5,32.6
-Cape Hatteras,North Carolina,NC,75.5,32.6
-Charlotte,North Carolina,NC,74,39.1
-Greensboro,North Carolina,NC,81.3,47.7
-Raleigh,North Carolina,NC,79.4,43.9
-Wilmington,North Carolina,NC,77.5,40.6
-Bismarck,North Dakota,ND,78.4,42.1
-Dickinson,North Dakota,ND,81.3,46.6
-Fargo,North Dakota,ND,67.5,13.1
-Grand Forks,North Dakota,ND,66.5,18
-Minot,North Dakota,ND,66.5,6.5
-Williston,North Dakota,ND,66.5,2.2
+Brewster,Connecticut,NY,82,19
 Akron,Ohio,OH,67.3,12
 Cincinnati,Ohio,OH,68,17
 Cleveland,Ohio,OH,72.8,26.9
@@ -409,22 +525,18 @@ San Antonio,Texas,TX,84.4,42.6
 Wichita Falls,Texas,TX,87.7,46.1
 Cedar City,Utah,UT,88.6,52.2
 Salt Lake City,Utah,UT,86.4,42.1
-Burlington,Vermont,VT,73.9,28.9
-Montpelier,Vermont,VT,80.3,31
 Alexandria,Virginia,VA,70.2,17.5
 Norfolk,Virginia,VA,64.5,13.7
 Richmond,Virginia,VA,87,29
 Roanoke,Virginia,VA,79.6,42.7
+Burlington,Vermont,VT,73.9,28.9
+Montpelier,Vermont,VT,80.3,31
 Olympia,Washington,WA,79,39.2
 Seattle,Washington,WA,77,36.3
 Shoreline,Washington,WA,65.4,40.6
 Spokane,Washington,WA,69.1,45
 Vancouver,Washington,WA,69.1,45
 Yakima,Washington,WA,72.1,31
-Beckley,West Virginia,WV,79,33
-Charleston,West Virginia,WV,72.8,33.9
-Elkins,West Virginia,WV,70.8,31
-Huntington,West Virginia,WV,75.6,35.2
 Allenton,Wisconsin,WI,71,28.7
 Bayside,Wisconsin,WI,75.3,35.1
 Beaver Dam,Wisconsin,WI,80,11
@@ -521,80 +633,11 @@ West Bend,Wisconsin,WI,80,10
 Whitefish Bay,Wisconsin,WI,80,13
 Whitewater,Wisconsin,WI,79,11
 Williams Bay,Wisconsin,WI,79,11
+Beckley,West Virginia,WV,79,33
+Charleston,West Virginia,WV,72.8,33.9
+Elkins,West Virginia,WV,70.8,31
+Huntington,West Virginia,WV,75.6,35.2
 Casper,Wyoming,WY,80,11
 Cheyenne,Wyoming,WY,80,10
 Lander,Wyoming,WY,69.7,26.9
 Sheridan,Wyoming,WY,70.5,31
-Big Lake,Alaska,AK,70.9,17.9
-Chugiak,Alaska,AK,69.3,27.1
-Clam Gulch,Alaska,AK,68,7
-Cooper Landing,Alaska,AK,62.7,20.4
-Eagle River,Alaska,AK,61,19
-Fairbanks,Alaska,AK,66,6
-Girdwood,Alaska,AK,62.7,20.4
-Homer,Alaska,AK,55.6,-6.7
-Houston,Alaska,AK,62.7,20.4
-Indian,Alaska,AK,61,19
-Juneau,Alaska,AK,68,7
-Kasilof,Alaska,AK,62,21
-Kenai,Alaska,AK,58.3,29.8
-Kodiak,Alaska,AK,61,7
-Nikiski/North Kenai,Alaska,AK,64,8
-Nikolaevsk,Alaska,AK,61,26
-Ninilchik,Alaska,AK,64,8
-Nome,Alaska,AK,61,19
-North Pole,Alaska,AK,61,19
-Palmer,Alaska,AK,50.1,7.7
-Port Graham,Alaska,AK,55.6,-6.7
-Port Lions,Alaska,AK,65,12
-Salcha,Alaska,AK,61,19
-Seldovia,Alaska,AK,61,26
-Seward,Alaska,AK,65,14
-Soldotna,Alaska,AK,61,19
-Sterling,Alaska,AK,62,21
-Sutton,Alaska,AK,64,8
-Talkeetna,Alaska,AK,64,8
-Trapper Creek,Alaska,AK,66,7
-Wasilla,Alaska,AK,65,6
-Willow,Alaska,AK,65,6
-Carefree,Arizona,AZ,101,43
-Casa Grande,Arizona,AZ,103,37
-Cave Creek,Arizona,AZ,101,43
-Chandler,Arizona,AZ,101,39
-Coolidge,Arizona,AZ,104,36
-El Mirage,Arizona,AZ,101,43
-Flagstaff,Arizona,AZ,78,11
-Florence,Arizona,AZ,101,38
-Fountain Hills,Arizona,AZ,101,42
-Gilbert,Arizona,AZ,101,39
-Glendale,Arizona,AZ,101,43
-Gold Canyon,Arizona,AZ,103,42
-Goodyear,Arizona,AZ,100,39
-Guadalupe,Arizona,AZ,101,39
-Laveen,Arizona,AZ,105,42
-Litchfield Park,Arizona,AZ,103,42
-Maricopa,Arizona,AZ,106,36
-Mesa,Arizona,AZ,104,42
-New River,Arizona,AZ,101,43
-Paradise Valley,Arizona,AZ,102,43
-Peoria,Arizona,AZ,101,43
-Phoenix,Arizona,AZ,104,46
-Queen Creek,Arizona,AZ,101,40
-Rio Verde,Arizona,AZ,103,41
-San Tan Valley,Arizona,AZ,96.8,56
-Scottsdale,Arizona,AZ,102,43
-Sun City,Arizona,AZ,105,42
-Sun City West,Arizona,AZ,101,43
-Sun Lakes,Arizona,AZ,100,39
-Surprise,Arizona,AZ,105,42
-Tempe,Arizona,AZ,100,39
-Tolleson,Arizona,AZ,105,42
-Tucson,Arizona,AZ,99,42
-Waddell,Arizona,AZ,101,43
-Wickenburg,Arizona,AZ,100,33
-Wittmann,Arizona,AZ,105,37
-Youngtown,Arizona,AZ,105,42
-Yuma,Arizona,AZ,106,46
-,,,,
-,,,,
-,,,95.9,55.6

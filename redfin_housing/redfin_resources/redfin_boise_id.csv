@@ -1,351 +1,299 @@
 ,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
-0,Single Family Residential,2100 N 17th St,Boise,ID,83702,899000,3.0,2.5,2500.0,6098.0,2020.0,,http://www.redfin.com/ID/Boise/2100-N-17th-St-83702/home/106787373,43.6392354,-116.20905829999998
-1,Single Family Residential,4797 Arrowhead Way,Boise,ID,83709,268900,3.0,1.0,1127.0,9583.0,1982.0,,http://www.redfin.com/ID/Boise/4797-Arrowhead-Way-83709/home/106757342,43.55943370000001,-116.27636670000001
-2,Vacant Land,747 E Orion Dr,Boise,ID,83702,400000,,,,15681.0,,103.0,http://www.redfin.com/ID/Boise/747-E-Orion-Dr-83702/home/109555887,43.6376527,-116.1802966
-3,Single Family Residential,12572 W Hidden Valley Dr,Boise,ID,83709,359000,3.0,2.0,2008.0,8712.0,2006.0,28.0,http://www.redfin.com/ID/Boise/12572-W-Hidden-Valley-Dr-83709/home/106695360,43.537023,-116.33832340000002
-4,Single Family Residential,547 E Orion Ct,Boise,ID,83702,2490000,5.0,4.5,4695.0,25351.0,2007.0,117.0,http://www.redfin.com/ID/Boise/547-E-Orion-Ct-83702/home/106678567,43.6367055,-116.18300719999999
-5,Townhouse,5883 S Blue Nile Ave,Boise,ID,83709,299900,3.0,2.5,1667.0,3876.0,2008.0,23.0,http://www.redfin.com/ID/Boise/5883-S-Blue-Nile-Ave-83709/home/106715138,43.549817100000006,-116.33388049999999
-6,Single Family Residential,3878 E Collingwood St,Meridian,ID,83642,340900,3.0,2.0,1618.0,7100.0,2020.0,67.0,http://www.redfin.com/ID/Meridian/3878-E-Collingwood-St-83642/home/172660841,43.5482851,-116.3459123
-7,Single Family Residential,3460 N Jullion St,Boise,ID,83704,309900,3.0,2.0,1387.0,8276.0,1975.0,,http://www.redfin.com/ID/Boise/3460-Jullion-St-83704/home/106749822,43.6362621,-116.30650220000001
-8,Single Family Residential,9052 W Donnybrook Ct,Boise,ID,83709,339000,3.0,2.0,1706.0,7056.0,1978.0,30.0,http://www.redfin.com/ID/Boise/W-Donnybrook-Dr-83709/home/106734633,43.601796,-116.29501299999998
-9,Single Family Residential,12763 W Broadleaf St,Boise,ID,83713,379900,4.0,2.5,2648.0,7405.0,2009.0,30.0,http://www.redfin.com/ID/Boise/12763-W-Broadleaf-St-83713/home/106782876,43.6349125,-116.3415095
-10,Single Family Residential,4713 W Catalpa Dr,Boise,ID,83703,449000,3.0,2.5,2142.0,6098.0,2004.0,,http://www.redfin.com/ID/Boise/4713-W-Catalpa-Dr-83703/home/106803222,43.655336,-116.247621
-11,Vacant Land,TBD Upper Blacks Creek Rd,Boise,ID,83716,1200000,,,,2613600.0,,,http://www.redfin.com/ID/Boise/TBD-Upper-Blacks-Creek-Rd-83716/home/160456955,43.6150186,-116.2023137
-12,Single Family Residential,11438 W Jennie Lakes St,Boise,ID,83709,349900,3.0,2.5,1710.0,6534.0,2007.0,25.0,http://www.redfin.com/ID/Boise/11438-W-Jennie-Lakes-St-83709/home/106676953,43.5485468,-116.3250011
-13,Single Family Residential,9722 W Blue Meadows St,Boise,ID,83709,339900,3.0,2.5,1934.0,6098.0,2006.0,26.0,http://www.redfin.com/ID/Boise/9722-W-Blue-Meadows-St-83709/home/106691738,43.5607951,-116.30313829999999
-14,Single Family Residential,1215 W Melrose St,Boise,ID,83706,314900,2.0,1.0,960.0,6098.0,1955.0,,http://www.redfin.com/ID/Boise/1215-W-Melrose-St-83706/home/106683920,43.5815026,-116.19682320000001
-15,Vacant Land,5136 CORRALERO Ln,Boise,ID,83702,399900,,,,18295.0,,50.0,http://www.redfin.com/ID/Boise/5136-N-Corralero-Ln-83702/home/168214182,43.662119,-116.188148
-16,Single Family Residential,5490 S Pepperridge Way,Boise,ID,83709,437900,3.0,2.0,2008.0,10890.0,2008.0,23.0,http://www.redfin.com/ID/Boise/5490-S-Pepperridge-Way-83709/home/106711768,43.5531359,-116.32077779999999
-17,Single Family Residential,1502 N 24th St,Boise,ID,83702,1400000,5.0,4.0,3752.0,11761.0,2004.0,,http://www.redfin.com/ID/Boise/1502-N-24th-St-83702/home/106766640,43.6340584,-116.21800459999999
-18,Townhouse,5643 S Caper Ln,Boise,ID,83716-6930,249500,2.0,1.5,1101.0,3484.0,1998.0,104.0,http://www.redfin.com/ID/Boise/5643-S-Caper-Pl-83716/home/106693464,43.550812,-116.13424199999999
-19,Single Family Residential,2026 E Goodman Ct,Boise,ID,83712,1100000,5.0,3.5,4234.0,9583.0,1994.0,30.0,http://www.redfin.com/ID/Boise/2026-E-Goodman-Ct-83712/home/106747513,43.600479,-116.1699787
-20,Single Family Residential,2589 S Georgetown Pl #8129,Boise,ID,83709,399900,3.0,2.0,2011.0,10018.0,1998.0,20.0,http://www.redfin.com/ID/Boise/2589-S-Georgetown-Pl-83709/unit-8129/home/172650629,43.579646200000006,-116.30923030000001
-21,Townhouse,3455 S Poco Loco,Boise,ID,83705,235000,2.0,1.5,956.0,2613.0,1994.0,,http://www.redfin.com/ID/Boise/3455-S-Poco-Loco-Pl-83705/home/106701199,43.5711352,-116.2014982
-22,Single Family Residential,3595 E Mardia St,Meridian,ID,83642,479900,4.0,2.5,2570.0,7927.0,2020.0,50.0,http://www.redfin.com/ID/Meridian/3595-E-Mardia-St-83642/home/172647401,43.550483299999996,-116.34941359999999
-23,Single Family Residential,421 S Curtis #33,Boise,ID,83705,259900,3.0,2.0,1452.0,,2014.0,,http://www.redfin.com/ID/Boise/421-S-Curtis-Rd-83705/unit-33/home/145176973,43.6012261,-116.25680179999999
-24,Single Family Residential,1907 S lake Heron Ln,Boise,ID,83706-0000,710000,3.0,3.0,2650.0,5227.0,1980.0,239.0,http://www.redfin.com/ID/Boise/1907-Lake-Heron-Ln-83706/home/106703885,43.589835,-116.17108999999999
-25,Single Family Residential,7056 E Los Carneros Dr,Boise,ID,83706,615000,3.0,2.5,2055.0,6229.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7056-E-Los-Carneros-DR-83706/home/172644840,43.5921208,-116.19333020000002
-26,Single Family Residential,7062 E Los Carneros Dr,Boise,ID,83716,615000,3.0,2.5,2070.0,6229.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7062-E-Los-Carneros-DR-Unknown/home/172644834,43.6150186,-116.2023137
-27,Single Family Residential,7044 E Los Carneros Dr,Boise,ID,83716,615000,3.0,2.5,2070.0,6229.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7044-E-Los-Carneros-DR-Unknown/home/172644320,43.6150186,-116.2023137
-28,Vacant Land,2310 E Warm Spgs,Boise,ID,83712,2519771,,,,81021.0,,,http://www.redfin.com/ID/Boise/2310-E-Warm-Springs-Ave-83712/home/172644147,43.598026399999995,-116.16382859999999
-29,Single Family Residential,7755 Bridlewood,Boise,ID,83704,350000,4.0,2.0,1920.0,9583.0,1969.0,,http://www.redfin.com/ID/Boise/7755-Bridlewood-Cir-83704/home/106663883,43.641396,-116.2784924
-30,Condo/Co-op,1412 N McKinney Ln,Boise,ID,83704,349900,3.0,2.5,1816.0,,2011.0,225.0,http://www.redfin.com/ID/Boise/1412-N-McKinney-Ln-83704/home/106671953,43.617745500000005,-116.26706270000001
-31,Single Family Residential,2003 N Cole,Boise,ID,83704,429000,9.0,4.0,3400.0,10890.0,1956.0,,http://www.redfin.com/ID/Boise/2003-N-Cole-Rd-83704/home/106652968,43.623244299999996,-116.2745084
-32,Single Family Residential,1305 N Chelsea St,Boise,ID,83704,314900,4.0,2.0,1510.0,7840.0,1965.0,,http://www.redfin.com/ID/Boise/1305-Chelsea-St-83704/home/106744432,43.6171006,-116.2765811
-33,Single Family Residential,6577 E Bend Ridge St,Boise,ID,83716,359000,4.0,2.5,1621.0,4007.0,2016.0,40.0,http://www.redfin.com/ID/Boise/6577-E-Bend-Ridge-St-83716/home/109561084,43.5303502,-116.1023388
-34,Single Family Residential,3575 E Mardia St,Meridian,ID,83642,524900,4.0,3.5,2775.0,7971.0,2020.0,50.0,http://www.redfin.com/ID/Meridian/3575-E-Mardia-St-83642/home/172642699,43.550481,-116.3496663
-35,Single Family Residential,45 Rocky Canyon Rd,Boise,ID,83716,2499000,4.0,4.0,5098.0,35719200.0,2017.0,,http://www.redfin.com/ID/Boise/45-Rocky-Canyon-Rd-83716/home/115180749,43.6372893,-116.0198848
-36,Single Family Residential,10241 W Guinevere Dr,Boise,ID,83704,313500,3.0,1.5,1496.0,8712.0,1973.0,,http://www.redfin.com/ID/Boise/10241-Guinevere-Dr-83704/home/106650275,43.632549700000006,-116.31020159999998
-37,Single Family Residential,1207 N Happy Dr,Boise,ID,83706,785000,3.0,3.0,3430.0,13068.0,1956.0,,http://www.redfin.com/ID/Boise/1207-Happy-Dr-83706/home/106703595,43.615482799999995,-116.23132620000001
-38,Single Family Residential,3004 N 36th St,Boise,ID,83703,325000,2.0,1.0,805.0,4791.0,1912.0,,http://www.redfin.com/ID/Boise/3004-36th-St-83703/home/106701138,43.6474581,-116.233122
-39,Condo/Co-op,119 S 10th #401,Boise,ID,83702,685000,2.0,2.0,1500.0,,2016.0,323.0,http://www.redfin.com/ID/Boise/119-S-10th-St-83702/unit-401/home/109561086,43.6165374,-116.206601
-40,Single Family Residential,2713 W Hazel St,Boise,ID,83702,349999,2.0,1.0,881.0,3049.0,1920.0,,http://www.redfin.com/ID/Boise/2713-W-Hazel-St-83702/home/106668205,43.6344899,-116.22285929999998
-41,Condo/Co-op,5122 S Surprise Way #205,Boise,ID,83716,340000,2.0,2.0,1470.0,,1997.0,286.0,http://www.redfin.com/ID/Boise/5122-S-Surprise-Way-83716/unit-205/home/106775234,43.5565172,-116.12325859999999
-42,Single Family Residential,10420 W Huntwood Dr,Boise,ID,83709,244900,3.0,1.0,960.0,17859.0,1975.0,,http://www.redfin.com/ID/Boise/10420-W-Huntwood-Dr-83709/home/106663806,43.537518,-116.312329
-43,Single Family Residential,10553 W Harness,Boise,ID,83709,725000,4.0,3.0,2604.0,114562.0,1996.0,83.0,http://www.redfin.com/ID/Boise/10553-W-Harness-Dr-83709/home/106800308,43.558707,-116.313374
-44,Mobile/Manufactured Home,2156 Blue Lake Ln #46,Boise,ID,83716,129764,3.0,2.0,1279.0,,2020.0,,http://www.redfin.com/ID/Boise/2156-Blue-Lake-Ln-83716/unit-46/home/172640450,43.52684910000001,-116.1573614
-45,Single Family Residential,9617 W Tanglewood Dr,Boise,ID,83709,340000,4.0,2.0,2013.0,7187.0,2014.0,33.0,http://www.redfin.com/ID/Boise/9617-W-Tanglewood-Dr-83709/home/106715850,43.532424400000004,-116.3019437
-46,Single Family Residential,6105 E Hootowl Dr,Boise,ID,83716,999999,3.0,2.5,3090.0,11979.0,2017.0,83.0,http://www.redfin.com/ID/Boise/6105-E-Hootowl-Dr-83716/home/142666386,43.5763287,-116.1127426
-47,Single Family Residential,5971 N Collister,Boise,ID,83703,549900,4.0,3.0,2884.0,10062.0,1979.0,15.0,http://www.redfin.com/ID/Boise/5971-N-Collister-Dr-83703/home/106740259,43.6745474,-116.236726
-48,Single Family Residential,2316 W Kootenai St,Boise,ID,83705,339900,4.0,2.0,1933.0,7405.0,1948.0,,http://www.redfin.com/ID/Boise/2316-W-Kootenai-St-83705/home/106653439,43.593641399999996,-116.2109223
-49,Single Family Residential,1612 N 21st St,Boise,ID,83702,998000,4.0,3.0,3449.0,6098.0,1923.0,,http://www.redfin.com/ID/Boise/1612-N-21st-St-83702/home/106657830,43.6352124,-116.21423459999998
-50,Single Family Residential,2718 E Rhyolite Way,Boise,ID,83712,624900,4.0,3.0,2026.0,10454.0,1962.0,,http://www.redfin.com/ID/Boise/2718-E-Rhyolite-Way-83712/home/106716598,43.5857777,-116.1548007
-51,Single Family Residential,4620 W Denton,Boise,ID,83706,459000,4.0,2.0,2368.0,5227.0,1954.0,,http://www.redfin.com/ID/Boise/4620-W-Denton-St-83706/home/106765347,43.6099991,-116.2395581
-52,Single Family Residential,6418 W Dorian,Boise,ID,83709,299999,3.0,1.0,1075.0,7405.0,1964.0,,http://www.redfin.com/ID/Boise/6418-W-Dorian-St-83709/home/106660945,43.588998600000004,-116.26196000000002
-53,Townhouse,1909 S Springbrook,Boise,ID,83706,440000,2.0,2.5,1422.0,3049.0,1985.0,304.0,http://www.redfin.com/ID/Boise/1909-S-Springbrook-Ln-83706/home/106703575,43.588031799999996,-116.16758840000001
-54,Single Family Residential,3233 E Red Stone Dr,Boise,ID,83712,649900,4.0,2.5,3016.0,11761.0,1993.0,,http://www.redfin.com/ID/Boise/3233-E-Red-Stone-Dr-83712/home/106681970,43.5884671,-116.14675749999999
-55,Single Family Residential,2615 W Kathryn Cir,Boise,ID,83705,359900,4.0,2.0,1956.0,11325.0,1955.0,,http://www.redfin.com/ID/Boise/W-Kathryn-St-83705/home/106700930,43.57947,-116.21458100000001
-56,Single Family Residential,5969 S Hill Farm Way,Meridian,ID,83642,539900,4.0,3.0,2965.0,8973.0,2020.0,50.0,http://www.redfin.com/ID/Meridian/5969-S-Hill-Farm-Way-83642/home/172615984,43.550596500000005,-116.3501625
-57,Single Family Residential,5605 W Plymouth St,Boise,ID,83706-1061,499900,4.0,2.5,2638.0,10715.0,1954.0,,http://www.redfin.com/ID/Boise/5605-W-Plymouth-St-83706/home/106732178,43.6228054,-116.251438
-58,Single Family Residential,7823 S Cape View Way,Boise,ID,83709,340000,4.0,2.5,2323.0,7405.0,2017.0,37.0,http://www.redfin.com/ID/Boise/7823-S-Cape-View-Way-83709/home/144011026,43.531858500000006,-116.29758659999999
-59,Single Family Residential,9826 W Mossy Cup,Boise,ID,83709,429900,3.0,2.0,2327.0,10454.0,1999.0,20.0,http://www.redfin.com/ID/Boise/9826-W-Mossy-Cup-St-83709/home/106654064,43.5780059,-116.3045529
-60,Single Family Residential,2609 N Columbine Ave,Boise,ID,83713-5257,454884,4.0,3.5,2796.0,8276.0,2006.0,17.0,http://www.redfin.com/ID/Boise/2609-N-Columbine-Ave-83713/home/106773683,43.6286395,-116.3272551
-61,Single Family Residential,5213 W Franklin Rd,Boise,ID,83705,349900,4.0,2.0,1416.0,5662.0,1946.0,,http://www.redfin.com/ID/Boise/5213-W-Franklin-Rd-83705/home/106695032,43.602618,-116.2467282
-62,Single Family Residential,17 Daggett Rim Rd,Boise,ID,83716,399900,3.0,2.0,1500.0,25700.0,2020.0,205.0,http://www.redfin.com/ID/Boise/17-Daggett-Rim-Rd-83716/home/145604523,43.676224,-115.9855313
-63,Vacant Land,TBD Round Up Circle HC2,Boise,ID,83716,115000,,,,225640.0,,33.0,http://www.redfin.com/ID/Unknown/TBD-Round-Up-Cir-83716/home/172551122,43.7139049,-115.9320054
-64,Vacant Land,2 Mores Creek Hts,Boise,ID,83716,215000,,,,1428767.0,,,http://www.redfin.com/ID/Boise/2-Mores-Creek-Cir-83716/home/144297749,43.674046000000004,-115.9832624
-65,Condo/Co-op,419 S 8th St #309,Boise,ID,83702,488000,1.0,1.0,1088.0,,1929.0,264.0,http://www.redfin.com/ID/Boise/419-S-8th-St-83702/unit-309/home/106684012,43.612857500000004,-116.2066169
-66,Mobile/Manufactured Home,2109 Blue Sage #116,Boise,ID,83716,99000,3.0,2.0,1216.0,,2015.0,,http://www.redfin.com/ID/Boise/2109-Blue-Sage-Ln-83716/unit-116/home/145578295,43.5243946,-116.1575065
-67,Single Family Residential,2876 S Grebe Pl,Boise,ID,83716,949000,4.0,3.5,3485.0,11761.0,2018.0,108.0,http://www.redfin.com/ID/Boise/2876-Grebe-Pl-83716/home/142666373,43.5757842,-116.11418390000001
-68,Townhouse,3326 E Front Runner Ln,Boise,ID,83716,459900,2.0,2.5,1995.0,1393.0,2016.0,125.0,http://www.redfin.com/ID/Boise/3326-E-Front-Runner-Ln-83716/home/109558903,43.573283200000006,-116.14386540000001
-69,Single Family Residential,5921 E Foxgrove Dr,Boise,ID,83716,1050000,4.0,3.5,3375.0,9931.0,2020.0,108.0,http://www.redfin.com/ID/Boise/5921-E-Foxgrove-DR-Unknown/home/172006302,43.6150186,-116.2023137
-70,Single Family Residential,3617 N Sawgrass Way,Boise,ID,83704,564990,5.0,3.0,3574.0,8712.0,1992.0,28.0,http://www.redfin.com/ID/Boise/3617-N-Sawgrass-Way-83704/home/106693597,43.63738370000001,-116.28003909999998
-71,Single Family Residential,1533 S Boulder View Ln,Boise,ID,83712,749000,3.0,2.5,2683.0,7405.0,2020.0,65.0,http://www.redfin.com/ID/Boise/S-Boulder-Dr-83709/home/168213557,43.589399,-116.16084099999999
-72,Single Family Residential,3323 E Heartleaf Dr,Boise,ID,83716,849500,5.0,3.0,4939.0,14810.0,2010.0,35.0,http://www.redfin.com/ID/Boise/3323-E-Heartleaf-Dr-83716/home/106725106,43.5419472,-116.14258219999999
-73,Single Family Residential,13511 W Annabrook Dr,Boise,ID,83713,420000,5.0,3.5,3088.0,10367.0,1998.0,35.0,http://www.redfin.com/ID/Boise/13511-W-Annabrook-Dr-83713/home/106717371,43.659602299999996,-116.35092720000002
-74,Single Family Residential,5641 E Hootowl Dr,Boise,ID,83716,1100000,3.0,3.0,3013.0,10018.0,2017.0,108.0,http://www.redfin.com/ID/Boise/5641-E-Hootowl-Dr-83716/home/142666341,43.57602979999999,-116.1185105
-75,Single Family Residential,10189 W Edna,Boise,ID,83704,299000,4.0,2.0,2443.0,8276.0,1987.0,5.0,http://www.redfin.com/ID/Boise/10189-W-Edna-St-83704/home/106777988,43.6417151,-116.30908219999999
-76,Vacant Land,TBD Rimview Dr,Boise,ID,83716,77000,,,,37026.0,,,http://www.redfin.com/ID/Unknown/TBD-Rimview-Dr-83716/home/147692589,43.6808602,-115.96578170000001
-77,Single Family Residential,6815 E Warm Springs Ave,Boise,ID,83716,649900,4.0,3.0,2669.0,6098.0,2018.0,58.0,http://www.redfin.com/ID/Boise/6815-E-Warm-Springs-Ave-83716/home/146240332,43.555083700000004,-116.0988936
-78,Townhouse,8989 W Landmark Ct,Boise,ID,83704,317900,2.0,2.0,1421.0,3049.0,1994.0,130.0,http://www.redfin.com/ID/Boise/8989-W-Landmark-Ct-83704/home/106683129,43.623236,-116.29379809999999
-79,Single Family Residential,4688 N Arrow Villa Way,Boise,ID,83703,879900,5.0,3.5,3897.0,20429.0,2005.0,37.0,http://www.redfin.com/ID/Boise/4688-N-Arrow-Villa-Way-83703/home/106768912,43.6602684,-116.215528
-80,Single Family Residential,9734 Macaw,Boise,ID,83704,374900,3.0,2.5,1964.0,4225.0,2020.0,20.0,http://www.redfin.com/ID/Boise/9734-W-Macaw-St-83704/home/168211910,43.629462200000006,-116.30402190000001
-81,Single Family Residential,2057 S White Pine Ln,Boise,ID,83706,899900,3.0,2.5,3046.0,13503.0,1983.0,130.0,http://www.redfin.com/ID/Boise/2057-S-White-Pine-Ln-83706/home/106719220,43.586546999999996,-116.1690534
-82,Single Family Residential,3501 S Centennial Way,Boise,ID,83706,469900,5.0,3.0,2112.0,8712.0,1976.0,,http://www.redfin.com/ID/Boise/3501-S-Centennial-Way-83706/home/106717281,43.570583299999996,-116.1671994
-83,Condo/Co-op,851 W Front St #1101,Boise,ID,83702,769000,2.0,2.0,1586.0,,2009.0,675.0,http://www.redfin.com/ID/Boise/851-W-Front-St-83702/unit-1101/home/106693583,43.6141528,-116.20544170000001
-84,Single Family Residential,9718 Macaw,Boise,ID,83704,369000,3.0,2.5,1884.0,4268.0,2020.0,20.0,http://www.redfin.com/ID/Boise/9718-W-Macaw-St-83704/home/168211915,43.629462,-116.3037168
-85,Mobile/Manufactured Home,7833 W Manassas Ln,Garden City,ID,83714,112800,2.0,2.0,990.0,,2017.0,,http://www.redfin.com/ID/Boise/7833-Manassas-Ln-83714/home/172575401,43.6709741,-116.2853643
-86,Single Family Residential,286 W Sherman,Boise,ID,83702,749900,4.0,3.0,2406.0,8276.0,1996.0,,http://www.redfin.com/ID/Boise/286-W-Sherman-St-83702/home/106692578,43.6282419,-116.19061359999999
-87,Single Family Residential,7431 Wilshire,Boise,ID,83704,314900,3.0,1.5,1385.0,13503.0,1955.0,,http://www.redfin.com/ID/Boise/7431-Wilshire-Dr-83704/home/106684602,43.6206658,-116.27561340000001
-88,Single Family Residential,2613 N Woody Dr,Boise,ID,83703,349000,2.0,1.0,620.0,9147.0,1947.0,,http://www.redfin.com/ID/Boise/2613-Woody-Dr-83703/home/106690093,43.6440065,-116.2356602
-89,Single Family Residential,12553 W Woodmurra Ct,Boise,ID,83709,419900,4.0,3.5,2493.0,8276.0,2000.0,27.0,http://www.redfin.com/ID/Boise/12553-W-Woodmurra-Ct-83709/home/106794052,43.5603667,-116.33861440000001
-90,Single Family Residential,6412 W Lion Ave,Boise,ID,83709-2941,274900,3.0,1.0,1363.0,11194.0,1963.0,,http://www.redfin.com/ID/Boise/6412-W-Lion-Ave-83709/home/106783005,43.5874157,-116.26119170000001
-91,Single Family Residential,11533 W Jenilyn Ct,Boise,ID,83713,379000,4.0,2.0,2775.0,8712.0,1990.0,,http://www.redfin.com/ID/Boise/11533-W-Jenilyn-Ct-83713/home/106796270,43.654522,-116.3259341
-92,Single Family Residential,4730 S Silvermaple Ave,Boise,ID,83709,425000,3.0,3.0,2580.0,8276.0,2006.0,26.0,http://www.redfin.com/ID/Boise/4730-S-Silvermaple-Ave-83709/home/106711505,43.559969099999996,-116.29944850000001
-93,Single Family Residential,5490 S Palatino,Meridian,ID,83642,580000,5.0,3.5,3314.0,9060.0,2016.0,50.0,http://www.redfin.com/ID/Meridian/5490-S-Palatino-Ave-83642/home/109557055,43.5551785,-116.353066
-94,Townhouse,3280 E Front Runner Ln,Boise,ID,83716,450000,3.0,2.5,1901.0,1393.0,2016.0,125.0,http://www.redfin.com/ID/Boise/3280-E-Front-Runner-Ln-83716/home/109558328,43.5739592,-116.1444717
-95,Single Family Residential,3679 N Lena Ave,Boise,ID,83713,300000,3.0,2.0,1026.0,6969.0,1987.0,,http://www.redfin.com/ID/Boise/3679-N-Lena-Ave-83713/home/106785865,43.6382342,-116.32914469999999
-96,Single Family Residential,8555 W Thunder Mountain Dr,Boise,ID,83709,469900,4.0,3.5,2807.0,6795.0,2001.0,,http://www.redfin.com/ID/Boise/8555-W-Thunder-Mountain-Dr-83709/home/106714956,43.56449620000001,-116.28879740000002
-97,Single Family Residential,719 S Wickham Fen Way,Boise,ID,83709,399000,5.0,3.0,2616.0,9060.0,1980.0,,http://www.redfin.com/ID/Boise/719-S-Wickham-Fen-Way-83709/home/106719465,43.598501500000005,-116.3236814
-98,Single Family Residential,3015 N Arthur Cir,Boise,ID,83703,379900,4.0,1.0,1267.0,6969.0,1970.0,,http://www.redfin.com/ID/Boise/3015-N-Arthur-St-83703/home/106671993,43.647792200000005,-116.2376737
-99,Single Family Residential,2626 N 23rd Ln,Boise,ID,83702,699900,4.0,3.0,2706.0,5270.0,2016.0,21.0,http://www.redfin.com/ID/Boise/2626-N-23rd-St-83702/home/109559726,43.6436766,-116.21671359999999
-100,Single Family Residential,2001 N Harrison Blvd,Boise,ID,83702,899000,4.0,2.0,3564.0,6098.0,1921.0,,http://www.redfin.com/ID/Boise/2001-N-Harrison-Blvd-83702/home/106703564,43.6365558,-116.20861670000001
-101,Single Family Residential,5857 E Black Gold St,Boise,ID,83716,531900,4.0,3.0,2906.0,8102.0,2018.0,40.0,http://www.redfin.com/ID/Boise/5857-E-Black-Gold-St-83716/home/144117750,43.527692200000004,-116.11124440000002
-102,Single Family Residential,1211 E Shaw Mountian,Boise,ID,83712,999000,3.0,3.5,2512.0,14157.0,2020.0,,http://www.redfin.com/ID/Boise/1211-E-Shaw-Mountain-Ct-83712/home/172550101,43.614666299999996,-116.1776507
-103,Single Family Residential,1373 W Martin St,Boise,ID,83706,585000,2.0,2.0,1844.0,7274.0,1997.0,90.0,http://www.redfin.com/ID/Boise/1373-Martin-St-83706/home/106664976,43.5885902,-116.1982486
-104,Single Family Residential,11986 W Rader Dr,Boise,ID,83713,438000,5.0,3.0,3000.0,7187.0,1997.0,23.0,http://www.redfin.com/ID/Boise/11986-W-Rader-Dr-83713/home/106659820,43.6504615,-116.3317216
-105,Single Family Residential,1811 N 14th,Boise,ID,83702-2641,699900,4.0,2.5,1980.0,6098.0,1941.0,,http://www.redfin.com/ID/Boise/1811-N-14th-St-83702/home/106796250,43.6332965,-116.2048061
-106,Vacant Land,11 Big Springs Rd,Boise,ID,83716-0000,59900,,,,88426.0,,,http://www.redfin.com/ID/Boise/11-Big-Spring-Rd-83716/home/143184388,43.7496626,-115.98548410000001
-107,Single Family Residential,11017 W Wampum Dr,Boise,ID,83704,266000,3.0,2.0,1399.0,8712.0,1976.0,,http://www.redfin.com/ID/Boise/11017-Wampum-Dr-83713/home/106729258,43.6346114,-116.31961820000001
-108,Single Family Residential,4737 N Pennfield,Boise,ID,83713,294000,3.0,2.0,1302.0,6098.0,1987.0,,http://www.redfin.com/ID/Boise/4737-N-Pennfield-Pl-83713/home/106694313,43.6482284,-116.32314939999999
-109,Townhouse,7436 W Garden Gln,Boise,ID,83714,349000,3.0,2.0,1864.0,7840.0,1997.0,150.0,http://www.redfin.com/ID/Boise/7436-W-Garden-Glen-Dr-83714/home/106773582,43.670705100000006,-116.2808499
-110,Single Family Residential,2858 S Shady Ln,Boise,ID,83716,571211,4.0,3.0,2778.0,3876.0,2020.0,116.0,http://www.redfin.com/ID/Boise/2858-Shady-Ln-83716/home/172532942,43.5779159,-116.1299726
-111,Single Family Residential,2315 S Broadway Ave,Boise,ID,83706,1200000,5.0,3.0,3921.0,49614.0,1912.0,,http://www.redfin.com/ID/Boise/2315-Broadway-Ave-83706/home/106722946,43.5820868,-116.1942916
-112,Condo/Co-op,851 W Front St #1401,Boise,ID,83702,2399000,3.0,2.5,4237.0,,2009.0,1353.0,http://www.redfin.com/ID/Boise/851-W-Front-St-83702/unit-1401/home/106685667,43.6141485,-116.2054497
-113,Single Family Residential,2118 N Springland Pl,Boise,ID,83713,429000,4.0,4.0,2919.0,12414.0,1996.0,13.0,http://www.redfin.com/ID/Boise/2118-N-Springland-Pl-83713/home/106723025,43.6240772,-116.3215362
-114,Vacant Land,780 E Nature View Ct,Boise,ID,83702,400000,,,,22215.0,,103.0,http://www.redfin.com/ID/Boise/780-E-Nature-View-Ct-83702/home/142668140,43.633716799999995,-116.180021
-115,Single Family Residential,4235 E Raincloud Ln,Boise,ID,83716,514533,4.0,3.5,2362.0,2003.0,2020.0,116.0,http://www.redfin.com/ID/Boise/4235-E-Raincloud-LN-Unknown/home/172522547,43.6150186,-116.2023137
-116,Single Family Residential,4229 E Raincloud Ln,Boise,ID,83716,504874,4.0,3.5,2191.0,2003.0,2020.0,116.0,http://www.redfin.com/ID/Boise/4229-E-Raincloud-LN-Unknown/home/172522411,43.6150186,-116.2023137
-117,Single Family Residential,3880 N Patricia Ln,Boise,ID,83704,269900,2.0,1.5,942.0,6969.0,2008.0,,http://www.redfin.com/ID/Boise/3880-N-Patricia-Ln-83704/home/106714224,43.640302,-116.29788700000002
-118,Mobile/Manufactured Home,1242 N Oakwood,Boise,ID,83704,84900,3.0,2.0,1152.0,,1995.0,,http://www.redfin.com/ID/Boise/1242-N-Oakwood-Ln-83704/home/145180362,43.6163242,-116.290173
-119,Single Family Residential,6320 S San Luis,Boise,ID,83709,534900,4.0,3.0,2750.0,36154.0,1973.0,,http://www.redfin.com/ID/Boise/6320-S-San-Luis-Way-83709/home/106785830,43.5454026,-116.3325959
-120,Single Family Residential,1311 N Shamrock,Boise,ID,83713-7950,279999,3.0,2.0,1533.0,8276.0,1936.0,11.0,http://www.redfin.com/ID/Boise/1311-N-Shamrock-Ave-83713/home/106769650,43.6168226,-116.324766
-121,Single Family Residential,10804 W Spring River St,Boise,ID,83709,384900,4.0,2.5,2617.0,8189.0,2006.0,21.0,http://www.redfin.com/ID/Boise/10804-W-Spring-River-St-83709/home/106799928,43.553562400000004,-116.316682
-122,Single Family Residential,8918 W Amity Rd,Boise,ID,83709,294900,3.0,2.0,1236.0,6098.0,2000.0,25.0,http://www.redfin.com/ID/Boise/8918-W-Amity-Rd-83709/home/106736261,43.5612833,-116.2929169
-123,Single Family Residential,2211 S Janeen,Boise,ID,83709,496000,3.0,3.5,2030.0,12632.0,1956.0,,http://www.redfin.com/ID/Boise/2211-S-Janeen-St-83709/home/106798817,43.5821597,-116.2563883
-124,Townhouse,3219 N Native Ln,Boise,ID,83704,405000,3.0,2.5,1781.0,3049.0,1997.0,70.0,http://www.redfin.com/ID/Boise/3219-N-Native-Ln-83704/home/106751805,43.634583899999996,-116.27076399999999
-125,Single Family Residential,2425 N Heights Dr,Boise,ID,83702,595000,3.0,2.0,1608.0,5662.0,1985.0,,http://www.redfin.com/ID/Boise/2425-Heights-Dr-83702/home/106671054,43.633189,-116.1953381
-126,Single Family Residential,14122 W Bunkerhill,Boise,ID,83713,478750,5.0,3.0,3024.0,8799.0,1996.0,25.0,http://www.redfin.com/ID/Boise/14122-W-Bunkerhill-St-83713/home/106741734,43.6480229,-116.3584124
-127,Vacant Land,2372 S Via Privada,Boise,ID,83712,425000,,,,15681.0,,100.0,http://www.redfin.com/ID/Boise/2372-S-Via-Privada-Ln-83716/home/142665470,43.5810665,-116.13925619999999
-128,Single Family Residential,6315 E Wildhorse Ln,Boise,ID,83712,2970000,3.0,3.5,4025.0,1808262.0,2013.0,,http://www.redfin.com/ID/Boise/6315-E-Wild-Horse-Ln-83712/home/106676258,43.617525,-116.10898999999999
-129,Condo/Co-op,5908 Bremerton,Boise,ID,83714,329000,2.0,2.5,1592.0,,2009.0,80.0,http://www.redfin.com/ID/Boise/5908-N-Bremerton-Pl-83714/home/106654803,43.673999,-116.277622
-130,Single Family Residential,2311 N 34th St,Boise,ID,83703,749000,3.0,2.5,3117.0,5662.0,2015.0,,http://www.redfin.com/ID/Boise/2311-N-34th-St-83703/home/106726519,43.6413738,-116.23114640000001
-131,Single Family Residential,3203 S Lindsay,Boise,ID,83705,249900,2.0,1.0,1136.0,6098.0,1910.0,,http://www.redfin.com/ID/Boise/3203-S-Lindsay-Ave-83705/home/106717257,43.5734611,-116.19993799999999
-132,Condo/Co-op,2500 Bogus Basin Rd #300,Boise,ID,83702,599900,2.0,3.0,2222.0,,2006.0,462.0,http://www.redfin.com/ID/Boise/2500-N-Bogus-Basin-Rd-83702/unit-300/home/172511099,43.642189,-116.20693
-133,Single Family Residential,3703 N Lakegrove Way,Boise,ID,83713,364900,4.0,2.0,1880.0,9147.0,1992.0,4.0,http://www.redfin.com/ID/Boise/3703-N-Lakegrove-Pl-83713/home/106700601,43.638422,-116.3329
-134,Single Family Residential,6825 Brentwood,Boise,ID,83709,379900,5.0,3.0,2352.0,11543.0,1963.0,,http://www.redfin.com/ID/Boise/6825-Brentwood-Dr-83709/home/106665338,43.591307799999996,-116.2677003
-135,Single Family Residential,4977 N Hollow Ln,Boise,ID,83702,998000,4.0,5.5,4654.0,6098.0,1985.0,290.0,http://www.redfin.com/ID/Boise/4977-N-Hollow-Ln-83702/home/106730077,43.6578795,-116.1757957
-136,Single Family Residential,10966 W Highlander Rd,Boise,ID,83709,599000,5.0,3.0,2902.0,35719.0,1973.0,,http://www.redfin.com/ID/Boise/10966-W-Highlander-Rd-83709/home/106694151,43.5568922,-116.3186949
-137,Condo/Co-op,1411 Grand Ave #104,Boise,ID,83702,345000,3.0,1.5,1095.0,,2008.0,206.0,http://www.redfin.com/ID/Boise/1411-W-Grand-Ave-83702/unit-104/home/106711055,43.6169213,-116.2141318
-138,Vacant Land,740 E Brooktrail Ln,Eagle,ID,83616,194500,,,,4791.0,,125.0,http://www.redfin.com/ID/Eagle/Unknown-Unknown/home/146105524,43.665127000000005,-116.34519499999999
-139,Single Family Residential,2837 Creek Pointe Ln,Eagle,ID,83616,560000,3.0,2.0,2207.0,6534.0,2015.0,133.0,http://www.redfin.com/ID/Eagle/2837-S-Creek-Pointe-Ln-83616/home/109554683,43.6693213,-116.35035790000002
-140,Mobile/Manufactured Home,8569 Blue Hill Ln,Boise,ID,83716,109900,4.0,2.0,1890.0,,2002.0,,http://www.redfin.com/ID/Boise/8569-Blue-Hill-Ln-83716/home/147624045,43.5246633,-116.15890209999999
-141,Mobile/Manufactured Home,2283 Blue Lake Ln,Boise,ID,83716,114900,3.0,2.0,1344.0,,2019.0,,http://www.redfin.com/ID/Boise/2283-Blue-Lake-Ln-83716/home/167122224,43.5259208,-116.1556716
-142,Single Family Residential,9585 W Bronze Dr,Boise,ID,83709,354900,5.0,3.0,3596.0,7318.0,2006.0,37.0,http://www.redfin.com/ID/Boise/9585-W-Bronze-Dr-83709/home/106681743,43.5425036,-116.3015445
-143,Mobile/Manufactured Home,9915 Abram Ln,Boise,ID,83704,59900,2.0,2.0,924.0,,1981.0,,http://www.redfin.com/ID/Boise/9915-Abram-Ln-83704/home/172480658,43.628823600000004,-116.3045801
-144,Single Family Residential,3822 W Lemhi,Boise,ID,83705,1000000,3.0,1.0,1128.0,48351.0,1944.0,,http://www.redfin.com/ID/Boise/3822-Lemhi-St-83705/home/106744133,43.583767,-116.22963600000001
-145,Single Family Residential,11519 N 20TH Pl,Boise,ID,83714,524900,3.0,2.0,1860.0,8581.0,2020.0,84.0,http://www.redfin.com/ID/Boise/11519-N-20th-St-83702/home/172454850,43.634628,-116.2133183
-146,Single Family Residential,2349 N Broadview,Boise,ID,83702,915000,3.0,3.0,2745.0,16117.0,1991.0,108.0,http://www.redfin.com/ID/Boise/2349-N-Broadview-Pl-83702/home/106788318,43.635306400000005,-116.19455090000001
-147,Multi-Family (2-4 Unit),5044 W Clinton St,Boise,ID,83706,399900,4.0,2.0,1916.0,8712.0,1976.0,,http://www.redfin.com/ID/Boise/5044-W-Clinton-St-83706/home/106666989,43.6091093,-116.24463020000002
-148,Single Family Residential,4665 N Bantry Pl,Boise,ID,83702,798000,5.0,3.5,3173.0,11325.0,1993.0,17.0,http://www.redfin.com/ID/Boise/4665-N-Bantry-Pl-83702/home/106785535,43.654917600000005,-116.17404209999998
-149,Single Family Residential,10870 W Camas St,Boise,ID,83709,399900,5.0,3.0,2736.0,20037.0,1986.0,,http://www.redfin.com/ID/Boise/10870-W-Camas-St-83709/home/106811250,43.5966145,-116.31785790000002
-150,Townhouse,7749 W Crestwood Dr,Boise,ID,83704,399000,2.0,2.5,1609.0,1829.0,2020.0,60.0,http://www.redfin.com/ID/Boise/7749-W-Crestwood-Dr-83704/home/172433010,43.6446669,-116.27872020000001
-151,Townhouse,7755 Crestwood Dr,Boise,ID,83704,399000,3.0,2.5,1619.0,2003.0,2020.0,60.0,http://www.redfin.com/ID/Boise/7755-W-Crestwood-Dr-83704/home/106775042,43.644658899999996,-116.2787966
-152,Townhouse,7797 W Crestwood Dr,Boise,ID,83704,372000,3.0,2.5,1609.0,1916.0,2020.0,60.0,http://www.redfin.com/ID/Boise/7797-W-Crestwood-Dr-83704/home/172432894,43.6447153,-116.2793742
-153,Single Family Residential,303 W Carter,Boise,ID,83706,475000,3.0,2.0,2012.0,4486.0,1978.0,87.0,http://www.redfin.com/ID/Boise/303-W-Carter-St-83706/home/106665139,43.573189500000005,-116.18487169999999
-154,Single Family Residential,9909 W Lillywood Dr,Boise,ID,83709,349900,3.0,2.0,1843.0,7405.0,2016.0,25.0,http://www.redfin.com/ID/Boise/9909-W-Lillywood-Dr-83709/home/109555248,43.5401713,-116.3053365
-155,Single Family Residential,3635 E Mardia St,Meridian,ID,83642,555777,3.0,2.5,2574.0,7971.0,2020.0,50.0,http://www.redfin.com/ID/Meridian/3635-E-Mardia-St-83642/home/172406921,43.5504858,-116.34892909999999
-156,Single Family Residential,112 E Boise,Boise,ID,83706-4302,600000,3.0,2.0,2128.0,23958.0,1950.0,,http://www.redfin.com/ID/Boise/112-E-Boise-Ave-83706/home/106733483,43.586422,-116.18281599999999
-157,Single Family Residential,2007 S Surrey Rd,Boise,ID,83709,550000,4.0,3.0,2457.0,20603.0,2020.0,,http://www.redfin.com/ID/Boise/2007-Surrey-Rd-83709/home/106675109,43.585341,-116.28592900000001
-158,Single Family Residential,2550 S Flotilla Ave,Boise,ID,83706,649500,4.0,3.0,2914.0,13024.0,1992.0,27.0,http://www.redfin.com/ID/Boise/2550-S-Flotilla-Ave-83706/home/106757263,43.579639799999995,-116.1675124
-159,Townhouse,277 S COSTON,Boise,ID,83712,459900,3.0,2.5,2308.0,3484.0,1979.0,309.0,http://www.redfin.com/ID/Boise/277-S-Coston-Ln-83712/home/106760755,43.6032717,-116.1783949
-160,Single Family Residential,11612 W Overland Rd,Boise,ID,83709,340000,3.0,2.5,1802.0,4791.0,2016.0,67.0,http://www.redfin.com/ID/Boise/11612-W-Overland-Rd-83709/home/109558344,43.5904571,-116.3268213
-161,Single Family Residential,6824 Fairfield,Boise,ID,83709,550000,4.0,3.5,2407.0,10018.0,2019.0,,http://www.redfin.com/ID/Boise/6824-Fairfield-Ave-83709/home/106784948,43.596127200000005,-116.26584979999998
-162,Single Family Residential,2300 W Palouse St,Boise,ID,83705,375000,5.0,2.0,2538.0,10890.0,1955.0,,http://www.redfin.com/ID/Boise/2300-W-Palouse-St-83705/home/106667275,43.58554779999999,-116.2100126
-163,Townhouse,7406 W Althea Ct,Boise,ID,83709,268000,2.0,1.0,854.0,4225.0,1982.0,,http://www.redfin.com/ID/Boise/7406-Althea-Ct-83709/home/106740285,43.595354799999996,-116.2744305
-164,Single Family Residential,9900 E Sandy Point Ln,Boise,ID,83716,985000,3.0,3.0,2412.0,479595.0,1990.0,,http://www.redfin.com/ID/Boise/9900-E-Sandy-Point-Ln-83716/home/106653805,43.532331,-116.065393
-165,Single Family Residential,2804 E Hard Rock Dr,Boise,ID,83712,1125000,4.0,3.0,3215.0,13982.0,2020.0,50.0,http://www.redfin.com/ID/Boise/2804-E-Hard-Rock-Dr-83712/home/106739233,43.587589,-116.152699
-166,Single Family Residential,6747 E Zaffre Ridge St,Boise,ID,83716,388540,3.0,2.0,1530.0,6229.0,2020.0,29.0,http://www.redfin.com/ID/Boise/6747-E-Alta-Ridge-Ct-83716/home/172385358,43.5422558,-116.13694879999998
-167,Single Family Residential,8274 S Bogus Ridge St,Boise,ID,83716,429990,4.0,2.0,2025.0,7230.0,2020.0,29.0,http://www.redfin.com/ID/Boise/8274-S-Bogus-Ridge-Way-83716/home/172385271,43.5279544,-116.09982340000002
-168,Single Family Residential,8262 S Bogus Ridge St,Boise,ID,83716,471774,4.0,2.5,2530.0,7492.0,2020.0,29.0,http://www.redfin.com/ID/Boise/8262-S-Bogus-Ridge-Way-83716/home/172382473,43.5279544,-116.09982340000002
-169,Vacant Land,601 W Beeson St,Boise,ID,83706-4713,150000,,,,7405.0,,,http://www.redfin.com/ID/Boise/601-W-Beeson-St-83706/home/106802093,43.577777000000005,-116.1887773
-170,Condo/Co-op,1751 Bogus Basin Rd #201,Boise,ID,83702,275000,0.0,1.0,483.0,,1975.0,367.0,http://www.redfin.com/ID/Boise/1751-N-Bogus-Basin-Rd-83702/unit-201/home/115252773,43.771458100000004,-116.10541540000001
-171,Townhouse,11295 W Gabrielle Dr,Boise,ID,83713,244900,2.0,2.5,1157.0,1176.0,2020.0,55.0,http://www.redfin.com/ID/Boise/11295-W-Gabrielle-Dr-83713/home/172380644,43.6182429,-116.3216145
-172,Single Family Residential,1112 S Owyhee,Boise,ID,83705,695000,3.0,3.5,3039.0,25264.0,1935.0,,http://www.redfin.com/ID/Boise/1112-S-Owyhee-St-83705/home/106732169,43.5940352,-116.2231044
-173,Single Family Residential,607 W Beeson St,Boise,ID,83706-0000,349900,2.0,2.0,1300.0,9147.0,1954.0,,http://www.redfin.com/ID/Boise/607-W-Beeson-St-83706/home/106802406,43.5778431,-116.1889767
-174,Single Family Residential,3301 S Cole Rd,Boise,ID,83709,714900,7.0,5.0,5209.0,34455.0,1986.0,,http://www.redfin.com/ID/Boise/3301-S-Cole-Rd-83709/home/106805094,43.573113799999994,-116.27456000000001
-175,Vacant Land,730 E Orion Dr,Boise,ID,83702,410000,,,,12196.0,,103.0,http://www.redfin.com/ID/Boise/730-E-Orion-Dr-83702/home/109556635,43.638143799999995,-116.1804956
-176,Single Family Residential,7244 W Mojave Dr,Boise,ID,83709,329900,3.0,2.0,1534.0,7405.0,1982.0,,http://www.redfin.com/ID/Boise/7244-W-Mojave-Dr-83709/home/109560074,43.559557500000004,-116.2716092
-177,Single Family Residential,2102 S Latah St,Boise,ID,83705,380000,3.0,2.0,1748.0,6098.0,1942.0,,http://www.redfin.com/ID/Boise/2102-S-Latah-St-83705/home/106811744,43.5835073,-116.22819799999999
-178,Vacant Land,2994 N Lancaster Pl,Boise,ID,83702,249900,,,,44431.0,,70.0,http://www.redfin.com/ID/Boise/2994-Lancaster-Dr-83702/home/146001654,43.64674,-116.214549
-179,Single Family Residential,620 N 25th,Boise,ID,83702,434000,4.0,1.5,2170.0,6098.0,1936.0,,http://www.redfin.com/ID/Boise/620-N-25th-St-83702/home/106722577,43.6269458,-116.2209108
-180,Single Family Residential,1712 S Vermont,Boise,ID,83706,475000,3.0,3.0,1701.0,3136.0,2020.0,,http://www.redfin.com/ID/Boise/1712-S-Vermont-Ave-83706/home/106777250,43.5914698,-116.19959180000001
-181,Single Family Residential,1710 S Vermont,Boise,ID,83706,475000,3.0,3.0,1701.0,3136.0,2020.0,,http://www.redfin.com/ID/Boise/1710-S-Vermont-Ave-83706/home/172347012,43.5915013,-116.19953410000001
-182,Single Family Residential,6977 W Amity Rd,Boise,ID,83709,399900,4.0,3.0,1988.0,9278.0,1981.0,,http://www.redfin.com/ID/Boise/6977-W-Amity-Rd-83709/home/106781258,43.5607617,-116.2685294
-183,Single Family Residential,2170 E Gossamer Ln,Boise,ID,83706,3998000,5.0,5.0,9265.0,177724.0,1990.0,60.0,http://www.redfin.com/ID/Boise/2170-E-Gossamer-Ln-83706/home/106727513,43.5793219,-116.1564226
-184,Mobile/Manufactured Home,616 Empress St,Boise,ID,83713,79900,3.0,2.0,1152.0,,1983.0,,http://www.redfin.com/ID/Boise/616-Empress-St-83713/home/172343066,43.615377200000005,-116.32265109999999
-185,Condo/Co-op,323 W Jefferson #207,Boise,ID,83702,425000,1.0,1.0,877.0,,2009.0,307.0,http://www.redfin.com/ID/Boise/323-W-Jefferson-St-83702/unit-207/home/106687521,43.6151282,-116.1963965
-186,Mobile/Manufactured Home,975 N Fawn Ln,Boise,ID,83704,69900,2.0,2.0,784.0,,2013.0,491.0,http://www.redfin.com/ID/Boise/975-N-Fawn-Ln-83704/home/172330227,43.613680200000005,-116.2913965
-187,Single Family Residential,8709 W Ben Ct,Boise,ID,83714,419900,4.0,2.0,3224.0,12196.0,1966.0,21.0,http://www.redfin.com/ID/Boise/8709-W-Ben-St-83714/home/106813694,43.68442,-116.29443799999999
-188,Single Family Residential,415 S Cotterell Dr,Boise,ID,83709-0413,749000,4.0,2.5,3399.0,55190.0,2005.0,,http://www.redfin.com/ID/Boise/415-S-Cotterell-Dr-83709/home/106678607,43.6009224,-116.30370259999998
-189,Single Family Residential,6766 E Zaffre Ridge St,Boise,ID,83716,433062,3.0,2.5,2342.0,7056.0,2020.0,29.0,http://www.redfin.com/ID/Boise/6766-E-Alta-Ridge-Ct-83716/home/172642302,43.5422558,-116.13694879999998
-190,Single Family Residential,5043 N Corralero Ln,Boise,ID,83702,1300000,4.0,3.5,3713.0,11630.0,2021.0,50.0,http://www.redfin.com/ID/Boise/5043-N-Corralero-LN-83702/home/165838892,43.6624385,-116.16304309999998
-191,Single Family Residential,4598 N Eyrie Way,Boise,ID,83703,848500,3.0,2.5,2700.0,20908.0,2020.0,33.0,http://www.redfin.com/ID/Boise/4598-N-Eyrie-Way-83703/home/172275133,43.6629609,-116.2167966
-192,Single Family Residential,1505 E Jefferson,Boise,ID,83712,799900,5.0,3.5,2663.0,13068.0,1950.0,,http://www.redfin.com/ID/Boise/1505-E-Jefferson-St-83712/home/106707488,43.606145500000004,-116.17597350000001
-193,Mobile/Manufactured Home,2401 S Owyhee #31,Boise,ID,83705,119900,3.0,2.0,1279.0,,2018.0,,http://www.redfin.com/ID/Boise/2401-S-Owyhee-St-83705/unit-31/home/145547029,43.58147,-116.22466499999999
-194,Vacant Land,431 N Morningside Way,Boise,ID,83712-7572,820000,,,,23086.0,,33.0,http://www.redfin.com/ID/Boise/431-N-Morningside-Way-83712/home/106793078,43.608463,-116.16628200000001
-195,Single Family Residential,1619 S EMPIRE,Boise,ID,83709,394900,4.0,2.0,1629.0,11761.0,1963.0,,http://www.redfin.com/ID/Boise/1619-S-Empire-Way-83709/home/106660647,43.589257700000005,-116.2595412
-196,Condo/Co-op,880 W River St #201,Boise,ID,83702,599900,2.0,2.5,1569.0,,2019.0,485.0,http://www.redfin.com/ID/Boise/880-W-River-St-83702/unit-201/home/148731974,43.6112942,-116.2094031
-197,Single Family Residential,911 N Houston Rd,Boise,ID,83706,995000,6.0,4.5,5162.0,8712.0,2006.0,,http://www.redfin.com/ID/Boise/911-Houston-Rd-83706/home/106736124,43.6128518,-116.2298991
-198,Mobile/Manufactured Home,2295 Blue Lake Ln #59,Boise,ID,83716,131900,3.0,2.0,1492.0,,2020.0,,http://www.redfin.com/ID/Boise/2295-Blue-Lake-Ln-83716/unit-59/home/172244539,43.5258513,-116.155452
-199,Single Family Residential,10103 W Sussex Dr,Boise,ID,83704-5258,349000,3.0,2.0,1456.0,10541.0,1974.0,,http://www.redfin.com/ID/Boise/10103-Sussex-Dr-83704/home/106746351,43.633278000000004,-116.3082098
-200,Single Family Residential,5611 S COLE,Boise,ID,83709,384900,3.0,2.0,1622.0,39204.0,1973.0,,http://www.redfin.com/ID/Boise/5611-S-Cole-Rd-83709/home/106756057,43.55190579999999,-116.27443729999999
-201,Single Family Residential,1614 W Dewey St,Boise,ID,83702,545000,3.0,3.0,1798.0,3049.0,1942.0,,http://www.redfin.com/ID/Boise/1614-W-Dewey-St-83702/home/106732700,43.6382266,-116.2075105
-202,Single Family Residential,5017 W Bethel St,Boise,ID,83706,388500,3.0,2.0,1940.0,20908.0,1948.0,,http://www.redfin.com/ID/Boise/5017-W-Bethel-St-83706/home/106716199,43.6059935,-116.24435590000002
-203,Single Family Residential,1512 W Franklin St,Boise,ID,83702,775000,4.0,2.0,3155.0,5009.0,1885.0,,http://www.redfin.com/ID/Boise/1512-W-Franklin-Rd-83702/home/106658800,43.6248689,-116.2075723
-204,Single Family Residential,4010 N Jennifer St,Boise,ID,83704,365000,4.0,1.5,1687.0,8842.0,1972.0,,http://www.redfin.com/ID/Boise/4010-Jennifer-St-83704/home/106734904,43.6414086,-116.2985256
-205,Single Family Residential,9066 W Brookview Ct,Boise,ID,83709,375000,4.0,3.5,2645.0,9321.0,1978.0,30.0,http://www.redfin.com/ID/Boise/9066-W-Brookview-Ct-83709/home/106692021,43.60251829999999,-116.2953993
-206,Vacant Land,5154 CORRALERO Ln,Boise,ID,83702,399900,,,,19602.0,,50.0,http://www.redfin.com/ID/Boise/5154-N-Corralero-Ln-83702/home/168214179,43.662493,-116.188806
-207,Single Family Residential,8923 W Tillamook Dr,Boise,ID,83709,355000,4.0,2.5,1704.0,6969.0,2000.0,25.0,http://www.redfin.com/ID/Boise/8923-W-Tillamook-Dr-83709/home/106777846,43.5617777,-116.2930584
-208,Single Family Residential,204 E 34th St,Garden City,ID,83714,309400,2.0,2.0,1248.0,7405.0,1971.0,,http://www.redfin.com/ID/Garden-City/204-E-34th-St-83714/home/106665236,43.6241671,-116.23715729999999
-209,Condo/Co-op,1411 W Grand Ave #105,Boise,ID,83702,349900,3.0,2.0,1151.0,,2008.0,206.0,http://www.redfin.com/ID/Boise/1411-W-Grand-Ave-83702/unit-105/home/106711293,43.6169789,-116.2141848
-210,Vacant Land,0 Alpine Ct,Boise,ID,83716,74900,,,,189921.0,,25.0,http://www.redfin.com/ID/Boise/W-Alpine-St-Unknown/home/115201813,43.743999,-116.01476100000001
-211,Single Family Residential,3200 N Treasure Dr,Boise,ID,83703,589000,5.0,3.0,3063.0,11412.0,1952.0,,http://www.redfin.com/ID/Boise/3200-N-Treasure-Dr-83703/home/106695310,43.6493244,-116.2255762
-212,Single Family Residential,1715 N 15th St,Boise,ID,83702-2611,849900,4.0,2.5,2766.0,6098.0,1913.0,,http://www.redfin.com/ID/Boise/1715-N-15th-St-83702/home/106780811,43.6334249,-116.2061293
-213,Single Family Residential,2776 S Armada Pl,Boise,ID,83706,599900,4.0,3.0,2784.0,16552.0,1990.0,27.0,http://www.redfin.com/ID/Boise/2776-S-Armada-Pl-83706/home/106767617,43.5774115,-116.1583645
-214,Single Family Residential,8314 W Packsaddle Dr,Boise,ID,83709,419900,5.0,2.5,3658.0,6969.0,2011.0,21.0,http://www.redfin.com/ID/Boise/8314-W-Packsaddle-Dr-83709/home/106711923,43.559468,-116.285527
-215,Mobile/Manufactured Home,3644 S CLACTON,Boise,ID,83716,175000,2.0,1.0,924.0,4791.0,1978.0,,http://www.redfin.com/ID/Boise/3644-Clacton-Way-83716/home/106747762,43.5683646,-116.1132867
-216,Vacant Land,2952 W Milwaukee Ct,Boise,ID,83704,333333,,,,43560.0,,,http://www.redfin.com/ID/Boise/2952-N-Milwaukee-St-83704/home/172074239,43.6316684,-116.2836202
-217,Single Family Residential,7630 W Thunder Mountain Dr,Boise,ID,83709,698000,6.0,4.5,5928.0,12109.0,1984.0,,http://www.redfin.com/ID/Boise/7630-W-Thunder-Mountain-Dr-83709/unit-M/home/106685016,43.564094700000005,-116.2769078
-218,Single Family Residential,5600 S Cloverdale Rd,Boise,ID,83709,624990,3.0,2.0,1536.0,189703.0,1995.0,,http://www.redfin.com/ID/Boise/5600-S-Cloverdale-Rd-83709/home/106718441,43.5518223,-116.33243459999998
-219,Single Family Residential,1319 S Division Ave,Boise,ID,83706,349999,4.0,2.0,1236.0,6098.0,1963.0,,http://www.redfin.com/ID/Boise/1319-S-Division-Ave-83706/home/106750312,43.596577,-116.18886
-220,Townhouse,4633 N Carlsbad Way,Boise,ID,83703,299900,3.0,2.0,1461.0,2613.0,1998.0,125.0,http://www.redfin.com/ID/Boise/4633-N-Carlsbad-Way-83703/home/106734616,43.6625061,-116.26728929999999
-221,Single Family Residential,2372 E Via Privada,Boise,ID,83716,1650000,5.0,4.5,4328.0,15681.0,2020.0,100.0,http://www.redfin.com/ID/Boise/3550-E-Warm-Springs-Ave-83716/home/106742604,43.5797311,-116.1381719
-222,Vacant Land,41 N View Dr,Boise,ID,83716,119900,,,,347173.0,,,http://www.redfin.com/ID/Boise/41-N-View-Dr-83716/home/172054463,43.7351944,-116.01459009999998
-223,Single Family Residential,815 E Warm Springs Ave,Boise,ID,83712,1120000,4.0,2.5,3865.0,39029.0,1915.0,,http://www.redfin.com/ID/Boise/815-E-Warm-Springs-Ave-83712/home/106771251,43.6082151,-116.1858207
-224,Single Family Residential,5693 E Hootowl Dr,Boise,ID,83716,1025000,3.0,2.5,3112.0,13068.0,2018.0,108.0,http://www.redfin.com/ID/Boise/5693-E-Hootowl-Dr-83716/home/142666345,43.5756174,-116.11787350000002
-225,Single Family Residential,7018 E La Cuesta St,Boise,ID,83716,705000,4.0,3.5,2882.0,6316.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7018-E-La-Cuesta-ST-Unknown/home/172046617,43.6150186,-116.2023137
-226,Single Family Residential,3386 W Forsythia Dr,Boise,ID,83703,649900,5.0,4.0,3020.0,5227.0,2020.0,54.0,http://www.redfin.com/ID/Boise/3386-W-Forsythia-Dr-83703/home/168212975,43.652271999999996,-116.230473
-227,Single Family Residential,3522 E Via Estancia,Boise,ID,83716,1495000,4.0,4.5,3872.0,22651.0,2020.0,100.0,http://www.redfin.com/ID/Boise/3522-E-Via-Estancia-Ln-83716/home/142665486,43.5810152,-116.14092250000002
-228,Single Family Residential,1213 N 5th St,Boise,ID,83702,1300000,4.0,3.5,4420.0,6098.0,2021.0,,http://www.redfin.com/ID/Boise/1213-N-5th-St-83702/home/106668810,43.625370000000004,-116.1943047
-229,Single Family Residential,3340 W Lassen Dr,Boise,ID,83703,619900,5.0,4.0,3020.0,5227.0,2020.0,54.0,http://www.redfin.com/ID/Boise/3340-Lassen-St-83703/home/168212965,43.652701,-116.22970900000001
-230,Single Family Residential,7060 E La Cuesta St,Boise,ID,83716,690000,3.0,2.5,2742.0,6446.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7060-E-La-Cuesta-ST-Unknown/home/172045691,43.6150186,-116.2023137
-231,Single Family Residential,7040 E La Cuesta,Boise,ID,83716,699900,3.0,3.0,2726.0,6446.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7040-E-La-Cuesta-Unknown/home/172045621,43.6150186,-116.2023137
-232,Single Family Residential,7026 E La Cuesta St,Boise,ID,83716,695000,3.0,2.5,2702.0,6403.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7026-E-La-Cuesta-ST-Unknown/home/172045586,43.6150186,-116.2023137
-233,Single Family Residential,7002 E La Cuesta St,Boise,ID,83716,685000,3.0,2.5,2742.0,8189.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7002-E-La-Cuesta-ST-Unknown/home/172045559,43.6150186,-116.2023137
-234,Single Family Residential,7052 E La Cuesta St,Boise,ID,83716,725000,4.0,4.5,3206.0,6446.0,2020.0,50.0,http://www.redfin.com/ID/Boise/7052-E-La-Cuesta-ST-Unknown/home/172045539,43.6150186,-116.2023137
-235,Vacant Land,5160 CORRALERO Ln,Boise,ID,83702,399900,,,,15245.0,,50.0,http://www.redfin.com/ID/Boise/5160-N-Corralero-Ln-83702/home/168214178,43.662763,-116.188721
-236,Single Family Residential,945 E Warm Springs Ave,Boise,ID,83712,1980000,5.0,3.5,6871.0,20037.0,1920.0,,http://www.redfin.com/ID/Boise/945-E-Warm-Springs-Ave-83712/home/106786189,43.6072447,-116.18407930000001
-237,Single Family Residential,1200 N Harrison Blvd,Boise,ID,83702,1150000,4.0,3.0,3650.0,6098.0,1929.0,,http://www.redfin.com/ID/Boise/1200-N-Harrison-Blvd-83702/home/106661949,43.629439899999994,-116.20788619999999
-238,Single Family Residential,1116 N 15th St,Boise,ID,83702,824900,4.0,3.0,2563.0,6098.0,1936.0,,http://www.redfin.com/ID/Boise/1116-N-15th-St-83702/home/106649812,43.628084799999996,-116.20551869999998
-239,Multi-Family (2-4 Unit),1404 E Hays St,Boise,ID,83712,900000,6.0,4.0,3600.0,7840.0,1971.0,,http://www.redfin.com/ID/Boise/1404-E-Hays-St-83712/home/106748103,43.61035089999999,-116.1746139
-240,Townhouse,2521 S Sea Pnes,Boise,ID,83705,288888,3.0,2.0,1340.0,3049.0,1994.0,15.0,http://www.redfin.com/ID/Boise/2521-S-Sea-Pines-Pl-83705/home/106670453,43.57955,-116.24714099999998
-241,Single Family Residential,175 W Retford Ct,Boise,ID,83702,1075000,4.0,4.0,4004.0,15681.0,2003.0,83.0,http://www.redfin.com/ID/Boise/175-W-Retford-Ct-83702/home/106719923,43.6562213,-116.1869631
-242,Single Family Residential,3 W Cyrus St,Boise,ID,83705,404900,3.0,2.5,2202.0,3920.0,2020.0,10.0,http://www.redfin.com/ID/Boise/3-Cyrus-St-83705/home/172000450,43.5742546,-116.2007376
-243,Single Family Residential,5 SEYBOLD Ln,Boise,ID,83631,374900,4.0,2.0,2050.0,128937.0,1998.0,,http://www.redfin.com/ID/Boise/5-Seybold-Ln-83716/home/115254163,43.783444,-115.99243600000001
-244,Single Family Residential,10274 W Cranberry,Boise,ID,83704-1999,625000,4.0,2.5,3084.0,15245.0,1992.0,58.0,http://www.redfin.com/ID/Boise/10274-W-Cranberry-Ct-83704/home/106798952,43.6500866,-116.31011299999999
-245,Mobile/Manufactured Home,3249 Cherry #6,Boise,ID,83705,49900,2.0,1.0,1100.0,,1970.0,,http://www.redfin.com/ID/Boise/3249-Cherry-Ln-83705/unit-6/home/171991787,43.580620399999994,-116.22169280000001
-246,Vacant Land,3025 S Leadville Ave,Boise,ID,83706,500000,,,,33541.0,,,http://www.redfin.com/ID/Boise/3025-S-Leadville-Ave-83706/home/106740613,43.5742266,-116.1910743
-247,Mobile/Manufactured Home,384 W Silver City,Boise,ID,83713-8002,79900,3.0,2.0,1680.0,,1974.0,,http://www.redfin.com/ID/Boise/384-W-Silver-City-St-83713/home/171976147,43.6145079,-116.327619
-248,Vacant Land,TBD S Cloverdale Rd,Boise,ID,83709,1845000,,,,1383030.0,,,http://www.redfin.com/ID/Boise/TBD-S-Cloverdale-Rd-83709/home/171972856,43.5483544,-116.33436019999999
-249,Vacant Land,5142 CORRALERO Ln,Boise,ID,83702,399900,,,,16117.0,,50.0,http://www.redfin.com/ID/Boise/5142-N-Corralero-Ln-83702/home/168214181,43.662273,-116.18832900000001
-250,Mobile/Manufactured Home,2138 E BLUE SPRUCE,Boise,ID,83716,114900,3.0,2.0,1279.0,,2017.0,520.0,http://www.redfin.com/ID/Boise/2138-Blue-Spruce-Ln-83716/unit-191/home/144795927,43.5254229,-116.15736979999998
-251,Condo/Co-op,323 W Jefferson St #506,Boise,ID,83702,599000,2.0,2.0,1234.0,,2009.0,497.0,http://www.redfin.com/ID/Boise/323-W-Jefferson-St-83702/unit-506/home/106783497,43.6151987,-116.19632490000001
-252,Single Family Residential,6748 E Zaffre Ridge St,Boise,ID,83716,409990,3.0,2.5,2017.0,6098.0,2020.0,29.0,http://www.redfin.com/ID/Boise/6748-E-Alta-Ridge-Ct-83716/home/171941279,43.5422558,-116.13694879999998
-253,Single Family Residential,6722 E Zaffre Ridge St,Boise,ID,83716,434990,5.0,2.5,2317.0,6229.0,2020.0,29.0,http://www.redfin.com/ID/Boise/6722-E-Alta-Ridge-Ct-83716/home/171941076,43.5422558,-116.13694879999998
-254,Single Family Residential,9976 W Campville St,Boise,ID,83709,424990,3.0,2.5,2020.0,6534.0,2020.0,41.0,http://www.redfin.com/ID/Boise/9976-W-Campville-St-83709/home/171935830,43.593695200000006,-116.30607590000001
-255,Single Family Residential,10096 W Campville St,Boise,ID,83709,465990,5.0,2.5,2710.0,6838.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10096-W-Campville-St-83709/home/171935747,43.593695200000006,-116.30607590000001
-256,Single Family Residential,5110 Corralero Ln,Boise,ID,83702,1075000,3.0,3.5,2875.0,21518.0,2020.0,50.0,http://www.redfin.com/ID/Boise/5110-N-Corralero-Ln-83702/home/168214184,43.661803000000006,-116.1886
-257,Single Family Residential,10082 W Campville St,Boise,ID,83709,459990,4.0,2.5,2636.0,6534.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10082-W-Campville-St-83709/home/171929869,43.593695200000006,-116.30607590000001
-258,Vacant Land,2101 S PENNINGER Dr,Boise,ID,83709,145000,,,,14374.0,,,http://www.redfin.com/ID/Boise/2101-Penninger-Dr-83709/home/106742352,43.5841005,-116.28352690000001
-259,Vacant Land,7,Boise,ID,83716,75000,,,,163785.0,,83.0,http://www.redfin.com/ID/Boise/5797-W-Overland-Rd-83705/home/171848856,43.58950170000001,-116.2533613
-260,Single Family Residential,11663 N 20th Pl,Boise,ID,83714,624900,4.0,3.0,3185.0,8232.0,2020.0,84.0,http://www.redfin.com/ID/Boise/11663-N-20th-St-83702/home/171848643,43.634628,-116.2133183
-261,Single Family Residential,3203 N Treasure Dr,Boise,ID,83703,529900,4.0,2.0,2302.0,10890.0,1953.0,,http://www.redfin.com/ID/Boise/3203-N-Treasure-Dr-83703/home/106652936,43.649161,-116.2261635
-262,Vacant Land,8109 King St,Boise,ID,83704,89000,,,,4791.0,,,http://www.redfin.com/ID/Boise/8109-King-St-83704/home/146243921,43.6210189,-116.2827358
-263,Single Family Residential,10608 W Cruser,Boise,ID,83709,524900,4.0,4.0,3588.0,18774.0,1951.0,,http://www.redfin.com/ID/Boise/10608-Cruser-Dr-83709/home/142667744,43.6040171,-116.3151238
-264,Mobile/Manufactured Home,264 Checola Cir,Boise,ID,83713,54900,2.0,1.0,1000.0,,1977.0,,http://www.redfin.com/ID/Boise/264-Checola-Cir-83713/home/171826700,43.614362799999995,-116.3168048
-265,Single Family Residential,7190 S Carpenter Ave,Boise,ID,83709,549900,3.0,2.5,2531.0,9583.0,2020.0,47.0,http://www.redfin.com/ID/Boise/7190-S-Carpenter-Ave-83709/home/142666434,43.5377538,-116.322425
-266,Condo/Co-op,1112 W Main St #305,Boise,ID,83702,799900,2.0,2.0,1738.0,,2008.0,438.0,http://www.redfin.com/ID/Boise/1112-W-Main-St-83702/unit-305/home/106773665,43.6179717,-116.2072605
-267,Single Family Residential,1241 E Highland Vw,Boise,ID,83702-1929,960000,4.0,3.0,3220.0,10105.0,2020.0,75.0,http://www.redfin.com/ID/Boise/1241-E-Highland-View-Dr-83702/home/143184120,43.648257,-116.173955
-268,Vacant Land,11 Clear Creek Ests,Boise,ID,83716,95000,,,,92782.0,,,http://www.redfin.com/ID/Boise/11-Clear-Creek-Dr-83716/home/171815539,43.7447977,-115.99574340000001
-269,Single Family Residential,5945 W Lucky Ln,Boise,ID,83703-0000,489000,3.0,2.5,1687.0,4356.0,2019.0,25.0,http://www.redfin.com/ID/Boise/5945-W-Lucky-Ln-83703/home/160427036,43.6631468,-116.26268999999999
-270,Single Family Residential,2804 N Woody Dr,Boise,ID,83703,539000,4.0,2.5,1621.0,7405.0,2006.0,,http://www.redfin.com/ID/Boise/2804-Woody-Dr-83703/home/106656385,43.645613399999995,-116.23497009999998
-271,Condo/Co-op,420 W Main St #404,Boise,ID,83702,1064900,2.0,2.5,2602.0,,2004.0,956.0,http://www.redfin.com/ID/Boise/420-W-Main-St-83702/unit-404/home/106783505,43.6139133,-116.1993071
-272,Vacant Land,1841 S Vinnell St,Boise,ID,83709,750000,,,,139827.0,,,http://www.redfin.com/ID/Boise/1841-S-Vinnell-St-83709/home/106718959,43.586901,-116.2879409
-273,Vacant Land,8960 W Midland St,Boise,ID,83705,98600,,,,4356.0,,,http://www.redfin.com/ID/Boise/8960-W-Midland-St-83704/home/109555187,43.635532700000006,-116.2939433
-274,Single Family Residential,,Boise,ID,83702,1389000,5.0,3.5,3722.0,18295.0,2020.0,,http://www.redfin.com/ID/Boise/Undisclosed-address-83702/home/106777944,43.652976,-116.177325
-275,Single Family Residential,809 E Pennsylvania,Boise,ID,83706,729000,4.0,3.5,2882.0,9147.0,1980.0,,http://www.redfin.com/ID/Boise/809-E-Pennsylvania-Dr-83706/home/106774095,43.5857953,-116.1728952
-276,Single Family Residential,3602 W Hillcrest Dr,Boise,ID,83705,799900,5.0,3.5,4719.0,13068.0,1967.0,,http://www.redfin.com/ID/Boise/3602-W-Hillcrest-Dr-83705/home/106705242,43.579006799999995,-116.226247
-277,Single Family Residential,TBD N Mendelson,Meridian,ID,83646,695000,4.0,2.5,2500.0,17859.0,2020.0,125.0,http://www.redfin.com/ID/Meridian/TBD-N-Mendelson-Ave-83646/home/171588321,43.6536634,-116.3649074
-278,Vacant Land,25 Whitehawk Way,Boise,ID,83716,49000,,,,385506.0,,205.0,http://www.redfin.com/ID/Boise/25-Whitehawk-Way-83716/home/143184583,43.6593991,-115.98871650000001
-279,Single Family Residential,3510 N Bryson Way,Boise,ID,83713,535000,6.0,3.5,4021.0,11412.0,1983.0,1.0,http://www.redfin.com/ID/Boise/3510-N-Bryson-Way-83713/home/106801582,43.6368436,-116.32512790000001
-280,Single Family Residential,10068 W Campville St,Boise,ID,83709,444990,4.0,2.5,2530.0,6534.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10068-W-Campville-St-83709/home/171558604,43.593695200000006,-116.30607590000001
-281,Single Family Residential,10008 W Campville St,Boise,ID,83709,454990,4.0,2.5,2636.0,6577.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10008-W-Campville-St-83709/home/171558576,43.593695200000006,-116.30607590000001
-282,Single Family Residential,10038 W Smoke Ranch Dr,Boise,ID,83709,336990,3.0,2.5,1580.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10038-W-Smoke-Ranch-Dr-83709/home/171558536,43.5927542,-116.3103847
-283,Single Family Residential,11 Turner Cir,Boise,ID,83716,139900,2.0,,634.0,54450.0,1978.0,,http://www.redfin.com/ID/Boise/11-Turner-Cir-83716/home/115207845,43.74103770000001,-115.9999973
-284,Single Family Residential,10056 W Smoke Ranch Dr,Boise,ID,83709,372990,4.0,2.5,2014.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10056-W-Smoke-River-DR-83709/home/171547599,43.5516566,-116.29879009999999
-285,Vacant Land,2611 N 26th,Boise,ID,83702,350000,,,,9147.0,,,http://www.redfin.com/ID/Boise/2611-N-26th-St-83702/home/169798429,43.6437859,-116.22124579999999
-286,Vacant Land,1 Clear Creek Subdivision,Boise,ID,83716,39900,,,,46609.0,,,http://www.redfin.com/ID/Boise/1-Clear-Creek-Dr-83716/home/143184215,43.7476531,-115.9943376
-287,Mobile/Manufactured Home,1951 N Hampton Rd Unit C7,Boise,ID,83704,65000,3.0,2.0,1085.0,,1985.0,,http://www.redfin.com/ID/Boise/1951-N-Hampton-Rd-83704/unit-C7/home/171477392,43.6229492,-116.30956880000001
-288,Single Family Residential,2403 W Jefferson,Boise,ID,83702,549900,4.0,2.5,2105.0,6098.0,1937.0,,http://www.redfin.com/ID/Boise/2403-W-Jefferson-St-83702/home/106650286,43.6243446,-116.2199612
-289,Single Family Residential,10088 W Smoke Ranch Dr,Boise,ID,83709,334990,3.0,2.5,1478.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10088-W-Smoke-Ranch-Dr-83709/home/171476337,43.5927558,-116.3103872
-290,Vacant Land,2921 E Windsong,Boise,ID,83712,375000,,,,23391.0,,50.0,http://www.redfin.com/ID/Boise/2921-E-Windsong-Dr-83712/home/106681908,43.589224200000004,-116.15113840000001
-291,Single Family Residential,10042 W Smoke Ranch Dr,Boise,ID,83709,333990,3.0,2.5,1478.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10042-W-Smoke-Ranch-Dr-83709/home/171435151,43.592754299999996,-116.31038490000002
-292,Single Family Residential,2331 S Three Mile Creek Way,Boise,ID,83709,179800,2.0,1.0,800.0,8276.0,1969.0,,http://www.redfin.com/ID/Boise/2331-S-Three-Mile-Creek-Way-83709/home/106660492,43.5808847,-116.286496
-293,Single Family Residential,1724 S Michigan Ave,Boise,ID,83706,459900,3.0,3.0,1717.0,3136.0,2020.0,,http://www.redfin.com/ID/Boise/1724-S-Michigan-Ave-83706/home/171432112,43.5911075,-116.2008295
-294,Single Family Residential,10044 W Campville St,Boise,ID,83709,419990,4.0,2.5,2054.0,6534.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10044-W-Campville-St-83709/home/171418733,43.593695200000006,-116.30607590000001
-295,Single Family Residential,6694 S Lodgepole Pl,Boise,ID,83716-5048,774000,4.0,3.0,2860.0,15594.0,2020.0,36.0,http://www.redfin.com/ID/Boise/6694-S-Lodgepole-Pl-83716/home/106803276,43.541433000000005,-116.141305
-296,Single Family Residential,3750 S Maple Grove Rd,Boise,ID,83709,1100000,4.0,3.0,2433.0,345735.0,1969.0,,http://www.redfin.com/ID/Boise/3750-S-Maple-Grove-Rd-83709/home/106733206,43.568613899999995,-116.291595
-297,Single Family Residential,1107 N 9th St,Boise,ID,83702,859000,7.0,3.0,4050.0,5662.0,1941.0,,http://www.redfin.com/ID/Boise/1107-N-9th-St-83702/home/106660770,43.6242408,-116.199054
-298,Single Family Residential,10064 W Smoke Ranch Dr,Boise,ID,83709,354990,3.0,2.5,1766.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10064-W-Smoke-River-DR-83709/home/171378598,43.5516566,-116.29879009999999
-299,Single Family Residential,10072 W Smoke Ranch Dr,Boise,ID,83709,345990,3.0,2.5,1580.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10072-W-Smoke-River-DR-83709/home/171378581,43.5516566,-116.29879009999999
-300,Townhouse,1569 E LENZ,Boise,ID,83712,474300,3.0,3.0,2308.0,3484.0,1979.0,309.0,http://www.redfin.com/ID/Boise/1569-Lenz-Ln-83712/home/106737162,43.6031498,-116.1773169
-301,Vacant Land,9016 W TEAKWOOD,Boise,ID,83709,158000,,,,21344.0,,,http://www.redfin.com/ID/Boise/9016-W-Teakwood-Dr-83709/home/171839862,43.5963699,-116.2970945
-302,Single Family Residential,1120 E Warm Springs Ave,Boise,ID,83712,1289000,4.0,3.5,3827.0,10454.0,1937.0,,http://www.redfin.com/ID/Boise/1120-E-Warm-Springs-Ave-83712/home/106797009,43.606842799999995,-116.1814412
-303,Vacant Land,6 Clear Creek Ests,Boise,ID,83716,43000,,,,44431.0,,,http://www.redfin.com/ID/Boise/6-Clear-Creek-Dr-83716/home/143183861,43.7473499,-115.99777720000002
-304,Vacant Land,tbd Stewart Segregation,Boise,ID,83716,799000,,,,4748040.0,,,http://www.redfin.com/ID/Boise/tbd-Stewart-Segregation-83716/home/143184344,43.6187102,-116.2146068
-305,Single Family Residential,4380 S STAATEN,Boise,ID,83709,389900,4.0,3.0,2226.0,5009.0,2019.0,25.0,http://www.redfin.com/ID/Boise/4380-S-Staaten-Ave-83709/home/109560978,43.5632136,-116.33479879999999
-306,Vacant Land,5028 CORRALERO Ln,Boise,ID,83702,258000,,,,20037.0,,50.0,http://www.redfin.com/ID/Boise/5028-N-Corralero-Ln-83702/home/168214185,43.661471,-116.18860500000001
-307,Single Family Residential,10006 W Smoke Ranch Dr,Boise,ID,83709,369990,4.0,2.5,2014.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10006-W-Campville-St-83709/home/171258646,43.593695200000006,-116.30607590000001
-308,Single Family Residential,10030 W Smoke Ranch Dr,Boise,ID,83709,344990,3.0,2.5,1766.0,3702.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10030-W-Smoke-Ranch-Dr-83709/home/171258538,43.5927539,-116.31038429999998
-309,Single Family Residential,412 W Ofarrell St,Boise,ID,83702,1150000,4.0,3.5,3322.0,4356.0,2017.0,,http://www.redfin.com/ID/Boise/412-Ofarrell-St-83702/home/106660240,43.62503529999999,-116.1928983
-310,Vacant Land,12,Boise,ID,83716,45000,,,,57934.0,,205.0,http://www.redfin.com/ID/Boise/3240-ID-21-83716/home/146234806,43.541202,-116.14388319999999
-311,Vacant Land,66 Blue Grouse Way,Boise,ID,83716,49000,,,,50529.0,,205.0,http://www.redfin.com/ID/Boise/66-Blue-Grouse-Way-83716/home/147701040,43.6775794,-116.0116976
-312,Vacant Land,4 Summit Vw,Boise,ID,83716,84000,,,,382456.0,,,http://www.redfin.com/ID/Boise/4-Summit-VW-Unknown/home/161415100,43.6150186,-116.2023137
-313,Single Family Residential,9984 W Smoke Ranch Dr,Boise,ID,83709,356990,3.0,2.5,1897.0,3789.0,2020.0,41.0,http://www.redfin.com/ID/Boise/9984-W-Smoke-Ranch-Dr-83709/home/171201328,43.5927525,-116.3103821
-314,Single Family Residential,4989 N Corralero Ln,Boise,ID,83702,1237000,3.0,3.5,2962.0,16552.0,2020.0,50.0,http://www.redfin.com/ID/Boise/4989-N-Corralero-Ln-83702/home/168214171,43.661446000000005,-116.18933700000001
-315,Single Family Residential,521 E Sunnyridge Ct,Boise,ID,83702,939900,4.0,3.0,3392.0,12501.0,1999.0,38.0,http://www.redfin.com/ID/Boise/521-E-Sunnyridge-Ct-83702/home/106718364,43.6383118,-116.1823155
-316,Multi-Family (2-4 Unit),"3710 N Centrepoint Way,",Meridian,ID,83646,499900,6.0,5.0,3042.0,1742.0,2019.0,350.0,http://www.redfin.com/ID/Meridian/3710-N-Centrepoint-Way-83646/home/168206945,43.638298999999996,-116.357153
-317,Single Family Residential,5629 E Foxgrove Dr,Boise,ID,83716,894900,4.0,3.5,3132.0,10890.0,2020.0,108.0,http://www.redfin.com/ID/Boise/5629-E-Foxgrove-DR-Unknown/home/171176220,43.6150186,-116.2023137
-318,Single Family Residential,4335 N Sandpoint Way,Boise,ID,83702,3999000,5.0,4.5,5742.0,14374.0,2020.0,75.0,http://www.redfin.com/ID/Boise/N-Sandpoint-Way-83702/home/146239140,43.652746,-116.173244
-319,Single Family Residential,5645 E Foxgrove Dr,Boise,ID,83716,849900,3.0,2.5,2856.0,10018.0,2020.0,108.0,http://www.redfin.com/ID/Boise/5645-E-Foxgrove-DR-Unknown/home/171155647,43.6150186,-116.2023137
-320,Single Family Residential,2101 N Harrison Blvd,Boise,ID,83702,1395000,5.0,3.5,4539.0,7840.0,1915.0,,http://www.redfin.com/ID/Boise/2101-N-Harrison-Blvd-83702/home/106743572,43.6382659,-116.20859920000001
-321,Single Family Residential,420 Sherman,Boise,ID,83702,1095000,3.0,3.0,3317.0,6969.0,2020.0,,http://www.redfin.com/ID/Boise/420-W-Sherman-St-83702/home/106713511,43.628392,-116.1928102
-322,Single Family Residential,10083 W Campville St,Boise,ID,83709,339990,3.0,2.5,1694.0,3659.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10083-W-Campville-St-83709/home/171129620,43.593325899999996,-116.3058971
-323,Vacant Land,248 N Beno Posto Pl,Boise,ID,83712,3120000,,,,226076.0,,,http://www.redfin.com/ID/Boise/248-N-Bene-Posto-Pl-83712/home/171129618,43.605483899999996,-116.15669199999999
-324,Single Family Residential,10075 W Campville St,Boise,ID,83709,357990,4.0,2.5,2014.0,3659.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10075-W-Campville-St-83709/home/171129590,43.593325899999996,-116.3058971
-325,Single Family Residential,10043 W Campville St,Boise,ID,83709,354990,4.0,2.5,2014.0,3659.0,2020.0,41.0,http://www.redfin.com/ID/Boise/10043-W-Campville-St-83709/home/171129490,43.593325899999996,-116.3058971
-326,Condo/Co-op,3075 W Crescent Rim Drive 304 #304,Boise,ID,83706,1125000,2.0,2.5,2125.0,,2020.0,742.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-304/home/171115446,43.604593,-116.219844
-327,Vacant Land,8820 N Ustick,Boise,ID,83704,589900,,,,10323.0,,13.0,http://www.redfin.com/ID/Boise/8820-N-Ustick-Rd-83704/home/171115349,43.634119899999995,-116.2878331
-328,Single Family Residential,8820 Ustick,Boise,ID,83704,589900,6.0,2.0,2938.0,10323.0,1948.0,13.0,http://www.redfin.com/ID/Boise/8820-W-Ustick-Rd-83704/home/106817256,43.6341828,-116.29307630000001
-329,Single Family Residential,7365 N Pierce Park Ln,Boise,ID,83714,1240000,3.0,3.5,3162.0,227383.0,2005.0,7.0,http://www.redfin.com/ID/Boise/7365-N-Pierce-Park-Ln-83714/home/106676278,43.683202,-116.26480600000001
-330,Single Family Residential,41 Whitehawk Way,Boise,ID,83716-3011,1450000,4.0,2.0,4994.0,748360.0,1987.0,178.0,http://www.redfin.com/ID/Boise/41-Whitehawk-Way-83716/home/115188185,43.656415,-115.98501100000001
-331,Multi-Family (2-4 Unit),2231 W Panama,Boise,ID,83705,359900,4.0,2.0,1808.0,14810.0,1972.0,,http://www.redfin.com/ID/Boise/2231-Panama-St-83705/home/106661836,43.5701766,-116.20897420000001
-332,Vacant Land,8005 Queen St,Boise,ID,83704,150000,,,,5662.0,,,http://www.redfin.com/ID/Boise/8005-W-Queen-Ct-83704/home/106809206,43.62175,-116.28198400000001
-333,Vacant Land,2345 S Via Privada Ln,Boise,ID,83716,369900,,,,16988.0,,100.0,http://www.redfin.com/ID/Boise/2345-S-Via-Privada-Ln-83716/home/142665483,43.5808403,-116.14034790000001
-334,Single Family Residential,6307 W Franklin,Boise,ID,83709,499500,4.0,3.0,3182.0,17119.0,1959.0,,http://www.redfin.com/ID/Boise/6307-W-Franklin-Rd-83705/home/106809204,43.6034662,-116.26029270000001
-335,Single Family Residential,430 Ridgeline Dr,Boise,ID,83702,1830000,4.0,3.0,3766.0,44866.0,1987.0,108.0,http://www.redfin.com/ID/Boise/430-W-Ridgeline-Dr-83702/home/106781207,43.6355592,-116.19267590000001
-336,Multi-Family (2-4 Unit),10065 W Eshelman,Boise,ID,83704-6714,559900,6.0,5.0,2896.0,6534.0,2018.0,,http://www.redfin.com/ID/Boise/10065-W-Eshelman-St-83704/home/146239295,43.621386,-116.30769599999999
-337,Vacant Land,3121 E Starview Dr,Boise,ID,83712,329900,,,,43560.0,,,http://www.redfin.com/ID/Boise/3121-Starview-Dr-83712/home/142670412,43.58023920000001,-116.1479489
-338,Condo/Co-op,1207 W Fort St #215,Boise,ID,83702,400000,2.0,2.0,941.0,,2004.0,208.0,http://www.redfin.com/ID/Boise/1207-W-Fort-St-83702/unit-215/home/106733104,43.6241524,-116.20312609999999
-339,Multi-Family (2-4 Unit),3643 Hill Rd,Boise,ID,83703,588000,6.0,4.0,3304.0,17424.0,1965.0,,http://www.redfin.com/ID/Boise/3643-W-Hill-Rd-83703/home/109560347,43.656014,-116.2345113
-340,Mobile/Manufactured Home,8633 W Irving Ln,Boise,ID,83704,79000,3.0,2.0,1404.0,,2007.0,,http://www.redfin.com/ID/Boise/8633-W-Irving-Ln-83704/home/170590831,43.6153706,-116.2898416
-341,Vacant Land,0 N Pierce Park Ln,Boise,ID,83714,1200000,,,,2196295.0,,,http://www.redfin.com/ID/Boise/5015-N-Pierce-Park-Ln-83714/home/106815795,43.666200599999996,-116.2691114
-342,Townhouse,7821 Crestwood Dr,Boise,ID,83704,369900,3.0,2.5,1619.0,2874.0,2020.0,60.0,http://www.redfin.com/ID/Boise/7821-W-Crestwood-Dr-83704/home/170575633,43.6447177,-116.2798554
-343,Townhouse,7817 Crestwood Dr,Boise,ID,83704,367000,3.0,2.5,1609.0,1698.0,2020.0,60.0,http://www.redfin.com/ID/Boise/7817-W-Crestwood-Dr-83704/home/170575599,43.6447172,-116.27975579999999
-344,Townhouse,7813 W Crestwood Dr,Boise,ID,83704,367000,3.0,2.5,1609.0,1742.0,2020.0,60.0,http://www.redfin.com/ID/Boise/7813-W-Crestwood-Dr-83704/home/170575569,43.644716700000004,-116.2796561
-345,Condo/Co-op,3075 W Crescent Rim Drive 203 #203,Boise,ID,83706,760000,2.0,2.0,1662.0,,2020.0,580.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-203/home/106807465,43.6046327,-116.2198709
-346,Condo/Co-op,3075 W Crescent Rim Drive 103 #103,Boise,ID,83706,725000,2.0,2.0,1662.0,,2020.0,580.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-103/home/106779814,43.60454420000001,-116.22007920000001
-347,Condo/Co-op,3075 W Crescent Rim Dr #101,Boise,ID,83706,975000,2.0,2.5,2617.0,,2020.0,913.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-101/home/106656274,43.604384,-116.22011200000001
-348,Single Family Residential,1108 E Hearthstone,Boise,ID,83702,1395000,4.0,3.5,4241.0,13068.0,2016.0,,http://www.redfin.com/ID/Boise/1108-Hearthstone-Dr-83702/home/106779808,43.6562529,-116.1766128
-349,Condo/Co-op,2967 W Crescent Rim Dr,Boise,ID,83706,739000,2.0,2.5,2057.0,,2017.0,719.0,http://www.redfin.com/ID/Boise/2967-Crescent-Rim-Dr-83706/unit-104/home/109561166,43.604136600000004,-116.2181494
+0,Single Family Residential,2100 N 17th St,Boise,ID,83702,899000,3,2.5,2500,6098.0,2020,,http://www.redfin.com/ID/Boise/2100-N-17th-St-83702/home/106787373,43.6392354,-116.20905829999998
+1,Single Family Residential,4797 Arrowhead Way,Boise,ID,83709,268900,3,1.0,1127,9583.0,1982,,http://www.redfin.com/ID/Boise/4797-Arrowhead-Way-83709/home/106757342,43.55943370000001,-116.27636670000001
+2,Single Family Residential,12572 W Hidden Valley Dr,Boise,ID,83709,359000,3,2.0,2008,8712.0,2006,28.0,http://www.redfin.com/ID/Boise/12572-W-Hidden-Valley-Dr-83709/home/106695360,43.537023,-116.33832340000002
+3,Single Family Residential,547 E Orion Ct,Boise,ID,83702,2490000,5,4.5,4695,25351.0,2007,117.0,http://www.redfin.com/ID/Boise/547-E-Orion-Ct-83702/home/106678567,43.6367055,-116.18300719999999
+4,Townhouse,5883 S Blue Nile Ave,Boise,ID,83709,299900,3,2.5,1667,3876.0,2008,23.0,http://www.redfin.com/ID/Boise/5883-S-Blue-Nile-Ave-83709/home/106715138,43.549817100000006,-116.33388049999999
+5,Single Family Residential,3878 E Collingwood St,Meridian,ID,83642,340900,3,2.0,1618,7100.0,2020,67.0,http://www.redfin.com/ID/Meridian/3878-E-Collingwood-St-83642/home/172660841,43.5482851,-116.3459123
+6,Single Family Residential,3460 N Jullion St,Boise,ID,83704,309900,3,2.0,1387,8276.0,1975,,http://www.redfin.com/ID/Boise/3460-Jullion-St-83704/home/106749822,43.6362621,-116.30650220000001
+7,Single Family Residential,9052 W Donnybrook Ct,Boise,ID,83709,339000,3,2.0,1706,7056.0,1978,30.0,http://www.redfin.com/ID/Boise/W-Donnybrook-Dr-83709/home/106734633,43.601796,-116.29501299999998
+8,Single Family Residential,12763 W Broadleaf St,Boise,ID,83713,379900,4,2.5,2648,7405.0,2009,30.0,http://www.redfin.com/ID/Boise/12763-W-Broadleaf-St-83713/home/106782876,43.6349125,-116.3415095
+9,Single Family Residential,4713 W Catalpa Dr,Boise,ID,83703,449000,3,2.5,2142,6098.0,2004,,http://www.redfin.com/ID/Boise/4713-W-Catalpa-Dr-83703/home/106803222,43.655336,-116.247621
+10,Single Family Residential,11438 W Jennie Lakes St,Boise,ID,83709,349900,3,2.5,1710,6534.0,2007,25.0,http://www.redfin.com/ID/Boise/11438-W-Jennie-Lakes-St-83709/home/106676953,43.5485468,-116.3250011
+11,Single Family Residential,9722 W Blue Meadows St,Boise,ID,83709,339900,3,2.5,1934,6098.0,2006,26.0,http://www.redfin.com/ID/Boise/9722-W-Blue-Meadows-St-83709/home/106691738,43.5607951,-116.30313829999999
+12,Single Family Residential,1215 W Melrose St,Boise,ID,83706,314900,2,1.0,960,6098.0,1955,,http://www.redfin.com/ID/Boise/1215-W-Melrose-St-83706/home/106683920,43.5815026,-116.19682320000001
+13,Single Family Residential,5490 S Pepperridge Way,Boise,ID,83709,437900,3,2.0,2008,10890.0,2008,23.0,http://www.redfin.com/ID/Boise/5490-S-Pepperridge-Way-83709/home/106711768,43.5531359,-116.32077779999999
+14,Single Family Residential,1502 N 24th St,Boise,ID,83702,1400000,5,4.0,3752,11761.0,2004,,http://www.redfin.com/ID/Boise/1502-N-24th-St-83702/home/106766640,43.6340584,-116.21800459999999
+15,Townhouse,5643 S Caper Ln,Boise,ID,83716-6930,249500,2,1.5,1101,3484.0,1998,104.0,http://www.redfin.com/ID/Boise/5643-S-Caper-Pl-83716/home/106693464,43.550812,-116.13424199999999
+16,Single Family Residential,2026 E Goodman Ct,Boise,ID,83712,1100000,5,3.5,4234,9583.0,1994,30.0,http://www.redfin.com/ID/Boise/2026-E-Goodman-Ct-83712/home/106747513,43.600479,-116.1699787
+17,Single Family Residential,2589 S Georgetown Pl #8129,Boise,ID,83709,399900,3,2.0,2011,10018.0,1998,20.0,http://www.redfin.com/ID/Boise/2589-S-Georgetown-Pl-83709/unit-8129/home/172650629,43.579646200000006,-116.30923030000001
+18,Townhouse,3455 S Poco Loco,Boise,ID,83705,235000,2,1.5,956,2613.0,1994,,http://www.redfin.com/ID/Boise/3455-S-Poco-Loco-Pl-83705/home/106701199,43.5711352,-116.2014982
+19,Single Family Residential,3595 E Mardia St,Meridian,ID,83642,479900,4,2.5,2570,7927.0,2020,50.0,http://www.redfin.com/ID/Meridian/3595-E-Mardia-St-83642/home/172647401,43.550483299999996,-116.34941359999999
+20,Single Family Residential,421 S Curtis #33,Boise,ID,83705,259900,3,2.0,1452,,2014,,http://www.redfin.com/ID/Boise/421-S-Curtis-Rd-83705/unit-33/home/145176973,43.6012261,-116.25680179999999
+21,Single Family Residential,1907 S lake Heron Ln,Boise,ID,83706-0000,710000,3,3.0,2650,5227.0,1980,239.0,http://www.redfin.com/ID/Boise/1907-Lake-Heron-Ln-83706/home/106703885,43.589835,-116.17108999999999
+22,Single Family Residential,7056 E Los Carneros Dr,Boise,ID,83706,615000,3,2.5,2055,6229.0,2020,50.0,http://www.redfin.com/ID/Boise/7056-E-Los-Carneros-DR-83706/home/172644840,43.5921208,-116.19333020000002
+23,Single Family Residential,7062 E Los Carneros Dr,Boise,ID,83716,615000,3,2.5,2070,6229.0,2020,50.0,http://www.redfin.com/ID/Boise/7062-E-Los-Carneros-DR-Unknown/home/172644834,43.6150186,-116.2023137
+24,Single Family Residential,7044 E Los Carneros Dr,Boise,ID,83716,615000,3,2.5,2070,6229.0,2020,50.0,http://www.redfin.com/ID/Boise/7044-E-Los-Carneros-DR-Unknown/home/172644320,43.6150186,-116.2023137
+25,Single Family Residential,7755 Bridlewood,Boise,ID,83704,350000,4,2.0,1920,9583.0,1969,,http://www.redfin.com/ID/Boise/7755-Bridlewood-Cir-83704/home/106663883,43.641396,-116.2784924
+26,Condo/Co-op,1412 N McKinney Ln,Boise,ID,83704,349900,3,2.5,1816,,2011,225.0,http://www.redfin.com/ID/Boise/1412-N-McKinney-Ln-83704/home/106671953,43.617745500000005,-116.26706270000001
+27,Single Family Residential,2003 N Cole,Boise,ID,83704,429000,9,4.0,3400,10890.0,1956,,http://www.redfin.com/ID/Boise/2003-N-Cole-Rd-83704/home/106652968,43.623244299999996,-116.2745084
+28,Single Family Residential,1305 N Chelsea St,Boise,ID,83704,314900,4,2.0,1510,7840.0,1965,,http://www.redfin.com/ID/Boise/1305-Chelsea-St-83704/home/106744432,43.6171006,-116.2765811
+29,Single Family Residential,6577 E Bend Ridge St,Boise,ID,83716,359000,4,2.5,1621,4007.0,2016,40.0,http://www.redfin.com/ID/Boise/6577-E-Bend-Ridge-St-83716/home/109561084,43.5303502,-116.1023388
+30,Single Family Residential,3575 E Mardia St,Meridian,ID,83642,524900,4,3.5,2775,7971.0,2020,50.0,http://www.redfin.com/ID/Meridian/3575-E-Mardia-St-83642/home/172642699,43.550481,-116.3496663
+31,Single Family Residential,45 Rocky Canyon Rd,Boise,ID,83716,2499000,4,4.0,5098,35719200.0,2017,,http://www.redfin.com/ID/Boise/45-Rocky-Canyon-Rd-83716/home/115180749,43.6372893,-116.0198848
+32,Single Family Residential,10241 W Guinevere Dr,Boise,ID,83704,313500,3,1.5,1496,8712.0,1973,,http://www.redfin.com/ID/Boise/10241-Guinevere-Dr-83704/home/106650275,43.632549700000006,-116.31020159999998
+33,Single Family Residential,1207 N Happy Dr,Boise,ID,83706,785000,3,3.0,3430,13068.0,1956,,http://www.redfin.com/ID/Boise/1207-Happy-Dr-83706/home/106703595,43.615482799999995,-116.23132620000001
+34,Single Family Residential,3004 N 36th St,Boise,ID,83703,325000,2,1.0,805,4791.0,1912,,http://www.redfin.com/ID/Boise/3004-36th-St-83703/home/106701138,43.6474581,-116.233122
+35,Condo/Co-op,119 S 10th #401,Boise,ID,83702,685000,2,2.0,1500,,2016,323.0,http://www.redfin.com/ID/Boise/119-S-10th-St-83702/unit-401/home/109561086,43.6165374,-116.206601
+36,Single Family Residential,2713 W Hazel St,Boise,ID,83702,349999,2,1.0,881,3049.0,1920,,http://www.redfin.com/ID/Boise/2713-W-Hazel-St-83702/home/106668205,43.6344899,-116.22285929999998
+37,Condo/Co-op,5122 S Surprise Way #205,Boise,ID,83716,340000,2,2.0,1470,,1997,286.0,http://www.redfin.com/ID/Boise/5122-S-Surprise-Way-83716/unit-205/home/106775234,43.5565172,-116.12325859999999
+38,Single Family Residential,10420 W Huntwood Dr,Boise,ID,83709,244900,3,1.0,960,17859.0,1975,,http://www.redfin.com/ID/Boise/10420-W-Huntwood-Dr-83709/home/106663806,43.537518,-116.312329
+39,Single Family Residential,10553 W Harness,Boise,ID,83709,725000,4,3.0,2604,114562.0,1996,83.0,http://www.redfin.com/ID/Boise/10553-W-Harness-Dr-83709/home/106800308,43.558707,-116.313374
+40,Mobile/Manufactured Home,2156 Blue Lake Ln #46,Boise,ID,83716,129764,3,2.0,1279,,2020,,http://www.redfin.com/ID/Boise/2156-Blue-Lake-Ln-83716/unit-46/home/172640450,43.52684910000001,-116.1573614
+41,Single Family Residential,9617 W Tanglewood Dr,Boise,ID,83709,340000,4,2.0,2013,7187.0,2014,33.0,http://www.redfin.com/ID/Boise/9617-W-Tanglewood-Dr-83709/home/106715850,43.532424400000004,-116.3019437
+42,Single Family Residential,6105 E Hootowl Dr,Boise,ID,83716,999999,3,2.5,3090,11979.0,2017,83.0,http://www.redfin.com/ID/Boise/6105-E-Hootowl-Dr-83716/home/142666386,43.5763287,-116.1127426
+43,Single Family Residential,5971 N Collister,Boise,ID,83703,549900,4,3.0,2884,10062.0,1979,15.0,http://www.redfin.com/ID/Boise/5971-N-Collister-Dr-83703/home/106740259,43.6745474,-116.236726
+44,Single Family Residential,2316 W Kootenai St,Boise,ID,83705,339900,4,2.0,1933,7405.0,1948,,http://www.redfin.com/ID/Boise/2316-W-Kootenai-St-83705/home/106653439,43.593641399999996,-116.2109223
+45,Single Family Residential,1612 N 21st St,Boise,ID,83702,998000,4,3.0,3449,6098.0,1923,,http://www.redfin.com/ID/Boise/1612-N-21st-St-83702/home/106657830,43.6352124,-116.21423459999998
+46,Single Family Residential,2718 E Rhyolite Way,Boise,ID,83712,624900,4,3.0,2026,10454.0,1962,,http://www.redfin.com/ID/Boise/2718-E-Rhyolite-Way-83712/home/106716598,43.5857777,-116.1548007
+47,Single Family Residential,4620 W Denton,Boise,ID,83706,459000,4,2.0,2368,5227.0,1954,,http://www.redfin.com/ID/Boise/4620-W-Denton-St-83706/home/106765347,43.6099991,-116.2395581
+48,Single Family Residential,6418 W Dorian,Boise,ID,83709,299999,3,1.0,1075,7405.0,1964,,http://www.redfin.com/ID/Boise/6418-W-Dorian-St-83709/home/106660945,43.588998600000004,-116.26196000000002
+49,Townhouse,1909 S Springbrook,Boise,ID,83706,440000,2,2.5,1422,3049.0,1985,304.0,http://www.redfin.com/ID/Boise/1909-S-Springbrook-Ln-83706/home/106703575,43.588031799999996,-116.16758840000001
+50,Single Family Residential,3233 E Red Stone Dr,Boise,ID,83712,649900,4,2.5,3016,11761.0,1993,,http://www.redfin.com/ID/Boise/3233-E-Red-Stone-Dr-83712/home/106681970,43.5884671,-116.14675749999999
+51,Single Family Residential,2615 W Kathryn Cir,Boise,ID,83705,359900,4,2.0,1956,11325.0,1955,,http://www.redfin.com/ID/Boise/W-Kathryn-St-83705/home/106700930,43.57947,-116.21458100000001
+52,Single Family Residential,5969 S Hill Farm Way,Meridian,ID,83642,539900,4,3.0,2965,8973.0,2020,50.0,http://www.redfin.com/ID/Meridian/5969-S-Hill-Farm-Way-83642/home/172615984,43.550596500000005,-116.3501625
+53,Single Family Residential,5605 W Plymouth St,Boise,ID,83706-1061,499900,4,2.5,2638,10715.0,1954,,http://www.redfin.com/ID/Boise/5605-W-Plymouth-St-83706/home/106732178,43.6228054,-116.251438
+54,Single Family Residential,7823 S Cape View Way,Boise,ID,83709,340000,4,2.5,2323,7405.0,2017,37.0,http://www.redfin.com/ID/Boise/7823-S-Cape-View-Way-83709/home/144011026,43.531858500000006,-116.29758659999999
+55,Single Family Residential,9826 W Mossy Cup,Boise,ID,83709,429900,3,2.0,2327,10454.0,1999,20.0,http://www.redfin.com/ID/Boise/9826-W-Mossy-Cup-St-83709/home/106654064,43.5780059,-116.3045529
+56,Single Family Residential,2609 N Columbine Ave,Boise,ID,83713-5257,454884,4,3.5,2796,8276.0,2006,17.0,http://www.redfin.com/ID/Boise/2609-N-Columbine-Ave-83713/home/106773683,43.6286395,-116.3272551
+57,Single Family Residential,5213 W Franklin Rd,Boise,ID,83705,349900,4,2.0,1416,5662.0,1946,,http://www.redfin.com/ID/Boise/5213-W-Franklin-Rd-83705/home/106695032,43.602618,-116.2467282
+58,Single Family Residential,17 Daggett Rim Rd,Boise,ID,83716,399900,3,2.0,1500,25700.0,2020,205.0,http://www.redfin.com/ID/Boise/17-Daggett-Rim-Rd-83716/home/145604523,43.676224,-115.9855313
+59,Condo/Co-op,419 S 8th St #309,Boise,ID,83702,488000,1,1.0,1088,,1929,264.0,http://www.redfin.com/ID/Boise/419-S-8th-St-83702/unit-309/home/106684012,43.612857500000004,-116.2066169
+60,Mobile/Manufactured Home,2109 Blue Sage #116,Boise,ID,83716,99000,3,2.0,1216,,2015,,http://www.redfin.com/ID/Boise/2109-Blue-Sage-Ln-83716/unit-116/home/145578295,43.5243946,-116.1575065
+61,Single Family Residential,2876 S Grebe Pl,Boise,ID,83716,949000,4,3.5,3485,11761.0,2018,108.0,http://www.redfin.com/ID/Boise/2876-Grebe-Pl-83716/home/142666373,43.5757842,-116.11418390000001
+62,Townhouse,3326 E Front Runner Ln,Boise,ID,83716,459900,2,2.5,1995,1393.0,2016,125.0,http://www.redfin.com/ID/Boise/3326-E-Front-Runner-Ln-83716/home/109558903,43.573283200000006,-116.14386540000001
+63,Single Family Residential,5921 E Foxgrove Dr,Boise,ID,83716,1050000,4,3.5,3375,9931.0,2020,108.0,http://www.redfin.com/ID/Boise/5921-E-Foxgrove-DR-Unknown/home/172006302,43.6150186,-116.2023137
+64,Single Family Residential,3617 N Sawgrass Way,Boise,ID,83704,564990,5,3.0,3574,8712.0,1992,28.0,http://www.redfin.com/ID/Boise/3617-N-Sawgrass-Way-83704/home/106693597,43.63738370000001,-116.28003909999998
+65,Single Family Residential,1533 S Boulder View Ln,Boise,ID,83712,749000,3,2.5,2683,7405.0,2020,65.0,http://www.redfin.com/ID/Boise/S-Boulder-Dr-83709/home/168213557,43.589399,-116.16084099999999
+66,Single Family Residential,3323 E Heartleaf Dr,Boise,ID,83716,849500,5,3.0,4939,14810.0,2010,35.0,http://www.redfin.com/ID/Boise/3323-E-Heartleaf-Dr-83716/home/106725106,43.5419472,-116.14258219999999
+67,Single Family Residential,13511 W Annabrook Dr,Boise,ID,83713,420000,5,3.5,3088,10367.0,1998,35.0,http://www.redfin.com/ID/Boise/13511-W-Annabrook-Dr-83713/home/106717371,43.659602299999996,-116.35092720000002
+68,Single Family Residential,5641 E Hootowl Dr,Boise,ID,83716,1100000,3,3.0,3013,10018.0,2017,108.0,http://www.redfin.com/ID/Boise/5641-E-Hootowl-Dr-83716/home/142666341,43.57602979999999,-116.1185105
+69,Single Family Residential,10189 W Edna,Boise,ID,83704,299000,4,2.0,2443,8276.0,1987,5.0,http://www.redfin.com/ID/Boise/10189-W-Edna-St-83704/home/106777988,43.6417151,-116.30908219999999
+70,Single Family Residential,6815 E Warm Springs Ave,Boise,ID,83716,649900,4,3.0,2669,6098.0,2018,58.0,http://www.redfin.com/ID/Boise/6815-E-Warm-Springs-Ave-83716/home/146240332,43.555083700000004,-116.0988936
+71,Townhouse,8989 W Landmark Ct,Boise,ID,83704,317900,2,2.0,1421,3049.0,1994,130.0,http://www.redfin.com/ID/Boise/8989-W-Landmark-Ct-83704/home/106683129,43.623236,-116.29379809999999
+72,Single Family Residential,4688 N Arrow Villa Way,Boise,ID,83703,879900,5,3.5,3897,20429.0,2005,37.0,http://www.redfin.com/ID/Boise/4688-N-Arrow-Villa-Way-83703/home/106768912,43.6602684,-116.215528
+73,Single Family Residential,9734 Macaw,Boise,ID,83704,374900,3,2.5,1964,4225.0,2020,20.0,http://www.redfin.com/ID/Boise/9734-W-Macaw-St-83704/home/168211910,43.629462200000006,-116.30402190000001
+74,Single Family Residential,2057 S White Pine Ln,Boise,ID,83706,899900,3,2.5,3046,13503.0,1983,130.0,http://www.redfin.com/ID/Boise/2057-S-White-Pine-Ln-83706/home/106719220,43.586546999999996,-116.1690534
+75,Single Family Residential,3501 S Centennial Way,Boise,ID,83706,469900,5,3.0,2112,8712.0,1976,,http://www.redfin.com/ID/Boise/3501-S-Centennial-Way-83706/home/106717281,43.570583299999996,-116.1671994
+76,Condo/Co-op,851 W Front St #1101,Boise,ID,83702,769000,2,2.0,1586,,2009,675.0,http://www.redfin.com/ID/Boise/851-W-Front-St-83702/unit-1101/home/106693583,43.6141528,-116.20544170000001
+77,Single Family Residential,9718 Macaw,Boise,ID,83704,369000,3,2.5,1884,4268.0,2020,20.0,http://www.redfin.com/ID/Boise/9718-W-Macaw-St-83704/home/168211915,43.629462,-116.3037168
+78,Mobile/Manufactured Home,7833 W Manassas Ln,Garden City,ID,83714,112800,2,2.0,990,,2017,,http://www.redfin.com/ID/Boise/7833-Manassas-Ln-83714/home/172575401,43.6709741,-116.2853643
+79,Single Family Residential,286 W Sherman,Boise,ID,83702,749900,4,3.0,2406,8276.0,1996,,http://www.redfin.com/ID/Boise/286-W-Sherman-St-83702/home/106692578,43.6282419,-116.19061359999999
+80,Single Family Residential,7431 Wilshire,Boise,ID,83704,314900,3,1.5,1385,13503.0,1955,,http://www.redfin.com/ID/Boise/7431-Wilshire-Dr-83704/home/106684602,43.6206658,-116.27561340000001
+81,Single Family Residential,2613 N Woody Dr,Boise,ID,83703,349000,2,1.0,620,9147.0,1947,,http://www.redfin.com/ID/Boise/2613-Woody-Dr-83703/home/106690093,43.6440065,-116.2356602
+82,Single Family Residential,12553 W Woodmurra Ct,Boise,ID,83709,419900,4,3.5,2493,8276.0,2000,27.0,http://www.redfin.com/ID/Boise/12553-W-Woodmurra-Ct-83709/home/106794052,43.5603667,-116.33861440000001
+83,Single Family Residential,6412 W Lion Ave,Boise,ID,83709-2941,274900,3,1.0,1363,11194.0,1963,,http://www.redfin.com/ID/Boise/6412-W-Lion-Ave-83709/home/106783005,43.5874157,-116.26119170000001
+84,Single Family Residential,11533 W Jenilyn Ct,Boise,ID,83713,379000,4,2.0,2775,8712.0,1990,,http://www.redfin.com/ID/Boise/11533-W-Jenilyn-Ct-83713/home/106796270,43.654522,-116.3259341
+85,Single Family Residential,4730 S Silvermaple Ave,Boise,ID,83709,425000,3,3.0,2580,8276.0,2006,26.0,http://www.redfin.com/ID/Boise/4730-S-Silvermaple-Ave-83709/home/106711505,43.559969099999996,-116.29944850000001
+86,Single Family Residential,5490 S Palatino,Meridian,ID,83642,580000,5,3.5,3314,9060.0,2016,50.0,http://www.redfin.com/ID/Meridian/5490-S-Palatino-Ave-83642/home/109557055,43.5551785,-116.353066
+87,Townhouse,3280 E Front Runner Ln,Boise,ID,83716,450000,3,2.5,1901,1393.0,2016,125.0,http://www.redfin.com/ID/Boise/3280-E-Front-Runner-Ln-83716/home/109558328,43.5739592,-116.1444717
+88,Single Family Residential,3679 N Lena Ave,Boise,ID,83713,300000,3,2.0,1026,6969.0,1987,,http://www.redfin.com/ID/Boise/3679-N-Lena-Ave-83713/home/106785865,43.6382342,-116.32914469999999
+89,Single Family Residential,8555 W Thunder Mountain Dr,Boise,ID,83709,469900,4,3.5,2807,6795.0,2001,,http://www.redfin.com/ID/Boise/8555-W-Thunder-Mountain-Dr-83709/home/106714956,43.56449620000001,-116.28879740000002
+90,Single Family Residential,719 S Wickham Fen Way,Boise,ID,83709,399000,5,3.0,2616,9060.0,1980,,http://www.redfin.com/ID/Boise/719-S-Wickham-Fen-Way-83709/home/106719465,43.598501500000005,-116.3236814
+91,Single Family Residential,3015 N Arthur Cir,Boise,ID,83703,379900,4,1.0,1267,6969.0,1970,,http://www.redfin.com/ID/Boise/3015-N-Arthur-St-83703/home/106671993,43.647792200000005,-116.2376737
+92,Single Family Residential,2626 N 23rd Ln,Boise,ID,83702,699900,4,3.0,2706,5270.0,2016,21.0,http://www.redfin.com/ID/Boise/2626-N-23rd-St-83702/home/109559726,43.6436766,-116.21671359999999
+93,Single Family Residential,2001 N Harrison Blvd,Boise,ID,83702,899000,4,2.0,3564,6098.0,1921,,http://www.redfin.com/ID/Boise/2001-N-Harrison-Blvd-83702/home/106703564,43.6365558,-116.20861670000001
+94,Single Family Residential,5857 E Black Gold St,Boise,ID,83716,531900,4,3.0,2906,8102.0,2018,40.0,http://www.redfin.com/ID/Boise/5857-E-Black-Gold-St-83716/home/144117750,43.527692200000004,-116.11124440000002
+95,Single Family Residential,1211 E Shaw Mountian,Boise,ID,83712,999000,3,3.5,2512,14157.0,2020,,http://www.redfin.com/ID/Boise/1211-E-Shaw-Mountain-Ct-83712/home/172550101,43.614666299999996,-116.1776507
+96,Single Family Residential,1373 W Martin St,Boise,ID,83706,585000,2,2.0,1844,7274.0,1997,90.0,http://www.redfin.com/ID/Boise/1373-Martin-St-83706/home/106664976,43.5885902,-116.1982486
+97,Single Family Residential,11986 W Rader Dr,Boise,ID,83713,438000,5,3.0,3000,7187.0,1997,23.0,http://www.redfin.com/ID/Boise/11986-W-Rader-Dr-83713/home/106659820,43.6504615,-116.3317216
+98,Single Family Residential,1811 N 14th,Boise,ID,83702-2641,699900,4,2.5,1980,6098.0,1941,,http://www.redfin.com/ID/Boise/1811-N-14th-St-83702/home/106796250,43.6332965,-116.2048061
+99,Single Family Residential,11017 W Wampum Dr,Boise,ID,83704,266000,3,2.0,1399,8712.0,1976,,http://www.redfin.com/ID/Boise/11017-Wampum-Dr-83713/home/106729258,43.6346114,-116.31961820000001
+100,Single Family Residential,4737 N Pennfield,Boise,ID,83713,294000,3,2.0,1302,6098.0,1987,,http://www.redfin.com/ID/Boise/4737-N-Pennfield-Pl-83713/home/106694313,43.6482284,-116.32314939999999
+101,Townhouse,7436 W Garden Gln,Boise,ID,83714,349000,3,2.0,1864,7840.0,1997,150.0,http://www.redfin.com/ID/Boise/7436-W-Garden-Glen-Dr-83714/home/106773582,43.670705100000006,-116.2808499
+102,Single Family Residential,2858 S Shady Ln,Boise,ID,83716,571211,4,3.0,2778,3876.0,2020,116.0,http://www.redfin.com/ID/Boise/2858-Shady-Ln-83716/home/172532942,43.5779159,-116.1299726
+103,Single Family Residential,2315 S Broadway Ave,Boise,ID,83706,1200000,5,3.0,3921,49614.0,1912,,http://www.redfin.com/ID/Boise/2315-Broadway-Ave-83706/home/106722946,43.5820868,-116.1942916
+104,Condo/Co-op,851 W Front St #1401,Boise,ID,83702,2399000,3,2.5,4237,,2009,1353.0,http://www.redfin.com/ID/Boise/851-W-Front-St-83702/unit-1401/home/106685667,43.6141485,-116.2054497
+105,Single Family Residential,2118 N Springland Pl,Boise,ID,83713,429000,4,4.0,2919,12414.0,1996,13.0,http://www.redfin.com/ID/Boise/2118-N-Springland-Pl-83713/home/106723025,43.6240772,-116.3215362
+106,Single Family Residential,4235 E Raincloud Ln,Boise,ID,83716,514533,4,3.5,2362,2003.0,2020,116.0,http://www.redfin.com/ID/Boise/4235-E-Raincloud-LN-Unknown/home/172522547,43.6150186,-116.2023137
+107,Single Family Residential,4229 E Raincloud Ln,Boise,ID,83716,504874,4,3.5,2191,2003.0,2020,116.0,http://www.redfin.com/ID/Boise/4229-E-Raincloud-LN-Unknown/home/172522411,43.6150186,-116.2023137
+108,Single Family Residential,3880 N Patricia Ln,Boise,ID,83704,269900,2,1.5,942,6969.0,2008,,http://www.redfin.com/ID/Boise/3880-N-Patricia-Ln-83704/home/106714224,43.640302,-116.29788700000002
+109,Mobile/Manufactured Home,1242 N Oakwood,Boise,ID,83704,84900,3,2.0,1152,,1995,,http://www.redfin.com/ID/Boise/1242-N-Oakwood-Ln-83704/home/145180362,43.6163242,-116.290173
+110,Single Family Residential,6320 S San Luis,Boise,ID,83709,534900,4,3.0,2750,36154.0,1973,,http://www.redfin.com/ID/Boise/6320-S-San-Luis-Way-83709/home/106785830,43.5454026,-116.3325959
+111,Single Family Residential,1311 N Shamrock,Boise,ID,83713-7950,279999,3,2.0,1533,8276.0,1936,11.0,http://www.redfin.com/ID/Boise/1311-N-Shamrock-Ave-83713/home/106769650,43.6168226,-116.324766
+112,Single Family Residential,10804 W Spring River St,Boise,ID,83709,384900,4,2.5,2617,8189.0,2006,21.0,http://www.redfin.com/ID/Boise/10804-W-Spring-River-St-83709/home/106799928,43.553562400000004,-116.316682
+113,Single Family Residential,8918 W Amity Rd,Boise,ID,83709,294900,3,2.0,1236,6098.0,2000,25.0,http://www.redfin.com/ID/Boise/8918-W-Amity-Rd-83709/home/106736261,43.5612833,-116.2929169
+114,Single Family Residential,2211 S Janeen,Boise,ID,83709,496000,3,3.5,2030,12632.0,1956,,http://www.redfin.com/ID/Boise/2211-S-Janeen-St-83709/home/106798817,43.5821597,-116.2563883
+115,Townhouse,3219 N Native Ln,Boise,ID,83704,405000,3,2.5,1781,3049.0,1997,70.0,http://www.redfin.com/ID/Boise/3219-N-Native-Ln-83704/home/106751805,43.634583899999996,-116.27076399999999
+116,Single Family Residential,2425 N Heights Dr,Boise,ID,83702,595000,3,2.0,1608,5662.0,1985,,http://www.redfin.com/ID/Boise/2425-Heights-Dr-83702/home/106671054,43.633189,-116.1953381
+117,Single Family Residential,14122 W Bunkerhill,Boise,ID,83713,478750,5,3.0,3024,8799.0,1996,25.0,http://www.redfin.com/ID/Boise/14122-W-Bunkerhill-St-83713/home/106741734,43.6480229,-116.3584124
+118,Single Family Residential,6315 E Wildhorse Ln,Boise,ID,83712,2970000,3,3.5,4025,1808262.0,2013,,http://www.redfin.com/ID/Boise/6315-E-Wild-Horse-Ln-83712/home/106676258,43.617525,-116.10898999999999
+119,Condo/Co-op,5908 Bremerton,Boise,ID,83714,329000,2,2.5,1592,,2009,80.0,http://www.redfin.com/ID/Boise/5908-N-Bremerton-Pl-83714/home/106654803,43.673999,-116.277622
+120,Single Family Residential,2311 N 34th St,Boise,ID,83703,749000,3,2.5,3117,5662.0,2015,,http://www.redfin.com/ID/Boise/2311-N-34th-St-83703/home/106726519,43.6413738,-116.23114640000001
+121,Single Family Residential,3203 S Lindsay,Boise,ID,83705,249900,2,1.0,1136,6098.0,1910,,http://www.redfin.com/ID/Boise/3203-S-Lindsay-Ave-83705/home/106717257,43.5734611,-116.19993799999999
+122,Condo/Co-op,2500 Bogus Basin Rd #300,Boise,ID,83702,599900,2,3.0,2222,,2006,462.0,http://www.redfin.com/ID/Boise/2500-N-Bogus-Basin-Rd-83702/unit-300/home/172511099,43.642189,-116.20693
+123,Single Family Residential,3703 N Lakegrove Way,Boise,ID,83713,364900,4,2.0,1880,9147.0,1992,4.0,http://www.redfin.com/ID/Boise/3703-N-Lakegrove-Pl-83713/home/106700601,43.638422,-116.3329
+124,Single Family Residential,6825 Brentwood,Boise,ID,83709,379900,5,3.0,2352,11543.0,1963,,http://www.redfin.com/ID/Boise/6825-Brentwood-Dr-83709/home/106665338,43.591307799999996,-116.2677003
+125,Single Family Residential,4977 N Hollow Ln,Boise,ID,83702,998000,4,5.5,4654,6098.0,1985,290.0,http://www.redfin.com/ID/Boise/4977-N-Hollow-Ln-83702/home/106730077,43.6578795,-116.1757957
+126,Single Family Residential,10966 W Highlander Rd,Boise,ID,83709,599000,5,3.0,2902,35719.0,1973,,http://www.redfin.com/ID/Boise/10966-W-Highlander-Rd-83709/home/106694151,43.5568922,-116.3186949
+127,Condo/Co-op,1411 Grand Ave #104,Boise,ID,83702,345000,3,1.5,1095,,2008,206.0,http://www.redfin.com/ID/Boise/1411-W-Grand-Ave-83702/unit-104/home/106711055,43.6169213,-116.2141318
+128,Single Family Residential,2837 Creek Pointe Ln,Eagle,ID,83616,560000,3,2.0,2207,6534.0,2015,133.0,http://www.redfin.com/ID/Eagle/2837-S-Creek-Pointe-Ln-83616/home/109554683,43.6693213,-116.35035790000002
+129,Mobile/Manufactured Home,8569 Blue Hill Ln,Boise,ID,83716,109900,4,2.0,1890,,2002,,http://www.redfin.com/ID/Boise/8569-Blue-Hill-Ln-83716/home/147624045,43.5246633,-116.15890209999999
+130,Mobile/Manufactured Home,2283 Blue Lake Ln,Boise,ID,83716,114900,3,2.0,1344,,2019,,http://www.redfin.com/ID/Boise/2283-Blue-Lake-Ln-83716/home/167122224,43.5259208,-116.1556716
+131,Single Family Residential,9585 W Bronze Dr,Boise,ID,83709,354900,5,3.0,3596,7318.0,2006,37.0,http://www.redfin.com/ID/Boise/9585-W-Bronze-Dr-83709/home/106681743,43.5425036,-116.3015445
+132,Mobile/Manufactured Home,9915 Abram Ln,Boise,ID,83704,59900,2,2.0,924,,1981,,http://www.redfin.com/ID/Boise/9915-Abram-Ln-83704/home/172480658,43.628823600000004,-116.3045801
+133,Single Family Residential,3822 W Lemhi,Boise,ID,83705,1000000,3,1.0,1128,48351.0,1944,,http://www.redfin.com/ID/Boise/3822-Lemhi-St-83705/home/106744133,43.583767,-116.22963600000001
+134,Single Family Residential,11519 N 20TH Pl,Boise,ID,83714,524900,3,2.0,1860,8581.0,2020,84.0,http://www.redfin.com/ID/Boise/11519-N-20th-St-83702/home/172454850,43.634628,-116.2133183
+135,Single Family Residential,2349 N Broadview,Boise,ID,83702,915000,3,3.0,2745,16117.0,1991,108.0,http://www.redfin.com/ID/Boise/2349-N-Broadview-Pl-83702/home/106788318,43.635306400000005,-116.19455090000001
+136,Single Family Residential,4665 N Bantry Pl,Boise,ID,83702,798000,5,3.5,3173,11325.0,1993,17.0,http://www.redfin.com/ID/Boise/4665-N-Bantry-Pl-83702/home/106785535,43.654917600000005,-116.17404209999998
+137,Single Family Residential,10870 W Camas St,Boise,ID,83709,399900,5,3.0,2736,20037.0,1986,,http://www.redfin.com/ID/Boise/10870-W-Camas-St-83709/home/106811250,43.5966145,-116.31785790000002
+138,Townhouse,7749 W Crestwood Dr,Boise,ID,83704,399000,2,2.5,1609,1829.0,2020,60.0,http://www.redfin.com/ID/Boise/7749-W-Crestwood-Dr-83704/home/172433010,43.6446669,-116.27872020000001
+139,Townhouse,7755 Crestwood Dr,Boise,ID,83704,399000,3,2.5,1619,2003.0,2020,60.0,http://www.redfin.com/ID/Boise/7755-W-Crestwood-Dr-83704/home/106775042,43.644658899999996,-116.2787966
+140,Townhouse,7797 W Crestwood Dr,Boise,ID,83704,372000,3,2.5,1609,1916.0,2020,60.0,http://www.redfin.com/ID/Boise/7797-W-Crestwood-Dr-83704/home/172432894,43.6447153,-116.2793742
+141,Single Family Residential,303 W Carter,Boise,ID,83706,475000,3,2.0,2012,4486.0,1978,87.0,http://www.redfin.com/ID/Boise/303-W-Carter-St-83706/home/106665139,43.573189500000005,-116.18487169999999
+142,Single Family Residential,9909 W Lillywood Dr,Boise,ID,83709,349900,3,2.0,1843,7405.0,2016,25.0,http://www.redfin.com/ID/Boise/9909-W-Lillywood-Dr-83709/home/109555248,43.5401713,-116.3053365
+143,Single Family Residential,3635 E Mardia St,Meridian,ID,83642,555777,3,2.5,2574,7971.0,2020,50.0,http://www.redfin.com/ID/Meridian/3635-E-Mardia-St-83642/home/172406921,43.5504858,-116.34892909999999
+144,Single Family Residential,112 E Boise,Boise,ID,83706-4302,600000,3,2.0,2128,23958.0,1950,,http://www.redfin.com/ID/Boise/112-E-Boise-Ave-83706/home/106733483,43.586422,-116.18281599999999
+145,Single Family Residential,2007 S Surrey Rd,Boise,ID,83709,550000,4,3.0,2457,20603.0,2020,,http://www.redfin.com/ID/Boise/2007-Surrey-Rd-83709/home/106675109,43.585341,-116.28592900000001
+146,Single Family Residential,2550 S Flotilla Ave,Boise,ID,83706,649500,4,3.0,2914,13024.0,1992,27.0,http://www.redfin.com/ID/Boise/2550-S-Flotilla-Ave-83706/home/106757263,43.579639799999995,-116.1675124
+147,Townhouse,277 S COSTON,Boise,ID,83712,459900,3,2.5,2308,3484.0,1979,309.0,http://www.redfin.com/ID/Boise/277-S-Coston-Ln-83712/home/106760755,43.6032717,-116.1783949
+148,Single Family Residential,11612 W Overland Rd,Boise,ID,83709,340000,3,2.5,1802,4791.0,2016,67.0,http://www.redfin.com/ID/Boise/11612-W-Overland-Rd-83709/home/109558344,43.5904571,-116.3268213
+149,Single Family Residential,6824 Fairfield,Boise,ID,83709,550000,4,3.5,2407,10018.0,2019,,http://www.redfin.com/ID/Boise/6824-Fairfield-Ave-83709/home/106784948,43.596127200000005,-116.26584979999998
+150,Single Family Residential,2300 W Palouse St,Boise,ID,83705,375000,5,2.0,2538,10890.0,1955,,http://www.redfin.com/ID/Boise/2300-W-Palouse-St-83705/home/106667275,43.58554779999999,-116.2100126
+151,Townhouse,7406 W Althea Ct,Boise,ID,83709,268000,2,1.0,854,4225.0,1982,,http://www.redfin.com/ID/Boise/7406-Althea-Ct-83709/home/106740285,43.595354799999996,-116.2744305
+152,Single Family Residential,9900 E Sandy Point Ln,Boise,ID,83716,985000,3,3.0,2412,479595.0,1990,,http://www.redfin.com/ID/Boise/9900-E-Sandy-Point-Ln-83716/home/106653805,43.532331,-116.065393
+153,Single Family Residential,2804 E Hard Rock Dr,Boise,ID,83712,1125000,4,3.0,3215,13982.0,2020,50.0,http://www.redfin.com/ID/Boise/2804-E-Hard-Rock-Dr-83712/home/106739233,43.587589,-116.152699
+154,Single Family Residential,6747 E Zaffre Ridge St,Boise,ID,83716,388540,3,2.0,1530,6229.0,2020,29.0,http://www.redfin.com/ID/Boise/6747-E-Alta-Ridge-Ct-83716/home/172385358,43.5422558,-116.13694879999998
+155,Single Family Residential,8274 S Bogus Ridge St,Boise,ID,83716,429990,4,2.0,2025,7230.0,2020,29.0,http://www.redfin.com/ID/Boise/8274-S-Bogus-Ridge-Way-83716/home/172385271,43.5279544,-116.09982340000002
+156,Single Family Residential,8262 S Bogus Ridge St,Boise,ID,83716,471774,4,2.5,2530,7492.0,2020,29.0,http://www.redfin.com/ID/Boise/8262-S-Bogus-Ridge-Way-83716/home/172382473,43.5279544,-116.09982340000002
+157,Condo/Co-op,1751 Bogus Basin Rd #201,Boise,ID,83702,275000,0,1.0,483,,1975,367.0,http://www.redfin.com/ID/Boise/1751-N-Bogus-Basin-Rd-83702/unit-201/home/115252773,43.771458100000004,-116.10541540000001
+158,Townhouse,11295 W Gabrielle Dr,Boise,ID,83713,244900,2,2.5,1157,1176.0,2020,55.0,http://www.redfin.com/ID/Boise/11295-W-Gabrielle-Dr-83713/home/172380644,43.6182429,-116.3216145
+159,Single Family Residential,1112 S Owyhee,Boise,ID,83705,695000,3,3.5,3039,25264.0,1935,,http://www.redfin.com/ID/Boise/1112-S-Owyhee-St-83705/home/106732169,43.5940352,-116.2231044
+160,Single Family Residential,607 W Beeson St,Boise,ID,83706-0000,349900,2,2.0,1300,9147.0,1954,,http://www.redfin.com/ID/Boise/607-W-Beeson-St-83706/home/106802406,43.5778431,-116.1889767
+161,Single Family Residential,3301 S Cole Rd,Boise,ID,83709,714900,7,5.0,5209,34455.0,1986,,http://www.redfin.com/ID/Boise/3301-S-Cole-Rd-83709/home/106805094,43.573113799999994,-116.27456000000001
+162,Single Family Residential,7244 W Mojave Dr,Boise,ID,83709,329900,3,2.0,1534,7405.0,1982,,http://www.redfin.com/ID/Boise/7244-W-Mojave-Dr-83709/home/109560074,43.559557500000004,-116.2716092
+163,Single Family Residential,2102 S Latah St,Boise,ID,83705,380000,3,2.0,1748,6098.0,1942,,http://www.redfin.com/ID/Boise/2102-S-Latah-St-83705/home/106811744,43.5835073,-116.22819799999999
+164,Single Family Residential,620 N 25th,Boise,ID,83702,434000,4,1.5,2170,6098.0,1936,,http://www.redfin.com/ID/Boise/620-N-25th-St-83702/home/106722577,43.6269458,-116.2209108
+165,Single Family Residential,1712 S Vermont,Boise,ID,83706,475000,3,3.0,1701,3136.0,2020,,http://www.redfin.com/ID/Boise/1712-S-Vermont-Ave-83706/home/106777250,43.5914698,-116.19959180000001
+166,Single Family Residential,1710 S Vermont,Boise,ID,83706,475000,3,3.0,1701,3136.0,2020,,http://www.redfin.com/ID/Boise/1710-S-Vermont-Ave-83706/home/172347012,43.5915013,-116.19953410000001
+167,Single Family Residential,6977 W Amity Rd,Boise,ID,83709,399900,4,3.0,1988,9278.0,1981,,http://www.redfin.com/ID/Boise/6977-W-Amity-Rd-83709/home/106781258,43.5607617,-116.2685294
+168,Single Family Residential,2170 E Gossamer Ln,Boise,ID,83706,3998000,5,5.0,9265,177724.0,1990,60.0,http://www.redfin.com/ID/Boise/2170-E-Gossamer-Ln-83706/home/106727513,43.5793219,-116.1564226
+169,Mobile/Manufactured Home,616 Empress St,Boise,ID,83713,79900,3,2.0,1152,,1983,,http://www.redfin.com/ID/Boise/616-Empress-St-83713/home/172343066,43.615377200000005,-116.32265109999999
+170,Condo/Co-op,323 W Jefferson #207,Boise,ID,83702,425000,1,1.0,877,,2009,307.0,http://www.redfin.com/ID/Boise/323-W-Jefferson-St-83702/unit-207/home/106687521,43.6151282,-116.1963965
+171,Mobile/Manufactured Home,975 N Fawn Ln,Boise,ID,83704,69900,2,2.0,784,,2013,491.0,http://www.redfin.com/ID/Boise/975-N-Fawn-Ln-83704/home/172330227,43.613680200000005,-116.2913965
+172,Single Family Residential,8709 W Ben Ct,Boise,ID,83714,419900,4,2.0,3224,12196.0,1966,21.0,http://www.redfin.com/ID/Boise/8709-W-Ben-St-83714/home/106813694,43.68442,-116.29443799999999
+173,Single Family Residential,415 S Cotterell Dr,Boise,ID,83709-0413,749000,4,2.5,3399,55190.0,2005,,http://www.redfin.com/ID/Boise/415-S-Cotterell-Dr-83709/home/106678607,43.6009224,-116.30370259999998
+174,Single Family Residential,6766 E Zaffre Ridge St,Boise,ID,83716,433062,3,2.5,2342,7056.0,2020,29.0,http://www.redfin.com/ID/Boise/6766-E-Alta-Ridge-Ct-83716/home/172642302,43.5422558,-116.13694879999998
+175,Single Family Residential,5043 N Corralero Ln,Boise,ID,83702,1300000,4,3.5,3713,11630.0,2021,50.0,http://www.redfin.com/ID/Boise/5043-N-Corralero-LN-83702/home/165838892,43.6624385,-116.16304309999998
+176,Single Family Residential,4598 N Eyrie Way,Boise,ID,83703,848500,3,2.5,2700,20908.0,2020,33.0,http://www.redfin.com/ID/Boise/4598-N-Eyrie-Way-83703/home/172275133,43.6629609,-116.2167966
+177,Single Family Residential,1505 E Jefferson,Boise,ID,83712,799900,5,3.5,2663,13068.0,1950,,http://www.redfin.com/ID/Boise/1505-E-Jefferson-St-83712/home/106707488,43.606145500000004,-116.17597350000001
+178,Mobile/Manufactured Home,2401 S Owyhee #31,Boise,ID,83705,119900,3,2.0,1279,,2018,,http://www.redfin.com/ID/Boise/2401-S-Owyhee-St-83705/unit-31/home/145547029,43.58147,-116.22466499999999
+179,Single Family Residential,1619 S EMPIRE,Boise,ID,83709,394900,4,2.0,1629,11761.0,1963,,http://www.redfin.com/ID/Boise/1619-S-Empire-Way-83709/home/106660647,43.589257700000005,-116.2595412
+180,Condo/Co-op,880 W River St #201,Boise,ID,83702,599900,2,2.5,1569,,2019,485.0,http://www.redfin.com/ID/Boise/880-W-River-St-83702/unit-201/home/148731974,43.6112942,-116.2094031
+181,Single Family Residential,911 N Houston Rd,Boise,ID,83706,995000,6,4.5,5162,8712.0,2006,,http://www.redfin.com/ID/Boise/911-Houston-Rd-83706/home/106736124,43.6128518,-116.2298991
+182,Mobile/Manufactured Home,2295 Blue Lake Ln #59,Boise,ID,83716,131900,3,2.0,1492,,2020,,http://www.redfin.com/ID/Boise/2295-Blue-Lake-Ln-83716/unit-59/home/172244539,43.5258513,-116.155452
+183,Single Family Residential,10103 W Sussex Dr,Boise,ID,83704-5258,349000,3,2.0,1456,10541.0,1974,,http://www.redfin.com/ID/Boise/10103-Sussex-Dr-83704/home/106746351,43.633278000000004,-116.3082098
+184,Single Family Residential,5611 S COLE,Boise,ID,83709,384900,3,2.0,1622,39204.0,1973,,http://www.redfin.com/ID/Boise/5611-S-Cole-Rd-83709/home/106756057,43.55190579999999,-116.27443729999999
+185,Single Family Residential,1614 W Dewey St,Boise,ID,83702,545000,3,3.0,1798,3049.0,1942,,http://www.redfin.com/ID/Boise/1614-W-Dewey-St-83702/home/106732700,43.6382266,-116.2075105
+186,Single Family Residential,5017 W Bethel St,Boise,ID,83706,388500,3,2.0,1940,20908.0,1948,,http://www.redfin.com/ID/Boise/5017-W-Bethel-St-83706/home/106716199,43.6059935,-116.24435590000002
+187,Single Family Residential,1512 W Franklin St,Boise,ID,83702,775000,4,2.0,3155,5009.0,1885,,http://www.redfin.com/ID/Boise/1512-W-Franklin-Rd-83702/home/106658800,43.6248689,-116.2075723
+188,Single Family Residential,4010 N Jennifer St,Boise,ID,83704,365000,4,1.5,1687,8842.0,1972,,http://www.redfin.com/ID/Boise/4010-Jennifer-St-83704/home/106734904,43.6414086,-116.2985256
+189,Single Family Residential,9066 W Brookview Ct,Boise,ID,83709,375000,4,3.5,2645,9321.0,1978,30.0,http://www.redfin.com/ID/Boise/9066-W-Brookview-Ct-83709/home/106692021,43.60251829999999,-116.2953993
+190,Single Family Residential,8923 W Tillamook Dr,Boise,ID,83709,355000,4,2.5,1704,6969.0,2000,25.0,http://www.redfin.com/ID/Boise/8923-W-Tillamook-Dr-83709/home/106777846,43.5617777,-116.2930584
+191,Single Family Residential,204 E 34th St,Garden City,ID,83714,309400,2,2.0,1248,7405.0,1971,,http://www.redfin.com/ID/Garden-City/204-E-34th-St-83714/home/106665236,43.6241671,-116.23715729999999
+192,Condo/Co-op,1411 W Grand Ave #105,Boise,ID,83702,349900,3,2.0,1151,,2008,206.0,http://www.redfin.com/ID/Boise/1411-W-Grand-Ave-83702/unit-105/home/106711293,43.6169789,-116.2141848
+193,Single Family Residential,3200 N Treasure Dr,Boise,ID,83703,589000,5,3.0,3063,11412.0,1952,,http://www.redfin.com/ID/Boise/3200-N-Treasure-Dr-83703/home/106695310,43.6493244,-116.2255762
+194,Single Family Residential,1715 N 15th St,Boise,ID,83702-2611,849900,4,2.5,2766,6098.0,1913,,http://www.redfin.com/ID/Boise/1715-N-15th-St-83702/home/106780811,43.6334249,-116.2061293
+195,Single Family Residential,2776 S Armada Pl,Boise,ID,83706,599900,4,3.0,2784,16552.0,1990,27.0,http://www.redfin.com/ID/Boise/2776-S-Armada-Pl-83706/home/106767617,43.5774115,-116.1583645
+196,Single Family Residential,8314 W Packsaddle Dr,Boise,ID,83709,419900,5,2.5,3658,6969.0,2011,21.0,http://www.redfin.com/ID/Boise/8314-W-Packsaddle-Dr-83709/home/106711923,43.559468,-116.285527
+197,Mobile/Manufactured Home,3644 S CLACTON,Boise,ID,83716,175000,2,1.0,924,4791.0,1978,,http://www.redfin.com/ID/Boise/3644-Clacton-Way-83716/home/106747762,43.5683646,-116.1132867
+198,Single Family Residential,7630 W Thunder Mountain Dr,Boise,ID,83709,698000,6,4.5,5928,12109.0,1984,,http://www.redfin.com/ID/Boise/7630-W-Thunder-Mountain-Dr-83709/unit-M/home/106685016,43.564094700000005,-116.2769078
+199,Single Family Residential,5600 S Cloverdale Rd,Boise,ID,83709,624990,3,2.0,1536,189703.0,1995,,http://www.redfin.com/ID/Boise/5600-S-Cloverdale-Rd-83709/home/106718441,43.5518223,-116.33243459999998
+200,Single Family Residential,1319 S Division Ave,Boise,ID,83706,349999,4,2.0,1236,6098.0,1963,,http://www.redfin.com/ID/Boise/1319-S-Division-Ave-83706/home/106750312,43.596577,-116.18886
+201,Townhouse,4633 N Carlsbad Way,Boise,ID,83703,299900,3,2.0,1461,2613.0,1998,125.0,http://www.redfin.com/ID/Boise/4633-N-Carlsbad-Way-83703/home/106734616,43.6625061,-116.26728929999999
+202,Single Family Residential,2372 E Via Privada,Boise,ID,83716,1650000,5,4.5,4328,15681.0,2020,100.0,http://www.redfin.com/ID/Boise/3550-E-Warm-Springs-Ave-83716/home/106742604,43.5797311,-116.1381719
+203,Single Family Residential,815 E Warm Springs Ave,Boise,ID,83712,1120000,4,2.5,3865,39029.0,1915,,http://www.redfin.com/ID/Boise/815-E-Warm-Springs-Ave-83712/home/106771251,43.6082151,-116.1858207
+204,Single Family Residential,5693 E Hootowl Dr,Boise,ID,83716,1025000,3,2.5,3112,13068.0,2018,108.0,http://www.redfin.com/ID/Boise/5693-E-Hootowl-Dr-83716/home/142666345,43.5756174,-116.11787350000002
+205,Single Family Residential,7018 E La Cuesta St,Boise,ID,83716,705000,4,3.5,2882,6316.0,2020,50.0,http://www.redfin.com/ID/Boise/7018-E-La-Cuesta-ST-Unknown/home/172046617,43.6150186,-116.2023137
+206,Single Family Residential,3386 W Forsythia Dr,Boise,ID,83703,649900,5,4.0,3020,5227.0,2020,54.0,http://www.redfin.com/ID/Boise/3386-W-Forsythia-Dr-83703/home/168212975,43.652271999999996,-116.230473
+207,Single Family Residential,3522 E Via Estancia,Boise,ID,83716,1495000,4,4.5,3872,22651.0,2020,100.0,http://www.redfin.com/ID/Boise/3522-E-Via-Estancia-Ln-83716/home/142665486,43.5810152,-116.14092250000002
+208,Single Family Residential,1213 N 5th St,Boise,ID,83702,1300000,4,3.5,4420,6098.0,2021,,http://www.redfin.com/ID/Boise/1213-N-5th-St-83702/home/106668810,43.625370000000004,-116.1943047
+209,Single Family Residential,3340 W Lassen Dr,Boise,ID,83703,619900,5,4.0,3020,5227.0,2020,54.0,http://www.redfin.com/ID/Boise/3340-Lassen-St-83703/home/168212965,43.652701,-116.22970900000001
+210,Single Family Residential,7060 E La Cuesta St,Boise,ID,83716,690000,3,2.5,2742,6446.0,2020,50.0,http://www.redfin.com/ID/Boise/7060-E-La-Cuesta-ST-Unknown/home/172045691,43.6150186,-116.2023137
+211,Single Family Residential,7040 E La Cuesta,Boise,ID,83716,699900,3,3.0,2726,6446.0,2020,50.0,http://www.redfin.com/ID/Boise/7040-E-La-Cuesta-Unknown/home/172045621,43.6150186,-116.2023137
+212,Single Family Residential,7026 E La Cuesta St,Boise,ID,83716,695000,3,2.5,2702,6403.0,2020,50.0,http://www.redfin.com/ID/Boise/7026-E-La-Cuesta-ST-Unknown/home/172045586,43.6150186,-116.2023137
+213,Single Family Residential,7002 E La Cuesta St,Boise,ID,83716,685000,3,2.5,2742,8189.0,2020,50.0,http://www.redfin.com/ID/Boise/7002-E-La-Cuesta-ST-Unknown/home/172045559,43.6150186,-116.2023137
+214,Single Family Residential,7052 E La Cuesta St,Boise,ID,83716,725000,4,4.5,3206,6446.0,2020,50.0,http://www.redfin.com/ID/Boise/7052-E-La-Cuesta-ST-Unknown/home/172045539,43.6150186,-116.2023137
+215,Single Family Residential,945 E Warm Springs Ave,Boise,ID,83712,1980000,5,3.5,6871,20037.0,1920,,http://www.redfin.com/ID/Boise/945-E-Warm-Springs-Ave-83712/home/106786189,43.6072447,-116.18407930000001
+216,Single Family Residential,1200 N Harrison Blvd,Boise,ID,83702,1150000,4,3.0,3650,6098.0,1929,,http://www.redfin.com/ID/Boise/1200-N-Harrison-Blvd-83702/home/106661949,43.629439899999994,-116.20788619999999
+217,Single Family Residential,1116 N 15th St,Boise,ID,83702,824900,4,3.0,2563,6098.0,1936,,http://www.redfin.com/ID/Boise/1116-N-15th-St-83702/home/106649812,43.628084799999996,-116.20551869999998
+218,Townhouse,2521 S Sea Pnes,Boise,ID,83705,288888,3,2.0,1340,3049.0,1994,15.0,http://www.redfin.com/ID/Boise/2521-S-Sea-Pines-Pl-83705/home/106670453,43.57955,-116.24714099999998
+219,Single Family Residential,175 W Retford Ct,Boise,ID,83702,1075000,4,4.0,4004,15681.0,2003,83.0,http://www.redfin.com/ID/Boise/175-W-Retford-Ct-83702/home/106719923,43.6562213,-116.1869631
+220,Single Family Residential,3 W Cyrus St,Boise,ID,83705,404900,3,2.5,2202,3920.0,2020,10.0,http://www.redfin.com/ID/Boise/3-Cyrus-St-83705/home/172000450,43.5742546,-116.2007376
+221,Single Family Residential,5 SEYBOLD Ln,Boise,ID,83631,374900,4,2.0,2050,128937.0,1998,,http://www.redfin.com/ID/Boise/5-Seybold-Ln-83716/home/115254163,43.783444,-115.99243600000001
+222,Single Family Residential,10274 W Cranberry,Boise,ID,83704-1999,625000,4,2.5,3084,15245.0,1992,58.0,http://www.redfin.com/ID/Boise/10274-W-Cranberry-Ct-83704/home/106798952,43.6500866,-116.31011299999999
+223,Mobile/Manufactured Home,3249 Cherry #6,Boise,ID,83705,49900,2,1.0,1100,,1970,,http://www.redfin.com/ID/Boise/3249-Cherry-Ln-83705/unit-6/home/171991787,43.580620399999994,-116.22169280000001
+224,Mobile/Manufactured Home,384 W Silver City,Boise,ID,83713-8002,79900,3,2.0,1680,,1974,,http://www.redfin.com/ID/Boise/384-W-Silver-City-St-83713/home/171976147,43.6145079,-116.327619
+225,Mobile/Manufactured Home,2138 E BLUE SPRUCE,Boise,ID,83716,114900,3,2.0,1279,,2017,520.0,http://www.redfin.com/ID/Boise/2138-Blue-Spruce-Ln-83716/unit-191/home/144795927,43.5254229,-116.15736979999998
+226,Condo/Co-op,323 W Jefferson St #506,Boise,ID,83702,599000,2,2.0,1234,,2009,497.0,http://www.redfin.com/ID/Boise/323-W-Jefferson-St-83702/unit-506/home/106783497,43.6151987,-116.19632490000001
+227,Single Family Residential,6748 E Zaffre Ridge St,Boise,ID,83716,409990,3,2.5,2017,6098.0,2020,29.0,http://www.redfin.com/ID/Boise/6748-E-Alta-Ridge-Ct-83716/home/171941279,43.5422558,-116.13694879999998
+228,Single Family Residential,6722 E Zaffre Ridge St,Boise,ID,83716,434990,5,2.5,2317,6229.0,2020,29.0,http://www.redfin.com/ID/Boise/6722-E-Alta-Ridge-Ct-83716/home/171941076,43.5422558,-116.13694879999998
+229,Single Family Residential,9976 W Campville St,Boise,ID,83709,424990,3,2.5,2020,6534.0,2020,41.0,http://www.redfin.com/ID/Boise/9976-W-Campville-St-83709/home/171935830,43.593695200000006,-116.30607590000001
+230,Single Family Residential,10096 W Campville St,Boise,ID,83709,465990,5,2.5,2710,6838.0,2020,41.0,http://www.redfin.com/ID/Boise/10096-W-Campville-St-83709/home/171935747,43.593695200000006,-116.30607590000001
+231,Single Family Residential,5110 Corralero Ln,Boise,ID,83702,1075000,3,3.5,2875,21518.0,2020,50.0,http://www.redfin.com/ID/Boise/5110-N-Corralero-Ln-83702/home/168214184,43.661803000000006,-116.1886
+232,Single Family Residential,10082 W Campville St,Boise,ID,83709,459990,4,2.5,2636,6534.0,2020,41.0,http://www.redfin.com/ID/Boise/10082-W-Campville-St-83709/home/171929869,43.593695200000006,-116.30607590000001
+233,Single Family Residential,11663 N 20th Pl,Boise,ID,83714,624900,4,3.0,3185,8232.0,2020,84.0,http://www.redfin.com/ID/Boise/11663-N-20th-St-83702/home/171848643,43.634628,-116.2133183
+234,Single Family Residential,3203 N Treasure Dr,Boise,ID,83703,529900,4,2.0,2302,10890.0,1953,,http://www.redfin.com/ID/Boise/3203-N-Treasure-Dr-83703/home/106652936,43.649161,-116.2261635
+235,Single Family Residential,10608 W Cruser,Boise,ID,83709,524900,4,4.0,3588,18774.0,1951,,http://www.redfin.com/ID/Boise/10608-Cruser-Dr-83709/home/142667744,43.6040171,-116.3151238
+236,Mobile/Manufactured Home,264 Checola Cir,Boise,ID,83713,54900,2,1.0,1000,,1977,,http://www.redfin.com/ID/Boise/264-Checola-Cir-83713/home/171826700,43.614362799999995,-116.3168048
+237,Single Family Residential,7190 S Carpenter Ave,Boise,ID,83709,549900,3,2.5,2531,9583.0,2020,47.0,http://www.redfin.com/ID/Boise/7190-S-Carpenter-Ave-83709/home/142666434,43.5377538,-116.322425
+238,Condo/Co-op,1112 W Main St #305,Boise,ID,83702,799900,2,2.0,1738,,2008,438.0,http://www.redfin.com/ID/Boise/1112-W-Main-St-83702/unit-305/home/106773665,43.6179717,-116.2072605
+239,Single Family Residential,1241 E Highland Vw,Boise,ID,83702-1929,960000,4,3.0,3220,10105.0,2020,75.0,http://www.redfin.com/ID/Boise/1241-E-Highland-View-Dr-83702/home/143184120,43.648257,-116.173955
+240,Single Family Residential,5945 W Lucky Ln,Boise,ID,83703-0000,489000,3,2.5,1687,4356.0,2019,25.0,http://www.redfin.com/ID/Boise/5945-W-Lucky-Ln-83703/home/160427036,43.6631468,-116.26268999999999
+241,Single Family Residential,2804 N Woody Dr,Boise,ID,83703,539000,4,2.5,1621,7405.0,2006,,http://www.redfin.com/ID/Boise/2804-Woody-Dr-83703/home/106656385,43.645613399999995,-116.23497009999998
+242,Condo/Co-op,420 W Main St #404,Boise,ID,83702,1064900,2,2.5,2602,,2004,956.0,http://www.redfin.com/ID/Boise/420-W-Main-St-83702/unit-404/home/106783505,43.6139133,-116.1993071
+243,Single Family Residential,,Boise,ID,83702,1389000,5,3.5,3722,18295.0,2020,,http://www.redfin.com/ID/Boise/Undisclosed-address-83702/home/106777944,43.652976,-116.177325
+244,Single Family Residential,809 E Pennsylvania,Boise,ID,83706,729000,4,3.5,2882,9147.0,1980,,http://www.redfin.com/ID/Boise/809-E-Pennsylvania-Dr-83706/home/106774095,43.5857953,-116.1728952
+245,Single Family Residential,3602 W Hillcrest Dr,Boise,ID,83705,799900,5,3.5,4719,13068.0,1967,,http://www.redfin.com/ID/Boise/3602-W-Hillcrest-Dr-83705/home/106705242,43.579006799999995,-116.226247
+246,Single Family Residential,TBD N Mendelson,Meridian,ID,83646,695000,4,2.5,2500,17859.0,2020,125.0,http://www.redfin.com/ID/Meridian/TBD-N-Mendelson-Ave-83646/home/171588321,43.6536634,-116.3649074
+247,Single Family Residential,3510 N Bryson Way,Boise,ID,83713,535000,6,3.5,4021,11412.0,1983,1.0,http://www.redfin.com/ID/Boise/3510-N-Bryson-Way-83713/home/106801582,43.6368436,-116.32512790000001
+248,Single Family Residential,10068 W Campville St,Boise,ID,83709,444990,4,2.5,2530,6534.0,2020,41.0,http://www.redfin.com/ID/Boise/10068-W-Campville-St-83709/home/171558604,43.593695200000006,-116.30607590000001
+249,Single Family Residential,10008 W Campville St,Boise,ID,83709,454990,4,2.5,2636,6577.0,2020,41.0,http://www.redfin.com/ID/Boise/10008-W-Campville-St-83709/home/171558576,43.593695200000006,-116.30607590000001
+250,Single Family Residential,10038 W Smoke Ranch Dr,Boise,ID,83709,336990,3,2.5,1580,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10038-W-Smoke-Ranch-Dr-83709/home/171558536,43.5927542,-116.3103847
+251,Single Family Residential,11 Turner Cir,Boise,ID,83716,139900,2,,634,54450.0,1978,,http://www.redfin.com/ID/Boise/11-Turner-Cir-83716/home/115207845,43.74103770000001,-115.9999973
+252,Single Family Residential,10056 W Smoke Ranch Dr,Boise,ID,83709,372990,4,2.5,2014,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10056-W-Smoke-River-DR-83709/home/171547599,43.5516566,-116.29879009999999
+253,Mobile/Manufactured Home,1951 N Hampton Rd Unit C7,Boise,ID,83704,65000,3,2.0,1085,,1985,,http://www.redfin.com/ID/Boise/1951-N-Hampton-Rd-83704/unit-C7/home/171477392,43.6229492,-116.30956880000001
+254,Single Family Residential,2403 W Jefferson,Boise,ID,83702,549900,4,2.5,2105,6098.0,1937,,http://www.redfin.com/ID/Boise/2403-W-Jefferson-St-83702/home/106650286,43.6243446,-116.2199612
+255,Single Family Residential,10088 W Smoke Ranch Dr,Boise,ID,83709,334990,3,2.5,1478,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10088-W-Smoke-Ranch-Dr-83709/home/171476337,43.5927558,-116.3103872
+256,Single Family Residential,10042 W Smoke Ranch Dr,Boise,ID,83709,333990,3,2.5,1478,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10042-W-Smoke-Ranch-Dr-83709/home/171435151,43.592754299999996,-116.31038490000002
+257,Single Family Residential,2331 S Three Mile Creek Way,Boise,ID,83709,179800,2,1.0,800,8276.0,1969,,http://www.redfin.com/ID/Boise/2331-S-Three-Mile-Creek-Way-83709/home/106660492,43.5808847,-116.286496
+258,Single Family Residential,1724 S Michigan Ave,Boise,ID,83706,459900,3,3.0,1717,3136.0,2020,,http://www.redfin.com/ID/Boise/1724-S-Michigan-Ave-83706/home/171432112,43.5911075,-116.2008295
+259,Single Family Residential,10044 W Campville St,Boise,ID,83709,419990,4,2.5,2054,6534.0,2020,41.0,http://www.redfin.com/ID/Boise/10044-W-Campville-St-83709/home/171418733,43.593695200000006,-116.30607590000001
+260,Single Family Residential,6694 S Lodgepole Pl,Boise,ID,83716-5048,774000,4,3.0,2860,15594.0,2020,36.0,http://www.redfin.com/ID/Boise/6694-S-Lodgepole-Pl-83716/home/106803276,43.541433000000005,-116.141305
+261,Single Family Residential,3750 S Maple Grove Rd,Boise,ID,83709,1100000,4,3.0,2433,345735.0,1969,,http://www.redfin.com/ID/Boise/3750-S-Maple-Grove-Rd-83709/home/106733206,43.568613899999995,-116.291595
+262,Single Family Residential,1107 N 9th St,Boise,ID,83702,859000,7,3.0,4050,5662.0,1941,,http://www.redfin.com/ID/Boise/1107-N-9th-St-83702/home/106660770,43.6242408,-116.199054
+263,Single Family Residential,10064 W Smoke Ranch Dr,Boise,ID,83709,354990,3,2.5,1766,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10064-W-Smoke-River-DR-83709/home/171378598,43.5516566,-116.29879009999999
+264,Single Family Residential,10072 W Smoke Ranch Dr,Boise,ID,83709,345990,3,2.5,1580,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10072-W-Smoke-River-DR-83709/home/171378581,43.5516566,-116.29879009999999
+265,Townhouse,1569 E LENZ,Boise,ID,83712,474300,3,3.0,2308,3484.0,1979,309.0,http://www.redfin.com/ID/Boise/1569-Lenz-Ln-83712/home/106737162,43.6031498,-116.1773169
+266,Single Family Residential,1120 E Warm Springs Ave,Boise,ID,83712,1289000,4,3.5,3827,10454.0,1937,,http://www.redfin.com/ID/Boise/1120-E-Warm-Springs-Ave-83712/home/106797009,43.606842799999995,-116.1814412
+267,Single Family Residential,4380 S STAATEN,Boise,ID,83709,389900,4,3.0,2226,5009.0,2019,25.0,http://www.redfin.com/ID/Boise/4380-S-Staaten-Ave-83709/home/109560978,43.5632136,-116.33479879999999
+268,Single Family Residential,10006 W Smoke Ranch Dr,Boise,ID,83709,369990,4,2.5,2014,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10006-W-Campville-St-83709/home/171258646,43.593695200000006,-116.30607590000001
+269,Single Family Residential,10030 W Smoke Ranch Dr,Boise,ID,83709,344990,3,2.5,1766,3702.0,2020,41.0,http://www.redfin.com/ID/Boise/10030-W-Smoke-Ranch-Dr-83709/home/171258538,43.5927539,-116.31038429999998
+270,Single Family Residential,412 W Ofarrell St,Boise,ID,83702,1150000,4,3.5,3322,4356.0,2017,,http://www.redfin.com/ID/Boise/412-Ofarrell-St-83702/home/106660240,43.62503529999999,-116.1928983
+271,Single Family Residential,9984 W Smoke Ranch Dr,Boise,ID,83709,356990,3,2.5,1897,3789.0,2020,41.0,http://www.redfin.com/ID/Boise/9984-W-Smoke-Ranch-Dr-83709/home/171201328,43.5927525,-116.3103821
+272,Single Family Residential,4989 N Corralero Ln,Boise,ID,83702,1237000,3,3.5,2962,16552.0,2020,50.0,http://www.redfin.com/ID/Boise/4989-N-Corralero-Ln-83702/home/168214171,43.661446000000005,-116.18933700000001
+273,Single Family Residential,521 E Sunnyridge Ct,Boise,ID,83702,939900,4,3.0,3392,12501.0,1999,38.0,http://www.redfin.com/ID/Boise/521-E-Sunnyridge-Ct-83702/home/106718364,43.6383118,-116.1823155
+274,Single Family Residential,5629 E Foxgrove Dr,Boise,ID,83716,894900,4,3.5,3132,10890.0,2020,108.0,http://www.redfin.com/ID/Boise/5629-E-Foxgrove-DR-Unknown/home/171176220,43.6150186,-116.2023137
+275,Single Family Residential,4335 N Sandpoint Way,Boise,ID,83702,3999000,5,4.5,5742,14374.0,2020,75.0,http://www.redfin.com/ID/Boise/N-Sandpoint-Way-83702/home/146239140,43.652746,-116.173244
+276,Single Family Residential,5645 E Foxgrove Dr,Boise,ID,83716,849900,3,2.5,2856,10018.0,2020,108.0,http://www.redfin.com/ID/Boise/5645-E-Foxgrove-DR-Unknown/home/171155647,43.6150186,-116.2023137
+277,Single Family Residential,2101 N Harrison Blvd,Boise,ID,83702,1395000,5,3.5,4539,7840.0,1915,,http://www.redfin.com/ID/Boise/2101-N-Harrison-Blvd-83702/home/106743572,43.6382659,-116.20859920000001
+278,Single Family Residential,420 Sherman,Boise,ID,83702,1095000,3,3.0,3317,6969.0,2020,,http://www.redfin.com/ID/Boise/420-W-Sherman-St-83702/home/106713511,43.628392,-116.1928102
+279,Single Family Residential,10083 W Campville St,Boise,ID,83709,339990,3,2.5,1694,3659.0,2020,41.0,http://www.redfin.com/ID/Boise/10083-W-Campville-St-83709/home/171129620,43.593325899999996,-116.3058971
+280,Single Family Residential,10075 W Campville St,Boise,ID,83709,357990,4,2.5,2014,3659.0,2020,41.0,http://www.redfin.com/ID/Boise/10075-W-Campville-St-83709/home/171129590,43.593325899999996,-116.3058971
+281,Single Family Residential,10043 W Campville St,Boise,ID,83709,354990,4,2.5,2014,3659.0,2020,41.0,http://www.redfin.com/ID/Boise/10043-W-Campville-St-83709/home/171129490,43.593325899999996,-116.3058971
+282,Condo/Co-op,3075 W Crescent Rim Drive 304 #304,Boise,ID,83706,1125000,2,2.5,2125,,2020,742.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-304/home/171115446,43.604593,-116.219844
+283,Single Family Residential,8820 Ustick,Boise,ID,83704,589900,6,2.0,2938,10323.0,1948,13.0,http://www.redfin.com/ID/Boise/8820-W-Ustick-Rd-83704/home/106817256,43.6341828,-116.29307630000001
+284,Single Family Residential,7365 N Pierce Park Ln,Boise,ID,83714,1240000,3,3.5,3162,227383.0,2005,7.0,http://www.redfin.com/ID/Boise/7365-N-Pierce-Park-Ln-83714/home/106676278,43.683202,-116.26480600000001
+285,Single Family Residential,41 Whitehawk Way,Boise,ID,83716-3011,1450000,4,2.0,4994,748360.0,1987,178.0,http://www.redfin.com/ID/Boise/41-Whitehawk-Way-83716/home/115188185,43.656415,-115.98501100000001
+286,Single Family Residential,6307 W Franklin,Boise,ID,83709,499500,4,3.0,3182,17119.0,1959,,http://www.redfin.com/ID/Boise/6307-W-Franklin-Rd-83705/home/106809204,43.6034662,-116.26029270000001
+287,Single Family Residential,430 Ridgeline Dr,Boise,ID,83702,1830000,4,3.0,3766,44866.0,1987,108.0,http://www.redfin.com/ID/Boise/430-W-Ridgeline-Dr-83702/home/106781207,43.6355592,-116.19267590000001
+288,Condo/Co-op,1207 W Fort St #215,Boise,ID,83702,400000,2,2.0,941,,2004,208.0,http://www.redfin.com/ID/Boise/1207-W-Fort-St-83702/unit-215/home/106733104,43.6241524,-116.20312609999999
+289,Mobile/Manufactured Home,8633 W Irving Ln,Boise,ID,83704,79000,3,2.0,1404,,2007,,http://www.redfin.com/ID/Boise/8633-W-Irving-Ln-83704/home/170590831,43.6153706,-116.2898416
+290,Townhouse,7821 Crestwood Dr,Boise,ID,83704,369900,3,2.5,1619,2874.0,2020,60.0,http://www.redfin.com/ID/Boise/7821-W-Crestwood-Dr-83704/home/170575633,43.6447177,-116.2798554
+291,Townhouse,7817 Crestwood Dr,Boise,ID,83704,367000,3,2.5,1609,1698.0,2020,60.0,http://www.redfin.com/ID/Boise/7817-W-Crestwood-Dr-83704/home/170575599,43.6447172,-116.27975579999999
+292,Townhouse,7813 W Crestwood Dr,Boise,ID,83704,367000,3,2.5,1609,1742.0,2020,60.0,http://www.redfin.com/ID/Boise/7813-W-Crestwood-Dr-83704/home/170575569,43.644716700000004,-116.2796561
+293,Condo/Co-op,3075 W Crescent Rim Drive 203 #203,Boise,ID,83706,760000,2,2.0,1662,,2020,580.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-203/home/106807465,43.6046327,-116.2198709
+294,Condo/Co-op,3075 W Crescent Rim Drive 103 #103,Boise,ID,83706,725000,2,2.0,1662,,2020,580.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-103/home/106779814,43.60454420000001,-116.22007920000001
+295,Condo/Co-op,3075 W Crescent Rim Dr #101,Boise,ID,83706,975000,2,2.5,2617,,2020,913.0,http://www.redfin.com/ID/Boise/3075-Crescent-Rim-Dr-83706/unit-101/home/106656274,43.604384,-116.22011200000001
+296,Single Family Residential,1108 E Hearthstone,Boise,ID,83702,1395000,4,3.5,4241,13068.0,2016,,http://www.redfin.com/ID/Boise/1108-Hearthstone-Dr-83702/home/106779808,43.6562529,-116.1766128
+297,Condo/Co-op,2967 W Crescent Rim Dr,Boise,ID,83706,739000,2,2.5,2057,,2017,719.0,http://www.redfin.com/ID/Boise/2967-Crescent-Rim-Dr-83706/unit-104/home/109561166,43.604136600000004,-116.2181494

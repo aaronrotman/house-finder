@@ -1,351 +1,349 @@
 ,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
-0,Vacant Land,190xx SW 312,Miami,FL,33030.0,590000,,,,87991.0,,,http://www.redfin.com/FL/Miami/190xx-SW-312-Unknown/home/169582690,25.7616798,-80.1917902
-1,Mobile/Manufactured Home,35250 SW 177th Ct,Homestead,FL,33034.0,130000,3.0,2.0,1690.0,5770.0,1995.0,132.0,http://www.redfin.com/FL/Miami/35250-SW-177-CT-Unknown/home/171205249,25.7616798,-80.1917902
-2,Vacant Land,"1110 Brickell Av, #810 A/b/c",Miami,FL,33131.0,440000,,,,,,,http://www.redfin.com/FL/Miami/1110-Brickell-Ave-33131/home/170267546,25.7627253,-80.1922577
-3,Single Family Residential,1200 Brickell Bay Dr,Miami,FL,33131.0,438500,3.0,2.0,1232.0,,2005.0,850.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2308/home/42702966,25.761803600000004,-80.19058869999999
-4,Condo/Co-op,1200 Brickell Bay Dr #2417,Miami,FL,33131.0,285000,1.0,1.0,836.0,,2004.0,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2417/home/43318944,25.761803600000004,-80.19058869999999
-5,Condo/Co-op,1200 Brickell Bay Dr #3919,Miami,FL,33131.0,280000,1.0,1.0,825.0,,2005.0,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3919/home/43304447,25.761803600000004,-80.19058869999999
-6,Condo/Co-op,1200 Brickell Bay Dr #1704,Miami,FL,33131.0,289000,1.0,1.0,825.0,,2004.0,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1704/home/43317782,25.761803600000004,-80.19058869999999
-7,Condo/Co-op,1200 Brickell Bay Dr #3609,Miami,FL,33131.0,425000,2.0,2.0,1183.0,,2005.0,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3609/home/43304335,25.761803600000004,-80.19058869999999
-8,Condo/Co-op,1200 Brickell Bay Dr #3709,Miami,FL,33131.0,460000,2.0,2.0,1183.0,,2005.0,838.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3709/home/43320831,25.761803600000004,-80.19058869999999
-9,Condo/Co-op,1200 Brickell Bay Dr #2007,Miami,FL,33131.0,450000,1.0,1.0,778.0,,2004.0,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2007/home/43311304,25.761803600000004,-80.19058869999999
-10,Condo/Co-op,1200 Brickell Bay Dr #3515,Miami,FL,33131.0,450000,2.0,2.0,,,2005.0,729.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3515/home/43321422,25.761803600000004,-80.19058869999999
-11,Condo/Co-op,1200 Brickell Bay Dr #1608,Miami,FL,33131.0,275000,1.0,1.0,825.0,,2004.0,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1608/home/43317818,25.761803600000004,-80.19058869999999
-12,Condo/Co-op,1200 Brickell Bay Dr #4208,Miami,FL,33131.0,350000,1.0,1.0,825.0,,2005.0,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4208/home/43306287,25.761803600000004,-80.19058869999999
-13,Condo/Co-op,1200 Brickell Bay Dr #4217,Miami,FL,33131.0,350000,1.0,1.0,836.0,,2005.0,592.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4217/home/43303907,25.761803600000004,-80.19058869999999
-14,Condo/Co-op,1200 Brickell Bay Dr #2117,Miami,FL,33131.0,270000,1.0,1.0,836.0,,2004.0,592.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2117/home/43313409,25.761803600000004,-80.19058869999999
-15,Condo/Co-op,,Miami,FL,33131.0,390000,2.0,2.0,1030.0,,2005.0,729.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43313388,25.761803600000004,-80.19058869999999
-16,Condo/Co-op,1200 Brickell Bay #2819,Miami,FL,33131.0,279000,1.0,1.0,825.0,,2005.0,490.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2819/home/43318464,25.761803600000004,-80.19058869999999
-17,Condo/Co-op,1200 Brickell Bay Dr #3105,Miami,FL,33131.0,265000,1.0,1.0,740.0,,2005.0,524.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3105/home/43310789,25.761803600000004,-80.19058869999999
-18,Condo/Co-op,1200 Brickell Bay Dr #2224,Miami,FL,33131.0,485000,3.0,2.0,1232.0,,2004.0,900.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2224/home/43302998,25.761803600000004,-80.19058869999999
-19,Condo/Co-op,1200 Brickell Bay Dr #1520,Miami,FL,33131.0,295000,1.0,1.0,825.0,,2004.0,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1520/home/43304435,25.761803600000004,-80.19058869999999
-20,Condo/Co-op,1200 Brickell Bay Dr #1404,Miami,FL,33131.0,325000,1.0,1.0,825.0,,2005.0,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1404/home/43311249,25.761803600000004,-80.19058869999999
-21,Condo/Co-op,1200 Brickell Bay Dr #2410,Miami,FL,33131.0,220000,0.0,1.0,425.0,,2004.0,301.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2410/home/43433926,25.761803600000004,-80.19058869999999
-22,Condo/Co-op,1200 Brickell Bay Dr #2204,Miami,FL,33131.0,289000,1.0,1.0,825.0,,2004.0,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2204/home/43320261,25.761803600000004,-80.19058869999999
-23,Condo/Co-op,1200 Brickell Bay Dr #4119,Miami,FL,33131.0,289000,1.0,1.0,825.0,,2005.0,570.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4119/home/43319476,25.761803600000004,-80.19058869999999
-24,Condo/Co-op,1200 Brickell Bay Dr #2012,Miami,FL,33131.0,299000,1.0,1.0,818.0,,2004.0,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2012/home/43318332,25.761803600000004,-80.19058869999999
-25,Condo/Co-op,1200 Brickell Bay Dr #3412,Miami,FL,33131.0,278000,1.0,1.0,818.0,,2005.0,579.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3412/home/43312850,25.761803600000004,-80.19058869999999
-26,Condo/Co-op,1200 Brickell Bay Dr #4010,Miami,FL,33131.0,220000,0.0,1.0,425.0,,2005.0,301.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4010/home/43318886,25.761803600000004,-80.19058869999999
-27,Condo/Co-op,186 SE 12th Ter Ph 2,Miami,FL,33131.0,389000,2.0,2.0,1015.0,,2006.0,963.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-2/home/112892306,25.7613322,-80.1906014
-28,Condo/Co-op,1395 Brickell Ave #3101,Miami,FL,33131.0,555000,2.0,2.0,1286.0,,2003.0,,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-3101/home/43318385,25.760340399999997,-80.1920171
-29,Condo/Co-op,1395 Brickell Ave #3007,Miami,FL,33131.0,425000,1.0,1.5,966.0,,2003.0,841.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-3007/home/43317634,25.760340399999997,-80.1920171
-30,Single Family Residential,1395 SE Brickell Ave #2908,Miami,FL,33131.0,599900,2.0,2.0,1256.0,,2003.0,916.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2908/home/43312589,25.760340399999997,-80.1920171
-31,Condo/Co-op,1395 Brickell Ave #2904,Miami,FL,33131.0,285000,0.0,1.0,481.0,,2003.0,349.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2904/home/43319416,25.760340399999997,-80.1920171
-32,Condo/Co-op,1395 Brickell Ave #2806,Miami,FL,33131.0,639000,2.0,2.0,1363.0,,2004.0,995.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2806/home/43441899,25.760340399999997,-80.1920171
-33,Condo/Co-op,,Miami,FL,33131.0,385000,1.0,1.0,829.0,,2003.0,628.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43318635,25.760340399999997,-80.1920171
-34,Condo/Co-op,1395 Brickell Ave #2604,Miami,FL,33131.0,360000,1.0,1.0,829.0,,2003.0,628.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2604/home/43302885,25.760340399999997,-80.1920171
-35,Condo/Co-op,1395 Brickell Ave #2805,Miami,FL,33131.0,384555,1.0,1.0,827.0,,2003.0,604.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2805/home/43320914,25.760340399999997,-80.1920171
-36,Condo/Co-op,1395 Brickell Ave #3306,Miami,FL,33131.0,695000,2.0,2.0,1239.0,,2003.0,998.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-3306/home/43310890,25.760340399999997,-80.1920171
-37,Condo/Co-op,1080 Brickell Ave #1801,Miami,FL,33131.0,590000,2.0,2.0,1134.0,,2016.0,1100.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1801/home/56743329,25.762840100000002,-80.19265949999999
-38,Condo/Co-op,1080 Brickell Ave #2104,Miami,FL,33131.0,459000,1.0,1.0,828.0,,2016.0,736.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2104/home/56743352,25.762840100000002,-80.19265949999999
-39,Condo/Co-op,1080 Brickell Ave #1906,Miami,FL,33131.0,389900,1.0,1.5,906.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1906/home/56743171,25.762840100000002,-80.19265949999999
-40,Condo/Co-op,1080 Brickell Ave #1601,Miami,FL,33131.0,615000,2.0,2.0,1134.0,,2016.0,1006.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1601/home/56743327,25.762840100000002,-80.19265949999999
-41,Condo/Co-op,1080 Brickell Ave #313,Miami,FL,33131.0,470000,1.0,1.5,1078.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-313/home/56743087,25.762840100000002,-80.19265949999999
-42,Condo/Co-op,1080 Brickell Ave #911,Miami,FL,33131.0,400000,1.0,1.5,727.0,,2016.0,872.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-911/home/56743036,25.762840100000002,-80.19265949999999
-43,Condo/Co-op,1080 Brickell Ave #1503,Miami,FL,33131.0,425000,1.0,1.0,,,2016.0,630.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1503/home/56743398,25.762840100000002,-80.19265949999999
-44,Condo/Co-op,1080 Brickell Ave #4204,Miami,FL,33131.0,497000,1.0,1.5,830.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-4204/home/56743196,25.762840100000002,-80.19265949999999
-45,Condo/Co-op,1080 Brickell Ave #3405,Miami,FL,33131.0,310000,0.0,1.0,528.0,,2016.0,427.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3405/home/56743215,25.762840100000002,-80.19265949999999
-46,Condo/Co-op,1080 Brickell Ave #1800,Miami,FL,33131.0,600000,2.0,2.0,1129.0,,2016.0,1238.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1800/home/168027363,25.762840100000002,-80.19265949999999
-47,Condo/Co-op,1080 Brickell #1603,Miami,FL,33131.0,435000,1.0,1.0,796.0,,2016.0,604.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1603/home/56743383,25.762840100000002,-80.19265949999999
-48,Condo/Co-op,1080 Brickell Ave #3707,Miami,FL,33131.0,399000,1.0,1.0,783.0,,2016.0,605.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3707/home/56743225,25.762840100000002,-80.19265949999999
-49,Condo/Co-op,1080 Brickell Ave #3309,Miami,FL,33131.0,595000,2.0,2.0,1134.0,,2016.0,1200.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3309/home/56743042,25.762840100000002,-80.19265949999999
-50,Condo/Co-op,1080 Brickell Ave #4002,Miami,FL,33130.0,489500,1.0,1.5,830.0,,2016.0,645.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-4002/home/56743307,25.762840100000002,-80.19265949999999
-51,Condo/Co-op,1080 Brickell Ave #2005,Miami,FL,33131.0,298000,0.0,1.0,558.0,,2016.0,150.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2005/home/56743202,25.762840100000002,-80.19265949999999
-52,Condo/Co-op,1080 Brickell Ave #2803,Miami,FL,33131.0,445000,1.0,1.0,748.0,,2016.0,630.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2803/home/56743412,25.762840100000002,-80.19265949999999
-53,Condo/Co-op,1080 Brickell Ave #505,Miami,FL,33131.0,495000,1.0,1.5,1028.0,,2016.0,1000.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-505/home/56743192,25.762840100000002,-80.19265949999999
-54,Condo/Co-op,1080 Brickell Ave #709,Miami,FL,33131.0,454900,1.0,1.5,967.0,,2016.0,631.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-709/home/56743247,25.762840100000002,-80.19265949999999
-55,Condo/Co-op,1080 Brickell Ave #1103,Miami,FL,33131.0,379500,1.0,1.5,727.0,,2016.0,797.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1103/home/56743396,25.762840100000002,-80.19265949999999
-56,Condo/Co-op,1080 Brickell Ave #1605,Miami,FL,33131.0,298000,0.0,1.0,507.0,,2016.0,556.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1605/home/56743206,25.762840100000002,-80.19265949999999
-57,Condo/Co-op,1080 Brickell Ave #307,Miami,FL,33131.0,399000,1.0,1.5,950.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-307/home/56743259,25.762840100000002,-80.19265949999999
-58,Condo/Co-op,1080 Brickell Ave #3607,Miami,FL,33131.0,387000,1.0,1.0,748.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3607/home/56743226,25.762840100000002,-80.19265949999999
-59,Condo/Co-op,1080 Brickell Ave #2706,Miami,FL,33131.0,460000,1.0,1.5,906.0,,2016.0,994.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2706/home/56743180,25.762840100000002,-80.19265949999999
-60,Condo/Co-op,1080 Brickell Ave #2307,Miami,FL,33131.0,2450,1.0,1.0,748.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2307/home/56743274,25.762840100000002,-80.19265949999999
-61,Condo/Co-op,1080 Brickell Ave #703,Miami,FL,33131.0,395000,1.0,1.5,727.0,,2016.0,797.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-703/home/56743394,25.762840100000002,-80.19265949999999
-62,Condo/Co-op,1080 Brickell Ave #3006,Miami,FL,33131.0,1150000,3.0,3.0,1593.0,,2016.0,1747.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3006/home/56743175,25.762840100000002,-80.19265949999999
-63,Condo/Co-op,1080 Brickell Ave #1600,Miami,FL,33131.0,575000,2.0,2.0,1129.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1600/home/56742773,25.762840100000002,-80.19265949999999
-64,Condo/Co-op,1080 Brickell Ave #3801,Miami,FL,33131.0,699000,2.0,2.0,1134.0,,2016.0,1006.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3801/home/56743342,25.762840100000002,-80.19265949999999
-65,Condo/Co-op,1080 Brickell Ave #701,Miami,FL,33131.0,459000,1.0,1.5,1080.0,,2016.0,950.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-701/home/56743430,25.762840100000002,-80.19265949999999
-66,Condo/Co-op,1080 Brickell Ave #1901,Miami,FL,33131.0,595000,2.0,2.0,1134.0,,2016.0,1006.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1901/home/56743330,25.762840100000002,-80.19265949999999
-67,Condo/Co-op,1080 Brickell Ave #1700,Miami,FL,33131.0,615000,2.0,2.0,1129.0,,2016.0,999.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1700/home/56742746,25.762840100000002,-80.19265949999999
-68,Condo/Co-op,1080 Brickell Ave #2202,Miami,FL,33131.0,485000,1.0,1.0,783.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2202/home/56743294,25.762840100000002,-80.19265949999999
-69,Condo/Co-op,1080 Brickell Ave #1504,Miami,FL,33131.0,349000,1.0,1.0,770.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1504/home/56743366,25.762840100000002,-80.19265949999999
-70,Condo/Co-op,1080 Brickell Ave #711,Miami,FL,33131.0,399900,1.0,1.5,727.0,,2016.0,760.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-711/home/56743037,25.762840100000002,-80.19265949999999
-71,Condo/Co-op,1080 Brickell Ave #1804,Miami,FL,33131.0,344000,1.0,1.0,770.0,,2016.0,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1804/home/56743353,25.762840100000002,-80.19265949999999
-72,Condo/Co-op,186 SE 12th Ter #1805,Miami,FL,33131.0,365000,2.0,2.0,1145.0,,2006.0,856.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-1805/home/43354094,25.76126,-80.19040190000001
-73,Condo/Co-op,,Miami,FL,33131.0,319000,2.0,2.0,1064.0,,2006.0,988.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43365755,25.76126,-80.19040190000001
-74,Condo/Co-op,186 SE 12th Ter #704,Miami,FL,33131.0,359900,2.0,2.0,1145.0,,2006.0,8.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-704/home/43351230,25.76126,-80.19040190000001
-75,Condo/Co-op,186 SE 12th Ter #708,Miami,FL,,249000,1.0,1.0,754.0,,2006.0,546.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-708/home/43369087,25.76126,-80.19040190000001
-76,Condo/Co-op,186 SE 12th Ter #1005,Miami,FL,33131.0,339000,2.0,2.0,1145.0,,2006.0,,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-1005/home/43369106,25.76126,-80.19040190000001
-77,Condo/Co-op,186 SE 12th Ter #2102,Miami,FL,33131.0,345000,2.0,2.0,1064.0,,2006.0,805.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-2102/home/43361619,25.76126,-80.19040190000001
-78,Condo/Co-op,1200 Brickell Bay Dr #2818,Miami,FL,33131.0,284900,1.0,1.0,825.0,,2005.0,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2818/home/43313424,25.7617019,-80.190318
-79,Condo/Co-op,1200 Brickell Bay Dr #3603,Miami,FL,33131.0,290000,1.0,1.0,825.0,,2005.0,562.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3603/home/43320159,25.7617019,-80.190318
-80,Condo/Co-op,1200 Brickell Bay Dr #2116,Miami,FL,33131.0,217500,0.0,1.0,425.0,,2004.0,301.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2116/home/43319418,25.7617019,-80.190318
-81,Condo/Co-op,1200 Brickell Bay Dr #2601,Miami,FL,33131.0,420000,2.0,2.0,1105.0,,2004.0,783.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2601/home/43313647,25.7617019,-80.190318
-82,Condo/Co-op,1200 Brickell Bay Dr #1620,Miami,FL,33131.0,282000,1.0,1.0,825.0,,2004.0,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1620/home/43312932,25.7617019,-80.190318
-83,Condo/Co-op,1200 Brickell Bay Dr #4012,Miami,FL,33131.0,285000,1.0,1.0,818.0,,2005.0,579.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4012/home/43440434,25.7617019,-80.190318
-84,Condo/Co-op,1200 Brickell Bay Dr #2815,Miami,FL,33131.0,379000,2.0,2.0,1030.0,,2005.0,729.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2815/home/43434962,25.7617019,-80.190318
-85,Condo/Co-op,1200 Brickell Bay Dr #2114,Miami,FL,33131.0,275000,1.0,1.0,818.0,,2004.0,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2114/home/43320382,25.7617019,-80.190318
-86,Condo/Co-op,1200 Brickell Bay Dr #1821,Miami,FL,33131.0,289000,1.0,1.0,825.0,,2004.0,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1821/home/43304453,25.7617019,-80.190318
-87,Condo/Co-op,1080 Brickell #2702,Miami,FL,33131.0,480000,1.0,1.5,905.0,,2016.0,679.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2702/home/56743287,25.7629963,-80.19275350000001
-88,Condo/Co-op,1080 Brickell Ave #4104,Miami,FL,33131.0,496900,1.0,1.5,,,2016.0,930.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-4104/home/56743371,25.7629963,-80.19275350000001
-89,Condo/Co-op,1060 Brickell Ave #3111,Miami,FL,33131.0,389000,2.0,2.0,1088.0,,2008.0,744.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-3111/home/42676195,25.7632794,-80.1921952
-90,Condo/Co-op,1060 Brickell Ave #4503,Miami,FL,33131.0,1350000,3.0,3.5,2525.0,,2008.0,1663.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4503/home/43405484,25.7632794,-80.1921952
-91,Condo/Co-op,1050 Brickell Ave #2818,Miami,FL,33131.0,320000,1.0,1.5,1128.0,,2008.0,827.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2818/home/43414296,25.7632794,-80.1921952
-92,Condo/Co-op,1050 W Brickell Ave #208,Miami,FL,33131.0,311000,1.0,1.5,1066.0,,2008.0,,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-208/home/43396644,25.7632794,-80.1921952
-93,Condo/Co-op,1060 Brickell Ave #415,Miami,FL,33131.0,395000,1.0,1.5,1053.0,,2008.0,700.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-415/home/43415994,25.7632794,-80.1921952
-94,Condo/Co-op,1060 Brickell Ave #211,Miami,FL,33131.0,300000,1.0,2.0,1147.0,,2008.0,717.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-211/home/43398182,25.7632794,-80.1921952
-95,Condo/Co-op,1060 Brickell Ave #2213,Miami,FL,,310000,1.0,1.0,945.0,,2008.0,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-2213/home/42676217,25.7632794,-80.1921952
-96,Condo/Co-op,1050 Brickell Ave #3504,Miami,FL,33131.0,1500000,3.0,3.5,2238.0,,2008.0,900.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-3504/home/43469603,25.7632794,-80.1921952
-97,Condo/Co-op,1060 Brickell Ave #413,Miami,FL,33131.0,570000,2.0,2.0,1440.0,,2008.0,950.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-413/home/42676210,25.7632794,-80.1921952
-98,Condo/Co-op,1060 Brickell Ave #1805,Miami,FL,33131.0,360000,1.0,1.5,963.0,,2008.0,655.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1805/home/43401489,25.7632794,-80.1921952
-99,Condo/Co-op,1050 Brickell Ave #2508,Miami,FL,33131.0,295000,1.0,1.0,731.0,,2008.0,,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2508/home/43414137,25.7632794,-80.1921952
-100,Condo/Co-op,1060 Brickell Ave #2207,Miami,FL,33131.0,360000,2.0,2.0,1088.0,,2008.0,744.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-2207/home/43405532,25.7632794,-80.1921952
-101,Condo/Co-op,1060 Brickell Ave #3007,Miami,FL,33131.0,395000,2.0,2.0,1088.0,,2008.0,744.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-3007/home/43414515,25.7632794,-80.1921952
-102,Condo/Co-op,1050 Brickell Ave #2216,Miami,FL,33131.0,295000,1.0,1.5,1128.0,,2008.0,,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2216/home/42678365,25.7632794,-80.1921952
-103,Condo/Co-op,1060 Brickell Ave #4303,Miami,FL,33131.0,899000,3.0,2.5,1765.0,,2008.0,1219.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4303/home/43424503,25.7632794,-80.1921952
-104,Condo/Co-op,1060 Brickell Ave #1411,Miami,FL,33131.0,399000,2.0,2.0,,,2008.0,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1411/home/43444666,25.7632794,-80.1921952
-105,Condo/Co-op,1060 Brickell Ave #3209,Miami,FL,33131.0,275000,0.0,1.0,551.0,,2008.0,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-3209/home/43440994,25.7632794,-80.1921952
-106,Condo/Co-op,1060 Brickell Ave #409,Miami,FL,33131.0,299999,1.0,1.5,982.0,,2008.0,642.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-409/home/43405522,25.7632794,-80.1921952
-107,Condo/Co-op,1060 Brickell Ave #2603,Miami,FL,33131.0,345000,1.0,1.5,963.0,,2008.0,640.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-2603/home/43408009,25.7632794,-80.1921952
-108,Condo/Co-op,1050 Brickell Ave #1012,Miami,FL,33131.0,328900,1.0,2.0,1000.0,,2008.0,693.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-1012/home/43405143,25.7632794,-80.1921952
-109,Condo/Co-op,1060 Brickell Ave #4407,Miami,FL,33131.0,875000,3.0,3.0,1867.0,,2008.0,1223.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4407/home/43469997,25.7632794,-80.1921952
-110,Condo/Co-op,1050 Brickell Ave #1414,Miami,FL,33131.0,399999,2.0,2.5,1278.0,,2008.0,828.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-1414/home/43473310,25.7632794,-80.1921952
-111,Condo/Co-op,1050 Brickell Ave #1804,Miami,FL,33131.0,289000,1.0,1.0,731.0,,2008.0,496.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-1804/home/43398091,25.7632794,-80.1921952
-112,Condo/Co-op,1060 Brickell Ave #403,Miami,FL,33131.0,620000,2.0,2.0,1440.0,,2008.0,947.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-403/home/43398049,25.7632794,-80.1921952
-113,Condo/Co-op,1060 Brickell Ave #4507,Miami,FL,33131.0,1395000,3.0,3.5,2564.0,,2008.0,1663.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4507/home/43405513,25.7632794,-80.1921952
-114,Condo/Co-op,1050 Brickell #2320,Miami,FL,33131.0,440000,2.0,2.0,,,2008.0,5627.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2320/home/43405838,25.7632794,-80.1921952
-115,Condo/Co-op,,Miami,FL,33131.0,409000,1.0,1.5,1167.0,,2008.0,845.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43398351,25.7632794,-80.1921952
-116,Condo/Co-op,1050 Brickell Ave #2510,Miami,FL,33131.0,315000,1.0,1.0,843.0,,2008.0,2517.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2510/home/43469632,25.7632794,-80.1921952
-117,Condo/Co-op,1060 Brickell Ave #1013,Miami,FL,33131.0,515000,2.0,2.0,1440.0,,2008.0,947.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1013/home/43398207,25.763279500000003,-80.1921953
-118,Condo/Co-op,1060 Brickell Ave #1205,Miami,FL,33131.0,314900,1.0,1.0,963.0,,2008.0,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1205/home/43413960,25.763279500000003,-80.1921953
-119,Condo/Co-op,1060 Brickell Ave #1209,Miami,FL,33131.0,335000,1.0,1.0,1088.0,,2008.0,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1209/home/43405508,25.763279500000003,-80.1921953
-120,Condo/Co-op,1250 S Miami Ave #1009,Miami,FL,33130.0,289000,1.0,1.5,783.0,,2004.0,495.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1009/home/43336676,25.762099399999997,-80.1935558
-121,Condo/Co-op,1250 S Miami Ave #1008,Miami,FL,33130.0,280000,1.0,1.5,838.0,,2004.0,529.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1008/home/43474742,25.762099399999997,-80.1935558
-122,Condo/Co-op,1250 S Miami Ave #1106,Miami,FL,33130.0,354900,2.0,2.0,1143.0,,2004.0,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1106/home/43328805,25.762099399999997,-80.1935558
-123,Condo/Co-op,,Miami,FL,33130.0,270000,1.0,1.5,,,2004.0,521.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33130/home/43344187,25.762099399999997,-80.1935558
-124,Condo/Co-op,1250 S Miami Ave #1509,Miami,FL,33130.0,264900,1.0,1.5,783.0,,2004.0,496.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1509/home/43434839,25.762099399999997,-80.1935558
-125,Condo/Co-op,1250 S Miami Ave #813,Miami,FL,33130.0,268000,1.0,1.5,737.0,,2004.0,529.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-813/home/43345210,25.762099399999997,-80.1935558
-126,Condo/Co-op,1250 S Miami #1013,Miami,FL,33130.0,250000,1.0,1.0,737.0,,2004.0,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1013/home/43441773,25.762099399999997,-80.1935558
-127,Condo/Co-op,1250 S Miami Ave #2106,Miami,FL,33130.0,420000,2.0,2.0,1143.0,,2004.0,748.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2106/home/43336681,25.762099399999997,-80.1935558
-128,Condo/Co-op,1250 S Miami Ave #1307,Miami,FL,33130.0,259900,1.0,1.5,,,2004.0,533.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1307/home/43470277,25.762099399999997,-80.1935558
-129,Condo/Co-op,1250 S Miami Ave #1201,Miami,FL,33130.0,400000,2.0,2.0,1255.0,,2004.0,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1201/home/43321251,25.762099399999997,-80.1935558
-130,Condo/Co-op,1250 S Miami Ave #904,Miami,FL,33130.0,344900,2.0,2.0,1023.0,,2004.0,604.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-904/home/43338170,25.762099399999997,-80.1935558
-131,Condo/Co-op,1703 Unit 1703,Miami,FL,33130.0,424900,1.0,1.0,583.0,,2020.0,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1703/home/43336310,25.762099399999997,-80.1935558
-132,Condo/Co-op,1250 S Miami Ave #1011,Miami,FL,33130.0,245000,1.0,1.5,796.0,,2004.0,510.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1011/home/43330196,25.762099399999997,-80.1935558
-133,Condo/Co-op,1250 S Miami Ave #2201,Miami,FL,33130.0,398000,2.0,2.0,,,2004.0,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2201/home/43341363,25.762099399999997,-80.1935558
-134,Condo/Co-op,1250 S Miami #1515,Miami,FL,33130.0,327900,2.0,2.0,,,2004.0,780.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1515/home/43336887,25.762099399999997,-80.1935558
-135,Condo/Co-op,1250 S Miami Ave #1513,Miami,FL,33130.0,274000,1.0,1.5,737.0,,2004.0,589.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1513/home/43329312,25.762099399999997,-80.1935558
-136,Condo/Co-op,1250 S Miami Ave #2112,Miami,FL,33130.0,279000,1.0,1.5,,,2004.0,570.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2112/home/43329791,25.762099399999997,-80.1935558
-137,Condo/Co-op,1250 S Miami Ave #2102,Miami,FL,33130.0,427000,2.0,2.0,1322.0,,2004.0,748.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2102/home/43345714,25.762099399999997,-80.1935558
-138,Condo/Co-op,1250 S Miami Ave #1502,Miami,FL,33130.0,415000,2.0,2.0,1322.0,,2004.0,866.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1502/home/43336322,25.762099399999997,-80.1935558
-139,Condo/Co-op,1250 S Miami Ave #1714,Miami,FL,33130.0,395000,2.0,2.0,1149.0,,2004.0,726.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1714/home/43334786,25.762099399999997,-80.1935558
-140,Condo/Co-op,1250 S Miami Ave #1102,Miami,FL,33130.0,418000,2.0,2.0,,,2004.0,748.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1102/home/43329329,25.762099399999997,-80.1935558
-141,Condo/Co-op,1250 S Miami Ave #1604,Miami,FL,33130.0,339000,2.0,2.0,1023.0,,2004.0,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1604/home/43387859,25.762099399999997,-80.1935558
-142,Condo/Co-op,1250 S Miami Ave #908,Miami,FL,33130.0,250000,1.0,1.5,,,2004.0,529.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-908/home/43329306,25.762099399999997,-80.1935558
-143,Condo/Co-op,1250 S Miami Ave #2211,Miami,FL,33130.0,275000,1.0,1.5,796.0,,2004.0,495.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2211/home/43345146,25.762099399999997,-80.1935558
-144,Condo/Co-op,Panoramic Unit 5,Miami,FL,33131.0,2137900,2.0,3.5,1774.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-5/home/170883914,25.7631148,-80.1905463
-145,Condo/Co-op,Panoramic Unit 1,Miami,FL,33131.0,5312900,5.0,5.5,3758.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-1/home/170883922,25.7631148,-80.1905463
-146,Condo/Co-op,Panoramic Unit 3,Miami,FL,33131.0,2660900,3.0,4.5,3075.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-3/home/170883919,25.7631148,-80.1905463
-147,Condo/Co-op,Panoramic Unit 7,Miami,FL,33131.0,2312900,3.0,5.5,2985.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-7/home/170883907,25.7631148,-80.1905463
-148,Condo/Co-op,Panoramic Unit 4,Miami,FL,33131.0,3097900,4.0,5.5,3536.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-4/home/170883918,25.7631148,-80.1905463
-149,Condo/Co-op,Panoramic Unit 2,Miami,FL,33131.0,2648900,3.0,3.5,2422.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-2/home/170883920,25.7631148,-80.1905463
-150,Condo/Co-op,Panoramic Unit 6,Miami,FL,33131.0,1478900,1.0,1.5,1001.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-6/home/170883911,25.7631148,-80.1905463
-151,Condo/Co-op,Panoramic Unit 9,Miami,FL,33131.0,1406900,2.0,2.5,1571.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-9/home/170883891,25.7631148,-80.1905463
-152,Condo/Co-op,Panoramic Unit 8,Miami,FL,33131.0,961900,1.0,1.5,828.0,,2020.0,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-8/home/170883893,25.7631148,-80.1905463
-153,Condo/Co-op,1300 Brickell Bay Dr #2503,Miami,FL,33131.0,618000,2.0,2.0,997.0,,2014.0,1007.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2503/home/55273269,25.7603908,-80.19034649999999
-154,Condo/Co-op,1300 Brickell Bay Dr #1900,Miami,FL,33131.0,249000,0.0,1.0,420.0,,2014.0,423.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1900/home/55273285,25.7603908,-80.19034649999999
-155,Condo/Co-op,1300 Brickell Bay Dr #3105,Miami,FL,33131.0,625000,2.0,2.0,1076.0,,2014.0,1028.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3105/home/55273038,25.7603908,-80.19034649999999
-156,Condo/Co-op,1300 Brickell Bay Dr #2807,Miami,FL,33131.0,389000,1.0,1.0,696.0,,2014.0,705.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2807/home/55272924,25.7603908,-80.19034649999999
-157,Condo/Co-op,1300 Brickell Bay Dr #4401,Miami,FL,33131.0,5999000,6.0,7.5,6521.0,,2014.0,6972.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-4401/home/55272967,25.7603908,-80.19034649999999
-158,Condo/Co-op,1300 Brickell Bay Dr #2901,Miami,FL,33131.0,454500,2.0,2.5,969.0,,2014.0,941.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2901/home/55273010,25.7603908,-80.19034649999999
-159,Condo/Co-op,1300 Brickell Bay Dr #1613,Miami,FL,33131.0,225000,0.0,1.0,355.0,,2014.0,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1613/home/55272839,25.7603908,-80.19034649999999
-160,Condo/Co-op,1300 Brickell Bay Dr #3705,Miami,FL,33131.0,590000,2.0,2.5,1153.0,,2014.0,1100.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3705/home/55272951,25.7603908,-80.19034649999999
-161,Condo/Co-op,1300 Brickell Bay Dr #2511,Miami,FL,33131.0,359900,1.0,1.5,653.0,,2014.0,635.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2511/home/55272855,25.7603908,-80.19034649999999
-162,Condo/Co-op,1300 Brickell Bay Dr #2803,Miami,FL,33131.0,815000,2.0,2.0,1139.0,,2014.0,1007.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2803/home/55273270,25.7603908,-80.19034649999999
-163,Condo/Co-op,1300 Brickell Bay Dr #3005,Miami,FL,33131.0,620000,2.0,2.0,1076.0,,2014.0,1028.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3005/home/55273041,25.7603908,-80.19034649999999
-164,Condo/Co-op,1300 Brickell Bay Dr #3400,Miami,FL,33131.0,450000,1.0,1.5,965.0,,2014.0,855.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3400/home/55273015,25.7603908,-80.19034649999999
-165,Condo/Co-op,1300 Brickell Bay Dr #2509,Miami,FL,33131.0,559000,2.0,2.0,997.0,,2014.0,1000.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2509/home/55272827,25.7603908,-80.19034649999999
-166,Condo/Co-op,1300 Brickell Bay Dr #910,Miami,FL,33131.0,325000,1.0,1.5,644.0,,2014.0,708.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-910/home/55273203,25.7603908,-80.19034649999999
-167,Condo/Co-op,1300 Brickell Bay Dr #3503,Miami,FL,33131.0,580000,2.0,2.0,1076.0,,2014.0,1044.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3503/home/55272985,25.7603908,-80.19034649999999
-168,Condo/Co-op,1300 Brickell Bay Dr #2408,Miami,FL,33131.0,330000,1.0,1.5,701.0,,2014.0,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2408/home/55272914,25.7603908,-80.19034649999999
-169,Condo/Co-op,1300 Brickell Bay Dr #1811,Miami,FL,33131.0,335000,1.0,1.5,653.0,,2014.0,635.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1811/home/55272813,25.7603908,-80.19034649999999
-170,Condo/Co-op,1300 Brickell Bay Dr #1711,Miami,FL,33131.0,345000,1.0,1.5,653.0,,2014.0,659.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1711/home/55272812,25.7603908,-80.19034649999999
-171,Condo/Co-op,1300 Brickell Bay Dr #2304,Miami,FL,33131.0,360000,1.0,1.5,701.0,,2014.0,708.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2304/home/55272890,25.7603908,-80.19034649999999
-172,Condo/Co-op,1300 S Miami Ave #4301,Miami,FL,33130.0,790000,2.0,2.0,1279.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4301/home/56742532,25.7613319,-80.19377420000001
-173,Condo/Co-op,1300 S Miami Ave #2207,Miami,FL,33130.0,380000,1.0,1.0,570.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2207/home/56742858,25.7613319,-80.19377420000001
-174,Condo/Co-op,1300 S Miami Ave #1206,Miami,FL,33130.0,630000,3.0,2.5,1154.0,,2016.0,850.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1206/home/56742557,25.7613319,-80.19377420000001
-175,Condo/Co-op,1300 S Miami Ave #3005,Miami,FL,33130.0,830000,3.0,2.5,1505.0,,2016.0,634.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3005/home/56742583,25.7613319,-80.19377420000001
-176,Condo/Co-op,1300 S Miami Ave #4202,Miami,FL,33130.0,695000,2.0,2.0,1332.0,,2016.0,900.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4202/home/56742440,25.7613319,-80.19377420000001
-177,Condo/Co-op,1300 S Miami Ave #2111,Miami,FL,33130.0,595000,2.0,2.0,868.0,,2017.0,805.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2111/home/56742721,25.7613319,-80.19377420000001
-178,Condo/Co-op,1300 S Miami Ave Ph 5205,Miami,FL,33130.0,1670000,3.0,3.5,2117.0,,2016.0,750.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5205/home/56742782,25.7613319,-80.19377420000001
-179,Condo/Co-op,1300 S Miami Ave #1705,Miami,FL,33130.0,990000,2.0,2.5,1281.0,,2016.0,1091.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1705/home/56742661,25.7613319,-80.19377420000001
-180,Condo/Co-op,1300 S Miami Ave #2809,Miami,FL,33130.0,565000,2.0,2.5,961.0,,2016.0,477.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2809/home/56742902,25.7613319,-80.19377420000001
-181,Condo/Co-op,1300 S Miami Ave #1907,Miami,FL,33130.0,375000,1.0,1.0,570.0,,2016.0,487.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1907/home/56742860,25.7613319,-80.19377420000001
-182,Condo/Co-op,1300 S Miami Ave #3908,Miami,FL,33130.0,369000,1.0,1.5,649.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3908/home/56742795,25.7613319,-80.19377420000001
-183,Condo/Co-op,1300 S Miami Ave #3504,Miami,FL,33130.0,590000,1.0,1.0,699.0,,2016.0,695.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3504/home/56742674,25.7613319,-80.19377420000001
-184,Condo/Co-op,1300 S Miami Ave #4805,Miami,FL,33130.0,935000,3.0,2.5,1281.0,,2016.0,926.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4805/home/56742562,25.7613319,-80.19377420000001
-185,Condo/Co-op,1300 S Miami Ave #2206,Miami,FL,33130.0,720000,3.0,2.5,1154.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2206/home/56742615,25.7613319,-80.19377420000001
-186,Condo/Co-op,1300 S Miami Ave #2311,Miami,FL,33130.0,535000,2.0,2.0,868.0,,2016.0,629.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2311/home/56742702,25.7613319,-80.19377420000001
-187,Condo/Co-op,1300 S Miami Ave Ph 5009,Miami,FL,33130.0,590000,2.0,2.5,997.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5009/home/56742788,25.7613319,-80.19377420000001
-188,Condo/Co-op,1300 S Miami Ave #2204,Miami,FL,33130.0,458999,1.0,1.0,699.0,,2016.0,100.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2204/home/56742630,25.7613319,-80.19377420000001
-189,Condo/Co-op,1300 S Miami Ave #4304,Miami,FL,33130.0,430000,1.0,1.0,699.0,,2016.0,595.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4304/home/56742666,25.7613319,-80.19377420000001
-190,Condo/Co-op,1300 S Miami Ave #1808,Miami,FL,33130.0,459000,1.0,1.5,,,2017.0,471.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1808/home/56742813,25.7613319,-80.19377420000001
-191,Condo/Co-op,1300 S Miami Ave #2309,Miami,FL,33130.0,550000,2.0,2.5,961.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2309/home/56742915,25.7613319,-80.19377420000001
-192,Condo/Co-op,1300 S Miami Ave #3907,Miami,FL,33130.0,395000,1.0,1.0,570.0,,2016.0,488.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3907/home/56742831,25.7613319,-80.19377420000001
-193,Condo/Co-op,1300 S Miami Ave #1905,Miami,FL,33130.0,930000,3.0,2.5,,,2016.0,1091.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1905/home/56742651,25.7613319,-80.19377420000001
-194,Condo/Co-op,1300 S Miami Ave #2601,Miami,FL,33130.0,799000,2.0,2.0,1279.0,,2016.0,926.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2601/home/56742542,25.7613319,-80.19377420000001
-195,Condo/Co-op,1300 S Miami Ave #3903,Miami,FL,33130.0,520000,1.0,2.0,880.0,,2016.0,752.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3903/home/56742642,25.7613319,-80.19377420000001
-196,Condo/Co-op,1300 S Miami Ave #4104,Miami,FL,33130.0,599000,1.0,1.0,699.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4104/home/56742668,25.7613319,-80.19377420000001
-197,Condo/Co-op,1300 S Miami Ave #2401,Miami,FL,33130.0,935000,2.0,2.0,962.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2401/home/56742544,25.7613319,-80.19377420000001
-198,Condo/Co-op,1300 S Miami Ave #2508,Miami,FL,33130.0,445000,1.0,1.5,649.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2508/home/56742805,25.7613319,-80.19377420000001
-199,Condo/Co-op,1300 S Miami Ave #4302,Miami,FL,33130.0,790000,2.0,2.0,1088.0,,2016.0,900.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4302/home/56742443,25.7613319,-80.19377420000001
-200,Condo/Co-op,1300 S Miami Ph 5010,Miami,FL,33130.0,1699000,3.0,2.5,1845.0,,2017.0,1253.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5010/home/56742761,25.7613319,-80.19377420000001
-201,Condo/Co-op,1300 S Miami Ave #1811,Miami,FL,33130.0,542000,2.0,2.0,868.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1811/home/56742726,25.7613319,-80.19377420000001
-202,Condo/Co-op,1300 Miami Ave #2609,Miami,FL,33130.0,590000,2.0,2.5,1115.0,,2017.0,810.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2609/home/56742912,25.7613319,-80.19377420000001
-203,Condo/Co-op,1300 S Miami Ave #4502,Miami,FL,33130.0,940000,2.0,2.0,1332.0,,2016.0,789.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4502/home/56742486,25.7613319,-80.19377420000001
-204,Condo/Co-op,1300 S Miami Ave #1509,Miami,FL,33130.0,549000,2.0,2.5,961.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1509/home/56742922,25.7613319,-80.19377420000001
-205,Condo/Co-op,1300 S Miami Ave Ph 4909,Miami,FL,33130.0,649000,2.0,2.5,997.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4909/home/56742789,25.7613319,-80.19377420000001
-206,Condo/Co-op,1300 S Miami Ave #1101,Miami,FL,33130.0,719000,2.0,2.0,1279.0,,2016.0,1093.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1101/home/56742497,25.7613319,-80.19377420000001
-207,Condo/Co-op,1300 S Miami Ave #3408,Miami,FL,33130.0,450000,1.0,1.5,649.0,,2016.0,470.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3408/home/56742796,25.7613319,-80.19377420000001
-208,Condo/Co-op,1300 S Miami Ave #4001,Miami,FL,33130.0,840000,2.0,2.0,1279.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4001/home/56742527,25.7613319,-80.19377420000001
-209,Condo/Co-op,1300 S Miami Ave #3401,Miami,FL,33130.0,835000,2.0,2.0,1279.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3401/home/56742550,25.7613319,-80.19377420000001
-210,Condo/Co-op,1300 S Miami Ave #4711,Miami,FL,33131.0,685000,2.0,2.0,868.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4711/home/56742693,25.7613319,-80.19377420000001
-211,Condo/Co-op,1300 S Miami Ave #2003,Miami,FL,33130.0,554000,1.0,2.0,995.0,,2016.0,752.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2003/home/56742491,25.7613319,-80.19377420000001
-212,Condo/Co-op,1300 S Miami Ave #2901,Miami,FL,33130.0,739000,2.0,2.0,1279.0,,2016.0,936.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2901/home/56742545,25.7613319,-80.19377420000001
-213,Condo/Co-op,1300 S Miami Ave #4703,Miami,FL,33130.0,490000,1.0,2.0,880.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4703/home/56742634,25.7613319,-80.19377420000001
-214,Condo/Co-op,1300 S Miami Ave Ph 5103,Miami,FL,33130.0,1500000,3.0,3.5,2086.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5103/home/56742779,25.7613319,-80.19377420000001
-215,Condo/Co-op,1300 S Miami Ave #2506,Miami,FL,33130.0,795000,3.0,2.5,1154.0,,2016.0,800.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2506/home/56742612,25.7613319,-80.19377420000001
-216,Condo/Co-op,1300 S Miami Ave #1908,Miami,FL,33130.0,365000,1.0,1.5,649.0,,2016.0,567.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1908/home/56742814,25.7613319,-80.19377420000001
-217,Condo/Co-op,1300 S Miami Ave #1502,Miami,FL,33130.0,800000,2.0,2.0,1088.0,,2016.0,800.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1502/home/56742454,25.7613319,-80.19377420000001
-218,Condo/Co-op,1300 S Miami Ave #3702,Miami,FL,33130.0,855000,2.0,2.0,1088.0,,2017.0,789.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3702/home/56742445,25.7613319,-80.19377420000001
-219,Condo/Co-op,1300 S Miami Ave #1707,Miami,FL,33130.0,345000,1.0,1.0,,,2016.0,567.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1707/home/56742864,25.7613319,-80.19377420000001
-220,Condo/Co-op,1300 S Miami Ave #1610,Miami,FL,33130.0,618888,2.0,2.0,1155.0,,2016.0,950.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1610/home/56742878,25.7613319,-80.19377420000001
-221,Condo/Co-op,1300 S Miami Ave #2103,Miami,FL,33130.0,535000,1.0,2.0,880.0,,2016.0,638.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2103/home/56742488,25.7613319,-80.19377420000001
-222,Condo/Co-op,1300 S Miami Ave #4501,Miami,FL,33130.0,790000,2.0,2.0,1279.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4501/home/56742530,25.7613319,-80.19377420000001
-223,Condo/Co-op,1300 S Miami Ave #4208,Miami,FL,33130.0,480000,1.0,1.0,,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4208/home/56742927,25.7613319,-80.19377420000001
-224,Condo/Co-op,1300 Brickell Bay Dr #3308,Miami,FL,33131.0,570000,2.0,2.0,1151.0,,2014.0,1160.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3308/home/55272958,25.760372,-80.190197
-225,Condo/Co-op,1300 Brickell Bay Dr #1105,Miami,FL,33131.0,259000,0.0,1.0,420.0,,2014.0,363.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1105/home/55273237,25.760372,-80.190197
-226,Condo/Co-op,1300 Brickell Bay Dr #2401,Miami,FL,33131.0,330000,1.0,1.5,653.0,,2014.0,659.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2401/home/55273298,25.760372,-80.190197
-227,Condo/Co-op,1300 Brickell Bay Dr #2812,Miami,FL,33131.0,235000,0.0,1.0,362.0,,2014.0,399.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2812/home/55272838,25.760372,-80.190197
-228,Condo/Co-op,1300 Brickell Bay Dr #2406,Miami,FL,33131.0,265000,0.0,1.0,,,2014.0,377.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2406/home/55272878,25.760372,-80.190197
-229,Condo/Co-op,1300 Brickell Bay Dr #1702,Miami,FL,33131.0,515000,2.0,2.0,1012.0,,2014.0,1019.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1702/home/55273247,25.760372,-80.190197
-230,Condo/Co-op,1300 Brickell Bay Dr #1001,Miami,FL,33131.0,335000,1.0,1.5,777.0,,2014.0,754.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1001/home/55273215,25.760372,-80.190197
-231,Condo/Co-op,1300 Brickell Bay Dr #4101,Miami,FL,33131.0,2080000,3.0,3.5,2365.0,,2014.0,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-4101/home/55272945,25.760372,-80.190197
-232,Condo/Co-op,1300 Brickell Bay Dr #2906,Miami,FL,33131.0,739000,3.0,2.5,1308.0,,2014.0,1300.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2906/home/55273032,25.760372,-80.190197
-233,Condo/Co-op,1300 Brickell Bay Dr #3801,Miami,FL,33131.0,1890000,3.0,3.5,2365.0,,2014.0,2389.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3801/home/55272940,25.760372,-80.190197
-234,Condo/Co-op,1300 Brickell Bay Dr #1206,Miami,FL,33131.0,349000,1.0,1.0,,,2014.0,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1206/home/55273277,25.760372,-80.190197
-235,Condo/Co-op,1300 Brickell Bay Dr #3600,Miami,FL,33131.0,450000,1.0,1.5,848.0,,2014.0,855.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3600/home/55273009,25.760372,-80.190197
-236,Condo/Co-op,,Miami,FL,33131.0,535000,2.0,2.0,1012.0,,2014.0,1019.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/55272809,25.760372,-80.190197
-237,Condo/Co-op,1300 Brickell Bay Dr #1708,Miami,FL,33131.0,349900,1.0,1.0,701.0,,2014.0,785.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1708/home/55272907,25.760372,-80.190197
-238,Condo/Co-op,1300 Brickell Bay Dr #2604,Miami,FL,33131.0,389900,1.0,1.0,,,2014.0,708.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2604/home/55272887,25.760372,-80.190197
-239,Condo/Co-op,1300 S Miami Ave #2501,Miami,FL,33130.0,1099000,2.0,2.0,1279.0,,2016.0,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2501/home/56742541,25.7610982,-80.1938177
-240,Condo/Co-op,1300 S Miami Ave #1105,Miami,FL,33130.0,869000,2.0,2.5,1281.0,,2016.0,940.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1105/home/56742660,25.7610982,-80.1938177
-241,Condo/Co-op,1300 S Miami Ave Ph 5201,Miami,FL,33130.0,1649000,3.0,3.5,2006.0,,2016.0,1564.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5201/home/56742690,25.7610982,-80.1938177
-242,Condo/Co-op,1300 S Miami Ave #1709,Miami,FL,33130.0,560000,2.0,2.5,961.0,,2016.0,700.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1709/home/56742920,25.7610982,-80.1938177
-243,Condo/Co-op,1300 S Miami Ave #2011,Miami,FL,33130.0,530000,2.0,2.0,868.0,,2016.0,741.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2011/home/56742724,25.7610982,-80.1938177
-244,Condo/Co-op,1300 S Miami Ave #1801,Miami,FL,33130.0,714000,2.0,2.0,1279.0,,2016.0,936.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1801/home/56742503,25.7610982,-80.1938177
-245,Condo/Co-op,1300 S Miami Ave #4402,Miami,FL,33130.0,760000,2.0,2.0,1320.0,,2016.0,744.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4402/home/56742442,25.7610982,-80.1938177
-246,Condo/Co-op,170 SE 14th St #1501,Miami,FL,33131.0,349000,2.0,2.0,1090.0,,2006.0,520.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1501/home/43362239,25.7598741,-80.19068859999999
-247,Condo/Co-op,170 SE 14th St #1208,Miami,FL,33131.0,344900,2.0,2.0,1090.0,,2006.0,540.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1208/home/43377167,25.7598741,-80.19068859999999
-248,Condo/Co-op,170 SE 14th St #1605,Miami,FL,33131.0,320000,2.0,2.0,942.0,,2006.0,520.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1605/home/43364146,25.7598741,-80.19068859999999
-249,Condo/Co-op,170 SE 14th St #1508,Miami,FL,33131.0,347000,2.0,2.0,1090.0,,2006.0,,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1508/home/43443695,25.7598741,-80.19068859999999
-250,Condo/Co-op,170 SE 14th St #1507,Miami,FL,33131.0,380000,1.0,1.0,630.0,,2006.0,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1507/home/43362135,25.7598741,-80.19068859999999
-251,Condo/Co-op,170 SE 14th St #1407,Miami,FL,33131.0,360000,1.0,1.0,630.0,,2006.0,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1407/home/43360664,25.7598741,-80.19068859999999
-252,Condo/Co-op,170 SE 14th St #1802,Miami,FL,33131.0,257000,1.0,1.0,630.0,,2006.0,546.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1802/home/43369291,25.7598741,-80.19068859999999
-253,Condo/Co-op,170 SE 14th St #1607,Miami,FL,33131.0,331500,1.0,1.0,630.0,,2006.0,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1607/home/43362134,25.7598741,-80.19068859999999
-254,Condo/Co-op,170 SE 14th St #1905,Miami,FL,33131.0,325000,2.0,2.0,942.0,,2006.0,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1905/home/43362154,25.7598741,-80.19068859999999
-255,Condo/Co-op,170 SE 14 St #2504,Miami,FL,33131.0,330000,2.0,2.0,942.0,,2006.0,520.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-2504/home/43379250,25.7598741,-80.19068859999999
-256,Condo/Co-op,185 SE 14th Ter #2006,Miami,FL,33131.0,350000,2.0,2.0,930.0,,1998.0,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2006/home/42764645,25.7595134,-80.190954
-257,Condo/Co-op,185 SE 14th Ter #1102,Miami,FL,33131.0,249000,1.0,1.0,650.0,,1998.0,560.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-1102/home/42757875,25.7595134,-80.190954
-258,Condo/Co-op,185 SE 14th Ter #2810,Miami,FL,33131.0,329900,2.0,2.0,930.0,,1998.0,,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2810/home/42764757,25.7595134,-80.190954
-259,Condo/Co-op,185 SE 14th Ter #2701,Miami,FL,33131.0,270000,1.0,1.0,,,1998.0,586.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2701/home/42757862,25.7595134,-80.190954
-260,Condo/Co-op,185 SE 14th Ter #2604,Miami,FL,33131.0,330000,2.0,2.0,930.0,,1998.0,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2604/home/42765172,25.7595134,-80.190954
-261,Condo/Co-op,185 SE 14th Ter #2603,Miami,FL,33131.0,329000,2.0,2.0,950.0,,1998.0,813.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2603/home/42758181,25.7595134,-80.190954
-262,Condo/Co-op,185 SE 14th Ter #1203,Miami,FL,33131.0,330000,2.0,2.0,950.0,,1998.0,818.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-1203/home/42766371,25.7595134,-80.190954
-263,Condo/Co-op,185 SE 14th Ter #1407,Miami,FL,33131.0,329999,2.0,2.0,930.0,,1998.0,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-1407/home/42765135,25.7595134,-80.190954
-264,Condo/Co-op,185 SE 14th Ter #908,Miami,FL,33131.0,330000,2.0,2.0,930.0,,1998.0,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-908/home/42764160,25.7595134,-80.190954
-265,Condo/Co-op,1000 Brickell Ave #3501,Miami,FL,33131.0,1150000,2.0,2.5,,,2019.0,983.0,http://www.redfin.com/FL/Miami/1000-Brickell-Ave-33131/unit-3501/home/172069132,25.7640196,-80.1917783
-266,Condo/Co-op,1010 Brickell Ave #2703,Miami,FL,33131.0,745000,2.0,3.0,1283.0,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2703/home/79134539,25.764019100000002,-80.1922655
-267,Condo/Co-op,1010 Brickell Ave #3804,Miami,FL,33131.0,750000,2.0,3.0,1325.0,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3804/home/79134532,25.764019100000002,-80.1922655
-268,Condo/Co-op,1010 Brickell Ave #3306,Miami,FL,33131.0,695000,2.0,3.0,1554.0,,2017.0,1025.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3306/home/79132391,25.764019100000002,-80.1922655
-269,Condo/Co-op,1010 Brickell Ave #3208,Miami,FL,33131.0,455000,1.0,1.5,987.0,,2017.0,540.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3208/home/79132868,25.764019100000002,-80.1922655
-270,Condo/Co-op,1010 Brickell Ave #3203,Miami,FL,33131.0,865000,2.0,3.0,1283.0,,2017.0,912.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3203/home/79134540,25.764019100000002,-80.1922655
-271,Condo/Co-op,1010 Brickell Ave #1703,Miami,FL,33131.0,845000,3.0,3.0,1700.0,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1703/home/79134595,25.764019100000002,-80.1922655
-272,Condo/Co-op,1010 Brickell Ave #3105,Miami,FL,33131.0,1075000,3.0,3.0,1778.0,,2017.0,1264.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3105/home/79132364,25.764019100000002,-80.1922655
-273,Condo/Co-op,1010 Brickell Ave #4503,Miami,FL,33131.0,879900,2.0,3.0,1283.0,,2017.0,845.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4503/home/79134552,25.764019100000002,-80.1922655
-274,Condo/Co-op,1010 Brickell Ave #1704,Miami,FL,33131.0,689000,2.0,3.0,1325.0,,2017.0,982.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1704/home/79134561,25.764019100000002,-80.1922655
-275,Condo/Co-op,1010 Brickell Ave #1405,Miami,FL,33131.0,999000,3.0,3.0,1778.0,,2017.0,1248.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1405/home/79135335,25.764019100000002,-80.1922655
-276,Condo/Co-op,1010 Brickell Ave #2307,Miami,FL,33131.0,525000,2.0,2.0,970.0,,2017.0,691.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2307/home/79132574,25.764019100000002,-80.1922655
-277,Condo/Co-op,1010 Brickell #3607,Miami,FL,33131.0,390000,1.0,1.0,,,2017.0,466.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3607/home/79132551,25.764019100000002,-80.1922655
-278,Condo/Co-op,,Miami,FL,33131.0,650000,2.0,2.0,1028.0,,2017.0,,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132891,25.764019100000002,-80.1922655
-279,Condo/Co-op,1010 Brickell Ave #3903,Miami,FL,33131.0,850000,2.0,3.0,1400.0,,2017.0,670.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3903/home/79134551,25.764019100000002,-80.1922655
-280,Condo/Co-op,,Miami,FL,33131.0,440000,1.0,1.5,988.0,,2017.0,,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132881,25.764019100000002,-80.1922655
-281,Condo/Co-op,1010 Brickell Ave #2505,Miami,FL,33131.0,1250000,3.0,3.0,1778.0,,2017.0,1247.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2505/home/79135298,25.764019100000002,-80.1922655
-282,Condo/Co-op,1010 Brickell Ave #2210,Miami,FL,33131.0,310000,0.0,1.0,442.0,,2017.0,314.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2210/home/79132863,25.764019100000002,-80.1922655
-283,Condo/Co-op,1010 Brickell #2803,Miami,FL,33131.0,820000,3.0,3.0,,,2017.0,912.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2803/home/79134536,25.764019100000002,-80.1922655
-284,Condo/Co-op,1010 Brickell Ave #2905,Miami,FL,33131.0,1050000,3.0,3.0,1778.0,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2905/home/79132362,25.764019100000002,-80.1922655
-285,Condo/Co-op,1010 Brickell Ave #3605,Miami,FL,33131.0,1300000,3.0,3.0,1778.0,,2017.0,1174.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3605/home/79132361,25.764019100000002,-80.1922655
-286,Condo/Co-op,1010 Brickell Ave #4005,Miami,FL,33131.0,1538000,3.0,3.0,2181.0,,2017.0,929.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4005/home/79132357,25.764019100000002,-80.1922655
-287,Condo/Co-op,,Miami,FL,33131.0,400000,1.0,1.5,759.0,,2017.0,540.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132879,25.764019100000002,-80.1922655
-288,Condo/Co-op,1010 Brickell Ave #3807,Miami,FL,33131.0,360990,1.0,1.0,651.0,,2017.0,690.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3807/home/79132553,25.764019100000002,-80.1922655
-289,Condo/Co-op,1010 Brickell Ave #3801,Miami,FL,33131.0,1200000,3.0,3.0,1753.0,,2017.0,1158.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3801/home/79134609,25.764019100000002,-80.1922655
-290,Condo/Co-op,1010 Brickell Ave #2008,Miami,FL,33131.0,395000,1.0,1.5,759.0,,2017.0,540.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2008/home/79132819,25.764019100000002,-80.1922655
-291,Condo/Co-op,1010 Brickell Ave #3910,Miami,FL,33131.0,478000,0.0,1.0,633.0,,2017.0,400.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3910/home/79132781,25.764019100000002,-80.1922655
-292,Condo/Co-op,,Miami,FL,33131.0,400000,1.0,1.5,759.0,,2017.0,540.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132872,25.764019100000002,-80.1922655
-293,Condo/Co-op,1010 Brickell Ave #3110,Miami,FL,33131.0,325000,0.0,1.0,442.0,,2017.0,315.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3110/home/79132789,25.764019100000002,-80.1922655
-294,Condo/Co-op,1010 Brickell Ave #4803,Miami,FL,33131.0,875000,2.0,3.0,,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4803/home/79134557,25.764019100000002,-80.1922655
-295,Condo/Co-op,1010 Brickell Ave #2708,Miami,FL,33131.0,430000,1.0,1.5,759.0,,2017.0,530.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2708/home/79132832,25.764019100000002,-80.1922655
-296,Condo/Co-op,1010 Brickell Ave #1409,Miami,FL,33131.0,629000,2.0,2.0,1028.0,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1409/home/79132884,25.764019100000002,-80.1922655
-297,Condo/Co-op,1010 Brickell Ave #4705,Miami,FL,33131.0,1099000,3.0,3.0,,,2017.0,1248.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4705/home/79132411,25.764019100000002,-80.1922655
-298,Condo/Co-op,,Miami,FL,33131.0,550000,1.0,1.5,988.0,,2017.0,,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132833,25.764019100000002,-80.1922655
-299,Condo/Co-op,1010 Brickell Ave #2209,Miami,FL,33131.0,650000,2.0,2.0,,,2017.0,731.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2209/home/79132892,25.764019100000002,-80.1922655
-300,Condo/Co-op,1010 Brickell Ave #4201,Miami,FL,33131.0,1060000,3.0,3.0,1753.0,,2017.0,1250.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4201/home/79134605,25.764019100000002,-80.1922655
-301,Condo/Co-op,1010 Brickell #3408,Miami,FL,33131.0,399900,1.0,1.5,,,2017.0,526.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3408/home/79132866,25.764019100000002,-80.1922655
-302,Condo/Co-op,1010 Brickell Ave #2001,Miami,FL,33131.0,950000,3.0,3.0,1753.0,,2017.0,1247.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2001/home/79134660,25.764019100000002,-80.1922655
-303,Condo/Co-op,1010 Brickell Ave #3909,Miami,FL,33131.0,539000,2.0,2.0,1028.0,,2017.0,732.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3909/home/79132844,25.764019100000002,-80.1922655
-304,Condo/Co-op,1010 Brickell Ave #3503,Miami,FL,33131.0,990000,2.0,3.0,1584.0,,2017.0,670.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3503/home/79134547,25.764019100000002,-80.1922655
-305,Condo/Co-op,,Miami,FL,33131.0,1309000,3.0,3.0,1753.0,,2017.0,1250.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79134611,25.764019100000002,-80.1922655
-306,Condo/Co-op,,Miami,FL,33131.0,550000,2.0,2.0,,,2017.0,691.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132563,25.764019100000002,-80.1922655
-307,Condo/Co-op,1010 Brickell Ave #4603,Miami,FL,33131.0,859000,2.0,3.0,1283.0,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4603/home/79134559,25.764019100000002,-80.1922655
-308,Condo/Co-op,1010 Brickell Ave #4404,Miami,FL,33131.0,829900,2.0,3.0,1325.0,,2017.0,880.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4404/home/79135328,25.764019100000002,-80.1922655
-309,Condo/Co-op,1010 Brickell Ave #2802,Miami,FL,33131.0,790000,2.0,3.0,1314.0,,2017.0,935.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2802/home/79134617,25.764019100000002,-80.1922655
-310,Condo/Co-op,1010 Brickell #2201,Miami,FL,33131.0,1119000,4.0,3.0,2142.0,,2017.0,1250.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2201/home/79134662,25.764019100000002,-80.1922655
-311,Condo/Co-op,1010 Brickell Ave #3811,Miami,FL,33131.0,495000,1.0,1.5,,,2017.0,950.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3811/home/79132752,25.764019100000002,-80.1922655
-312,Condo/Co-op,1010 Brickell Ave #1408,Miami,FL,33131.0,384999,1.0,1.5,,,2017.0,736.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1408/home/79132813,25.764019100000002,-80.1922655
-313,Condo/Co-op,1010 Brickell Ave #4405,Miami,FL,33131.0,1050000,3.0,3.0,1778.0,,2017.0,150.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4405/home/79132414,25.764019100000002,-80.1922655
-314,Condo/Co-op,1010 Brickell Ave #1810,Miami,FL,33131.0,280000,0.0,1.0,442.0,,2017.0,240.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1810/home/79132859,25.764019100000002,-80.1922655
-315,Condo/Co-op,1010 Brickell Ave #4608,Miami,FL,33131.0,510000,1.0,1.5,,,2017.0,540.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4608/home/79132878,25.764019100000002,-80.1922655
-316,Condo/Co-op,1010 Brickell Ave #4211,Miami,FL,33131.0,430000,1.0,1.5,975.0,,2017.0,694.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4211/home/79132778,25.764019100000002,-80.1922655
-317,Condo/Co-op,1010 Brickell Ave #4702,Miami,FL,33131.0,895000,2.0,3.0,1314.0,,2017.0,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4702/home/79134598,25.764019100000002,-80.1922655
-318,Condo/Co-op,1010 Brickell Ave #3611,Miami,FL,33131.0,475000,1.0,1.5,1046.0,,2017.0,650.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3611/home/79132750,25.764019100000002,-80.1922655
-319,Condo/Co-op,,Miami,FL,33131.0,899000,2.0,3.0,,,2017.0,692.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79134560,25.764019100000002,-80.1922655
-320,Single Family Residential,1010 Brickell Ave #2709,Miami,FL,33131.0,599000,2.0,2.0,1028.0,,2017.0,732.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2709/home/79132895,25.764019100000002,-80.1922655
-321,Condo/Co-op,1100 S Miami Ave #2508,Miami,FL,33130.0,350000,1.0,1.0,812.0,,2015.0,425.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2508/home/55272749,25.7632203,-80.193663
-322,Condo/Co-op,1100 S Miami Ave #3602,Miami,FL,33130.0,369000,1.0,1.0,858.0,,2015.0,531.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3602/home/55272575,25.7632203,-80.193663
-323,Condo/Co-op,1100 S Miami Ave #3710,Miami,FL,33130.0,495000,2.0,2.0,1245.0,,2015.0,389.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3710/home/55273084,25.7632203,-80.193663
-324,Condo/Co-op,1100 S Miami Ave #1204,Miami,FL,33130.0,415000,2.0,2.0,921.0,,2015.0,586.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1204/home/55272655,25.7632203,-80.193663
-325,Condo/Co-op,1100 S Miami Ave #1703,Miami,FL,33130.0,360000,1.0,1.0,923.0,,2015.0,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1703/home/55272561,25.7632203,-80.193663
-326,Condo/Co-op,1100 S Miami Ave #1406,Miami,FL,33130.0,245000,0.0,1.0,540.0,,2015.0,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1406/home/55272723,25.7632203,-80.193663
-327,Condo/Co-op,1100 S Miami Ave #4204,Miami,FL,33130.0,475000,2.0,2.0,921.0,,2015.0,587.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-4204/home/55272630,25.7632203,-80.193663
-328,Condo/Co-op,1100 S Miami Ave #1610,Miami,FL,33130.0,449900,2.0,2.0,1165.0,,2015.0,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1610/home/55273078,25.7632203,-80.193663
-329,Condo/Co-op,1100 S Miami Ave #1608,Miami,FL,33130.0,315000,1.0,1.0,812.0,,2015.0,413.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1608/home/55272777,25.7632203,-80.193663
-330,Condo/Co-op,1100 S Miami Ave #3808,Miami,FL,33130.0,429000,1.0,1.0,808.0,,2015.0,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3808/home/55273054,25.7632203,-80.193663
-331,Condo/Co-op,1100 S Miami Ave #2606,Miami,FL,33130.0,245000,0.0,1.0,530.0,,2015.0,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2606/home/55272706,25.7632203,-80.193663
-332,Condo/Co-op,1100 S Miami Ave #2111,Miami,FL,33130.0,549000,2.0,2.0,1195.0,,2015.0,790.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2111/home/55273172,25.7632203,-80.193663
-333,Condo/Co-op,1100 S Miami Ave #3609,Miami,FL,33130.0,365000,1.0,1.0,808.0,,2014.0,391.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3609/home/55273127,25.7632203,-80.193663
-334,Condo/Co-op,1100 S Miami Ave #2708,Miami,FL,33130.0,329900,1.0,1.0,858.0,,2014.0,413.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2708/home/55272747,25.7632203,-80.193663
-335,Condo/Co-op,1100 S Miami Ave #2308,Miami,FL,33130.0,438800,1.0,1.0,858.0,,2015.0,518.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2308/home/55272751,25.7632203,-80.193663
-336,Condo/Co-op,,Miami,FL,33130.0,265000,0.0,1.0,,,2015.0,320.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33130/home/55272624,25.7632203,-80.193663
-337,Condo/Co-op,1100 S Miami Ave #2506,Miami,FL,33130.0,240000,0.0,1.0,530.0,,2015.0,338.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2506/home/55272705,25.7632203,-80.193663
-338,Condo/Co-op,1100 S Miami Ave #3209,Miami,FL,33130.0,315000,1.0,1.0,769.0,,2015.0,490.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3209/home/55273123,25.7632203,-80.193663
-339,Condo/Co-op,1100 S Miami Ave #3105,Miami,FL,33130.0,280000,0.0,1.0,531.0,,2015.0,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3105/home/55272741,25.7632203,-80.193663
-340,Condo/Co-op,1100 S Miami Ave #3702,Miami,FL,33130.0,370000,1.0,1.0,,,2015.0,559.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3702/home/55272565,25.7632203,-80.193663
-341,Condo/Co-op,1100 S Miami Ave #2803,Miami,FL,33130.0,369000,1.0,2.0,977.0,,2014.0,469.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2803/home/55272677,25.7632203,-80.193663
-342,Condo/Co-op,1100 S Miami Ave #3402,Miami,FL,33130.0,459000,1.0,1.0,884.0,,2015.0,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3402/home/55272577,25.7632203,-80.193663
-343,Condo/Co-op,1100 S Miami Ave #3707,Miami,FL,33130.0,480000,2.0,2.0,950.0,,2015.0,600.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3707/home/55272768,25.7632203,-80.193663
-344,Condo/Co-op,1100 S Miami Ave #3411,Miami,FL,33130.0,599900,2.0,2.0,1270.0,,2015.0,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3411/home/55273161,25.7632203,-80.193663
-345,Condo/Co-op,1100 S Miami Ave #1604,Miami,FL,33130.0,535000,2.0,1.0,921.0,,2015.0,647.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1604/home/55272658,25.7632203,-80.193663
-346,Condo/Co-op,1100 S Miami Ave #4210,Miami,FL,33130.0,595000,2.0,2.0,1165.0,,2015.0,709.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-4210/home/55273158,25.7632203,-80.193663
-347,Condo/Co-op,1100 S Miami Ave #310,Miami,FL,33130.0,465000,2.0,2.0,1245.0,,2015.0,592.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-310/home/55273118,25.7632203,-80.193663
-348,Condo/Co-op,1100 S Miami Ave #1707,Miami,FL,33130.0,410000,2.0,2.0,910.0,,2015.0,579.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1707/home/55272698,25.7632203,-80.193663
-349,Condo/Co-op,1100 S Miami Ave #2505,Miami,FL,33130.0,270000,0.0,1.0,531.0,,2015.0,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2505/home/55272735,25.7632203,-80.193663
+0,Mobile/Manufactured Home,35250 SW 177th Ct,Homestead,FL,33034.0,130000,3,2.0,1690.0,5770.0,1995,132.0,http://www.redfin.com/FL/Miami/35250-SW-177-CT-Unknown/home/171205249,25.7616798,-80.1917902
+1,Single Family Residential,1200 Brickell Bay Dr,Miami,FL,33131.0,438500,3,2.0,1232.0,,2005,850.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2308/home/42702966,25.761803600000004,-80.19058869999999
+2,Condo/Co-op,1200 Brickell Bay Dr #2417,Miami,FL,33131.0,285000,1,1.0,836.0,,2004,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2417/home/43318944,25.761803600000004,-80.19058869999999
+3,Condo/Co-op,1200 Brickell Bay Dr #3919,Miami,FL,33131.0,280000,1,1.0,825.0,,2005,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3919/home/43304447,25.761803600000004,-80.19058869999999
+4,Condo/Co-op,1200 Brickell Bay Dr #1704,Miami,FL,33131.0,289000,1,1.0,825.0,,2004,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1704/home/43317782,25.761803600000004,-80.19058869999999
+5,Condo/Co-op,1200 Brickell Bay Dr #3609,Miami,FL,33131.0,425000,2,2.0,1183.0,,2005,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3609/home/43304335,25.761803600000004,-80.19058869999999
+6,Condo/Co-op,1200 Brickell Bay Dr #3709,Miami,FL,33131.0,460000,2,2.0,1183.0,,2005,838.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3709/home/43320831,25.761803600000004,-80.19058869999999
+7,Condo/Co-op,1200 Brickell Bay Dr #2007,Miami,FL,33131.0,450000,1,1.0,778.0,,2004,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2007/home/43311304,25.761803600000004,-80.19058869999999
+8,Condo/Co-op,1200 Brickell Bay Dr #3515,Miami,FL,33131.0,450000,2,2.0,,,2005,729.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3515/home/43321422,25.761803600000004,-80.19058869999999
+9,Condo/Co-op,1200 Brickell Bay Dr #1608,Miami,FL,33131.0,275000,1,1.0,825.0,,2004,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1608/home/43317818,25.761803600000004,-80.19058869999999
+10,Condo/Co-op,1200 Brickell Bay Dr #4208,Miami,FL,33131.0,350000,1,1.0,825.0,,2005,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4208/home/43306287,25.761803600000004,-80.19058869999999
+11,Condo/Co-op,1200 Brickell Bay Dr #4217,Miami,FL,33131.0,350000,1,1.0,836.0,,2005,592.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4217/home/43303907,25.761803600000004,-80.19058869999999
+12,Condo/Co-op,1200 Brickell Bay Dr #2117,Miami,FL,33131.0,270000,1,1.0,836.0,,2004,592.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2117/home/43313409,25.761803600000004,-80.19058869999999
+13,Condo/Co-op,,Miami,FL,33131.0,390000,2,2.0,1030.0,,2005,729.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43313388,25.761803600000004,-80.19058869999999
+14,Condo/Co-op,1200 Brickell Bay #2819,Miami,FL,33131.0,279000,1,1.0,825.0,,2005,490.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2819/home/43318464,25.761803600000004,-80.19058869999999
+15,Condo/Co-op,1200 Brickell Bay Dr #3105,Miami,FL,33131.0,265000,1,1.0,740.0,,2005,524.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3105/home/43310789,25.761803600000004,-80.19058869999999
+16,Condo/Co-op,1200 Brickell Bay Dr #2224,Miami,FL,33131.0,485000,3,2.0,1232.0,,2004,900.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2224/home/43302998,25.761803600000004,-80.19058869999999
+17,Condo/Co-op,1200 Brickell Bay Dr #1520,Miami,FL,33131.0,295000,1,1.0,825.0,,2004,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1520/home/43304435,25.761803600000004,-80.19058869999999
+18,Condo/Co-op,1200 Brickell Bay Dr #1404,Miami,FL,33131.0,325000,1,1.0,825.0,,2005,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1404/home/43311249,25.761803600000004,-80.19058869999999
+19,Condo/Co-op,1200 Brickell Bay Dr #2410,Miami,FL,33131.0,220000,0,1.0,425.0,,2004,301.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2410/home/43433926,25.761803600000004,-80.19058869999999
+20,Condo/Co-op,1200 Brickell Bay Dr #2204,Miami,FL,33131.0,289000,1,1.0,825.0,,2004,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2204/home/43320261,25.761803600000004,-80.19058869999999
+21,Condo/Co-op,1200 Brickell Bay Dr #4119,Miami,FL,33131.0,289000,1,1.0,825.0,,2005,570.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4119/home/43319476,25.761803600000004,-80.19058869999999
+22,Condo/Co-op,1200 Brickell Bay Dr #2012,Miami,FL,33131.0,299000,1,1.0,818.0,,2004,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2012/home/43318332,25.761803600000004,-80.19058869999999
+23,Condo/Co-op,1200 Brickell Bay Dr #3412,Miami,FL,33131.0,278000,1,1.0,818.0,,2005,579.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3412/home/43312850,25.761803600000004,-80.19058869999999
+24,Condo/Co-op,1200 Brickell Bay Dr #4010,Miami,FL,33131.0,220000,0,1.0,425.0,,2005,301.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4010/home/43318886,25.761803600000004,-80.19058869999999
+25,Condo/Co-op,186 SE 12th Ter Ph 2,Miami,FL,33131.0,389000,2,2.0,1015.0,,2006,963.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-2/home/112892306,25.7613322,-80.1906014
+26,Condo/Co-op,1395 Brickell Ave #3101,Miami,FL,33131.0,555000,2,2.0,1286.0,,2003,,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-3101/home/43318385,25.760340399999997,-80.1920171
+27,Condo/Co-op,1395 Brickell Ave #3007,Miami,FL,33131.0,425000,1,1.5,966.0,,2003,841.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-3007/home/43317634,25.760340399999997,-80.1920171
+28,Single Family Residential,1395 SE Brickell Ave #2908,Miami,FL,33131.0,599900,2,2.0,1256.0,,2003,916.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2908/home/43312589,25.760340399999997,-80.1920171
+29,Condo/Co-op,1395 Brickell Ave #2904,Miami,FL,33131.0,285000,0,1.0,481.0,,2003,349.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2904/home/43319416,25.760340399999997,-80.1920171
+30,Condo/Co-op,1395 Brickell Ave #2806,Miami,FL,33131.0,639000,2,2.0,1363.0,,2004,995.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2806/home/43441899,25.760340399999997,-80.1920171
+31,Condo/Co-op,,Miami,FL,33131.0,385000,1,1.0,829.0,,2003,628.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43318635,25.760340399999997,-80.1920171
+32,Condo/Co-op,1395 Brickell Ave #2604,Miami,FL,33131.0,360000,1,1.0,829.0,,2003,628.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2604/home/43302885,25.760340399999997,-80.1920171
+33,Condo/Co-op,1395 Brickell Ave #2805,Miami,FL,33131.0,384555,1,1.0,827.0,,2003,604.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-2805/home/43320914,25.760340399999997,-80.1920171
+34,Condo/Co-op,1395 Brickell Ave #3306,Miami,FL,33131.0,695000,2,2.0,1239.0,,2003,998.0,http://www.redfin.com/FL/Miami/1395-Brickell-Ave-33131/unit-3306/home/43310890,25.760340399999997,-80.1920171
+35,Condo/Co-op,1080 Brickell Ave #1801,Miami,FL,33131.0,590000,2,2.0,1134.0,,2016,1100.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1801/home/56743329,25.762840100000002,-80.19265949999999
+36,Condo/Co-op,1080 Brickell Ave #2104,Miami,FL,33131.0,459000,1,1.0,828.0,,2016,736.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2104/home/56743352,25.762840100000002,-80.19265949999999
+37,Condo/Co-op,1080 Brickell Ave #1906,Miami,FL,33131.0,389900,1,1.5,906.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1906/home/56743171,25.762840100000002,-80.19265949999999
+38,Condo/Co-op,1080 Brickell Ave #1601,Miami,FL,33131.0,615000,2,2.0,1134.0,,2016,1006.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1601/home/56743327,25.762840100000002,-80.19265949999999
+39,Condo/Co-op,1080 Brickell Ave #313,Miami,FL,33131.0,470000,1,1.5,1078.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-313/home/56743087,25.762840100000002,-80.19265949999999
+40,Condo/Co-op,1080 Brickell Ave #911,Miami,FL,33131.0,400000,1,1.5,727.0,,2016,872.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-911/home/56743036,25.762840100000002,-80.19265949999999
+41,Condo/Co-op,1080 Brickell Ave #1503,Miami,FL,33131.0,425000,1,1.0,,,2016,630.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1503/home/56743398,25.762840100000002,-80.19265949999999
+42,Condo/Co-op,1080 Brickell Ave #4204,Miami,FL,33131.0,497000,1,1.5,830.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-4204/home/56743196,25.762840100000002,-80.19265949999999
+43,Condo/Co-op,1080 Brickell Ave #3405,Miami,FL,33131.0,310000,0,1.0,528.0,,2016,427.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3405/home/56743215,25.762840100000002,-80.19265949999999
+44,Condo/Co-op,1080 Brickell Ave #1800,Miami,FL,33131.0,600000,2,2.0,1129.0,,2016,1238.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1800/home/168027363,25.762840100000002,-80.19265949999999
+45,Condo/Co-op,1080 Brickell #1603,Miami,FL,33131.0,435000,1,1.0,796.0,,2016,604.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1603/home/56743383,25.762840100000002,-80.19265949999999
+46,Condo/Co-op,1080 Brickell Ave #3707,Miami,FL,33131.0,399000,1,1.0,783.0,,2016,605.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3707/home/56743225,25.762840100000002,-80.19265949999999
+47,Condo/Co-op,1080 Brickell Ave #3309,Miami,FL,33131.0,595000,2,2.0,1134.0,,2016,1200.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3309/home/56743042,25.762840100000002,-80.19265949999999
+48,Condo/Co-op,1080 Brickell Ave #4002,Miami,FL,33130.0,489500,1,1.5,830.0,,2016,645.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-4002/home/56743307,25.762840100000002,-80.19265949999999
+49,Condo/Co-op,1080 Brickell Ave #2005,Miami,FL,33131.0,298000,0,1.0,558.0,,2016,150.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2005/home/56743202,25.762840100000002,-80.19265949999999
+50,Condo/Co-op,1080 Brickell Ave #2803,Miami,FL,33131.0,445000,1,1.0,748.0,,2016,630.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2803/home/56743412,25.762840100000002,-80.19265949999999
+51,Condo/Co-op,1080 Brickell Ave #505,Miami,FL,33131.0,495000,1,1.5,1028.0,,2016,1000.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-505/home/56743192,25.762840100000002,-80.19265949999999
+52,Condo/Co-op,1080 Brickell Ave #709,Miami,FL,33131.0,454900,1,1.5,967.0,,2016,631.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-709/home/56743247,25.762840100000002,-80.19265949999999
+53,Condo/Co-op,1080 Brickell Ave #1103,Miami,FL,33131.0,379500,1,1.5,727.0,,2016,797.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1103/home/56743396,25.762840100000002,-80.19265949999999
+54,Condo/Co-op,1080 Brickell Ave #1605,Miami,FL,33131.0,298000,0,1.0,507.0,,2016,556.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1605/home/56743206,25.762840100000002,-80.19265949999999
+55,Condo/Co-op,1080 Brickell Ave #307,Miami,FL,33131.0,399000,1,1.5,950.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-307/home/56743259,25.762840100000002,-80.19265949999999
+56,Condo/Co-op,1080 Brickell Ave #3607,Miami,FL,33131.0,387000,1,1.0,748.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3607/home/56743226,25.762840100000002,-80.19265949999999
+57,Condo/Co-op,1080 Brickell Ave #2706,Miami,FL,33131.0,460000,1,1.5,906.0,,2016,994.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2706/home/56743180,25.762840100000002,-80.19265949999999
+58,Condo/Co-op,1080 Brickell Ave #2307,Miami,FL,33131.0,2450,1,1.0,748.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2307/home/56743274,25.762840100000002,-80.19265949999999
+59,Condo/Co-op,1080 Brickell Ave #703,Miami,FL,33131.0,395000,1,1.5,727.0,,2016,797.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-703/home/56743394,25.762840100000002,-80.19265949999999
+60,Condo/Co-op,1080 Brickell Ave #3006,Miami,FL,33131.0,1150000,3,3.0,1593.0,,2016,1747.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3006/home/56743175,25.762840100000002,-80.19265949999999
+61,Condo/Co-op,1080 Brickell Ave #1600,Miami,FL,33131.0,575000,2,2.0,1129.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1600/home/56742773,25.762840100000002,-80.19265949999999
+62,Condo/Co-op,1080 Brickell Ave #3801,Miami,FL,33131.0,699000,2,2.0,1134.0,,2016,1006.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-3801/home/56743342,25.762840100000002,-80.19265949999999
+63,Condo/Co-op,1080 Brickell Ave #701,Miami,FL,33131.0,459000,1,1.5,1080.0,,2016,950.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-701/home/56743430,25.762840100000002,-80.19265949999999
+64,Condo/Co-op,1080 Brickell Ave #1901,Miami,FL,33131.0,595000,2,2.0,1134.0,,2016,1006.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1901/home/56743330,25.762840100000002,-80.19265949999999
+65,Condo/Co-op,1080 Brickell Ave #1700,Miami,FL,33131.0,615000,2,2.0,1129.0,,2016,999.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1700/home/56742746,25.762840100000002,-80.19265949999999
+66,Condo/Co-op,1080 Brickell Ave #2202,Miami,FL,33131.0,485000,1,1.0,783.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2202/home/56743294,25.762840100000002,-80.19265949999999
+67,Condo/Co-op,1080 Brickell Ave #1504,Miami,FL,33131.0,349000,1,1.0,770.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1504/home/56743366,25.762840100000002,-80.19265949999999
+68,Condo/Co-op,1080 Brickell Ave #711,Miami,FL,33131.0,399900,1,1.5,727.0,,2016,760.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-711/home/56743037,25.762840100000002,-80.19265949999999
+69,Condo/Co-op,1080 Brickell Ave #1804,Miami,FL,33131.0,344000,1,1.0,770.0,,2016,,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-1804/home/56743353,25.762840100000002,-80.19265949999999
+70,Condo/Co-op,186 SE 12th Ter #1805,Miami,FL,33131.0,365000,2,2.0,1145.0,,2006,856.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-1805/home/43354094,25.76126,-80.19040190000001
+71,Condo/Co-op,,Miami,FL,33131.0,319000,2,2.0,1064.0,,2006,988.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43365755,25.76126,-80.19040190000001
+72,Condo/Co-op,186 SE 12th Ter #704,Miami,FL,33131.0,359900,2,2.0,1145.0,,2006,8.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-704/home/43351230,25.76126,-80.19040190000001
+73,Condo/Co-op,186 SE 12th Ter #708,Miami,FL,,249000,1,1.0,754.0,,2006,546.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-708/home/43369087,25.76126,-80.19040190000001
+74,Condo/Co-op,186 SE 12th Ter #1005,Miami,FL,33131.0,339000,2,2.0,1145.0,,2006,,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-1005/home/43369106,25.76126,-80.19040190000001
+75,Condo/Co-op,186 SE 12th Ter #2102,Miami,FL,33131.0,345000,2,2.0,1064.0,,2006,805.0,http://www.redfin.com/FL/Miami/186-SE-12th-Ter-33131/unit-2102/home/43361619,25.76126,-80.19040190000001
+76,Condo/Co-op,1200 Brickell Bay Dr #2818,Miami,FL,33131.0,284900,1,1.0,825.0,,2005,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2818/home/43313424,25.7617019,-80.190318
+77,Condo/Co-op,1200 Brickell Bay Dr #3603,Miami,FL,33131.0,290000,1,1.0,825.0,,2005,562.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-3603/home/43320159,25.7617019,-80.190318
+78,Condo/Co-op,1200 Brickell Bay Dr #2116,Miami,FL,33131.0,217500,0,1.0,425.0,,2004,301.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2116/home/43319418,25.7617019,-80.190318
+79,Condo/Co-op,1200 Brickell Bay Dr #2601,Miami,FL,33131.0,420000,2,2.0,1105.0,,2004,783.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2601/home/43313647,25.7617019,-80.190318
+80,Condo/Co-op,1200 Brickell Bay Dr #1620,Miami,FL,33131.0,282000,1,1.0,825.0,,2004,585.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1620/home/43312932,25.7617019,-80.190318
+81,Condo/Co-op,1200 Brickell Bay Dr #4012,Miami,FL,33131.0,285000,1,1.0,818.0,,2005,579.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-4012/home/43440434,25.7617019,-80.190318
+82,Condo/Co-op,1200 Brickell Bay Dr #2815,Miami,FL,33131.0,379000,2,2.0,1030.0,,2005,729.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2815/home/43434962,25.7617019,-80.190318
+83,Condo/Co-op,1200 Brickell Bay Dr #2114,Miami,FL,33131.0,275000,1,1.0,818.0,,2004,,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-2114/home/43320382,25.7617019,-80.190318
+84,Condo/Co-op,1200 Brickell Bay Dr #1821,Miami,FL,33131.0,289000,1,1.0,825.0,,2004,584.0,http://www.redfin.com/FL/Miami/1200-Brickell-Bay-Dr-33131/unit-1821/home/43304453,25.7617019,-80.190318
+85,Condo/Co-op,1080 Brickell #2702,Miami,FL,33131.0,480000,1,1.5,905.0,,2016,679.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-2702/home/56743287,25.7629963,-80.19275350000001
+86,Condo/Co-op,1080 Brickell Ave #4104,Miami,FL,33131.0,496900,1,1.5,,,2016,930.0,http://www.redfin.com/FL/Miami/1080-Brickell-Ave-33131/unit-4104/home/56743371,25.7629963,-80.19275350000001
+87,Condo/Co-op,1060 Brickell Ave #3111,Miami,FL,33131.0,389000,2,2.0,1088.0,,2008,744.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-3111/home/42676195,25.7632794,-80.1921952
+88,Condo/Co-op,1060 Brickell Ave #4503,Miami,FL,33131.0,1350000,3,3.5,2525.0,,2008,1663.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4503/home/43405484,25.7632794,-80.1921952
+89,Condo/Co-op,1050 Brickell Ave #2818,Miami,FL,33131.0,320000,1,1.5,1128.0,,2008,827.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2818/home/43414296,25.7632794,-80.1921952
+90,Condo/Co-op,1050 W Brickell Ave #208,Miami,FL,33131.0,311000,1,1.5,1066.0,,2008,,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-208/home/43396644,25.7632794,-80.1921952
+91,Condo/Co-op,1060 Brickell Ave #415,Miami,FL,33131.0,395000,1,1.5,1053.0,,2008,700.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-415/home/43415994,25.7632794,-80.1921952
+92,Condo/Co-op,1060 Brickell Ave #211,Miami,FL,33131.0,300000,1,2.0,1147.0,,2008,717.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-211/home/43398182,25.7632794,-80.1921952
+93,Condo/Co-op,1060 Brickell Ave #2213,Miami,FL,,310000,1,1.0,945.0,,2008,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-2213/home/42676217,25.7632794,-80.1921952
+94,Condo/Co-op,1050 Brickell Ave #3504,Miami,FL,33131.0,1500000,3,3.5,2238.0,,2008,900.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-3504/home/43469603,25.7632794,-80.1921952
+95,Condo/Co-op,1060 Brickell Ave #413,Miami,FL,33131.0,570000,2,2.0,1440.0,,2008,950.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-413/home/42676210,25.7632794,-80.1921952
+96,Condo/Co-op,1060 Brickell Ave #1805,Miami,FL,33131.0,360000,1,1.5,963.0,,2008,655.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1805/home/43401489,25.7632794,-80.1921952
+97,Condo/Co-op,1050 Brickell Ave #2508,Miami,FL,33131.0,295000,1,1.0,731.0,,2008,,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2508/home/43414137,25.7632794,-80.1921952
+98,Condo/Co-op,1060 Brickell Ave #2207,Miami,FL,33131.0,360000,2,2.0,1088.0,,2008,744.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-2207/home/43405532,25.7632794,-80.1921952
+99,Condo/Co-op,1060 Brickell Ave #3007,Miami,FL,33131.0,395000,2,2.0,1088.0,,2008,744.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-3007/home/43414515,25.7632794,-80.1921952
+100,Condo/Co-op,1050 Brickell Ave #2216,Miami,FL,33131.0,295000,1,1.5,1128.0,,2008,,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2216/home/42678365,25.7632794,-80.1921952
+101,Condo/Co-op,1060 Brickell Ave #4303,Miami,FL,33131.0,899000,3,2.5,1765.0,,2008,1219.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4303/home/43424503,25.7632794,-80.1921952
+102,Condo/Co-op,1060 Brickell Ave #1411,Miami,FL,33131.0,399000,2,2.0,,,2008,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1411/home/43444666,25.7632794,-80.1921952
+103,Condo/Co-op,1060 Brickell Ave #3209,Miami,FL,33131.0,275000,0,1.0,551.0,,2008,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-3209/home/43440994,25.7632794,-80.1921952
+104,Condo/Co-op,1060 Brickell Ave #409,Miami,FL,33131.0,299999,1,1.5,982.0,,2008,642.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-409/home/43405522,25.7632794,-80.1921952
+105,Condo/Co-op,1060 Brickell Ave #2603,Miami,FL,33131.0,345000,1,1.5,963.0,,2008,640.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-2603/home/43408009,25.7632794,-80.1921952
+106,Condo/Co-op,1050 Brickell Ave #1012,Miami,FL,33131.0,328900,1,2.0,1000.0,,2008,693.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-1012/home/43405143,25.7632794,-80.1921952
+107,Condo/Co-op,1060 Brickell Ave #4407,Miami,FL,33131.0,875000,3,3.0,1867.0,,2008,1223.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4407/home/43469997,25.7632794,-80.1921952
+108,Condo/Co-op,1050 Brickell Ave #1414,Miami,FL,33131.0,399999,2,2.5,1278.0,,2008,828.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-1414/home/43473310,25.7632794,-80.1921952
+109,Condo/Co-op,1050 Brickell Ave #1804,Miami,FL,33131.0,289000,1,1.0,731.0,,2008,496.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-1804/home/43398091,25.7632794,-80.1921952
+110,Condo/Co-op,1060 Brickell Ave #403,Miami,FL,33131.0,620000,2,2.0,1440.0,,2008,947.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-403/home/43398049,25.7632794,-80.1921952
+111,Condo/Co-op,1060 Brickell Ave #4507,Miami,FL,33131.0,1395000,3,3.5,2564.0,,2008,1663.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-4507/home/43405513,25.7632794,-80.1921952
+112,Condo/Co-op,1050 Brickell #2320,Miami,FL,33131.0,440000,2,2.0,,,2008,5627.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2320/home/43405838,25.7632794,-80.1921952
+113,Condo/Co-op,,Miami,FL,33131.0,409000,1,1.5,1167.0,,2008,845.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/43398351,25.7632794,-80.1921952
+114,Condo/Co-op,1050 Brickell Ave #2510,Miami,FL,33131.0,315000,1,1.0,843.0,,2008,2517.0,http://www.redfin.com/FL/Miami/1050-Brickell-Ave-33131/unit-2510/home/43469632,25.7632794,-80.1921952
+115,Condo/Co-op,1060 Brickell Ave #1013,Miami,FL,33131.0,515000,2,2.0,1440.0,,2008,947.0,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1013/home/43398207,25.763279500000003,-80.1921953
+116,Condo/Co-op,1060 Brickell Ave #1205,Miami,FL,33131.0,314900,1,1.0,963.0,,2008,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1205/home/43413960,25.763279500000003,-80.1921953
+117,Condo/Co-op,1060 Brickell Ave #1209,Miami,FL,33131.0,335000,1,1.0,1088.0,,2008,,http://www.redfin.com/FL/Miami/1060-Brickell-Ave-33131/unit-1209/home/43405508,25.763279500000003,-80.1921953
+118,Condo/Co-op,1250 S Miami Ave #1009,Miami,FL,33130.0,289000,1,1.5,783.0,,2004,495.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1009/home/43336676,25.762099399999997,-80.1935558
+119,Condo/Co-op,1250 S Miami Ave #1008,Miami,FL,33130.0,280000,1,1.5,838.0,,2004,529.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1008/home/43474742,25.762099399999997,-80.1935558
+120,Condo/Co-op,1250 S Miami Ave #1106,Miami,FL,33130.0,354900,2,2.0,1143.0,,2004,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1106/home/43328805,25.762099399999997,-80.1935558
+121,Condo/Co-op,,Miami,FL,33130.0,270000,1,1.5,,,2004,521.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33130/home/43344187,25.762099399999997,-80.1935558
+122,Condo/Co-op,1250 S Miami Ave #1509,Miami,FL,33130.0,264900,1,1.5,783.0,,2004,496.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1509/home/43434839,25.762099399999997,-80.1935558
+123,Condo/Co-op,1250 S Miami Ave #813,Miami,FL,33130.0,268000,1,1.5,737.0,,2004,529.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-813/home/43345210,25.762099399999997,-80.1935558
+124,Condo/Co-op,1250 S Miami #1013,Miami,FL,33130.0,250000,1,1.0,737.0,,2004,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1013/home/43441773,25.762099399999997,-80.1935558
+125,Condo/Co-op,1250 S Miami Ave #2106,Miami,FL,33130.0,420000,2,2.0,1143.0,,2004,748.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2106/home/43336681,25.762099399999997,-80.1935558
+126,Condo/Co-op,1250 S Miami Ave #1307,Miami,FL,33130.0,259900,1,1.5,,,2004,533.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1307/home/43470277,25.762099399999997,-80.1935558
+127,Condo/Co-op,1250 S Miami Ave #1201,Miami,FL,33130.0,400000,2,2.0,1255.0,,2004,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1201/home/43321251,25.762099399999997,-80.1935558
+128,Condo/Co-op,1250 S Miami Ave #904,Miami,FL,33130.0,344900,2,2.0,1023.0,,2004,604.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-904/home/43338170,25.762099399999997,-80.1935558
+129,Condo/Co-op,1703 Unit 1703,Miami,FL,33130.0,424900,1,1.0,583.0,,2020,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1703/home/43336310,25.762099399999997,-80.1935558
+130,Condo/Co-op,1250 S Miami Ave #1011,Miami,FL,33130.0,245000,1,1.5,796.0,,2004,510.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1011/home/43330196,25.762099399999997,-80.1935558
+131,Condo/Co-op,1250 S Miami Ave #2201,Miami,FL,33130.0,398000,2,2.0,,,2004,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2201/home/43341363,25.762099399999997,-80.1935558
+132,Condo/Co-op,1250 S Miami #1515,Miami,FL,33130.0,327900,2,2.0,,,2004,780.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1515/home/43336887,25.762099399999997,-80.1935558
+133,Condo/Co-op,1250 S Miami Ave #1513,Miami,FL,33130.0,274000,1,1.5,737.0,,2004,589.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1513/home/43329312,25.762099399999997,-80.1935558
+134,Condo/Co-op,1250 S Miami Ave #2112,Miami,FL,33130.0,279000,1,1.5,,,2004,570.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2112/home/43329791,25.762099399999997,-80.1935558
+135,Condo/Co-op,1250 S Miami Ave #2102,Miami,FL,33130.0,427000,2,2.0,1322.0,,2004,748.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2102/home/43345714,25.762099399999997,-80.1935558
+136,Condo/Co-op,1250 S Miami Ave #1502,Miami,FL,33130.0,415000,2,2.0,1322.0,,2004,866.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1502/home/43336322,25.762099399999997,-80.1935558
+137,Condo/Co-op,1250 S Miami Ave #1714,Miami,FL,33130.0,395000,2,2.0,1149.0,,2004,726.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1714/home/43334786,25.762099399999997,-80.1935558
+138,Condo/Co-op,1250 S Miami Ave #1102,Miami,FL,33130.0,418000,2,2.0,,,2004,748.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1102/home/43329329,25.762099399999997,-80.1935558
+139,Condo/Co-op,1250 S Miami Ave #1604,Miami,FL,33130.0,339000,2,2.0,1023.0,,2004,,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-1604/home/43387859,25.762099399999997,-80.1935558
+140,Condo/Co-op,1250 S Miami Ave #908,Miami,FL,33130.0,250000,1,1.5,,,2004,529.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-908/home/43329306,25.762099399999997,-80.1935558
+141,Condo/Co-op,1250 S Miami Ave #2211,Miami,FL,33130.0,275000,1,1.5,796.0,,2004,495.0,http://www.redfin.com/FL/Miami/1250-S-Miami-Ave-33130/unit-2211/home/43345146,25.762099399999997,-80.1935558
+142,Condo/Co-op,Panoramic Unit 5,Miami,FL,33131.0,2137900,2,3.5,1774.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-5/home/170883914,25.7631148,-80.1905463
+143,Condo/Co-op,Panoramic Unit 1,Miami,FL,33131.0,5312900,5,5.5,3758.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-1/home/170883922,25.7631148,-80.1905463
+144,Condo/Co-op,Panoramic Unit 3,Miami,FL,33131.0,2660900,3,4.5,3075.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-3/home/170883919,25.7631148,-80.1905463
+145,Condo/Co-op,Panoramic Unit 7,Miami,FL,33131.0,2312900,3,5.5,2985.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-7/home/170883907,25.7631148,-80.1905463
+146,Condo/Co-op,Panoramic Unit 4,Miami,FL,33131.0,3097900,4,5.5,3536.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-4/home/170883918,25.7631148,-80.1905463
+147,Condo/Co-op,Panoramic Unit 2,Miami,FL,33131.0,2648900,3,3.5,2422.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-2/home/170883920,25.7631148,-80.1905463
+148,Condo/Co-op,Panoramic Unit 6,Miami,FL,33131.0,1478900,1,1.5,1001.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-6/home/170883911,25.7631148,-80.1905463
+149,Condo/Co-op,Panoramic Unit 9,Miami,FL,33131.0,1406900,2,2.5,1571.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-9/home/170883891,25.7631148,-80.1905463
+150,Condo/Co-op,Panoramic Unit 8,Miami,FL,33131.0,961900,1,1.5,828.0,,2020,,http://www.redfin.com/FL/Miami/1100-Brickell-Bay-Dr-33131/unit-8/home/170883893,25.7631148,-80.1905463
+151,Condo/Co-op,1300 Brickell Bay Dr #2503,Miami,FL,33131.0,618000,2,2.0,997.0,,2014,1007.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2503/home/55273269,25.7603908,-80.19034649999999
+152,Condo/Co-op,1300 Brickell Bay Dr #1900,Miami,FL,33131.0,249000,0,1.0,420.0,,2014,423.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1900/home/55273285,25.7603908,-80.19034649999999
+153,Condo/Co-op,1300 Brickell Bay Dr #3105,Miami,FL,33131.0,625000,2,2.0,1076.0,,2014,1028.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3105/home/55273038,25.7603908,-80.19034649999999
+154,Condo/Co-op,1300 Brickell Bay Dr #2807,Miami,FL,33131.0,389000,1,1.0,696.0,,2014,705.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2807/home/55272924,25.7603908,-80.19034649999999
+155,Condo/Co-op,1300 Brickell Bay Dr #4401,Miami,FL,33131.0,5999000,6,7.5,6521.0,,2014,6972.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-4401/home/55272967,25.7603908,-80.19034649999999
+156,Condo/Co-op,1300 Brickell Bay Dr #2901,Miami,FL,33131.0,454500,2,2.5,969.0,,2014,941.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2901/home/55273010,25.7603908,-80.19034649999999
+157,Condo/Co-op,1300 Brickell Bay Dr #1613,Miami,FL,33131.0,225000,0,1.0,355.0,,2014,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1613/home/55272839,25.7603908,-80.19034649999999
+158,Condo/Co-op,1300 Brickell Bay Dr #3705,Miami,FL,33131.0,590000,2,2.5,1153.0,,2014,1100.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3705/home/55272951,25.7603908,-80.19034649999999
+159,Condo/Co-op,1300 Brickell Bay Dr #2511,Miami,FL,33131.0,359900,1,1.5,653.0,,2014,635.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2511/home/55272855,25.7603908,-80.19034649999999
+160,Condo/Co-op,1300 Brickell Bay Dr #2803,Miami,FL,33131.0,815000,2,2.0,1139.0,,2014,1007.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2803/home/55273270,25.7603908,-80.19034649999999
+161,Condo/Co-op,1300 Brickell Bay Dr #3005,Miami,FL,33131.0,620000,2,2.0,1076.0,,2014,1028.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3005/home/55273041,25.7603908,-80.19034649999999
+162,Condo/Co-op,1300 Brickell Bay Dr #3400,Miami,FL,33131.0,450000,1,1.5,965.0,,2014,855.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3400/home/55273015,25.7603908,-80.19034649999999
+163,Condo/Co-op,1300 Brickell Bay Dr #2509,Miami,FL,33131.0,559000,2,2.0,997.0,,2014,1000.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2509/home/55272827,25.7603908,-80.19034649999999
+164,Condo/Co-op,1300 Brickell Bay Dr #910,Miami,FL,33131.0,325000,1,1.5,644.0,,2014,708.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-910/home/55273203,25.7603908,-80.19034649999999
+165,Condo/Co-op,1300 Brickell Bay Dr #3503,Miami,FL,33131.0,580000,2,2.0,1076.0,,2014,1044.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3503/home/55272985,25.7603908,-80.19034649999999
+166,Condo/Co-op,1300 Brickell Bay Dr #2408,Miami,FL,33131.0,330000,1,1.5,701.0,,2014,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2408/home/55272914,25.7603908,-80.19034649999999
+167,Condo/Co-op,1300 Brickell Bay Dr #1811,Miami,FL,33131.0,335000,1,1.5,653.0,,2014,635.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1811/home/55272813,25.7603908,-80.19034649999999
+168,Condo/Co-op,1300 Brickell Bay Dr #1711,Miami,FL,33131.0,345000,1,1.5,653.0,,2014,659.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1711/home/55272812,25.7603908,-80.19034649999999
+169,Condo/Co-op,1300 Brickell Bay Dr #2304,Miami,FL,33131.0,360000,1,1.5,701.0,,2014,708.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2304/home/55272890,25.7603908,-80.19034649999999
+170,Condo/Co-op,1300 S Miami Ave #4301,Miami,FL,33130.0,790000,2,2.0,1279.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4301/home/56742532,25.7613319,-80.19377420000001
+171,Condo/Co-op,1300 S Miami Ave #2207,Miami,FL,33130.0,380000,1,1.0,570.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2207/home/56742858,25.7613319,-80.19377420000001
+172,Condo/Co-op,1300 S Miami Ave #1206,Miami,FL,33130.0,630000,3,2.5,1154.0,,2016,850.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1206/home/56742557,25.7613319,-80.19377420000001
+173,Condo/Co-op,1300 S Miami Ave #3005,Miami,FL,33130.0,830000,3,2.5,1505.0,,2016,634.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3005/home/56742583,25.7613319,-80.19377420000001
+174,Condo/Co-op,1300 S Miami Ave #4202,Miami,FL,33130.0,695000,2,2.0,1332.0,,2016,900.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4202/home/56742440,25.7613319,-80.19377420000001
+175,Condo/Co-op,1300 S Miami Ave #2111,Miami,FL,33130.0,595000,2,2.0,868.0,,2017,805.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2111/home/56742721,25.7613319,-80.19377420000001
+176,Condo/Co-op,1300 S Miami Ave Ph 5205,Miami,FL,33130.0,1670000,3,3.5,2117.0,,2016,750.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5205/home/56742782,25.7613319,-80.19377420000001
+177,Condo/Co-op,1300 S Miami Ave #1705,Miami,FL,33130.0,990000,2,2.5,1281.0,,2016,1091.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1705/home/56742661,25.7613319,-80.19377420000001
+178,Condo/Co-op,1300 S Miami Ave #2809,Miami,FL,33130.0,565000,2,2.5,961.0,,2016,477.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2809/home/56742902,25.7613319,-80.19377420000001
+179,Condo/Co-op,1300 S Miami Ave #1907,Miami,FL,33130.0,375000,1,1.0,570.0,,2016,487.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1907/home/56742860,25.7613319,-80.19377420000001
+180,Condo/Co-op,1300 S Miami Ave #3908,Miami,FL,33130.0,369000,1,1.5,649.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3908/home/56742795,25.7613319,-80.19377420000001
+181,Condo/Co-op,1300 S Miami Ave #3504,Miami,FL,33130.0,590000,1,1.0,699.0,,2016,695.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3504/home/56742674,25.7613319,-80.19377420000001
+182,Condo/Co-op,1300 S Miami Ave #4805,Miami,FL,33130.0,935000,3,2.5,1281.0,,2016,926.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4805/home/56742562,25.7613319,-80.19377420000001
+183,Condo/Co-op,1300 S Miami Ave #2206,Miami,FL,33130.0,720000,3,2.5,1154.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2206/home/56742615,25.7613319,-80.19377420000001
+184,Condo/Co-op,1300 S Miami Ave #2311,Miami,FL,33130.0,535000,2,2.0,868.0,,2016,629.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2311/home/56742702,25.7613319,-80.19377420000001
+185,Condo/Co-op,1300 S Miami Ave Ph 5009,Miami,FL,33130.0,590000,2,2.5,997.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5009/home/56742788,25.7613319,-80.19377420000001
+186,Condo/Co-op,1300 S Miami Ave #2204,Miami,FL,33130.0,458999,1,1.0,699.0,,2016,100.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2204/home/56742630,25.7613319,-80.19377420000001
+187,Condo/Co-op,1300 S Miami Ave #4304,Miami,FL,33130.0,430000,1,1.0,699.0,,2016,595.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4304/home/56742666,25.7613319,-80.19377420000001
+188,Condo/Co-op,1300 S Miami Ave #1808,Miami,FL,33130.0,459000,1,1.5,,,2017,471.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1808/home/56742813,25.7613319,-80.19377420000001
+189,Condo/Co-op,1300 S Miami Ave #2309,Miami,FL,33130.0,550000,2,2.5,961.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2309/home/56742915,25.7613319,-80.19377420000001
+190,Condo/Co-op,1300 S Miami Ave #3907,Miami,FL,33130.0,395000,1,1.0,570.0,,2016,488.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3907/home/56742831,25.7613319,-80.19377420000001
+191,Condo/Co-op,1300 S Miami Ave #1905,Miami,FL,33130.0,930000,3,2.5,,,2016,1091.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1905/home/56742651,25.7613319,-80.19377420000001
+192,Condo/Co-op,1300 S Miami Ave #2601,Miami,FL,33130.0,799000,2,2.0,1279.0,,2016,926.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2601/home/56742542,25.7613319,-80.19377420000001
+193,Condo/Co-op,1300 S Miami Ave #3903,Miami,FL,33130.0,520000,1,2.0,880.0,,2016,752.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3903/home/56742642,25.7613319,-80.19377420000001
+194,Condo/Co-op,1300 S Miami Ave #4104,Miami,FL,33130.0,599000,1,1.0,699.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4104/home/56742668,25.7613319,-80.19377420000001
+195,Condo/Co-op,1300 S Miami Ave #2401,Miami,FL,33130.0,935000,2,2.0,962.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2401/home/56742544,25.7613319,-80.19377420000001
+196,Condo/Co-op,1300 S Miami Ave #2508,Miami,FL,33130.0,445000,1,1.5,649.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2508/home/56742805,25.7613319,-80.19377420000001
+197,Condo/Co-op,1300 S Miami Ave #4302,Miami,FL,33130.0,790000,2,2.0,1088.0,,2016,900.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4302/home/56742443,25.7613319,-80.19377420000001
+198,Condo/Co-op,1300 S Miami Ph 5010,Miami,FL,33130.0,1699000,3,2.5,1845.0,,2017,1253.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5010/home/56742761,25.7613319,-80.19377420000001
+199,Condo/Co-op,1300 S Miami Ave #1811,Miami,FL,33130.0,542000,2,2.0,868.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1811/home/56742726,25.7613319,-80.19377420000001
+200,Condo/Co-op,1300 Miami Ave #2609,Miami,FL,33130.0,590000,2,2.5,1115.0,,2017,810.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2609/home/56742912,25.7613319,-80.19377420000001
+201,Condo/Co-op,1300 S Miami Ave #4502,Miami,FL,33130.0,940000,2,2.0,1332.0,,2016,789.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4502/home/56742486,25.7613319,-80.19377420000001
+202,Condo/Co-op,1300 S Miami Ave #1509,Miami,FL,33130.0,549000,2,2.5,961.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1509/home/56742922,25.7613319,-80.19377420000001
+203,Condo/Co-op,1300 S Miami Ave Ph 4909,Miami,FL,33130.0,649000,2,2.5,997.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4909/home/56742789,25.7613319,-80.19377420000001
+204,Condo/Co-op,1300 S Miami Ave #1101,Miami,FL,33130.0,719000,2,2.0,1279.0,,2016,1093.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1101/home/56742497,25.7613319,-80.19377420000001
+205,Condo/Co-op,1300 S Miami Ave #3408,Miami,FL,33130.0,450000,1,1.5,649.0,,2016,470.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3408/home/56742796,25.7613319,-80.19377420000001
+206,Condo/Co-op,1300 S Miami Ave #4001,Miami,FL,33130.0,840000,2,2.0,1279.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4001/home/56742527,25.7613319,-80.19377420000001
+207,Condo/Co-op,1300 S Miami Ave #3401,Miami,FL,33130.0,835000,2,2.0,1279.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3401/home/56742550,25.7613319,-80.19377420000001
+208,Condo/Co-op,1300 S Miami Ave #4711,Miami,FL,33131.0,685000,2,2.0,868.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4711/home/56742693,25.7613319,-80.19377420000001
+209,Condo/Co-op,1300 S Miami Ave #2003,Miami,FL,33130.0,554000,1,2.0,995.0,,2016,752.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2003/home/56742491,25.7613319,-80.19377420000001
+210,Condo/Co-op,1300 S Miami Ave #2901,Miami,FL,33130.0,739000,2,2.0,1279.0,,2016,936.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2901/home/56742545,25.7613319,-80.19377420000001
+211,Condo/Co-op,1300 S Miami Ave #4703,Miami,FL,33130.0,490000,1,2.0,880.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4703/home/56742634,25.7613319,-80.19377420000001
+212,Condo/Co-op,1300 S Miami Ave Ph 5103,Miami,FL,33130.0,1500000,3,3.5,2086.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5103/home/56742779,25.7613319,-80.19377420000001
+213,Condo/Co-op,1300 S Miami Ave #2506,Miami,FL,33130.0,795000,3,2.5,1154.0,,2016,800.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2506/home/56742612,25.7613319,-80.19377420000001
+214,Condo/Co-op,1300 S Miami Ave #1908,Miami,FL,33130.0,365000,1,1.5,649.0,,2016,567.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1908/home/56742814,25.7613319,-80.19377420000001
+215,Condo/Co-op,1300 S Miami Ave #1502,Miami,FL,33130.0,800000,2,2.0,1088.0,,2016,800.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1502/home/56742454,25.7613319,-80.19377420000001
+216,Condo/Co-op,1300 S Miami Ave #3702,Miami,FL,33130.0,855000,2,2.0,1088.0,,2017,789.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-3702/home/56742445,25.7613319,-80.19377420000001
+217,Condo/Co-op,1300 S Miami Ave #1707,Miami,FL,33130.0,345000,1,1.0,,,2016,567.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1707/home/56742864,25.7613319,-80.19377420000001
+218,Condo/Co-op,1300 S Miami Ave #1610,Miami,FL,33130.0,618888,2,2.0,1155.0,,2016,950.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1610/home/56742878,25.7613319,-80.19377420000001
+219,Condo/Co-op,1300 S Miami Ave #2103,Miami,FL,33130.0,535000,1,2.0,880.0,,2016,638.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2103/home/56742488,25.7613319,-80.19377420000001
+220,Condo/Co-op,1300 S Miami Ave #4501,Miami,FL,33130.0,790000,2,2.0,1279.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4501/home/56742530,25.7613319,-80.19377420000001
+221,Condo/Co-op,1300 S Miami Ave #4208,Miami,FL,33130.0,480000,1,1.0,,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4208/home/56742927,25.7613319,-80.19377420000001
+222,Condo/Co-op,1300 Brickell Bay Dr #3308,Miami,FL,33131.0,570000,2,2.0,1151.0,,2014,1160.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3308/home/55272958,25.760372,-80.190197
+223,Condo/Co-op,1300 Brickell Bay Dr #1105,Miami,FL,33131.0,259000,0,1.0,420.0,,2014,363.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1105/home/55273237,25.760372,-80.190197
+224,Condo/Co-op,1300 Brickell Bay Dr #2401,Miami,FL,33131.0,330000,1,1.5,653.0,,2014,659.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2401/home/55273298,25.760372,-80.190197
+225,Condo/Co-op,1300 Brickell Bay Dr #2812,Miami,FL,33131.0,235000,0,1.0,362.0,,2014,399.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2812/home/55272838,25.760372,-80.190197
+226,Condo/Co-op,1300 Brickell Bay Dr #2406,Miami,FL,33131.0,265000,0,1.0,,,2014,377.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2406/home/55272878,25.760372,-80.190197
+227,Condo/Co-op,1300 Brickell Bay Dr #1702,Miami,FL,33131.0,515000,2,2.0,1012.0,,2014,1019.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1702/home/55273247,25.760372,-80.190197
+228,Condo/Co-op,1300 Brickell Bay Dr #1001,Miami,FL,33131.0,335000,1,1.5,777.0,,2014,754.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1001/home/55273215,25.760372,-80.190197
+229,Condo/Co-op,1300 Brickell Bay Dr #4101,Miami,FL,33131.0,2080000,3,3.5,2365.0,,2014,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-4101/home/55272945,25.760372,-80.190197
+230,Condo/Co-op,1300 Brickell Bay Dr #2906,Miami,FL,33131.0,739000,3,2.5,1308.0,,2014,1300.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2906/home/55273032,25.760372,-80.190197
+231,Condo/Co-op,1300 Brickell Bay Dr #3801,Miami,FL,33131.0,1890000,3,3.5,2365.0,,2014,2389.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3801/home/55272940,25.760372,-80.190197
+232,Condo/Co-op,1300 Brickell Bay Dr #1206,Miami,FL,33131.0,349000,1,1.0,,,2014,,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1206/home/55273277,25.760372,-80.190197
+233,Condo/Co-op,1300 Brickell Bay Dr #3600,Miami,FL,33131.0,450000,1,1.5,848.0,,2014,855.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-3600/home/55273009,25.760372,-80.190197
+234,Condo/Co-op,,Miami,FL,33131.0,535000,2,2.0,1012.0,,2014,1019.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/55272809,25.760372,-80.190197
+235,Condo/Co-op,1300 Brickell Bay Dr #1708,Miami,FL,33131.0,349900,1,1.0,701.0,,2014,785.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-1708/home/55272907,25.760372,-80.190197
+236,Condo/Co-op,1300 Brickell Bay Dr #2604,Miami,FL,33131.0,389900,1,1.0,,,2014,708.0,http://www.redfin.com/FL/Miami/1300-Brickell-Bay-Dr-33131/unit-2604/home/55272887,25.760372,-80.190197
+237,Condo/Co-op,1300 S Miami Ave #2501,Miami,FL,33130.0,1099000,2,2.0,1279.0,,2016,,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2501/home/56742541,25.7610982,-80.1938177
+238,Condo/Co-op,1300 S Miami Ave #1105,Miami,FL,33130.0,869000,2,2.5,1281.0,,2016,940.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1105/home/56742660,25.7610982,-80.1938177
+239,Condo/Co-op,1300 S Miami Ave Ph 5201,Miami,FL,33130.0,1649000,3,3.5,2006.0,,2016,1564.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-5201/home/56742690,25.7610982,-80.1938177
+240,Condo/Co-op,1300 S Miami Ave #1709,Miami,FL,33130.0,560000,2,2.5,961.0,,2016,700.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1709/home/56742920,25.7610982,-80.1938177
+241,Condo/Co-op,1300 S Miami Ave #2011,Miami,FL,33130.0,530000,2,2.0,868.0,,2016,741.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-2011/home/56742724,25.7610982,-80.1938177
+242,Condo/Co-op,1300 S Miami Ave #1801,Miami,FL,33130.0,714000,2,2.0,1279.0,,2016,936.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-1801/home/56742503,25.7610982,-80.1938177
+243,Condo/Co-op,1300 S Miami Ave #4402,Miami,FL,33130.0,760000,2,2.0,1320.0,,2016,744.0,http://www.redfin.com/FL/Miami/1300-S-Miami-Ave-33130/unit-4402/home/56742442,25.7610982,-80.1938177
+244,Condo/Co-op,170 SE 14th St #1501,Miami,FL,33131.0,349000,2,2.0,1090.0,,2006,520.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1501/home/43362239,25.7598741,-80.19068859999999
+245,Condo/Co-op,170 SE 14th St #1208,Miami,FL,33131.0,344900,2,2.0,1090.0,,2006,540.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1208/home/43377167,25.7598741,-80.19068859999999
+246,Condo/Co-op,170 SE 14th St #1605,Miami,FL,33131.0,320000,2,2.0,942.0,,2006,520.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1605/home/43364146,25.7598741,-80.19068859999999
+247,Condo/Co-op,170 SE 14th St #1508,Miami,FL,33131.0,347000,2,2.0,1090.0,,2006,,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1508/home/43443695,25.7598741,-80.19068859999999
+248,Condo/Co-op,170 SE 14th St #1507,Miami,FL,33131.0,380000,1,1.0,630.0,,2006,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1507/home/43362135,25.7598741,-80.19068859999999
+249,Condo/Co-op,170 SE 14th St #1407,Miami,FL,33131.0,360000,1,1.0,630.0,,2006,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1407/home/43360664,25.7598741,-80.19068859999999
+250,Condo/Co-op,170 SE 14th St #1802,Miami,FL,33131.0,257000,1,1.0,630.0,,2006,546.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1802/home/43369291,25.7598741,-80.19068859999999
+251,Condo/Co-op,170 SE 14th St #1607,Miami,FL,33131.0,331500,1,1.0,630.0,,2006,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1607/home/43362134,25.7598741,-80.19068859999999
+252,Condo/Co-op,170 SE 14th St #1905,Miami,FL,33131.0,325000,2,2.0,942.0,,2006,521.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-1905/home/43362154,25.7598741,-80.19068859999999
+253,Condo/Co-op,170 SE 14 St #2504,Miami,FL,33131.0,330000,2,2.0,942.0,,2006,520.0,http://www.redfin.com/FL/Miami/170-SE-14th-St-33131/unit-2504/home/43379250,25.7598741,-80.19068859999999
+254,Condo/Co-op,185 SE 14th Ter #2006,Miami,FL,33131.0,350000,2,2.0,930.0,,1998,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2006/home/42764645,25.7595134,-80.190954
+255,Condo/Co-op,185 SE 14th Ter #1102,Miami,FL,33131.0,249000,1,1.0,650.0,,1998,560.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-1102/home/42757875,25.7595134,-80.190954
+256,Condo/Co-op,185 SE 14th Ter #2810,Miami,FL,33131.0,329900,2,2.0,930.0,,1998,,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2810/home/42764757,25.7595134,-80.190954
+257,Condo/Co-op,185 SE 14th Ter #2701,Miami,FL,33131.0,270000,1,1.0,,,1998,586.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2701/home/42757862,25.7595134,-80.190954
+258,Condo/Co-op,185 SE 14th Ter #2604,Miami,FL,33131.0,330000,2,2.0,930.0,,1998,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2604/home/42765172,25.7595134,-80.190954
+259,Condo/Co-op,185 SE 14th Ter #2603,Miami,FL,33131.0,329000,2,2.0,950.0,,1998,813.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-2603/home/42758181,25.7595134,-80.190954
+260,Condo/Co-op,185 SE 14th Ter #1203,Miami,FL,33131.0,330000,2,2.0,950.0,,1998,818.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-1203/home/42766371,25.7595134,-80.190954
+261,Condo/Co-op,185 SE 14th Ter #1407,Miami,FL,33131.0,329999,2,2.0,930.0,,1998,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-1407/home/42765135,25.7595134,-80.190954
+262,Condo/Co-op,185 SE 14th Ter #908,Miami,FL,33131.0,330000,2,2.0,930.0,,1998,785.0,http://www.redfin.com/FL/Miami/185-SE-14th-Ter-33131/unit-908/home/42764160,25.7595134,-80.190954
+263,Condo/Co-op,1000 Brickell Ave #3501,Miami,FL,33131.0,1150000,2,2.5,,,2019,983.0,http://www.redfin.com/FL/Miami/1000-Brickell-Ave-33131/unit-3501/home/172069132,25.7640196,-80.1917783
+264,Condo/Co-op,1010 Brickell Ave #2703,Miami,FL,33131.0,745000,2,3.0,1283.0,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2703/home/79134539,25.764019100000002,-80.1922655
+265,Condo/Co-op,1010 Brickell Ave #3804,Miami,FL,33131.0,750000,2,3.0,1325.0,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3804/home/79134532,25.764019100000002,-80.1922655
+266,Condo/Co-op,1010 Brickell Ave #3306,Miami,FL,33131.0,695000,2,3.0,1554.0,,2017,1025.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3306/home/79132391,25.764019100000002,-80.1922655
+267,Condo/Co-op,1010 Brickell Ave #3208,Miami,FL,33131.0,455000,1,1.5,987.0,,2017,540.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3208/home/79132868,25.764019100000002,-80.1922655
+268,Condo/Co-op,1010 Brickell Ave #3203,Miami,FL,33131.0,865000,2,3.0,1283.0,,2017,912.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3203/home/79134540,25.764019100000002,-80.1922655
+269,Condo/Co-op,1010 Brickell Ave #1703,Miami,FL,33131.0,845000,3,3.0,1700.0,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1703/home/79134595,25.764019100000002,-80.1922655
+270,Condo/Co-op,1010 Brickell Ave #3105,Miami,FL,33131.0,1075000,3,3.0,1778.0,,2017,1264.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3105/home/79132364,25.764019100000002,-80.1922655
+271,Condo/Co-op,1010 Brickell Ave #4503,Miami,FL,33131.0,879900,2,3.0,1283.0,,2017,845.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4503/home/79134552,25.764019100000002,-80.1922655
+272,Condo/Co-op,1010 Brickell Ave #1704,Miami,FL,33131.0,689000,2,3.0,1325.0,,2017,982.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1704/home/79134561,25.764019100000002,-80.1922655
+273,Condo/Co-op,1010 Brickell Ave #1405,Miami,FL,33131.0,999000,3,3.0,1778.0,,2017,1248.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1405/home/79135335,25.764019100000002,-80.1922655
+274,Condo/Co-op,1010 Brickell Ave #2307,Miami,FL,33131.0,525000,2,2.0,970.0,,2017,691.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2307/home/79132574,25.764019100000002,-80.1922655
+275,Condo/Co-op,1010 Brickell #3607,Miami,FL,33131.0,390000,1,1.0,,,2017,466.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3607/home/79132551,25.764019100000002,-80.1922655
+276,Condo/Co-op,,Miami,FL,33131.0,650000,2,2.0,1028.0,,2017,,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132891,25.764019100000002,-80.1922655
+277,Condo/Co-op,1010 Brickell Ave #3903,Miami,FL,33131.0,850000,2,3.0,1400.0,,2017,670.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3903/home/79134551,25.764019100000002,-80.1922655
+278,Condo/Co-op,,Miami,FL,33131.0,440000,1,1.5,988.0,,2017,,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132881,25.764019100000002,-80.1922655
+279,Condo/Co-op,1010 Brickell Ave #2505,Miami,FL,33131.0,1250000,3,3.0,1778.0,,2017,1247.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2505/home/79135298,25.764019100000002,-80.1922655
+280,Condo/Co-op,1010 Brickell Ave #2210,Miami,FL,33131.0,310000,0,1.0,442.0,,2017,314.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2210/home/79132863,25.764019100000002,-80.1922655
+281,Condo/Co-op,1010 Brickell #2803,Miami,FL,33131.0,820000,3,3.0,,,2017,912.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2803/home/79134536,25.764019100000002,-80.1922655
+282,Condo/Co-op,1010 Brickell Ave #2905,Miami,FL,33131.0,1050000,3,3.0,1778.0,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2905/home/79132362,25.764019100000002,-80.1922655
+283,Condo/Co-op,1010 Brickell Ave #3605,Miami,FL,33131.0,1300000,3,3.0,1778.0,,2017,1174.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3605/home/79132361,25.764019100000002,-80.1922655
+284,Condo/Co-op,1010 Brickell Ave #4005,Miami,FL,33131.0,1538000,3,3.0,2181.0,,2017,929.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4005/home/79132357,25.764019100000002,-80.1922655
+285,Condo/Co-op,,Miami,FL,33131.0,400000,1,1.5,759.0,,2017,540.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132879,25.764019100000002,-80.1922655
+286,Condo/Co-op,1010 Brickell Ave #3807,Miami,FL,33131.0,360990,1,1.0,651.0,,2017,690.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3807/home/79132553,25.764019100000002,-80.1922655
+287,Condo/Co-op,1010 Brickell Ave #3801,Miami,FL,33131.0,1200000,3,3.0,1753.0,,2017,1158.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3801/home/79134609,25.764019100000002,-80.1922655
+288,Condo/Co-op,1010 Brickell Ave #2008,Miami,FL,33131.0,395000,1,1.5,759.0,,2017,540.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2008/home/79132819,25.764019100000002,-80.1922655
+289,Condo/Co-op,1010 Brickell Ave #3910,Miami,FL,33131.0,478000,0,1.0,633.0,,2017,400.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3910/home/79132781,25.764019100000002,-80.1922655
+290,Condo/Co-op,,Miami,FL,33131.0,400000,1,1.5,759.0,,2017,540.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132872,25.764019100000002,-80.1922655
+291,Condo/Co-op,1010 Brickell Ave #3110,Miami,FL,33131.0,325000,0,1.0,442.0,,2017,315.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3110/home/79132789,25.764019100000002,-80.1922655
+292,Condo/Co-op,1010 Brickell Ave #4803,Miami,FL,33131.0,875000,2,3.0,,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4803/home/79134557,25.764019100000002,-80.1922655
+293,Condo/Co-op,1010 Brickell Ave #2708,Miami,FL,33131.0,430000,1,1.5,759.0,,2017,530.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2708/home/79132832,25.764019100000002,-80.1922655
+294,Condo/Co-op,1010 Brickell Ave #1409,Miami,FL,33131.0,629000,2,2.0,1028.0,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1409/home/79132884,25.764019100000002,-80.1922655
+295,Condo/Co-op,1010 Brickell Ave #4705,Miami,FL,33131.0,1099000,3,3.0,,,2017,1248.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4705/home/79132411,25.764019100000002,-80.1922655
+296,Condo/Co-op,,Miami,FL,33131.0,550000,1,1.5,988.0,,2017,,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132833,25.764019100000002,-80.1922655
+297,Condo/Co-op,1010 Brickell Ave #2209,Miami,FL,33131.0,650000,2,2.0,,,2017,731.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2209/home/79132892,25.764019100000002,-80.1922655
+298,Condo/Co-op,1010 Brickell Ave #4201,Miami,FL,33131.0,1060000,3,3.0,1753.0,,2017,1250.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4201/home/79134605,25.764019100000002,-80.1922655
+299,Condo/Co-op,1010 Brickell #3408,Miami,FL,33131.0,399900,1,1.5,,,2017,526.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3408/home/79132866,25.764019100000002,-80.1922655
+300,Condo/Co-op,1010 Brickell Ave #2001,Miami,FL,33131.0,950000,3,3.0,1753.0,,2017,1247.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2001/home/79134660,25.764019100000002,-80.1922655
+301,Condo/Co-op,1010 Brickell Ave #3909,Miami,FL,33131.0,539000,2,2.0,1028.0,,2017,732.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3909/home/79132844,25.764019100000002,-80.1922655
+302,Condo/Co-op,1010 Brickell Ave #3503,Miami,FL,33131.0,990000,2,3.0,1584.0,,2017,670.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3503/home/79134547,25.764019100000002,-80.1922655
+303,Condo/Co-op,,Miami,FL,33131.0,1309000,3,3.0,1753.0,,2017,1250.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79134611,25.764019100000002,-80.1922655
+304,Condo/Co-op,,Miami,FL,33131.0,550000,2,2.0,,,2017,691.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79132563,25.764019100000002,-80.1922655
+305,Condo/Co-op,1010 Brickell Ave #4603,Miami,FL,33131.0,859000,2,3.0,1283.0,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4603/home/79134559,25.764019100000002,-80.1922655
+306,Condo/Co-op,1010 Brickell Ave #4404,Miami,FL,33131.0,829900,2,3.0,1325.0,,2017,880.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4404/home/79135328,25.764019100000002,-80.1922655
+307,Condo/Co-op,1010 Brickell Ave #2802,Miami,FL,33131.0,790000,2,3.0,1314.0,,2017,935.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2802/home/79134617,25.764019100000002,-80.1922655
+308,Condo/Co-op,1010 Brickell #2201,Miami,FL,33131.0,1119000,4,3.0,2142.0,,2017,1250.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2201/home/79134662,25.764019100000002,-80.1922655
+309,Condo/Co-op,1010 Brickell Ave #3811,Miami,FL,33131.0,495000,1,1.5,,,2017,950.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3811/home/79132752,25.764019100000002,-80.1922655
+310,Condo/Co-op,1010 Brickell Ave #1408,Miami,FL,33131.0,384999,1,1.5,,,2017,736.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1408/home/79132813,25.764019100000002,-80.1922655
+311,Condo/Co-op,1010 Brickell Ave #4405,Miami,FL,33131.0,1050000,3,3.0,1778.0,,2017,150.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4405/home/79132414,25.764019100000002,-80.1922655
+312,Condo/Co-op,1010 Brickell Ave #1810,Miami,FL,33131.0,280000,0,1.0,442.0,,2017,240.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-1810/home/79132859,25.764019100000002,-80.1922655
+313,Condo/Co-op,1010 Brickell Ave #4608,Miami,FL,33131.0,510000,1,1.5,,,2017,540.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4608/home/79132878,25.764019100000002,-80.1922655
+314,Condo/Co-op,1010 Brickell Ave #4211,Miami,FL,33131.0,430000,1,1.5,975.0,,2017,694.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4211/home/79132778,25.764019100000002,-80.1922655
+315,Condo/Co-op,1010 Brickell Ave #4702,Miami,FL,33131.0,895000,2,3.0,1314.0,,2017,,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-4702/home/79134598,25.764019100000002,-80.1922655
+316,Condo/Co-op,1010 Brickell Ave #3611,Miami,FL,33131.0,475000,1,1.5,1046.0,,2017,650.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-3611/home/79132750,25.764019100000002,-80.1922655
+317,Condo/Co-op,,Miami,FL,33131.0,899000,2,3.0,,,2017,692.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33131/home/79134560,25.764019100000002,-80.1922655
+318,Single Family Residential,1010 Brickell Ave #2709,Miami,FL,33131.0,599000,2,2.0,1028.0,,2017,732.0,http://www.redfin.com/FL/Miami/1010-Brickell-Ave-33131/unit-2709/home/79132895,25.764019100000002,-80.1922655
+319,Condo/Co-op,1100 S Miami Ave #2508,Miami,FL,33130.0,350000,1,1.0,812.0,,2015,425.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2508/home/55272749,25.7632203,-80.193663
+320,Condo/Co-op,1100 S Miami Ave #3602,Miami,FL,33130.0,369000,1,1.0,858.0,,2015,531.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3602/home/55272575,25.7632203,-80.193663
+321,Condo/Co-op,1100 S Miami Ave #3710,Miami,FL,33130.0,495000,2,2.0,1245.0,,2015,389.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3710/home/55273084,25.7632203,-80.193663
+322,Condo/Co-op,1100 S Miami Ave #1204,Miami,FL,33130.0,415000,2,2.0,921.0,,2015,586.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1204/home/55272655,25.7632203,-80.193663
+323,Condo/Co-op,1100 S Miami Ave #1703,Miami,FL,33130.0,360000,1,1.0,923.0,,2015,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1703/home/55272561,25.7632203,-80.193663
+324,Condo/Co-op,1100 S Miami Ave #1406,Miami,FL,33130.0,245000,0,1.0,540.0,,2015,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1406/home/55272723,25.7632203,-80.193663
+325,Condo/Co-op,1100 S Miami Ave #4204,Miami,FL,33130.0,475000,2,2.0,921.0,,2015,587.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-4204/home/55272630,25.7632203,-80.193663
+326,Condo/Co-op,1100 S Miami Ave #1610,Miami,FL,33130.0,449900,2,2.0,1165.0,,2015,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1610/home/55273078,25.7632203,-80.193663
+327,Condo/Co-op,1100 S Miami Ave #1608,Miami,FL,33130.0,315000,1,1.0,812.0,,2015,413.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1608/home/55272777,25.7632203,-80.193663
+328,Condo/Co-op,1100 S Miami Ave #3808,Miami,FL,33130.0,429000,1,1.0,808.0,,2015,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3808/home/55273054,25.7632203,-80.193663
+329,Condo/Co-op,1100 S Miami Ave #2606,Miami,FL,33130.0,245000,0,1.0,530.0,,2015,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2606/home/55272706,25.7632203,-80.193663
+330,Condo/Co-op,1100 S Miami Ave #2111,Miami,FL,33130.0,549000,2,2.0,1195.0,,2015,790.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2111/home/55273172,25.7632203,-80.193663
+331,Condo/Co-op,1100 S Miami Ave #3609,Miami,FL,33130.0,365000,1,1.0,808.0,,2014,391.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3609/home/55273127,25.7632203,-80.193663
+332,Condo/Co-op,1100 S Miami Ave #2708,Miami,FL,33130.0,329900,1,1.0,858.0,,2014,413.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2708/home/55272747,25.7632203,-80.193663
+333,Condo/Co-op,1100 S Miami Ave #2308,Miami,FL,33130.0,438800,1,1.0,858.0,,2015,518.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2308/home/55272751,25.7632203,-80.193663
+334,Condo/Co-op,,Miami,FL,33130.0,265000,0,1.0,,,2015,320.0,http://www.redfin.com/FL/Miami/Undisclosed-address-33130/home/55272624,25.7632203,-80.193663
+335,Condo/Co-op,1100 S Miami Ave #2506,Miami,FL,33130.0,240000,0,1.0,530.0,,2015,338.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2506/home/55272705,25.7632203,-80.193663
+336,Condo/Co-op,1100 S Miami Ave #3209,Miami,FL,33130.0,315000,1,1.0,769.0,,2015,490.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3209/home/55273123,25.7632203,-80.193663
+337,Condo/Co-op,1100 S Miami Ave #3105,Miami,FL,33130.0,280000,0,1.0,531.0,,2015,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3105/home/55272741,25.7632203,-80.193663
+338,Condo/Co-op,1100 S Miami Ave #3702,Miami,FL,33130.0,370000,1,1.0,,,2015,559.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3702/home/55272565,25.7632203,-80.193663
+339,Condo/Co-op,1100 S Miami Ave #2803,Miami,FL,33130.0,369000,1,2.0,977.0,,2014,469.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2803/home/55272677,25.7632203,-80.193663
+340,Condo/Co-op,1100 S Miami Ave #3402,Miami,FL,33130.0,459000,1,1.0,884.0,,2015,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3402/home/55272577,25.7632203,-80.193663
+341,Condo/Co-op,1100 S Miami Ave #3707,Miami,FL,33130.0,480000,2,2.0,950.0,,2015,600.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3707/home/55272768,25.7632203,-80.193663
+342,Condo/Co-op,1100 S Miami Ave #3411,Miami,FL,33130.0,599900,2,2.0,1270.0,,2015,,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-3411/home/55273161,25.7632203,-80.193663
+343,Condo/Co-op,1100 S Miami Ave #1604,Miami,FL,33130.0,535000,2,1.0,921.0,,2015,647.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1604/home/55272658,25.7632203,-80.193663
+344,Condo/Co-op,1100 S Miami Ave #4210,Miami,FL,33130.0,595000,2,2.0,1165.0,,2015,709.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-4210/home/55273158,25.7632203,-80.193663
+345,Condo/Co-op,1100 S Miami Ave #310,Miami,FL,33130.0,465000,2,2.0,1245.0,,2015,592.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-310/home/55273118,25.7632203,-80.193663
+346,Condo/Co-op,1100 S Miami Ave #1707,Miami,FL,33130.0,410000,2,2.0,910.0,,2015,579.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-1707/home/55272698,25.7632203,-80.193663
+347,Condo/Co-op,1100 S Miami Ave #2505,Miami,FL,33130.0,270000,0,1.0,531.0,,2015,323.0,http://www.redfin.com/FL/Miami/1100-S-Miami-Ave-33130/unit-2505/home/55272735,25.7632203,-80.193663

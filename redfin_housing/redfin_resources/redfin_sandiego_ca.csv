@@ -1,351 +1,336 @@
 ,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
-0,Condo/Co-op,2920 Briarwood Rd Unit B10,Bonita,CA,91902,325000,1,1.0,599.0,,1980.0,257.0,http://www.redfin.com/CA/Bonita/2920-Briarwood-Rd-91902/unit-B10/home/6056880,32.6801289,-117.03032079999998
-1,Townhouse,273 Rancho Unit D,Chula Vista,CA,91911,425000,3,1.5,1274.0,,1976.0,175.0,http://www.redfin.com/CA/Chula-Vista/273-Rancho-Dr-91911/unit-D/home/6139051,32.5919014,-117.0389548
-2,Condo/Co-op,247 Rancho Dr Unit A,Chula Vista,CA,91911,370000,3,1.5,1228.0,957.0,1977.0,225.0,http://www.redfin.com/CA/Chula-Vista/247-Rancho-Dr-91911/unit-A/home/6139199,32.592208899999996,-117.04149699999999
-3,Multi-Family (2-4 Unit),3343-47 Lincoln Ave,City Heights,CA,92104,999000,3,3.0,,,1936.0,,http://www.redfin.com/CA/San-Diego/3343-Lincoln-Ave-92104/home/5320197,32.7498346,-117.12135079999999
-4,Condo/Co-op,271 Sea Forest Ct,Del Mar,CA,92014,1098000,2,2.0,1308.0,,1974.0,701.0,http://www.redfin.com/CA/Del-Mar/271-Sea-Forest-Ct-92014/home/4427275,32.9468249,-117.261325
-5,Single Family Residential,14705 Caminito Mar De Plata,Del Mar,CA,92014,1599000,3,2.5,2444.0,6203.0,1980.0,350.0,http://www.redfin.com/CA/Del-Mar/14705-Caminito-Mar-De-Plata-92014/home/4401966,32.982359,-117.2474956
-6,Single Family Residential,14778 Caminito Punta Arenas,Del Mar,CA,92014,1550000,4,2.5,3057.0,5763.0,1988.0,415.0,http://www.redfin.com/CA/Del-Mar/14778-Caminito-Punta-Arenas-92014/home/4402227,32.9842934,-117.2446416
-7,Townhouse,,Del Mar,CA,92014,689000,3,2.5,1380.0,,1972.0,385.0,http://www.redfin.com/CA/Del-Mar/Undisclosed-address-92014/home/4440936,32.9374195,-117.24243659999999
-8,Condo/Co-op,914 Intrepid Ct,Del Mar,CA,92014,774999,2,2.5,1298.0,,1985.0,573.0,http://www.redfin.com/CA/Del-Mar/914-Intrepid-Ct-92014/home/4394862,32.982933,-117.252324
-9,Single Family Residential,12911 Biscayne Cv,Del Mar,CA,92014,1495000,3,2.0,1518.0,8600.0,1972.0,,http://www.redfin.com/CA/Del-Mar/12911-Biscayne-Cv-92014/home/4438754,32.935740700000004,-117.24471580000001
-10,Single Family Residential,2939 SUNSET Hls,Escondido,CA,92025,1500000,4,3.0,2053.0,46173.0,2017.0,,http://www.redfin.com/CA/Escondido/2939-Sunset-Hls-92025/home/4198193,33.0767843,-117.0363652
-11,Condo/Co-op,1450 Iris Ave #16,Imperial Beach,CA,91932,265000,1,1.0,610.0,,1969.0,196.0,http://www.redfin.com/CA/Imperial-Beach/1450-Iris-Ave-91932/unit-16/home/17108470,32.5694505,-117.10248759999999
-12,Condo/Co-op,8870 Villa La Jolla Dr #301,La Jolla,CA,92037,649900,2,2.0,1080.0,95224.0,1985.0,461.0,http://www.redfin.com/CA/La-Jolla/8870-Villa-La-Jolla-Dr-92037/unit-301/home/4867353,32.8698143,-117.23555420000001
-13,Condo/Co-op,3138 Morning Way,La Jolla,CA,92037,899000,2,2.5,1714.0,,1980.0,390.0,http://www.redfin.com/CA/La-Jolla/3138-Morning-Way-92037/home/4866833,32.868848,-117.23480900000001
-14,Condo/Co-op,2420 Torrey Pines Rd Unit A104,La Jolla,CA,92037,899000,3,2.5,1656.0,,1977.0,500.0,http://www.redfin.com/CA/La-Jolla/2420-Torrey-Pines-Rd-92037/unit-A104/home/4879172,32.8512212,-117.2500886
-15,Condo/Co-op,7555 Eads Ave #17,La Jolla,CA,92037,1150000,2,2.0,1646.0,21004.0,1990.0,605.0,http://www.redfin.com/CA/La-Jolla/7555-Eads-Ave-92037/unit-17/home/6629222,32.8411186,-117.27492009999999
-16,Condo/Co-op,8440 Via Mallorca #229,La Jolla,CA,92037,365000,1,1.0,506.0,292032.0,2005.0,220.0,http://www.redfin.com/CA/La-Jolla/8440-Via-Mallorca-92037/unit-229/home/6681278,32.8605743,-117.23478020000002
-17,Single Family Residential,8946 La Jolla Scenic Dr N,La Jolla,CA,92037,1595000,4,3.0,2458.0,8500.0,1982.0,,http://www.redfin.com/CA/La-Jolla/8946-La-Jolla-Scenic-Dr-N-92037/home/4864681,32.8690194,-117.24077120000001
-18,Townhouse,7597 EADS Ave Unit E,La Jolla,CA,92037,1768000,3,2.5,2362.0,12088.0,1987.0,400.0,http://www.redfin.com/CA/La-Jolla/7597-Eads-Ave-92037/unit-E/home/4911207,32.8419766,-117.27521229999999
-19,Single Family Residential,6075 Caroldale Row,La Jolla,CA,92037,1495000,4,3.5,2939.0,6204.0,1996.0,350.0,http://www.redfin.com/CA/La-Jolla/6075-Caroldale-Row-92037/home/4944259,32.8308783,-117.23828519999999
-20,Condo/Co-op,5460 La Jolla Blvd Unit G102,La Jolla,CA,92037,1259000,3,2.0,1827.0,77467.0,2005.0,629.0,http://www.redfin.com/CA/La-Jolla/5460-La-Jolla-Blvd-92037/unit-G102/home/6650652,32.8118562,-117.2683023
-21,Condo/Co-op,7514 Girard Ave Unit G,La Jolla,CA,92037,639000,2,1.0,734.0,20994.0,1996.0,738.0,http://www.redfin.com/CA/La-Jolla/7514-Girard-Ave-92037/unit-G/home/12110189,32.840688899999996,-117.2728013
-22,Condo/Co-op,1228 Cave St,La Jolla,CA,92037,1495000,3,3.5,2287.0,,1965.0,480.0,http://www.redfin.com/CA/La-Jolla/1228-Cave-St-92037/home/4905989,32.8480972,-117.2716611
-23,Single Family Residential,7712 Moonridge Pl,La Jolla,CA,92037,5490000,5,4.5,5696.0,57064.0,1987.0,,http://www.redfin.com/CA/La-Jolla/7712-Moonridge-Pl-92037/home/4879797,32.847829499999996,-117.2437742
-24,Single Family Residential,7520 Mar,La Jolla,CA,92037,2899000,5,4.5,4910.0,10758.0,1963.0,,http://www.redfin.com/CA/La-Jolla/7520-Mar-Ave-92037/home/4912790,32.8423747,-117.2681398
-25,Single Family Residential,740 Genter St,La Jolla,CA,92037,1958000,5,4.5,3554.0,,1971.0,,http://www.redfin.com/CA/La-Jolla/740-Genter-St-92037/home/4914270,32.8369759,-117.2747301
-26,Single Family Residential,1459 Caminito Diadema,La Jolla,CA,92037,2250000,4,2.5,2699.0,,1992.0,290.0,http://www.redfin.com/CA/La-Jolla/1459-Caminito-Diadema-92037/home/4945672,32.8170583,-117.2484592
-27,Single Family Residential,604 Rushville St,La Jolla,CA,92037,1450000,3,2.0,1546.0,3746.0,1940.0,,http://www.redfin.com/CA/La-Jolla/604-Rushville-St-92037/home/4914447,32.8349773,-117.27603899999998
-28,Townhouse,3320 Via Alicante,La Jolla,CA,92037,649000,2,2.5,1140.0,290015.0,1975.0,463.0,http://www.redfin.com/CA/La-Jolla/3320-Via-Alicante-92037/home/4865595,32.861255,-117.231921
-29,Condo/Co-op,8529 Villa La Jolla Dr Unit E,La Jolla,CA,92037,425000,1,1.0,691.0,,1972.0,280.0,http://www.redfin.com/CA/La-Jolla/8529-Villa-La-Jolla-Dr-92037/unit-E/home/4885575,32.8634391,-117.23514399999999
-30,Condo/Co-op,9237 Regents Rd Unit K401,La Jolla,CA,92037,479000,1,1.0,715.0,189495.0,2001.0,397.0,http://www.redfin.com/CA/La-Jolla/9237-Regents-Rd-92037/unit-K401/home/12157697,32.873752,-117.2168247
-31,Single Family Residential,6325 Via Maria,La Jolla,CA,92037,2995000,3,2.0,1973.0,7767.0,1949.0,,http://www.redfin.com/CA/La-Jolla/6325-Via-Maria-92037/home/4918230,32.8242925,-117.2770264
-32,Single Family Residential,6089 La Jolla Scenic Dr S,La Jolla,CA,92037,20000000,6,7.5,13532.0,164738.0,2010.0,,http://www.redfin.com/CA/La-Jolla/6089-La-Jolla-Scenic-Dr-S-92037/home/17201573,32.826097999999995,-117.25319009999998
-33,Townhouse,6349 VIA CABRERA S,La Jolla,CA,92037,1043000,3,2.0,1804.0,,1983.0,561.0,http://www.redfin.com/CA/La-Jolla/6349-Via-Cabrera-92037/home/4944156,32.8320225,-117.2458294
-34,Single Family Residential,3 E Roseland Dr,La Jolla,CA,92037,3499000,6,6.0,5076.0,11349.0,2000.0,,http://www.redfin.com/CA/La-Jolla/3-E-Roseland-Dr-92037/home/4878176,32.849471,-117.2555325
-35,Single Family Residential,625 Bonair Pl,La Jolla,CA,92037,1650000,3,2.5,1892.0,6534.0,1988.0,,http://www.redfin.com/CA/La-Jolla/625-Bonair-Pl-92037/unit-B/home/4916368,32.8300596,-117.2742479
-36,Vacant Land,Woodford Dr,La Jolla,CA,92037,1950000,0,,,20311.0,,,http://www.redfin.com/CA/LA-JOLLA/WOODFORD-DR-92037/home/22322420,32.848511,-117.239319
-37,Single Family Residential,7437 Eads Ave,La Jolla,CA,92037,1650000,3,3.0,1704.0,,2008.0,,http://www.redfin.com/CA/La-Jolla/7437-Eads-Ave-92037/home/167547680,32.839130100000006,-117.2744044
-38,Condo/Co-op,2500 Torrey Pines Rd #204,La Jolla,CA,92037,695000,2,2.0,1464.0,,1973.0,830.0,http://www.redfin.com/CA/La-Jolla/2500-Torrey-Pines-Rd-92037/unit-204/home/4879316,32.8514543,-117.24963490000002
-39,Condo/Co-op,3177 Via Alicante #248,La Jolla,CA,92037,624000,2,2.0,1017.0,292033.0,2000.0,297.0,http://www.redfin.com/CA/La-Jolla/3177-Via-Alicante-92037/unit-248/home/6638142,32.8605743,-117.23478020000002
-40,Single Family Residential,7227 Olivetas Ave,La Jolla,CA,92037,2695000,4,3.0,2278.0,6481.0,1924.0,,http://www.redfin.com/CA/La-Jolla/7227-Olivetas-Ave-92037/home/4913497,32.8355873,-117.27847299999999
-41,Condo/Co-op,8460 Via Mallorca #136,La Jolla,CA,92037,714995,2,2.0,1017.0,,2000.0,296.0,http://www.redfin.com/CA/La-Jolla/8460-Via-Mallorca-92037/unit-136/home/6681315,32.8605743,-117.23478020000002
-42,Single Family Residential,4430 68Th St,La Mesa,CA,91942,700000,3,2.0,1526.0,8741.0,2000.0,,http://www.redfin.com/CA/La-Mesa/4430-68th-St-91942/home/5480429,32.7588016,-117.0519398
-43,Single Family Residential,,La Mesa,CA,91942,649900,3,2.0,1326.0,7200.0,1950.0,,http://www.redfin.com/CA/La-Mesa/Rolando-Knolls-Dr-91942/home/5520837,32.7569988,-117.0505606
-44,Single Family Residential,7825 EL PASO St,La Mesa,CA,91942,699000,4,2.0,2019.0,,1960.0,,http://www.redfin.com/CA/La-Mesa/7825-El-Paso-St-91942/home/6245893,32.79008889999999,-117.02904290000001
-45,Single Family Residential,1630 Colfax Dr,Lemon Grove,CA,91945,625000,4,3.0,1692.0,,1950.0,,http://www.redfin.com/CA/Lemon-Grove/1630-Colfax-Dr-91945/home/5993283,32.7224931,-117.0274212
-46,Condo/Co-op,1645 Emerald St Unit 2B,Pacific Beach,CA,92109,359000,1,1.0,650.0,,1975.0,305.0,http://www.redfin.com/CA/San-Diego/1645-Emerald-St-92109/unit-2B/home/5141655,32.8016685,-117.2403752
-47,Condo/Co-op,6604 Omega Dr,Paradise Hills,CA,92139,315000,2,1.5,1012.0,83803.0,1978.0,285.0,http://www.redfin.com/CA/San-Diego/6604-Omega-Dr-92139/home/6052822,32.6753952,-117.0452837
-48,Condo/Co-op,4857 Collwood Blvd Unit B,San Diego,CA,92115,285000,2,1.0,731.0,,1970.0,390.0,http://www.redfin.com/CA/San-Diego/4857-Collwood-Blvd-92115/unit-B/home/5464238,32.767379,-117.082823
-49,Condo/Co-op,2033 /2 Oliver Ave #1,San Diego,CA,92109,499000,2,1.0,837.0,,1958.0,305.0,http://www.redfin.com/CA/San-Diego/2033-1-2-Oliver-Ave-92109/unit-1/home/172670075,32.796574,-117.23104679999999
-50,Single Family Residential,10990 Caminito Arcada,San Diego,CA,92131,739000,4,3.0,1499.0,,1996.0,90.0,http://www.redfin.com/CA/San-Diego/10990-Caminito-Arcada-92131/home/4826613,32.933039,-117.094346
-51,Single Family Residential,13721 Tradition St,San Diego,CA,92128,890000,4,2.5,1831.0,5663.0,1992.0,42.0,http://www.redfin.com/CA/San-Diego/13721-Tradition-St-92128/home/4693606,32.9692924,-117.07203
-52,Multi-Family (2-4 Unit),4428-4430 Maryland St,San Diego,CA,92116,1225000,7,4.0,2885.0,7062.0,1937.0,,http://www.redfin.com/CA/San-Diego/4428-Maryland-St-92116/home/5296374,32.75779,-117.15161499999999
-53,Multi-Family (2-4 Unit),4528 Alabama St,San Diego,CA,92116,1050000,5,2.5,1500.0,3506.0,1951.0,,http://www.redfin.com/CA/San-Diego/4528-Alabama-St-92116/home/5294841,32.7600138,-117.14281299999999
-54,Single Family Residential,2022 Redbird Dr,San Diego,CA,92123,720000,4,2.0,1296.0,6400.0,1961.0,,http://www.redfin.com/CA/San-Diego/2022-Redbird-Dr-92123/home/6259166,32.7812963,-117.15600159999998
-55,Townhouse,9230 Lake Murray Blvd Unit F,San Diego,CA,92119,519900,3,2.5,1561.0,79937.0,1986.0,395.0,http://www.redfin.com/CA/San-Diego/9230-Lake-Murray-Blvd-92119/unit-F/home/4979067,32.8123566,-117.00883359999999
-56,Single Family Residential,10192 Empress Ave,San Diego,CA,92126,659900,3,2.0,1612.0,5000.0,1973.0,,http://www.redfin.com/CA/San-Diego/10192-Empress-Ave-92126/home/4852182,32.9030768,-117.14998179999999
-57,Condo/Co-op,1332 Grand Ave #2,San Diego,CA,92109,754000,3,3.5,1681.0,,1985.0,250.0,http://www.redfin.com/CA/San-Diego/1332-Grand-Ave-92109/unit-2/home/5174880,32.7971636,-117.2451086
-58,Single Family Residential,10483 Orozco Rd,San Diego,CA,92124,799990,5,2.5,1887.0,5000.0,1973.0,,http://www.redfin.com/CA/San-Diego/10483-Orozco-Rd-92124/home/4985444,32.8369527,-117.1014033
-59,Condo/Co-op,4329 Idaho St #104,San Diego,CA,92104,649000,3,3.0,1461.0,,2014.0,325.0,http://www.redfin.com/CA/San-Diego/4329-Idaho-St-92104/unit-104/home/53342233,32.7560642,-117.1335285
-60,Condo/Co-op,3050 Rue Dorleans #387,San Diego,CA,92110,339000,1,1.0,547.0,,1969.0,325.0,http://www.redfin.com/CA/San-Diego/3050-Rue-DOrleans-92110/unit-387/home/5274385,32.754519300000005,-117.22767579999999
-61,Condo/Co-op,1330 Reed Ave #1,San Diego,CA,92109,799000,3,3.0,1430.0,,1986.0,220.0,http://www.redfin.com/CA/San-Diego/1330-Reed-Ave-92109/unit-1/home/5174940,32.7951664,-117.24457509999999
-62,Condo/Co-op,701 Kettner Blvd #104,San Diego,CA,92101,629900,2,1.0,1017.0,169994.0,1983.0,482.0,http://www.redfin.com/CA/San-Diego/701-Kettner-Blvd-92101/unit-104/home/5752118,32.7141685,-117.1682655
-63,Condo/Co-op,1240 India St #2303,San Diego,CA,92101,769000,2,2.0,1107.0,,2003.0,523.0,http://www.redfin.com/CA/San-Diego/1240-India-St-92101/unit-2303/home/6546940,32.7182907,-117.168729
-64,Condo/Co-op,15283 Maturin Dr #63,San Diego,CA,92127,450000,2,2.0,1085.0,,1995.0,323.0,http://www.redfin.com/CA/San-Diego/15283-Maturin-Dr-92127/unit-63/home/6788681,33.0038945,-117.09028090000001
-65,Condo/Co-op,445 Island Ave #504,San Diego,CA,92101,329000,0,1.0,623.0,,2006.0,400.0,http://www.redfin.com/CA/San-Diego/445-Island-Ave-92101/unit-504/home/7517643,32.7101414,-117.16057020000001
-66,Multi-Family (2-4 Unit),1245 Colusa St,San Diego,CA,92110,835000,4,2.0,1953.0,3312.0,1940.0,,http://www.redfin.com/CA/San-Diego/1245-Colusa-St-92110/home/5238757,32.7675134,-117.1903709
-67,Single Family Residential,1454 Watwood Rd,San Diego,CA,92114,585000,4,2.0,1300.0,5021.0,1980.0,,http://www.redfin.com/CA/San-Diego/1454-Watwood-Rd-92114/home/5991822,32.720162300000005,-117.04016990000001
-68,Multi-Family (2-4 Unit),3865-67 Winona Ave,San Diego,CA,92105,830000,8,3.5,,6746.0,1941.0,,http://www.redfin.com/CA/San-Diego/3865-Winona-Ave-92105/home/5503008,32.7487592,-117.0877515
-69,Condo/Co-op,425 W Beech St #605,San Diego,CA,92101,529900,2,2.0,986.0,59909.0,2004.0,772.0,http://www.redfin.com/CA/San-Diego/425-W-Beech-St-92101/unit-605/home/6640880,32.7203803,-117.1669418
-70,Condo/Co-op,2920 Union St #204,San Diego,CA,92103,699888,2,2.0,1390.0,24081.0,1983.0,432.0,http://www.redfin.com/CA/San-Diego/2920-Union-St-92103/unit-204/home/5365232,32.735371799999996,-117.1714159
-71,Condo/Co-op,2124 Front St #4,San Diego,CA,92101,705000,2,2.0,979.0,2879.0,2019.0,363.0,http://www.redfin.com/CA/San-Diego/2124-Front-St-92101/unit-04/home/160759242,32.7275106,-117.1650736
-72,Single Family Residential,6727 Monterra Trl Lot 80,San Diego,CA,92130,1025000,4,3.0,2077.0,3493.0,2015.0,208.0,http://www.redfin.com/CA/San-Diego/6727-Monterra-Trl-92130/unit-80/home/101824416,32.9691706,-117.1747952
-73,Condo/Co-op,253 10Th Ave #1204,San Diego,CA,92101,629500,2,1.0,1065.0,42840.0,2006.0,656.0,http://www.redfin.com/CA/San-Diego/253-Tenth-Ave-92101/unit-1204/home/12160466,32.7079961,-117.1549601
-74,Condo/Co-op,3959 Idaho St Unit 5,San Diego,CA,92104,409900,2,1.0,748.0,,1965.0,288.0,http://www.redfin.com/CA/San-Diego/3959-Idaho-St-92104/unit-5/home/17897580,32.749600300000004,-117.1335023
-75,Townhouse,10752 New Grove Trl #76,San Diego,CA,92130,819000,3,2.5,1636.0,,2010.0,300.0,http://www.redfin.com/CA/San-Diego/10752-New-Grove-Trl-92130/unit-76/home/40094971,32.9306587,-117.1988768
-76,Single Family Residential,4890 Academy St,San Diego,CA,92109,1129000,5,2.0,1744.0,7000.0,1949.0,,http://www.redfin.com/CA/San-Diego/4890-Academy-St-92109/home/5138927,32.8079996,-117.23415109999999
-77,Condo/Co-op,3078 Broadway #314,San Diego,CA,92102,419000,2,2.0,827.0,,1993.0,274.0,http://www.redfin.com/CA/San-Diego/3078-Broadway-92102/unit-314/home/5824937,32.7160895,-117.12771629999999
-78,Single Family Residential,18420 Bernardo Trail Dr,San Diego,CA,92128,1399000,4,3.5,3468.0,,1974.0,22.0,http://www.redfin.com/CA/San-Diego/18420-Bernardo-Trails-Dr-92128/home/4203268,33.0420072,-117.0584912
-79,Single Family Residential,10919 Horseshoe Ridge Ct,San Diego,CA,92130,3499000,5,4.5,4151.0,14604.0,2015.0,295.0,http://www.redfin.com/CA/San-Diego/10919-Horseshoe-Ridge-Ct-92130/home/22423311,32.9364789,-117.18347849999999
-80,Single Family Residential,2732 Creekside Village Sq,San Diego,CA,92154,525000,3,2.5,1400.0,,1976.0,145.0,http://www.redfin.com/CA/San-Diego/2732-Creekside-Village-Sq-92154/home/6490330,32.572661100000005,-117.0745929
-81,Condo/Co-op,3532 Meade Ave #30,San Diego,CA,92116,289000,1,1.0,596.0,69688.0,1970.0,254.0,http://www.redfin.com/CA/San-Diego/3532-Meade-Ave-92116/unit-30/home/12129789,32.7578702,-117.1171618
-82,Single Family Residential,6475 Oakridge Rd,San Diego,CA,92120,845000,4,2.0,1480.0,,1971.0,,http://www.redfin.com/CA/San-Diego/6475-Oakridge-Rd-92120/home/5407559,32.801488899999995,-117.055342
-83,Single Family Residential,5554 Gamay Way,San Diego,CA,92130,1528880,5,3.0,2730.0,10487.0,2006.0,111.0,http://www.redfin.com/CA/San-Diego/5554-Gamay-Way-92130/home/12152417,32.9582482,-117.197584
-84,Single Family Residential,9767 Caminito Munoz,San Diego,CA,92131,1189999,3,3.0,2434.0,9723.0,1984.0,300.0,http://www.redfin.com/CA/San-Diego/9767-Caminito-Munoz-92131/home/4975750,32.9025311,-117.0792703
-85,Single Family Residential,5762 Avenida Sanchez,San Diego,CA,92124,829000,4,2.5,1628.0,,1973.0,,http://www.redfin.com/CA/San-Diego/5762-Avenida-Sanchez-92124/home/4985385,32.836340500000006,-117.10053
-86,Single Family Residential,6326 Lolly Ln,San Diego,CA,92114,479000,3,2.0,1375.0,5760.0,1984.0,,http://www.redfin.com/CA/San-Diego/6326-Lolly-Ln-92114/home/5887285,32.7045766,-117.0626058
-87,Condo/Co-op,9936 Scripps Westview Way #256,San Diego,CA,92131,439000,2,2.0,1052.0,135036.0,1984.0,285.0,http://www.redfin.com/CA/San-Diego/9936-Scripps-Westview-Way-92131/unit-256/home/4813846,32.9234523,-117.1137841
-88,Single Family Residential,9774 Fox Valley Ct,San Diego,CA,92127,1274888,5,4.0,3683.0,6820.0,2002.0,95.0,http://www.redfin.com/CA/San-Diego/9774-Fox-Valley-Ct-92127/home/6465863,33.0098725,-117.1183634
-89,Multi-Family (2-4 Unit),3633-35 Herman Ave,San Diego,CA,92104,1395000,5,3.0,2610.0,4699.0,1920.0,,http://www.redfin.com/CA/San-Diego/3633-Herman-Ave-92104/home/5384299,32.7444386,-117.1257629
-90,Condo/Co-op,17081 W Bernardo Dr #202,San Diego,CA,92127,400000,3,2.0,1040.0,,1994.0,440.0,http://www.redfin.com/CA/San-Diego/17081-W-Bernardo-Dr-92127/unit-202/home/6615548,33.0265196,-117.0808719
-91,Single Family Residential,8212 Fortuna Santa Fe Rd,San Diego,CA,92127,2795000,5,4.5,4086.0,107593.0,2012.0,,http://www.redfin.com/CA/San-Diego/8212-Fortuna-Santa-Fe-Rd-92127/home/22900256,33.0130059,-117.1542784
-92,Condo/Co-op,1050 Island Ave #418,San Diego,CA,92101,649999,2,2.0,1364.0,,2005.0,510.0,http://www.redfin.com/CA/San-Diego/1050-Island-Ave-92101/unit-418/home/6676850,32.7108408,-117.15510819999999
-93,Single Family Residential,15318 Avenida Rorras,San Diego,CA,92128,775000,3,2.0,1843.0,6344.0,1987.0,142.0,http://www.redfin.com/CA/San-Diego/15318-Avenida-Rorras-92128/home/4640457,32.9944845,-117.07005330000001
-94,Condo/Co-op,3887 Pell Pl #320,San Diego,CA,92130,470000,1,1.0,748.0,,2006.0,252.0,http://www.redfin.com/CA/San-Diego/3887-Pell-Pl-92130/unit-320/home/12155979,32.949024699999995,-117.23055990000002
-95,Condo/Co-op,4444 W Point Loma Blvd #36,San Diego,CA,92107,349000,1,1.0,725.0,,1966.0,425.0,http://www.redfin.com/CA/San-Diego/4444-W-Point-Loma-Blvd-92107/unit-36/home/5273004,32.7528016,-117.2320731
-96,Condo/Co-op,8309 Distinctive Dr,San Diego,CA,92108,879000,2,2.5,1547.0,,2015.0,250.0,http://www.redfin.com/CA/San-Diego/8309-Distinctive-Dr-92108/home/112890410,32.780083399999995,-117.1492685
-97,Single Family Residential,4496 Cape May Ave,San Diego,CA,92107,1280000,2,1.0,1257.0,7000.0,1941.0,,http://www.redfin.com/CA/San-Diego/4496-Cape-May-Ave-92107/home/5340540,32.7441354,-117.2398929
-98,Single Family Residential,4247 Hamilton St,San Diego,CA,92104,699000,3,3.0,958.0,,1941.0,,http://www.redfin.com/CA/San-Diego/4247-Hamilton-St-92104/home/5301067,32.7547489,-117.1361494
-99,Single Family Residential,704 Iona Dr,San Diego,CA,92114,495000,3,2.0,828.0,6300.0,1942.0,,http://www.redfin.com/CA/San-Diego/704-Iona-Dr-92114/home/5878965,32.7123446,-117.0692143
-100,Single Family Residential,10938 Jasmine Crest Ln,San Diego,CA,92121,924900,4,2.0,1832.0,,1998.0,52.0,http://www.redfin.com/CA/San-Diego/10938-Jasmine-Crest-Ln-92121/home/4596824,32.9165458,-117.18897820000001
-101,Single Family Residential,15413 Artesian Ridge Rd,San Diego,CA,92127,2795000,6,5.0,5415.0,42688.0,2013.0,284.0,http://www.redfin.com/CA/San-Diego/15413-Artesian-Ridge-Rd-92127/home/22390729,33.0101837,-117.1491673
-102,Single Family Residential,8206 Calle Calzada,San Diego,CA,92126,699900,3,2.0,1149.0,5000.0,1971.0,,http://www.redfin.com/CA/San-Diego/8206-Calle-Calzada-92126/home/4529352,32.9207065,-117.1470867
-103,Condo/Co-op,3532 Meade Ave,San Diego,CA,92116,269000,1,1.0,596.0,,1970.0,254.0,http://www.redfin.com/CA/San-Diego/3532-Meade-Ave-92116/home/5315185,32.757200899999994,-117.11720490000002
-104,Condo/Co-op,1605 Hotel Cir S Unit B115,San Diego,CA,92108,399900,2,2.0,950.0,206887.0,1972.0,461.0,http://www.redfin.com/CA/San-Diego/1605-Hotel-Cir-S-92108/unit-B115/home/5278205,32.757867100000006,-117.17849170000001
-105,Townhouse,3793 Balboa Ter Unit A,San Diego,CA,92117,679000,3,2.0,1659.0,,1982.0,400.0,http://www.redfin.com/CA/San-Diego/3793-Balboa-Ter-92117/unit-A/home/6254455,32.8109041,-117.2084463
-106,Condo/Co-op,3520 Lebon Dr #5113,San Diego,CA,92122,384999,1,1.0,600.0,275850.0,2006.0,326.0,http://www.redfin.com/CA/San-Diego/3520-Lebon-Dr-92122/unit-5113/home/6698126,32.8691664,-117.2258375
-107,Single Family Residential,4222 Conrad,San Diego,CA,92117,639500,3,2.0,1080.0,,1958.0,,http://www.redfin.com/CA/San-Diego/4222-Conrad-Ave-92117/home/6236768,32.8355859,-117.2008
-108,Condo/Co-op,988 G St #32,San Diego,CA,92101,419000,1,1.0,660.0,19048.0,1999.0,195.0,http://www.redfin.com/CA/San-Diego/988-G-St-92101/unit-32/home/7538869,32.7128295,-117.1560274
-109,Condo/Co-op,1389 Caminito Gabaldon Unit G,San Diego,CA,92108,310000,2,1.0,726.0,,1975.0,280.0,http://www.redfin.com/CA/San-Diego/1389-Caminito-Gabaldon-92108/unit-G/home/5256386,32.7726304,-117.15242620000001
-110,Single Family Residential,1504 Glenwood Dr,San Diego,CA,92103,1479000,4,3.0,2173.0,4899.0,1927.0,,http://www.redfin.com/CA/San-Diego/1504-Glenwood-Dr-92103/home/5362192,32.742125099999996,-117.1771385
-111,Single Family Residential,3628 Gayle St,San Diego,CA,92115,489000,3,1.5,1100.0,,1951.0,,http://www.redfin.com/CA/San-Diego/3628-Gayle-St-92115/home/5519293,32.746206199999996,-117.06554809999999
-112,Condo/Co-op,11259 Avenida de Los Lobos Unit H,San Diego,CA,92127,385000,2,2.0,894.0,,1990.0,337.0,http://www.redfin.com/CA/San-Diego/11259-Avenida-De-Los-Lobos-92127/unit-H/home/6399538,33.0024617,-117.0905629
-113,Condo/Co-op,1333 8th Ave #206,San Diego,CA,92101,315000,1,1.0,673.0,,1982.0,441.0,http://www.redfin.com/CA/San-Diego/1333-Eighth-Ave-92101/unit-206/home/5765324,32.719240299999996,-117.1571601
-114,Single Family Residential,5615 Dream St,San Diego,CA,92114,539000,3,1.5,1076.0,,1953.0,,http://www.redfin.com/CA/San-Diego/5615-Dream-St-92114/home/5875208,32.7052076,-117.0748342
-115,Condo/Co-op,1681 Bayview Heights Dr #32,San Diego,CA,92105,224900,1,1.0,521.0,,1979.0,230.0,http://www.redfin.com/CA/San-Diego/1681-Bayview-Heights-Dr-92105/unit-32/home/6677836,32.7232472,-117.07818490000001
-116,Multi-Family (2-4 Unit),1752-1754 Dahlia Ave,San Diego,CA,92154,725000,8,5.0,,,1988.0,,http://www.redfin.com/CA/San-Diego/1752-Dahlia-Ave-92154/home/6147349,32.583076,-117.0958415
-117,Single Family Residential,4084 Hatton St,San Diego,CA,92111,619000,4,2.0,1300.0,,1961.0,,http://www.redfin.com/CA/San-Diego/4084-Hatton-St-92111/home/5162714,32.8181591,-117.16321599999999
-118,Condo/Co-op,6780 Friars Rd #248,San Diego,CA,92108,309000,1,1.0,664.0,211014.0,1972.0,295.0,http://www.redfin.com/CA/San-Diego/6780-Friars-Rd-92108/unit-248/home/5247001,32.7686413,-117.17357709999999
-119,Condo/Co-op,6808 Fashion Hls,San Diego,CA,92111,642000,3,2.0,1450.0,,1982.0,205.0,http://www.redfin.com/CA/San-Diego/6808-Fashion-Hills-Blvd-92111/home/5250083,32.770849,-117.17101100000001
-120,Condo/Co-op,15273 MATURIN Dr #32,San Diego,CA,92127,375000,1,1.0,769.0,71972.0,1995.0,323.0,http://www.redfin.com/CA/San-Diego/15273-Maturin-Dr-92127/unit-32/home/7531527,33.004439399999995,-117.09080690000002
-121,Condo/Co-op,2054 Bluehaven Ct,San Diego,CA,92154,440000,3,2.5,1338.0,1447.0,1985.0,128.0,http://www.redfin.com/CA/San-Diego/2054-Bluehaven-Ct-92154/home/6183932,32.55807,-117.0666514
-122,Single Family Residential,1283 Van Nuys St,San Diego,CA,92109,2795000,4,3.5,3187.0,6250.0,2020.0,,http://www.redfin.com/CA/San-Diego/1283-Van-Nuys-St-92109/home/5124981,32.8130425,-117.25111170000001
-123,Condo/Co-op,2400 5Th Ave #205,San Diego,CA,92101,460000,1,1.0,787.0,60174.0,2003.0,457.0,http://www.redfin.com/CA/San-Diego/2400-Fifth-Ave-92101/unit-205/home/7543203,32.7308634,-117.1607398
-124,Condo/Co-op,6330 Genesee Ave #106,San Diego,CA,92122,265000,1,1.0,578.0,106921.0,1985.0,247.0,http://www.redfin.com/CA/San-Diego/6330-Genesee-Ave-92122/unit-106/home/4892454,32.8532736,-117.204742
-125,Single Family Residential,831 Salem Ct,San Diego,CA,92109,2099000,4,4.5,1698.0,1576.0,1926.0,,http://www.redfin.com/CA/San-Diego/831-Salem-Ct-92109/home/5182569,32.785104499999996,-117.25215659999999
-126,Condo/Co-op,6275 Rancho Mission Rd #209,San Diego,CA,92108,279999,1,1.0,667.0,,1979.0,320.0,http://www.redfin.com/CA/San-Diego/6275-Rancho-Mission-Rd-92108/unit-209/home/5232122,32.787067300000004,-117.10765959999999
-127,Townhouse,4736 Renovo Way,San Diego,CA,92124,749000,3,2.5,1913.0,2030.0,1980.0,430.0,http://www.redfin.com/CA/San-Diego/4736-Renovo-Way-92124/home/4993007,32.827062,-117.078024
-128,Condo/Co-op,4152 Oregon St Apt 7,San Diego,CA,92104,424000,2,1.0,748.0,,1982.0,243.0,http://www.redfin.com/CA/San-Diego/4152-Oregon-St-92104/unit-7/home/5303239,32.7531925,-117.13546740000001
-129,Condo/Co-op,2040 K St #4,San Diego,CA,92102,440000,2,2.0,1026.0,7461.0,1981.0,250.0,http://www.redfin.com/CA/San-Diego/2040-K-St-92102/unit-4/home/5774838,32.7085686,-117.1451894
-130,Multi-Family (2-4 Unit),4445-4447 Hedionda Ct,San Diego,CA,92117,1299000,5,3.5,2480.0,,2020.0,,http://www.redfin.com/CA/San-Diego/4445-Hedionda-Ct-92117/home/4950363,32.8244769,-117.21150420000001
-131,Single Family Residential,8715 San Vicente St,San Diego,CA,92114,550000,3,2.0,1442.0,,1975.0,,http://www.redfin.com/CA/San-Diego/8715-San-Vicente-St-92114/home/6030027,32.7116794,-117.02003059999998
-132,Single Family Residential,12889 Camino Ramillette,San Diego,CA,92128,699000,3,2.0,1565.0,,1980.0,230.0,http://www.redfin.com/CA/San-Diego/12889-Camino-Ramillette-92128/home/4208033,33.038095,-117.050509
-133,Condo/Co-op,1801 Diamond St #3216,San Diego,CA,92109,385000,1,1.0,678.0,,1975.0,407.0,http://www.redfin.com/CA/San-Diego/1801-Diamond-St-92109/unit-3216/home/142957472,32.803110499999995,-117.23833470000001
-134,Single Family Residential,4950 Pacifica Dr,San Diego,CA,92109,1375000,3,2.0,1678.0,10700.0,1961.0,,http://www.redfin.com/CA/San-Diego/4950-Pacifica-Dr-92109/home/5146288,32.8115769,-117.2227131
-135,Townhouse,13524 Ridley Rd,San Diego,CA,92129,724900,3,2.5,1644.0,,1984.0,90.0,http://www.redfin.com/CA/San-Diego/13524-Ridley-Rd-92129/home/4762971,32.958509,-117.1208568
-136,Single Family Residential,11767 Invierno Dr,San Diego,CA,92124,1199000,6,3.0,3373.0,17681.0,1980.0,,http://www.redfin.com/CA/San-Diego/11767-Invierno-Dr-92124/home/6424566,32.8170126,-117.07754650000001
-137,Single Family Residential,5121 34th,San Diego,CA,92116,644900,2,1.0,1056.0,,1921.0,,http://www.redfin.com/CA/San-Diego/5121-34th-St-92116/home/5261323,32.7711058,-117.1207993
-138,Condo/Co-op,836 W Pennsylvania #211,San Diego,CA,92103,425000,1,1.0,900.0,,2000.0,141.0,http://www.redfin.com/CA/San-Diego/836-W-Pennsylvania-Ave-92103/unit-211/home/11320360,32.745554399999996,-117.17091029999999
-139,Townhouse,4155 Corte de la Siena,San Diego,CA,92130,910000,3,2.0,1218.0,,1988.0,,http://www.redfin.com/CA/San-Diego/4155-Corte-De-La-Siena-92130/home/4509468,32.9472489,-117.2263192
-140,Townhouse,723 S 47th St,San Diego,CA,92113,750000,6,4.0,2545.0,5401.0,2004.0,,http://www.redfin.com/CA/San-Diego/723-S-47th-St-92113/home/5873038,32.698143,-117.0933851
-141,Single Family Residential,3694 Old Cobble Rd,San Diego,CA,92111,800000,3,2.5,1669.0,,1983.0,132.0,http://www.redfin.com/CA/San-Diego/3694-Old-Cobble-Rd-92111/home/5206497,32.8053071,-117.1782412
-142,Condo/Co-op,425 W Beech St #1355,San Diego,CA,92101,679900,2,2.0,975.0,59910.0,2004.0,773.0,http://www.redfin.com/CA/San-Diego/425-W-Beech-St-92101/unit-1355/home/6641062,32.7203803,-117.1669418
-143,Single Family Residential,2735 Bay Canyon Ct,San Diego,CA,92117,860000,3,2.0,1789.0,3700.0,1978.0,105.0,http://www.redfin.com/CA/San-Diego/2735-Bay-Canyon-Ct-92117/home/5204712,32.7908843,-117.199973
-144,Condo/Co-op,5103 Fontaine St #116,San Diego,CA,92120,419000,2,2.0,937.0,,1980.0,390.0,http://www.redfin.com/CA/San-Diego/5103-Fontaine-St-92120/unit-116/home/5426776,32.8002359,-117.0834969
-145,Condo/Co-op,6202 Friars Rd #220,San Diego,CA,92108,298000,1,1.0,661.0,,1973.0,299.0,http://www.redfin.com/CA/San-Diego/6202-Friars-Rd-92108/unit-220/home/5246124,32.766878600000005,-117.1803846
-146,Single Family Residential,10757 Cariuto Ct,San Diego,CA,92124,699000,4,2.0,1558.0,2900.0,1973.0,164.0,http://www.redfin.com/CA/San-Diego/10757-Cariuto-Ct-92124/home/4989483,32.8241592,-117.0984041
-147,Condo/Co-op,12604 Carmel Country #21,San Diego,CA,92130,595000,2,2.5,1050.0,,1993.0,450.0,http://www.redfin.com/CA/San-Diego/12604-Carmel-Country-Rd-92130/unit-21/home/4456087,32.950334000000005,-117.22934690000001
-148,Condo/Co-op,1205 Pacific Hwy #604,San Diego,CA,92101,525000,1,1.5,899.0,,2005.0,939.0,http://www.redfin.com/CA/San-Diego/1205-Pacific-Hwy-92101/unit-604/home/6675224,32.718317600000006,-117.17051770000002
-149,Condo/Co-op,3135 Dickens St,San Diego,CA,92106,615000,2,2.5,1036.0,9996.0,1993.0,300.0,http://www.redfin.com/CA/San-Diego/3135-Dickens-St-92106/home/5740135,32.724646,-117.231848
-150,Single Family Residential,5811 Calle Casas Bonitas,San Diego,CA,92139,599999,4,3.0,1530.0,7400.0,1975.0,,http://www.redfin.com/CA/San-Diego/5811-Calle-Casas-Bonitas-92139/home/6045986,32.669080199999996,-117.0616864
-151,Multi-Family (2-4 Unit),3761-63 Promontory St,San Diego,CA,92109,1900000,6,5.0,,4962.0,1970.0,,http://www.redfin.com/CA/San-Diego/3761-Promontory-St-92109/unit-3763/home/5179594,32.788042,-117.23800700000001
-152,Condo/Co-op,3535 Madison Ave #230,San Diego,CA,92116,439000,2,2.0,950.0,93700.0,1984.0,346.0,http://www.redfin.com/CA/San-Diego/3535-Madison-Ave-92116/unit-230/home/7537309,32.7603724,-117.1172463
-153,Single Family Residential,352 44th,San Diego,CA,92102,560000,4,1.5,1897.0,,1945.0,,http://www.redfin.com/CA/San-Diego/352-44th-St-92102/home/5870489,32.708888,-117.0999324
-154,Condo/Co-op,5745 Friars Rd #113,San Diego,CA,92110,349000,1,1.0,695.0,,1980.0,427.0,http://www.redfin.com/CA/San-Diego/5745-Friars-Rd-92110/unit-113/home/5240214,32.7639859,-117.188657
-155,Single Family Residential,4619 Florida St,San Diego,CA,92116,915000,4,2.5,1772.0,3641.0,1992.0,,http://www.redfin.com/CA/San-Diego/4619-Florida-St-92116/home/5292233,32.7614116,-117.1435091
-156,Townhouse,7290 Hyatt St #8,San Diego,CA,92111,579000,3,2.5,1544.0,,2006.0,388.0,http://www.redfin.com/CA/San-Diego/7290-Hyatt-St-92111/unit-8/home/17140942,32.79094,-117.1651918
-157,Single Family Residential,2829 State,San Diego,CA,92103,1250000,4,3.0,2117.0,,1935.0,,http://www.redfin.com/CA/San-Diego/2829-State-St-92103/home/5365384,32.734413599999996,-117.17097
-158,Townhouse,16137 Veridian Cir,San Diego,CA,92127,950000,5,3.0,2295.0,,2017.0,252.0,http://www.redfin.com/CA/San-Diego/16137-Veridian-Cir-92127/home/125769332,33.0109509,-117.123742
-159,Condo/Co-op,2500 6th Ave #908,San Diego,CA,92103,1999000,3,2.5,2625.0,,2005.0,1505.0,http://www.redfin.com/CA/San-Diego/2500-Sixth-Ave-92103/unit-908/home/7536982,32.731687300000004,-117.1598633
-160,Condo/Co-op,3466 Spring Tide Ter,San Diego,CA,92110,549777,2,2.0,1227.0,,2006.0,232.0,http://www.redfin.com/CA/San-Diego/3466-Spring-Tide-Ter-92110/home/12160170,32.7492023,-117.2148229
-161,Condo/Co-op,8566 Aspect Dr,San Diego,CA,92108,875000,3,2.0,1656.0,,2018.0,192.0,http://www.redfin.com/CA/San-Diego/8566-Aspect-Dr-92108/home/145147627,32.781126,-117.147939
-162,Condo/Co-op,2920 Briarwood Unit F12,San Diego,CA,91902,285000,1,1.0,599.0,,1980.0,257.0,http://www.redfin.com/CA/Bonita/2920-Briarwood-Rd-91902/unit-F12/home/6057043,32.6801289,-117.03032079999998
-163,Condo/Co-op,2020 Camino De La Reina #210,San Diego,CA,92108,474900,2,2.0,1025.0,336710.0,1992.0,458.0,http://www.redfin.com/CA/San-Diego/2020-Camino-De-La-Reina-92108/unit-210/home/5259533,32.7719307,-117.14246729999999
-164,Condo/Co-op,3951 Idaho #3,San Diego,CA,92104,429000,2,2.0,748.0,,1981.0,225.0,http://www.redfin.com/CA/San-Diego/3951-Idaho-St-92104/unit-3/home/5307551,32.749463,-117.13350200000001
-165,Condo/Co-op,3890 Nobel #804,San Diego,CA,92122,370000,1,1.5,1055.0,,1991.0,2436.0,http://www.redfin.com/CA/San-Diego/3890-Nobel-Dr-92122/unit-804/home/4871404,32.8687994,-117.2230067
-166,Condo/Co-op,5645 FRIARS Rd #341,San Diego,CA,92110,447300,2,2.0,1060.0,,1981.0,480.0,http://www.redfin.com/CA/San-Diego/5645-Friars-Rd-92110/unit-341/home/5241026,32.763545,-117.1900895
-167,Condo/Co-op,700 W Harbor Dr #407,San Diego,CA,92101,975000,2,2.0,1374.0,,2004.0,1029.0,http://www.redfin.com/CA/San-Diego/700-W-Harbor-Dr-92101/unit-407/home/6565700,32.7120231,-117.16965379999999
-168,Condo/Co-op,10264 Maya Linda Rd #46,San Diego,CA,92126,400000,2,1.5,884.0,97307.0,1980.0,287.0,http://www.redfin.com/CA/San-Diego/10264-Maya-Linda-Rd-92126/unit-46/home/6683920,32.9041722,-117.1173896
-169,Condo/Co-op,11165 Affinity Ct #37,San Diego,CA,92131,434999,2,2.0,1032.0,,1992.0,415.0,http://www.redfin.com/CA/San-Diego/11165-Affinity-Ct-92131/unit-37/home/4819050,32.9223034,-117.1106797
-170,Single Family Residential,4797 Chateau,San Diego,CA,92117,725000,3,2.0,1140.0,21600.0,1965.0,,http://www.redfin.com/CA/San-Diego/4797-Chateau-Dr-92117/home/4966434,32.828601899999995,-117.1876142
-171,Condo/Co-op,3440 Lebon #4103,San Diego,CA,92122,515000,2,2.0,1001.0,,2006.0,338.0,http://www.redfin.com/CA/San-Diego/3440-Lebon-Dr-92122/unit-4103/home/7539867,32.8679368,-117.2254105
-172,Single Family Residential,4831 Monroe Ave,San Diego,CA,92115,749000,3,2.0,1299.0,4200.0,1941.0,,http://www.redfin.com/CA/San-Diego/4831-Monroe-Ave-92115/home/5460380,32.7588221,-117.09021070000001
-173,Condo/Co-op,580 Camino de la Reina #325,San Diego,CA,92108,465000,2,2.0,1274.0,,1991.0,428.0,http://www.redfin.com/CA/San-Diego/580-Camino-De-La-Reina-92108/unit-325/home/5253042,32.7672649,-117.16067120000001
-174,Single Family Residential,4031 Datcho Dr,San Diego,CA,92117,910000,4,3.0,2528.0,6200.0,1985.0,,http://www.redfin.com/CA/San-Diego/4031-Datcho-Dr-92117/home/5149996,32.814291600000004,-117.20171880000001
-175,Single Family Residential,751 Gage,San Diego,CA,92106,1295000,3,2.0,1624.0,4792.0,1956.0,,http://www.redfin.com/CA/San-Diego/751-Gage-Dr-92106/home/5745419,32.7174958,-117.2413703
-176,Single Family Residential,6359 Cowles Mountain Blvd,San Diego,CA,92119,709000,3,2.0,1296.0,6200.0,1961.0,,http://www.redfin.com/CA/San-Diego/6359-Cowles-Mountain-Blvd-92119/home/6253034,32.797153,-117.0269278
-177,Condo/Co-op,2224 River Run Dr #149,San Diego,CA,92108,399500,2,1.0,928.0,,1986.0,360.0,http://www.redfin.com/CA/San-Diego/2224-River-Run-Dr-92108/unit-149/home/5227580,32.778317,-117.1344827
-178,Single Family Residential,4275 Shorepointe Way,San Diego,CA,92130,1469000,5,3.5,3211.0,,2000.0,26.0,http://www.redfin.com/CA/San-Diego/4275-Shorepointe-Way-92130/home/6397156,32.92219,-117.2222997
-179,Condo/Co-op,3131 Groton Way #4,San Diego,CA,92110,484999,2,2.0,1018.0,111875.0,1964.0,475.0,http://www.redfin.com/CA/San-Diego/3131-Groton-Way-92110/unit-4/home/5275764,32.752419800000006,-117.2209633
-180,Condo/Co-op,4013 OAKCREST Dr #5,San Diego,CA,92105,200000,1,1.0,646.0,,1981.0,264.0,http://www.redfin.com/CA/San-Diego/4013-Oakcrest-Dr-92105/unit-5/home/28512569,32.7494196,-117.08524709999999
-181,Single Family Residential,10741 Calston Way,San Diego,CA,92126,849000,4,2.5,1920.0,,1993.0,,http://www.redfin.com/CA/San-Diego/10741-Calston-Way-92126/home/4593376,32.9125131,-117.16799479999999
-182,Condo/Co-op,7974 Playmor Ter,San Diego,CA,92122,699000,4,2.0,1450.0,,1977.0,400.0,http://www.redfin.com/CA/San-Diego/7974-Playmor-Ter-92122/home/4901406,32.863257,-117.21740700000001
-183,Condo/Co-op,4067 1St Ave,San Diego,CA,92103,875000,3,3.0,1760.0,26630.0,2004.0,446.0,http://www.redfin.com/CA/San-Diego/4067-1st-Ave-92103/home/6686539,32.751236999999996,-117.163723
-184,Condo/Co-op,8337 Distinctive Dr,San Diego,CA,92108,889999,3,2.5,1666.0,,2015.0,532.0,http://www.redfin.com/CA/San-Diego/8337-Distinctive-Dr-92108/home/112890081,32.7799211,-117.14949070000002
-185,Single Family Residential,4333 Felton St,San Diego,CA,92104,599900,2,1.0,720.0,,1931.0,,http://www.redfin.com/CA/San-Diego/4333-Felton-St-92104/home/5323751,32.756031300000004,-117.1209027
-186,Single Family Residential,3484 Robb Roy Pl,San Diego,CA,92154,649000,5,2.5,1756.0,,1977.0,,http://www.redfin.com/CA/San-Diego/3484-Robb-Roy-Pl-92154/home/6160375,32.5818049,-117.05883600000001
-187,Single Family Residential,3808 Rancho La Bella,San Diego,CA,92130,3300000,5,5.5,6235.0,23086.0,2015.0,485.0,http://www.redfin.com/CA/San-Diego/3808-Rancho-La-Bella-92130/home/52346039,32.9723192,-117.2332063
-188,Condo/Co-op,12608 Carmel Country Rd #27,San Diego,CA,92130,599999,2,2.0,1034.0,,1993.0,450.0,http://www.redfin.com/CA/San-Diego/12608-Carmel-Country-Rd-92130/unit-27/home/4456096,32.950334000000005,-117.22934690000001
-189,Condo/Co-op,10832 Scripps Ranch Blvd Apt 310,San Diego,CA,92131,635900,3,2.0,1444.0,,2002.0,280.0,http://www.redfin.com/CA/San-Diego/10832-Scripps-Ranch-Blvd-92131/unit-310/home/12160114,32.9150531,-117.11165700000001
-190,Townhouse,6553 Caminito Estrellado,San Diego,CA,92120,751900,4,2.5,2584.0,,1975.0,350.0,http://www.redfin.com/CA/San-Diego/6553-Caminito-Estrellado-92120/home/6244881,32.7927021,-117.0631115
-191,Single Family Residential,12429 DAMASCO Ct,San Diego,CA,92128,915000,4,2.5,2061.0,,1971.0,23.0,http://www.redfin.com/CA/San-Diego/12429-Damasco-Ct-92128/home/4226521,33.0348877,-117.06255990000001
-192,Single Family Residential,4909 Dafter Dr,San Diego,CA,92102,589000,3,2.0,1420.0,6600.0,1956.0,,http://www.redfin.com/CA/San-Diego/4909-Dafter-Dr-92102/home/5841135,32.727191,-117.0895442
-193,Condo/Co-op,5219 Marigot Pl,San Diego,CA,92124,539000,4,2.5,1400.0,,1977.0,440.0,http://www.redfin.com/CA/San-Diego/5219-Marigot-Pl-92124/home/4987151,32.826073,-117.094199
-194,Condo/Co-op,4316 Collwood Ln,San Diego,CA,92115,520000,3,2.0,1722.0,,1967.0,460.0,http://www.redfin.com/CA/San-Diego/4316-Collwood-Ln-92115/home/5463657,32.7638908,-117.08417890000001
-195,Townhouse,13457 Tiverton Rd,San Diego,CA,92130,770000,3,2.5,1445.0,146601.0,1988.0,290.0,http://www.redfin.com/CA/San-Diego/13457-Tiverton-Rd-92130/home/4463718,32.959583,-117.234778
-196,Single Family Residential,7182 Bobhird,San Diego,CA,92119,780000,5,3.0,2133.0,,1968.0,,http://www.redfin.com/CA/San-Diego/7182-Bobhird-Dr-92119/home/5424806,32.812221,-117.01460459999998
-197,Single Family Residential,5002 Mount Harris Dr,San Diego,CA,92117,669000,4,2.0,1402.0,6800.0,1958.0,,http://www.redfin.com/CA/San-Diego/5002-Mt-Harris-Dr-92117/home/4960959,32.8242523,-117.1865115
-198,Single Family Residential,4624 Max Dr,San Diego,CA,92115,714000,2,1.0,872.0,13000.0,1945.0,,http://www.redfin.com/CA/San-Diego/4624-Max-Dr-92115/home/5459798,32.759471000000005,-117.09487630000001
-199,Single Family Residential,1624 30th St,San Diego,CA,92102,1225000,3,2.0,3048.0,,1911.0,,http://www.redfin.com/CA/San-Diego/1624-30th-St-92102/home/5821258,32.7229125,-117.1305426
-200,Single Family Residential,4870 Doliva Dr,San Diego,CA,92117,599000,3,1.0,1500.0,7400.0,1961.0,,http://www.redfin.com/CA/San-Diego/4870-Doliva-Dr-92117/home/4964793,32.83327,-117.175852
-201,Single Family Residential,2965 Mobley St,San Diego,CA,92123,699000,3,2.0,1150.0,6000.0,1985.0,,http://www.redfin.com/CA/San-Diego/2965-Mobley-St-92123/home/5214764,32.7974462,-117.13523020000001
-202,Condo/Co-op,3893 Groton St #1,San Diego,CA,92110,349000,1,1.0,877.0,,1964.0,445.0,http://www.redfin.com/CA/San-Diego/3893-Groton-St-92110/unit-1/home/6420376,32.7535126,-117.2212572
-203,Townhouse,5932 Cumberland St,San Diego,CA,92139,875000,6,4.0,2800.0,8220.0,2000.0,,http://www.redfin.com/CA/San-Diego/5932-Cumberland-St-92139/unit-5934/home/6044269,32.676075,-117.062647
-204,Condo/Co-op,1905 Avenida Del Mexico #258,San Diego,CA,92154,329900,2,2.0,885.0,,1987.0,275.0,http://www.redfin.com/CA/San-Diego/1905-Avenida-Del-Mexico-92154/unit-258/home/12159605,32.5828586,-117.0916068
-205,Single Family Residential,5515 Valerio Trl,San Diego,CA,92130,1619000,5,3.5,3377.0,6307.0,2003.0,148.0,http://www.redfin.com/CA/San-Diego/5515-Valerio-Trl-92130/home/6542702,32.962073,-117.2013283
-206,Townhouse,500 W Harbor Dr #1404,San Diego,CA,92101,1739000,3,3.0,2069.0,102536.0,1994.0,1010.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-1404/home/6489368,32.7110037,-117.16634429999999
-207,Condo/Co-op,1388 Kettner Blvd #1003,San Diego,CA,92101,866900,2,2.0,1235.0,,2019.0,934.0,http://www.redfin.com/CA/San-Diego/1388-Kettner-Blvd-92101/unit-1003/home/172651452,32.7196802,-117.16934099999999
-208,Condo/Co-op,1388 Kettner Blvd #702,San Diego,CA,92101,1309900,2,2.0,1632.0,,2019.0,995.0,http://www.redfin.com/CA/San-Diego/1388-Kettner-Blvd-92101/unit-702/home/170146343,32.7196802,-117.16934099999999
-209,Single Family Residential,605 Lobrico Ct,San Diego,CA,92114,511000,3,2.0,1263.0,6316.0,2000.0,,http://www.redfin.com/CA/San-Diego/605-Lobrico-Ct-92114/home/6010408,32.7109563,-117.04313540000001
-210,Single Family Residential,1922 Mission Ave,San Diego,CA,92116,1149900,3,2.0,1777.0,,1927.0,,http://www.redfin.com/CA/San-Diego/1922-Mission-Ave-92116/home/5297173,32.758571,-117.14453629999998
-211,Townhouse,350 Nutmeg St #106,San Diego,CA,92103,707285,3,3.0,1813.0,,2004.0,450.0,http://www.redfin.com/CA/San-Diego/350-Nutmeg-St-92103/unit-106/home/6671469,32.7337921,-117.16168049999999
-212,Condo/Co-op,2319 CURLEW #9,San Diego,CA,92101,520000,2,1.5,840.0,,1979.0,340.0,http://www.redfin.com/CA/San-Diego/2319-Curlew-St-92101/unit-9/home/5749710,32.7294974,-117.1672882
-213,Townhouse,1483 Camino Zalce,San Diego,CA,92111,659900,3,2.0,1450.0,,1980.0,205.0,http://www.redfin.com/CA/San-Diego/1483-Camino-Zalce-92111/home/5250255,32.772888,-117.171097
-214,Condo/Co-op,8889 Caminito Plaza Centro #7319,San Diego,CA,92122,379500,1,1.0,535.0,275850.0,2006.0,310.0,http://www.redfin.com/CA/San-Diego/8889-Caminito-Plaza-Centro-92122/unit-7319/home/7543057,32.8691664,-117.2258375
-215,Single Family Residential,4917 Magnus Way,San Diego,CA,92113,499000,4,2.0,1345.0,6900.0,1972.0,,http://www.redfin.com/CA/San-Diego/4917-Magnus-Way-92113/home/5905423,32.6915584,-117.08926840000001
-216,Condo/Co-op,5283 Marigot Pl,San Diego,CA,92124,529000,3,1.5,1250.0,130147.0,1977.0,440.0,http://www.redfin.com/CA/San-Diego/5283-Marigot-Pl-92124/home/4987029,32.826913,-117.093273
-217,Condo/Co-op,550 Front St #806,San Diego,CA,92101,724900,2,2.0,1045.0,,2005.0,1124.0,http://www.redfin.com/CA/San-Diego/550-Front-St-92101/unit-806/home/22805939,32.711071000000004,-117.16515359999998
-218,Single Family Residential,2793 Villas Way,San Diego,CA,92108,669500,3,2.5,1435.0,,2004.0,252.0,http://www.redfin.com/CA/San-Diego/2793-Villas-Way-92108/unit-A/home/6670153,32.7841092,-117.1340179
-219,Condo/Co-op,321 10Th Ave #1001,San Diego,CA,92101,694900,2,2.0,1103.0,55157.0,2007.0,677.0,http://www.redfin.com/CA/San-Diego/321-Tenth-Ave-92101/unit-1001/home/12161191,32.7088486,-117.15507679999999
-220,Single Family Residential,7281 Canyon Glen Ct,San Diego,CA,92129,1249000,5,2.5,2757.0,4582.0,2003.0,75.0,http://www.redfin.com/CA/San-Diego/7281-Canyon-Glen-Ct-92129/home/6507033,32.958351,-117.1618969
-221,Single Family Residential,4911 W Mountain View Dr,San Diego,CA,92116,1100000,3,2.5,1496.0,8925.0,1944.0,,http://www.redfin.com/CA/San-Diego/4911-W-Mountain-View-Dr-92116/home/5262000,32.7677831,-117.12507350000001
-222,Single Family Residential,857 Rosecrans St,San Diego,CA,92106,2460000,3,2.5,2812.0,6407.0,1939.0,,http://www.redfin.com/CA/San-Diego/857-Rosecrans-St-92106/home/5743125,32.718073,-117.23541429999999
-223,Condo/Co-op,4427 Tremont St #16,San Diego,CA,92102,275000,2,1.5,830.0,65775.0,1983.0,294.0,http://www.redfin.com/CA/San-Diego/4427-Tremont-St-92102/unit-16/home/7494260,32.7143711,-117.0992142
-224,Condo/Co-op,3755 OCEAN FRONT Walk #3,San Diego,CA,92109,1149900,2,1.0,784.0,,1972.0,475.0,http://www.redfin.com/CA/San-Diego/3755-Ocean-Front-Walk-92109/unit-3/home/5182631,32.7837514,-117.2535683
-225,Single Family Residential,2202 Judith Ave,San Diego,CA,92154,530000,3,1.0,1681.0,6400.0,1958.0,,http://www.redfin.com/CA/San-Diego/2202-Judith-Ave-92154/home/6175156,32.5715054,-117.0861426
-226,Single Family Residential,,San Diego,CA,92127,2095000,4,4.5,4795.0,34412.0,2014.0,550.0,http://www.redfin.com/CA/San-Diego/Undisclosed-address-92127/home/22900788,33.0245951,-117.14894790000001
-227,Single Family Residential,760 Van Nuys St,San Diego,CA,92109,1689000,3,2.0,1324.0,5300.0,1950.0,,http://www.redfin.com/CA/San-Diego/760-Van-Nuys-St-92109/home/5124213,32.8115381,-117.26060759999999
-228,Condo/Co-op,4834 W Mountain View Dr #6,San Diego,CA,92116,249900,0,1.0,364.0,,1990.0,207.0,http://www.redfin.com/CA/San-Diego/4834-W-Mountain-View-Dr-92116/unit-6/home/6693182,32.766242,-117.1261688
-229,Condo/Co-op,2842 39th St #4,San Diego,CA,92105,259899,2,1.0,782.0,,1979.0,300.0,http://www.redfin.com/CA/San-Diego/2842-39th-St-92105/unit-4/home/5398193,32.734353000000006,-117.1111433
-230,Condo/Co-op,11145 Affinity #21,San Diego,CA,92131,480000,2,2.0,1032.0,,1995.0,419.0,http://www.redfin.com/CA/San-Diego/11145-Affinity-Ct-92131/unit-21/home/4819100,32.921364000000004,-117.11077579999998
-231,Condo/Co-op,800 The Mark Ln #2305,San Diego,CA,92101,979000,2,2.0,1133.0,,2007.0,785.0,http://www.redfin.com/CA/San-Diego/800-The-Mark-Ln-92101/unit-2305/home/17200831,32.710961100000006,-117.1569316
-232,Condo/Co-op,575 6th Ave #1306,San Diego,CA,92101,745000,2,2.0,1144.0,,2007.0,644.0,http://www.redfin.com/CA/San-Diego/575-Sixth-Ave-92101/unit-1306/home/17202858,32.7111577,-117.1587558
-233,Single Family Residential,854 Harwood,San Diego,CA,92154,609000,3,2.0,1616.0,6100.0,1958.0,,http://www.redfin.com/CA/San-Diego/854-Harwood-St-92154/home/6147790,32.5811759,-117.10041509999998
-234,Townhouse,1163 Terracina Ln,San Diego,CA,92103,599900,2,2.5,1168.0,21403.0,2003.0,205.0,http://www.redfin.com/CA/San-Diego/1163-Terracina-Ln-92103/home/6610546,32.737027000000005,-117.173806
-235,Single Family Residential,3763 Ticonderoga St,San Diego,CA,92117,1199900,3,2.5,1403.0,6600.0,1952.0,,http://www.redfin.com/CA/San-Diego/3763-Ticonderoga-St-92117/home/5195652,32.802009000000005,-117.20576170000001
-236,Single Family Residential,3620 Voltaire,San Diego,CA,92106,929000,3,2.0,1108.0,7391.0,1943.0,,http://www.redfin.com/CA/San-Diego/3620-Voltaire-St-92106/home/5346624,32.7385064,-117.22716899999999
-237,Condo/Co-op,3450 3rd Ave #302,San Diego,CA,92103,565000,2,2.0,1171.0,,1990.0,509.0,http://www.redfin.com/CA/San-Diego/3450-Third-Ave-92103/unit-302/home/5375893,32.7410879,-117.1625998
-238,Single Family Residential,11840 SPRINGSIDE Rd,San Diego,CA,92128,979000,4,3.0,2101.0,4640.0,1991.0,40.0,http://www.redfin.com/CA/San-Diego/11840-Springside-Rd-92128/home/4776726,32.949114,-117.0778223
-239,Condo/Co-op,4545 Arizona St #104,San Diego,CA,92116,499000,2,2.0,1140.0,,1997.0,345.0,http://www.redfin.com/CA/San-Diego/4545-Arizona-St-92116/unit-104/home/5295854,32.7600757,-117.13724920000001
-240,Condo/Co-op,9392 TWIN TRAIL Dr #101,San Diego,CA,92129,445000,2,2.0,927.0,,1987.0,295.0,http://www.redfin.com/CA/San-Diego/9392-Twin-Trails-Dr-92129/unit-101/home/4768267,32.9558219,-117.12530929999998
-241,Single Family Residential,745 Windemere Ct,San Diego,CA,92109,1495000,3,3.0,1679.0,,1998.0,,http://www.redfin.com/CA/San-Diego/745-Windemere-Ct-92109/home/5181360,32.7884713,-117.25366070000001
-242,Single Family Residential,11275 Florindo Rd,San Diego,CA,92127,749000,5,3.0,2160.0,,1970.0,41.0,http://www.redfin.com/CA/San-Diego/11275-Florindo-Rd-92127/home/4226464,33.0264622,-117.0890385
-243,Single Family Residential,6289 Quail Run St,San Diego,CA,92130,1545000,6,4.0,3218.0,7086.0,2011.0,182.0,http://www.redfin.com/CA/San-Diego/6289-Quail-Run-St-92130/home/22563514,32.968439399999994,-117.18573049999999
-244,Condo/Co-op,1325 Pacific Hwy #3502,San Diego,CA,92101,4350000,4,2.5,3226.0,65514.0,2009.0,1100.0,http://www.redfin.com/CA/San-Diego/1325-Pacific-Hwy-92101/unit-3502/home/21886986,32.7192631,-117.1705169
-245,Condo/Co-op,14691 Caminito Orense Este,San Diego,CA,92129,489000,2,2.0,988.0,382655.0,1970.0,370.0,http://www.redfin.com/CA/San-Diego/14691-Caminito-Orense-Este-92129/home/4613242,32.9819384,-117.0887168
-246,Single Family Residential,5030 Raymond Pl,San Diego,CA,92116,975000,4,2.0,1696.0,4377.0,1975.0,,http://www.redfin.com/CA/San-Diego/5030-Raymond-Pl-92116/home/5266192,32.7698951,-117.11496229999999
-247,Single Family Residential,9249 Irvington Ave,San Diego,CA,92123,949000,4,3.0,2255.0,,1959.0,,http://www.redfin.com/CA/San-Diego/9249-Irvington-Ave-92123/home/5213252,32.795015299999996,-117.1279
-248,Multi-Family (2-4 Unit),4628 Louisiana St,San Diego,CA,92116,1199000,3,3.0,,4085.0,1975.0,,http://www.redfin.com/CA/San-Diego/4628-Louisiana-St-92116/home/5292487,32.7615751,-117.14036370000001
-249,Condo/Co-op,6333 College Grove Way Unit 3102,San Diego,CA,92115,249000,1,1.0,625.0,207402.0,1973.0,283.0,http://www.redfin.com/CA/San-Diego/6333-College-Grove-Way-92115/unit-3102/home/6640071,32.7365555,-117.05763859999999
-250,Multi-Family (2-4 Unit),2819-25 State,San Diego,CA,92103,1350000,4,4.0,3793.0,,1925.0,,http://www.redfin.com/CA/San-Diego/2819-State-St-92103/home/5365385,32.734293,-117.170825
-251,Multi-Family (2-4 Unit),5156 W Point Loma Blvd,San Diego,CA,92107,1750000,6,4.0,2600.0,6127.0,1955.0,,http://www.redfin.com/CA/San-Diego/5156-W-Point-Loma-Blvd-92107/home/6488411,32.753769,-117.24991750000001
-252,Condo/Co-op,2420 Community Ln #33,San Diego,CA,92108,728990,2,2.5,1488.0,,2020.0,477.0,http://www.redfin.com/CA/San-Diego/2420-Community-Ln-92108/unit-33/home/169201739,32.779208000000004,-117.145536
-253,Condo/Co-op,17059 Calle Trevino #5,San Diego,CA,92127,589000,2,2.5,1389.0,,2006.0,230.0,http://www.redfin.com/CA/San-Diego/17059-Calle-Trevino-92127/unit-5/home/12155417,33.0239496,-117.110277
-254,Single Family Residential,2428 33rd St,San Diego,CA,92104,925000,4,2.5,1953.0,5500.0,1931.0,,http://www.redfin.com/CA/San-Diego/2428-33rd-St-92104/home/5816329,32.7312446,-117.12369479999998
-255,Single Family Residential,5277 Velma Ter,San Diego,CA,92114,550000,4,4.0,1837.0,,1951.0,,http://www.redfin.com/CA/San-Diego/5277-Velma-Ter-92114/home/5876040,32.7017781,-117.0806264
-256,Condo/Co-op,500 W Harbor Dr #507,San Diego,CA,92101,599900,1,1.0,879.0,102536.0,1994.0,852.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-507/home/6434131,32.7110037,-117.16634429999999
-257,Condo/Co-op,655 India St #103,San Diego,CA,92101,1100000,3,2.5,1810.0,60399.0,1992.0,826.0,http://www.redfin.com/CA/San-Diego/655-India-St-92101/unit-103/home/5777036,32.7120176,-117.1678336
-258,Single Family Residential,4393 Mount Henry Ave,San Diego,CA,92117,785000,4,2.0,1235.0,,1959.0,,http://www.redfin.com/CA/San-Diego/4393-Mt-Henry-Ave-92117/home/4961446,32.8227182,-117.1953328
-259,Single Family Residential,8142 Lazy River Rd,San Diego,CA,92127,1479000,3,3.5,2926.0,60659.0,2012.0,480.0,http://www.redfin.com/CA/San-Diego/8142-Lazy-River-Rd-92127/home/52346023,33.0332078,-117.1539007
-260,Condo/Co-op,700 W Harbor Dr #1503,San Diego,CA,92101,1296000,2,2.0,1374.0,65371.0,2004.0,1029.0,http://www.redfin.com/CA/San-Diego/700-W-Harbor-Dr-92101/unit-1503/home/6587455,32.7120231,-117.16965379999999
-261,Condo/Co-op,919 Agate #4,San Diego,CA,92109,1010000,3,3.0,1615.0,1655.0,1992.0,350.0,http://www.redfin.com/CA/San-Diego/919-Agate-St-92109/unit-4/home/5125449,32.809763800000006,-117.2573886
-262,Condo/Co-op,3985 Wabaska Dr #15,San Diego,CA,92107,530000,2,2.5,1024.0,29784.0,1987.0,294.0,http://www.redfin.com/CA/San-Diego/3985-Wabaska-Dr-92107/unit-15/home/5345151,32.7416852,-117.2325446
-263,Condo/Co-op,4909 Orchard Ave #205,San Diego,CA,92107,858500,2,2.0,953.0,,1964.0,540.0,http://www.redfin.com/CA/San-Diego/4909-Orchard-Ave-92107/unit-205/home/5329734,32.739801899999996,-117.2548018
-264,Single Family Residential,17064 Garden Walk Way,San Diego,CA,92127,875000,4,2.5,1914.0,,2005.0,153.0,http://www.redfin.com/CA/San-Diego/17064-Garden-Walk-Way-92127/home/12154103,33.0256124,-117.1116531
-265,Condo/Co-op,3535 1st Ave Unit 10B,San Diego,CA,92103,1250000,2,2.0,1740.0,,1973.0,884.0,http://www.redfin.com/CA/San-Diego/3535-1st-Ave-92103/unit-10B/home/5373890,32.742295899999995,-117.1635606
-266,Single Family Residential,4731 El Cerrito Pl,San Diego,CA,92115,849000,4,2.0,2146.0,6031.0,1955.0,,http://www.redfin.com/CA/San-Diego/4731-El-Cerrito-Pl-92115/home/5466251,32.763306,-117.07313329999998
-267,Condo/Co-op,100 Harbor Dr #3006,San Diego,CA,92101,825000,1,1.0,1036.0,,1992.0,1228.0,http://www.redfin.com/CA/San-Diego/100-Harbor-Dr-92101/unit-3006/home/5773992,32.709113699999996,-117.1629201
-268,Single Family Residential,5432 Bonita Dr,San Diego,CA,92114,549000,3,2.0,1015.0,7100.0,1952.0,,http://www.redfin.com/CA/San-Diego/5432-Bonita-Dr-92114/home/5901630,32.6968674,-117.07750049999999
-269,Single Family Residential,821 Golden Sands Pl,San Diego,CA,92154,749000,5,3.0,2830.0,4518.0,2005.0,41.0,http://www.redfin.com/CA/San-Diego/821-Golden-Sands-Pl-92154/home/12153301,32.5811525,-117.0275716
-270,Single Family Residential,14800 Encendido,San Diego,CA,92127,3995000,5,4.5,6825.0,58806.0,2015.0,495.0,http://www.redfin.com/CA/San-Diego/14800-Encendido-92127/home/22760266,32.9965233,-117.1617226
-271,Condo/Co-op,1551 4Th Ave #504,San Diego,CA,92101,290000,0,1.0,523.0,15034.0,2007.0,601.0,http://www.redfin.com/CA/San-Diego/1551-Fourth-Ave-92101/unit-504/home/17202067,32.7216553,-117.16082379999999
-272,Single Family Residential,,San Diego,CA,92126,669000,3,2.5,1417.0,39785.0,1999.0,113.0,http://www.redfin.com/CA/San-Diego/Undisclosed-address-92126/home/4794666,32.922096,-117.124316
-273,Single Family Residential,750 York Ct,San Diego,CA,92109,1220000,2,2.0,1213.0,1308.0,1980.0,,http://www.redfin.com/CA/San-Diego/750-York-Ct-92109/home/5176689,32.7893683,-117.2537527
-274,Condo/Co-op,11787 Caminito Corriente,San Diego,CA,92128,739000,3,2.0,1971.0,,1989.0,410.0,http://www.redfin.com/CA/San-Diego/11787-Caminito-Corriente-92128/home/4632990,32.9970747,-117.0741822
-275,Condo/Co-op,500 W Harbor Dr #140,San Diego,CA,92101,1050000,2,2.5,1574.0,,1994.0,947.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-140/home/6458683,32.7110037,-117.16634429999999
-276,Condo/Co-op,3961 Hortensia St Unit H2,San Diego,CA,92110,449900,2,2.0,830.0,11726.0,1987.0,375.0,http://www.redfin.com/CA/San-Diego/3961-Hortensia-St-92110/unit-H2/home/5283141,32.7492185,-117.19041259999999
-277,Single Family Residential,7627 CULLEN St,San Diego,CA,92111,969000,4,3.0,2436.0,,1975.0,,http://www.redfin.com/CA/San-Diego/7627-Cullen-St-92111/home/5207373,32.8033644,-117.15749509999999
-278,Single Family Residential,4190 SERI St,San Diego,CA,92117,798000,3,2.0,1216.0,,1961.0,,http://www.redfin.com/CA/San-Diego/4190-Seri-St-92117/home/4958887,32.8232875,-117.20213229999999
-279,Condo/Co-op,500 W Harbor Dr Ph 1314,San Diego,CA,92101,999000,2,2.0,1165.0,,1994.0,891.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-1314/home/6489716,32.7110037,-117.16634429999999
-280,Single Family Residential,10733 Portobelo Dr,San Diego,CA,92124,678800,3,2.5,1741.0,3924.0,1980.0,330.0,http://www.redfin.com/CA/San-Diego/10733-Portobelo-Dr-92124/home/6409846,32.8393137,-117.09460049999998
-281,Single Family Residential,5561 San Onofre Ter,San Diego,CA,92114,460000,3,1.5,1092.0,5400.0,1956.0,,http://www.redfin.com/CA/San-Diego/5561-San-Onofre-Ter-92114/home/5876569,32.7003937,-117.07621329999999
-282,Townhouse,6361 Caminito Flecha,San Diego,CA,92111,489000,3,2.0,1221.0,1369.0,1972.0,450.0,http://www.redfin.com/CA/San-Diego/6361-Caminito-Flecha-92111/home/6419491,32.7684787,-117.1817817
-283,Townhouse,11969 Tivoli Park Row 1,San Diego,CA,92128,499000,2,2.0,1084.0,,1994.0,305.0,http://www.redfin.com/CA/San-Diego/11969-Tivoli-Park-Row-92128/unit-1/home/4695041,32.9754219,-117.07134359999999
-284,Condo/Co-op,1050 Island Ave #701,San Diego,CA,92101,1080000,2,2.5,1765.0,,2005.0,572.0,http://www.redfin.com/CA/San-Diego/1050-Island-Ave-92101/unit-701/home/6677059,32.7108408,-117.15510819999999
-285,Condo/Co-op,5645 Friars Rd #363,San Diego,CA,92110,345000,1,1.5,854.0,300802.0,1980.0,455.0,http://www.redfin.com/CA/San-Diego/5645-Friars-Rd-92110/unit-363/home/5241110,32.763545,-117.1900895
-286,Single Family Residential,12605 Salmon River Rd,San Diego,CA,92129,940000,4,2.5,2182.0,,1987.0,,http://www.redfin.com/CA/San-Diego/12605-Salmon-River-Rd-92129/home/4765982,32.9467499,-117.122316
-287,Condo/Co-op,10532 Caminito Rimini,San Diego,CA,92129,349900,2,1.0,945.0,285408.0,1973.0,335.0,http://www.redfin.com/CA/San-Diego/10532-Caminito-Rimini-92129/home/4610306,32.964903,-117.100481
-288,Single Family Residential,10924 Caminito Arcada,San Diego,CA,92131,675000,3,2.5,1216.0,,1998.0,90.0,http://www.redfin.com/CA/San-Diego/10924-Caminito-Arcada-92131/home/6402457,32.933228,-117.09333400000001
-289,Single Family Residential,8416 Barker Dr,San Diego,CA,92119,629900,4,2.0,1320.0,,1972.0,,http://www.redfin.com/CA/San-Diego/8416-Barker-Dr-92119/home/5424402,32.814564000000004,-117.01699579999999
-290,Condo/Co-op,11255 Tierrasanta Blvd #93,San Diego,CA,92124,369900,2,2.0,1060.0,,1980.0,488.0,http://www.redfin.com/CA/San-Diego/11255-Tierrasanta-Blvd-92124/unit-93/home/5405048,32.8143408,-117.08635729999999
-291,Condo/Co-op,7405 Charmant #2114,San Diego,CA,92122,525000,2,2.0,1037.0,,1987.0,377.0,http://www.redfin.com/CA/San-Diego/7405-Charmant-Dr-92122/unit-2114/home/7533401,32.8645549,-117.2281441
-292,Condo/Co-op,1199 Pacific Hwy #404,San Diego,CA,92101,679000,2,2.0,1227.0,,2004.0,1138.0,http://www.redfin.com/CA/San-Diego/1199-Pacific-Hwy-92101/unit-404/home/6620148,32.7172726,-117.1705183
-293,Single Family Residential,1084 Rolling Dunes Way,San Diego,CA,92154,690000,4,3.0,2227.0,,2017.0,100.0,http://www.redfin.com/CA/San-Diego/1084-Rolling-Dunes-Way-92154/home/143236357,32.5767395,-117.0966315
-294,Single Family Residential,5679 Weatherstone Ct,San Diego,CA,92130,1379000,5,3.0,2597.0,4433.0,2000.0,52.0,http://www.redfin.com/CA/San-Diego/5679-Weatherstone-Ct-92130/home/4526476,32.9294037,-117.19628159999999
-295,Condo/Co-op,6878 Navajo Rd #61,San Diego,CA,92119,289000,1,1.0,654.0,,1970.0,315.0,http://www.redfin.com/CA/San-Diego/6878-Navajo-Rd-92119/unit-61/home/5406766,32.8042156,-117.0478869
-296,Single Family Residential,1018 Beryl St,San Diego,CA,92109,1395000,2,2.5,1643.0,3162.0,1969.0,,http://www.redfin.com/CA/San-Diego/1018-Beryl-St-92109/home/145704230,32.8042119,-117.25340700000001
-297,Multi-Family (2-4 Unit),3420-3430 Wilshire Ter,San Diego,CA,92104,2200000,8,6.0,,9482.0,1994.0,,http://www.redfin.com/CA/San-Diego/3420-Wilshire-Ter-92103/unit-3430/home/5385613,32.7416696,-117.14446729999999
-298,Single Family Residential,4903 Hawley Blvd,San Diego,CA,92116,1299000,3,2.0,1056.0,,1940.0,,http://www.redfin.com/CA/San-Diego/4903-Hawley-Blvd-92116/home/5267174,32.767381,-117.11906
-299,Townhouse,820 Santa Barbara Pl,San Diego,CA,92109,1605900,3,2.0,1571.0,,2020.0,410.0,http://www.redfin.com/CA/San-Diego/820-Santa-Barbara-Pl-92109/home/171058356,32.7749,-117.23233700000002
-300,Townhouse,11038 Caminito Alegra,San Diego,CA,92131,619000,2,2.5,1222.0,,1991.0,205.0,http://www.redfin.com/CA/San-Diego/11038-Caminito-Alegra-92131/home/4834666,32.9233433,-117.0643363
-301,Single Family Residential,2616 Camulos St,San Diego,CA,92107,749000,3,1.0,891.0,2450.0,1936.0,,http://www.redfin.com/CA/San-Diego/2616-Camulos-St-92107/home/5351763,32.7495071,-117.2308898
-302,Single Family Residential,611 Tarento Dr,San Diego,CA,92106,1379000,3,2.0,2214.0,6831.0,1985.0,,http://www.redfin.com/CA/San-Diego/611-Tarento-Dr-92106/home/5743922,32.7163114,-117.24864040000001
-303,Mobile/Manufactured Home,3340 Del Sol Blvd Spc 242,San Diego,CA,92154,124900,2,2.0,1536.0,,1977.0,,http://www.redfin.com/CA/San-Diego/3340-Del-Sol-Blvd-92154/unit-242/home/99668901,32.575262800000004,-117.0616082
-304,Single Family Residential,3720 S Crane Pl,San Diego,CA,92103,1050000,3,2.0,1200.0,7439.0,1915.0,,http://www.redfin.com/CA/San-Diego/3720-Crane-Pl-92103/home/5360536,32.7458358,-117.1729572
-305,Single Family Residential,13094 Via Del Valedor,San Diego,CA,92129,699900,4,2.0,1379.0,7100.0,1973.0,,http://www.redfin.com/CA/San-Diego/13094-Via-Del-Valedor-92129/home/4752603,32.955493,-117.1119288
-306,Condo/Co-op,500 W Harbor Dr #418,San Diego,CA,92101,609900,2,1.0,976.0,,1994.0,865.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-418/home/6455419,32.7110037,-117.16634429999999
-307,Condo/Co-op,4079 1st Ave #2,San Diego,CA,92103,1299900,2,2.5,1710.0,,2020.0,549.0,http://www.redfin.com/CA/San-Diego/4079-1st-Ave-92103/unit-2/home/172546307,32.751479100000005,-117.16375430000001
-308,Townhouse,1325 Pacific Hwy #312,San Diego,CA,92101,1269000,3,2.5,2042.0,,2009.0,993.0,http://www.redfin.com/CA/San-Diego/1325-Pacific-Hwy-92101/unit-312/home/28891685,32.7192631,-117.1705169
-309,Condo/Co-op,17951 Avenida Alozdra,San Diego,CA,92128,529000,2,2.0,1328.0,,1988.0,355.0,http://www.redfin.com/CA/San-Diego/17951-Avenida-Alozdra-92128/home/4212924,33.0404328,-117.0488365
-310,Condo/Co-op,4079 1st Ave #5,San Diego,CA,92103,1420900,2,2.5,1846.0,,2020.0,59.0,http://www.redfin.com/CA/San-Diego/4079-1st-Ave-92103/unit-5/home/172546311,32.751479100000005,-117.16375430000001
-311,Single Family Residential,4172 Hill St,San Diego,CA,92107,1795000,4,3.0,3298.0,15400.0,1956.0,,http://www.redfin.com/CA/San-Diego/4172-Hill-St-92107/home/5737885,32.724294199999996,-117.2469205
-312,Condo/Co-op,5865 Friars Rd #3316,San Diego,CA,92110,479000,2,2.0,1228.0,,1988.0,435.0,http://www.redfin.com/CA/San-Diego/5865-Friars-Rd-92110/unit-3316/home/5241901,32.7647016,-117.18750259999999
-313,Condo/Co-op,1150 Anchorage Ln #314,San Diego,CA,92106,759000,2,2.0,1658.0,61830.0,1968.0,661.0,http://www.redfin.com/CA/San-Diego/1150-Anchorage-Ln-92106/unit-314/home/5738560,32.7204604,-117.2291324
-314,Condo/Co-op,3050 Rue Dorleans #232,San Diego,CA,92110,349000,1,1.0,547.0,357719.0,1969.0,305.0,http://www.redfin.com/CA/San-Diego/3050-Rue-DOrleans-92110/unit-232/home/5273647,32.754519300000005,-117.22767579999999
-315,Condo/Co-op,6275 Rancho Mission Rd #307,San Diego,CA,92108,289000,1,1.0,675.0,,1979.0,340.0,http://www.redfin.com/CA/San-Diego/6275-Rancho-Mission-Rd-92108/unit-307/home/6418915,32.787067300000004,-117.10765959999999
-316,Mobile/Manufactured Home,2003 Bayview Heights Dr #160,San Diego,CA,92105,175000,3,2.0,1456.0,,2005.0,875.0,http://www.redfin.com/CA/San-Diego/2003-Bayview-Heights-Dr-92105/unit-160/home/17207506,32.7278965,-117.0729219
-317,Condo/Co-op,525 11th Ave #1304,San Diego,CA,92101,540000,2,2.0,1112.0,,2004.0,459.0,http://www.redfin.com/CA/San-Diego/525-11th-Ave-92101/unit-1304/home/6677345,32.7108972,-117.1541951
-318,Condo/Co-op,4060 Huerfano #121,San Diego,CA,92117,319000,1,1.0,613.0,,1972.0,330.0,http://www.redfin.com/CA/San-Diego/4060-Huerfano-Ave-92117/unit-121/home/6255859,32.814972499999996,-117.21767609999999
-319,Condo/Co-op,12620 Carmel Country Rd #70,San Diego,CA,92130,570000,2,2.5,1088.0,,1991.0,450.0,http://www.redfin.com/CA/San-Diego/12620-Carmel-Country-Rd-92130/unit-70/home/4456181,32.9496184,-117.22925659999999
-320,Single Family Residential,340 Rosecrans St,San Diego,CA,92106,1399000,4,2.0,1908.0,5001.0,1940.0,,http://www.redfin.com/CA/San-Diego/340-Rosecrans-St-92106/home/5747975,32.7085047,-117.23914309999999
-321,Single Family Residential,6570 Foyle Way,San Diego,CA,92117,725000,3,2.0,1485.0,8900.0,1964.0,,http://www.redfin.com/CA/San-Diego/6570-Foyle-Way-92117/home/4968713,32.825054800000004,-117.1672136
-322,Single Family Residential,10784 Pacific Canyon Way,San Diego,CA,92121,1199000,5,3.0,2486.0,5333.0,1997.0,55.0,http://www.redfin.com/CA/San-Diego/10784-Pacific-Canyon-Way-92121/home/6278727,32.913987,-117.1911831
-323,Condo/Co-op,2020 Camino De La Reina #2115,San Diego,CA,92108,459900,2,2.0,977.0,336710.0,1992.0,408.0,http://www.redfin.com/CA/San-Diego/2020-Camino-De-La-Reina-92108/unit-2115/home/5259594,32.7719307,-117.14246729999999
-324,Condo/Co-op,4060 Huefano #131,San Diego,CA,92117,289000,1,1.0,613.0,217800.0,1972.0,330.0,http://www.redfin.com/CA/San-Diego/4060-Huerfano-Ave-92117/unit-131/home/6255885,32.814972499999996,-117.21767609999999
-325,Condo/Co-op,4079 1st Ave #1,San Diego,CA,92103,1579000,2,3.0,2170.0,,2020.0,549.0,http://www.redfin.com/CA/San-Diego/4079-1st-Ave-92103/unit-1/home/172546308,32.751479100000005,-117.16375430000001
-326,Condo/Co-op,10940 Ivy Hill Dr #6,San Diego,CA,92131,549000,2,2.0,946.0,,1998.0,199.0,http://www.redfin.com/CA/San-Diego/10940-Ivy-Hill-Dr-92131/unit-6/home/4820330,32.9373833,-117.09328500000001
-327,Condo/Co-op,4353 51St St #3,San Diego,CA,92115,229900,1,1.0,627.0,,1980.0,185.0,http://www.redfin.com/CA/San-Diego/4353-51st-St-92115/unit-3/home/7529583,32.7561694,-117.0843893
-328,Condo/Co-op,1270 Cleveland Ave Unit E344,San Diego,CA,92103,620000,2,2.0,1028.0,,1991.0,448.0,http://www.redfin.com/CA/San-Diego/1270-Cleveland-Ave-92103/unit-E344/home/172641474,32.750362800000005,-117.15242669999999
-329,Single Family Residential,1544 Elevation Rd,San Diego,CA,92110,1625000,4,4.5,2470.0,,2007.0,,http://www.redfin.com/CA/San-Diego/1544-Elevation-Rd-92110/home/5237226,32.773505,-117.195976
-330,Condo/Co-op,3010 Alta View Dr Unit B108,San Diego,CA,92139,259000,1,1.0,675.0,205371.0,1982.0,320.0,http://www.redfin.com/CA/San-Diego/3010-Alta-View-Dr-92139/unit-B108/home/7532878,32.676324900000004,-117.0373335
-331,Condo/Co-op,235 Market St #210,San Diego,CA,92101,550000,1,1.5,1036.0,20050.0,2002.0,432.0,http://www.redfin.com/CA/San-Diego/235-Market-St-92101/unit-210/home/6505264,32.7111617,-117.1626416
-332,Condo/Co-op,11255 Affinity Ct #100,San Diego,CA,92131,449999,2,2.0,1032.0,,1993.0,419.0,http://www.redfin.com/CA/San-Diego/11255-Affinity-Ct-92131/unit-100/home/4818926,32.923211,-117.1116315
-333,Townhouse,516 Arbor Dr,San Diego,CA,92103,824900,3,2.5,1661.0,10288.0,2005.0,,http://www.redfin.com/CA/San-Diego/516-Arbor-Dr-92103/home/7538669,32.7539892,-117.1599852
-334,Single Family Residential,2423 Monette Dr,San Diego,CA,92123,769900,4,2.0,1364.0,,1960.0,,http://www.redfin.com/CA/San-Diego/2423-Monette-Dr-92123/home/5214307,32.7892091,-117.12401650000001
-335,Single Family Residential,11341 Swan Canyon Rd,San Diego,CA,92131,919900,4,2.5,1963.0,4208.0,1993.0,98.0,http://www.redfin.com/CA/San-Diego/11341-Swan-Canyon-Rd-92131/home/4835321,32.9248694,-117.0618304
-336,Condo/Co-op,727 Sapphire St #308,San Diego,CA,92109,799123,2,2.0,997.0,,1975.0,400.0,http://www.redfin.com/CA/San-Diego/727-Sapphire-St-92109/unit-308/home/5126217,32.807266,-117.26008780000001
-337,Condo/Co-op,575 6th Ave #708,San Diego,CA,92101,549000,2,1.5,960.0,,2007.0,608.0,http://www.redfin.com/CA/San-Diego/575-Sixth-Ave-92101/unit-708/home/12517943,32.7111577,-117.1587558
-338,Condo/Co-op,8020 Linda Vista Rd Unit 2A,San Diego,CA,92111,279000,1,1.0,644.0,,1977.0,330.0,http://www.redfin.com/CA/San-Diego/8020-Linda-Vista-Rd-92111/unit-2A/home/5166545,32.8069552,-117.1551969
-339,Condo/Co-op,1430 Northrim Ct #3,San Diego,CA,92111,525000,2,2.0,1092.0,,1980.0,349.0,http://www.redfin.com/CA/San-Diego/1430-Northrim-Ct-92111/unit-3/home/5252617,32.7708151,-117.17606359999999
-340,Condo/Co-op,702 Ash St #407,San Diego,CA,92101,375000,1,1.0,782.0,,1929.0,715.0,http://www.redfin.com/CA/San-Diego/702-Ash-St-92101/unit-407/home/12367239,32.7202803,-117.1579149
-341,Townhouse,11115 Scripps Ranch Blvd,San Diego,CA,92131,585000,2,2.0,1282.0,,1998.0,470.0,http://www.redfin.com/CA/San-Diego/11115-Scripps-Ranch-Blvd-92131/home/4810751,32.9186721,-117.1108142
-342,Condo/Co-op,6602 Beadnell Way #13,San Diego,CA,92117,295000,1,1.0,625.0,,1994.0,310.0,http://www.redfin.com/CA/San-Diego/6602-Beadnell-Way-92117/unit-13/home/6685869,32.8212318,-117.1707202
-343,Single Family Residential,819 Bonsall St,San Diego,CA,92114,449000,3,1.0,1148.0,7400.0,1954.0,,http://www.redfin.com/CA/San-Diego/819-Bonsall-St-92114/home/6021678,32.7126193,-117.03147990000001
-344,Single Family Residential,3135 Emerson,San Diego,CA,92106,995000,3,2.0,1184.0,5000.0,1940.0,,http://www.redfin.com/CA/San-Diego/3135-Emerson-St-92106/home/5739964,32.725276300000004,-117.23129650000001
-345,Condo/Co-op,3552 Sunset Ln #18,San Ysidro,CA,92173,310000,2,2.0,818.0,216412.0,1995.0,225.0,http://www.redfin.com/CA/San-Diego/3552-Sunset-Ln-92173/unit-18/home/6689164,32.5588532,-117.05687520000001
-346,Single Family Residential,8621 Chaparral Way,Santee,CA,92071,725000,4,3.0,2014.0,2728.0,2019.0,325.0,http://www.redfin.com/CA/Santee/8621-Chaparral-Way-92071/home/167553506,32.8497162,-117.0164402
-347,Condo/Co-op,8711 Wahl St,Santee,CA,92071,380000,2,1.0,822.0,1423.0,1972.0,380.0,http://www.redfin.com/CA/Santee/8711-Wahl-St-92071/home/5043285,32.836261,-117.035785
-348,Townhouse,11872 Cypress Canyon Rd #1,Scripps Miramar,CA,92131,799888,3,2.5,1749.0,2788.0,1999.0,60.0,http://www.redfin.com/CA/San-Diego/11872-Cypress-Canyon-Rd-92131/unit-1/home/4829556,32.9311728,-117.0838055
-349,Townhouse,946 Valley Ave,Solana Beach,CA,92075,799000,2,2.5,1510.0,,1983.0,340.0,http://www.redfin.com/CA/Solana-Beach/946-Valley-Ave-92075/home/4394641,32.98194,-117.257741
+0,Condo/Co-op,2920 Briarwood Rd Unit B10,Bonita,CA,91902,325000,1,1.0,599,,1980,257.0,http://www.redfin.com/CA/Bonita/2920-Briarwood-Rd-91902/unit-B10/home/6056880,32.6801289,-117.03032079999998
+1,Townhouse,273 Rancho Unit D,Chula Vista,CA,91911,425000,3,1.5,1274,,1976,175.0,http://www.redfin.com/CA/Chula-Vista/273-Rancho-Dr-91911/unit-D/home/6139051,32.5919014,-117.0389548
+2,Condo/Co-op,247 Rancho Dr Unit A,Chula Vista,CA,91911,370000,3,1.5,1228,957.0,1977,225.0,http://www.redfin.com/CA/Chula-Vista/247-Rancho-Dr-91911/unit-A/home/6139199,32.592208899999996,-117.04149699999999
+3,Condo/Co-op,271 Sea Forest Ct,Del Mar,CA,92014,1098000,2,2.0,1308,,1974,701.0,http://www.redfin.com/CA/Del-Mar/271-Sea-Forest-Ct-92014/home/4427275,32.9468249,-117.261325
+4,Single Family Residential,14705 Caminito Mar De Plata,Del Mar,CA,92014,1599000,3,2.5,2444,6203.0,1980,350.0,http://www.redfin.com/CA/Del-Mar/14705-Caminito-Mar-De-Plata-92014/home/4401966,32.982359,-117.2474956
+5,Single Family Residential,14778 Caminito Punta Arenas,Del Mar,CA,92014,1550000,4,2.5,3057,5763.0,1988,415.0,http://www.redfin.com/CA/Del-Mar/14778-Caminito-Punta-Arenas-92014/home/4402227,32.9842934,-117.2446416
+6,Condo/Co-op,914 Intrepid Ct,Del Mar,CA,92014,774999,2,2.5,1298,,1985,573.0,http://www.redfin.com/CA/Del-Mar/914-Intrepid-Ct-92014/home/4394862,32.982933,-117.252324
+7,Single Family Residential,12911 Biscayne Cv,Del Mar,CA,92014,1495000,3,2.0,1518,8600.0,1972,,http://www.redfin.com/CA/Del-Mar/12911-Biscayne-Cv-92014/home/4438754,32.935740700000004,-117.24471580000001
+8,Single Family Residential,2939 SUNSET Hls,Escondido,CA,92025,1500000,4,3.0,2053,46173.0,2017,,http://www.redfin.com/CA/Escondido/2939-Sunset-Hls-92025/home/4198193,33.0767843,-117.0363652
+9,Condo/Co-op,1450 Iris Ave #16,Imperial Beach,CA,91932,265000,1,1.0,610,,1969,196.0,http://www.redfin.com/CA/Imperial-Beach/1450-Iris-Ave-91932/unit-16/home/17108470,32.5694505,-117.10248759999999
+10,Condo/Co-op,8870 Villa La Jolla Dr #301,La Jolla,CA,92037,649900,2,2.0,1080,95224.0,1985,461.0,http://www.redfin.com/CA/La-Jolla/8870-Villa-La-Jolla-Dr-92037/unit-301/home/4867353,32.8698143,-117.23555420000001
+11,Condo/Co-op,3138 Morning Way,La Jolla,CA,92037,899000,2,2.5,1714,,1980,390.0,http://www.redfin.com/CA/La-Jolla/3138-Morning-Way-92037/home/4866833,32.868848,-117.23480900000001
+12,Condo/Co-op,2420 Torrey Pines Rd Unit A104,La Jolla,CA,92037,899000,3,2.5,1656,,1977,500.0,http://www.redfin.com/CA/La-Jolla/2420-Torrey-Pines-Rd-92037/unit-A104/home/4879172,32.8512212,-117.2500886
+13,Condo/Co-op,7555 Eads Ave #17,La Jolla,CA,92037,1150000,2,2.0,1646,21004.0,1990,605.0,http://www.redfin.com/CA/La-Jolla/7555-Eads-Ave-92037/unit-17/home/6629222,32.8411186,-117.27492009999999
+14,Condo/Co-op,8440 Via Mallorca #229,La Jolla,CA,92037,365000,1,1.0,506,292032.0,2005,220.0,http://www.redfin.com/CA/La-Jolla/8440-Via-Mallorca-92037/unit-229/home/6681278,32.8605743,-117.23478020000002
+15,Single Family Residential,8946 La Jolla Scenic Dr N,La Jolla,CA,92037,1595000,4,3.0,2458,8500.0,1982,,http://www.redfin.com/CA/La-Jolla/8946-La-Jolla-Scenic-Dr-N-92037/home/4864681,32.8690194,-117.24077120000001
+16,Townhouse,7597 EADS Ave Unit E,La Jolla,CA,92037,1768000,3,2.5,2362,12088.0,1987,400.0,http://www.redfin.com/CA/La-Jolla/7597-Eads-Ave-92037/unit-E/home/4911207,32.8419766,-117.27521229999999
+17,Single Family Residential,6075 Caroldale Row,La Jolla,CA,92037,1495000,4,3.5,2939,6204.0,1996,350.0,http://www.redfin.com/CA/La-Jolla/6075-Caroldale-Row-92037/home/4944259,32.8308783,-117.23828519999999
+18,Condo/Co-op,5460 La Jolla Blvd Unit G102,La Jolla,CA,92037,1259000,3,2.0,1827,77467.0,2005,629.0,http://www.redfin.com/CA/La-Jolla/5460-La-Jolla-Blvd-92037/unit-G102/home/6650652,32.8118562,-117.2683023
+19,Condo/Co-op,7514 Girard Ave Unit G,La Jolla,CA,92037,639000,2,1.0,734,20994.0,1996,738.0,http://www.redfin.com/CA/La-Jolla/7514-Girard-Ave-92037/unit-G/home/12110189,32.840688899999996,-117.2728013
+20,Condo/Co-op,1228 Cave St,La Jolla,CA,92037,1495000,3,3.5,2287,,1965,480.0,http://www.redfin.com/CA/La-Jolla/1228-Cave-St-92037/home/4905989,32.8480972,-117.2716611
+21,Single Family Residential,7712 Moonridge Pl,La Jolla,CA,92037,5490000,5,4.5,5696,57064.0,1987,,http://www.redfin.com/CA/La-Jolla/7712-Moonridge-Pl-92037/home/4879797,32.847829499999996,-117.2437742
+22,Single Family Residential,7520 Mar,La Jolla,CA,92037,2899000,5,4.5,4910,10758.0,1963,,http://www.redfin.com/CA/La-Jolla/7520-Mar-Ave-92037/home/4912790,32.8423747,-117.2681398
+23,Single Family Residential,740 Genter St,La Jolla,CA,92037,1958000,5,4.5,3554,,1971,,http://www.redfin.com/CA/La-Jolla/740-Genter-St-92037/home/4914270,32.8369759,-117.2747301
+24,Single Family Residential,1459 Caminito Diadema,La Jolla,CA,92037,2250000,4,2.5,2699,,1992,290.0,http://www.redfin.com/CA/La-Jolla/1459-Caminito-Diadema-92037/home/4945672,32.8170583,-117.2484592
+25,Single Family Residential,604 Rushville St,La Jolla,CA,92037,1450000,3,2.0,1546,3746.0,1940,,http://www.redfin.com/CA/La-Jolla/604-Rushville-St-92037/home/4914447,32.8349773,-117.27603899999998
+26,Townhouse,3320 Via Alicante,La Jolla,CA,92037,649000,2,2.5,1140,290015.0,1975,463.0,http://www.redfin.com/CA/La-Jolla/3320-Via-Alicante-92037/home/4865595,32.861255,-117.231921
+27,Condo/Co-op,8529 Villa La Jolla Dr Unit E,La Jolla,CA,92037,425000,1,1.0,691,,1972,280.0,http://www.redfin.com/CA/La-Jolla/8529-Villa-La-Jolla-Dr-92037/unit-E/home/4885575,32.8634391,-117.23514399999999
+28,Condo/Co-op,9237 Regents Rd Unit K401,La Jolla,CA,92037,479000,1,1.0,715,189495.0,2001,397.0,http://www.redfin.com/CA/La-Jolla/9237-Regents-Rd-92037/unit-K401/home/12157697,32.873752,-117.2168247
+29,Single Family Residential,6325 Via Maria,La Jolla,CA,92037,2995000,3,2.0,1973,7767.0,1949,,http://www.redfin.com/CA/La-Jolla/6325-Via-Maria-92037/home/4918230,32.8242925,-117.2770264
+30,Single Family Residential,6089 La Jolla Scenic Dr S,La Jolla,CA,92037,20000000,6,7.5,13532,164738.0,2010,,http://www.redfin.com/CA/La-Jolla/6089-La-Jolla-Scenic-Dr-S-92037/home/17201573,32.826097999999995,-117.25319009999998
+31,Townhouse,6349 VIA CABRERA S,La Jolla,CA,92037,1043000,3,2.0,1804,,1983,561.0,http://www.redfin.com/CA/La-Jolla/6349-Via-Cabrera-92037/home/4944156,32.8320225,-117.2458294
+32,Single Family Residential,3 E Roseland Dr,La Jolla,CA,92037,3499000,6,6.0,5076,11349.0,2000,,http://www.redfin.com/CA/La-Jolla/3-E-Roseland-Dr-92037/home/4878176,32.849471,-117.2555325
+33,Single Family Residential,625 Bonair Pl,La Jolla,CA,92037,1650000,3,2.5,1892,6534.0,1988,,http://www.redfin.com/CA/La-Jolla/625-Bonair-Pl-92037/unit-B/home/4916368,32.8300596,-117.2742479
+34,Single Family Residential,7437 Eads Ave,La Jolla,CA,92037,1650000,3,3.0,1704,,2008,,http://www.redfin.com/CA/La-Jolla/7437-Eads-Ave-92037/home/167547680,32.839130100000006,-117.2744044
+35,Condo/Co-op,2500 Torrey Pines Rd #204,La Jolla,CA,92037,695000,2,2.0,1464,,1973,830.0,http://www.redfin.com/CA/La-Jolla/2500-Torrey-Pines-Rd-92037/unit-204/home/4879316,32.8514543,-117.24963490000002
+36,Condo/Co-op,3177 Via Alicante #248,La Jolla,CA,92037,624000,2,2.0,1017,292033.0,2000,297.0,http://www.redfin.com/CA/La-Jolla/3177-Via-Alicante-92037/unit-248/home/6638142,32.8605743,-117.23478020000002
+37,Single Family Residential,7227 Olivetas Ave,La Jolla,CA,92037,2695000,4,3.0,2278,6481.0,1924,,http://www.redfin.com/CA/La-Jolla/7227-Olivetas-Ave-92037/home/4913497,32.8355873,-117.27847299999999
+38,Condo/Co-op,8460 Via Mallorca #136,La Jolla,CA,92037,714995,2,2.0,1017,,2000,296.0,http://www.redfin.com/CA/La-Jolla/8460-Via-Mallorca-92037/unit-136/home/6681315,32.8605743,-117.23478020000002
+39,Single Family Residential,4430 68Th St,La Mesa,CA,91942,700000,3,2.0,1526,8741.0,2000,,http://www.redfin.com/CA/La-Mesa/4430-68th-St-91942/home/5480429,32.7588016,-117.0519398
+40,Single Family Residential,,La Mesa,CA,91942,649900,3,2.0,1326,7200.0,1950,,http://www.redfin.com/CA/La-Mesa/Rolando-Knolls-Dr-91942/home/5520837,32.7569988,-117.0505606
+41,Single Family Residential,7825 EL PASO St,La Mesa,CA,91942,699000,4,2.0,2019,,1960,,http://www.redfin.com/CA/La-Mesa/7825-El-Paso-St-91942/home/6245893,32.79008889999999,-117.02904290000001
+42,Single Family Residential,1630 Colfax Dr,Lemon Grove,CA,91945,625000,4,3.0,1692,,1950,,http://www.redfin.com/CA/Lemon-Grove/1630-Colfax-Dr-91945/home/5993283,32.7224931,-117.0274212
+43,Condo/Co-op,1645 Emerald St Unit 2B,Pacific Beach,CA,92109,359000,1,1.0,650,,1975,305.0,http://www.redfin.com/CA/San-Diego/1645-Emerald-St-92109/unit-2B/home/5141655,32.8016685,-117.2403752
+44,Condo/Co-op,6604 Omega Dr,Paradise Hills,CA,92139,315000,2,1.5,1012,83803.0,1978,285.0,http://www.redfin.com/CA/San-Diego/6604-Omega-Dr-92139/home/6052822,32.6753952,-117.0452837
+45,Condo/Co-op,4857 Collwood Blvd Unit B,San Diego,CA,92115,285000,2,1.0,731,,1970,390.0,http://www.redfin.com/CA/San-Diego/4857-Collwood-Blvd-92115/unit-B/home/5464238,32.767379,-117.082823
+46,Condo/Co-op,2033 /2 Oliver Ave #1,San Diego,CA,92109,499000,2,1.0,837,,1958,305.0,http://www.redfin.com/CA/San-Diego/2033-1-2-Oliver-Ave-92109/unit-1/home/172670075,32.796574,-117.23104679999999
+47,Single Family Residential,10990 Caminito Arcada,San Diego,CA,92131,739000,4,3.0,1499,,1996,90.0,http://www.redfin.com/CA/San-Diego/10990-Caminito-Arcada-92131/home/4826613,32.933039,-117.094346
+48,Single Family Residential,13721 Tradition St,San Diego,CA,92128,890000,4,2.5,1831,5663.0,1992,42.0,http://www.redfin.com/CA/San-Diego/13721-Tradition-St-92128/home/4693606,32.9692924,-117.07203
+49,Single Family Residential,2022 Redbird Dr,San Diego,CA,92123,720000,4,2.0,1296,6400.0,1961,,http://www.redfin.com/CA/San-Diego/2022-Redbird-Dr-92123/home/6259166,32.7812963,-117.15600159999998
+50,Townhouse,9230 Lake Murray Blvd Unit F,San Diego,CA,92119,519900,3,2.5,1561,79937.0,1986,395.0,http://www.redfin.com/CA/San-Diego/9230-Lake-Murray-Blvd-92119/unit-F/home/4979067,32.8123566,-117.00883359999999
+51,Single Family Residential,10192 Empress Ave,San Diego,CA,92126,659900,3,2.0,1612,5000.0,1973,,http://www.redfin.com/CA/San-Diego/10192-Empress-Ave-92126/home/4852182,32.9030768,-117.14998179999999
+52,Condo/Co-op,1332 Grand Ave #2,San Diego,CA,92109,754000,3,3.5,1681,,1985,250.0,http://www.redfin.com/CA/San-Diego/1332-Grand-Ave-92109/unit-2/home/5174880,32.7971636,-117.2451086
+53,Single Family Residential,10483 Orozco Rd,San Diego,CA,92124,799990,5,2.5,1887,5000.0,1973,,http://www.redfin.com/CA/San-Diego/10483-Orozco-Rd-92124/home/4985444,32.8369527,-117.1014033
+54,Condo/Co-op,4329 Idaho St #104,San Diego,CA,92104,649000,3,3.0,1461,,2014,325.0,http://www.redfin.com/CA/San-Diego/4329-Idaho-St-92104/unit-104/home/53342233,32.7560642,-117.1335285
+55,Condo/Co-op,3050 Rue Dorleans #387,San Diego,CA,92110,339000,1,1.0,547,,1969,325.0,http://www.redfin.com/CA/San-Diego/3050-Rue-DOrleans-92110/unit-387/home/5274385,32.754519300000005,-117.22767579999999
+56,Condo/Co-op,1330 Reed Ave #1,San Diego,CA,92109,799000,3,3.0,1430,,1986,220.0,http://www.redfin.com/CA/San-Diego/1330-Reed-Ave-92109/unit-1/home/5174940,32.7951664,-117.24457509999999
+57,Condo/Co-op,701 Kettner Blvd #104,San Diego,CA,92101,629900,2,1.0,1017,169994.0,1983,482.0,http://www.redfin.com/CA/San-Diego/701-Kettner-Blvd-92101/unit-104/home/5752118,32.7141685,-117.1682655
+58,Condo/Co-op,1240 India St #2303,San Diego,CA,92101,769000,2,2.0,1107,,2003,523.0,http://www.redfin.com/CA/San-Diego/1240-India-St-92101/unit-2303/home/6546940,32.7182907,-117.168729
+59,Condo/Co-op,15283 Maturin Dr #63,San Diego,CA,92127,450000,2,2.0,1085,,1995,323.0,http://www.redfin.com/CA/San-Diego/15283-Maturin-Dr-92127/unit-63/home/6788681,33.0038945,-117.09028090000001
+60,Condo/Co-op,445 Island Ave #504,San Diego,CA,92101,329000,0,1.0,623,,2006,400.0,http://www.redfin.com/CA/San-Diego/445-Island-Ave-92101/unit-504/home/7517643,32.7101414,-117.16057020000001
+61,Single Family Residential,1454 Watwood Rd,San Diego,CA,92114,585000,4,2.0,1300,5021.0,1980,,http://www.redfin.com/CA/San-Diego/1454-Watwood-Rd-92114/home/5991822,32.720162300000005,-117.04016990000001
+62,Condo/Co-op,425 W Beech St #605,San Diego,CA,92101,529900,2,2.0,986,59909.0,2004,772.0,http://www.redfin.com/CA/San-Diego/425-W-Beech-St-92101/unit-605/home/6640880,32.7203803,-117.1669418
+63,Condo/Co-op,2920 Union St #204,San Diego,CA,92103,699888,2,2.0,1390,24081.0,1983,432.0,http://www.redfin.com/CA/San-Diego/2920-Union-St-92103/unit-204/home/5365232,32.735371799999996,-117.1714159
+64,Condo/Co-op,2124 Front St #4,San Diego,CA,92101,705000,2,2.0,979,2879.0,2019,363.0,http://www.redfin.com/CA/San-Diego/2124-Front-St-92101/unit-04/home/160759242,32.7275106,-117.1650736
+65,Single Family Residential,6727 Monterra Trl Lot 80,San Diego,CA,92130,1025000,4,3.0,2077,3493.0,2015,208.0,http://www.redfin.com/CA/San-Diego/6727-Monterra-Trl-92130/unit-80/home/101824416,32.9691706,-117.1747952
+66,Condo/Co-op,253 10Th Ave #1204,San Diego,CA,92101,629500,2,1.0,1065,42840.0,2006,656.0,http://www.redfin.com/CA/San-Diego/253-Tenth-Ave-92101/unit-1204/home/12160466,32.7079961,-117.1549601
+67,Condo/Co-op,3959 Idaho St Unit 5,San Diego,CA,92104,409900,2,1.0,748,,1965,288.0,http://www.redfin.com/CA/San-Diego/3959-Idaho-St-92104/unit-5/home/17897580,32.749600300000004,-117.1335023
+68,Townhouse,10752 New Grove Trl #76,San Diego,CA,92130,819000,3,2.5,1636,,2010,300.0,http://www.redfin.com/CA/San-Diego/10752-New-Grove-Trl-92130/unit-76/home/40094971,32.9306587,-117.1988768
+69,Single Family Residential,4890 Academy St,San Diego,CA,92109,1129000,5,2.0,1744,7000.0,1949,,http://www.redfin.com/CA/San-Diego/4890-Academy-St-92109/home/5138927,32.8079996,-117.23415109999999
+70,Condo/Co-op,3078 Broadway #314,San Diego,CA,92102,419000,2,2.0,827,,1993,274.0,http://www.redfin.com/CA/San-Diego/3078-Broadway-92102/unit-314/home/5824937,32.7160895,-117.12771629999999
+71,Single Family Residential,18420 Bernardo Trail Dr,San Diego,CA,92128,1399000,4,3.5,3468,,1974,22.0,http://www.redfin.com/CA/San-Diego/18420-Bernardo-Trails-Dr-92128/home/4203268,33.0420072,-117.0584912
+72,Single Family Residential,10919 Horseshoe Ridge Ct,San Diego,CA,92130,3499000,5,4.5,4151,14604.0,2015,295.0,http://www.redfin.com/CA/San-Diego/10919-Horseshoe-Ridge-Ct-92130/home/22423311,32.9364789,-117.18347849999999
+73,Single Family Residential,2732 Creekside Village Sq,San Diego,CA,92154,525000,3,2.5,1400,,1976,145.0,http://www.redfin.com/CA/San-Diego/2732-Creekside-Village-Sq-92154/home/6490330,32.572661100000005,-117.0745929
+74,Condo/Co-op,3532 Meade Ave #30,San Diego,CA,92116,289000,1,1.0,596,69688.0,1970,254.0,http://www.redfin.com/CA/San-Diego/3532-Meade-Ave-92116/unit-30/home/12129789,32.7578702,-117.1171618
+75,Single Family Residential,6475 Oakridge Rd,San Diego,CA,92120,845000,4,2.0,1480,,1971,,http://www.redfin.com/CA/San-Diego/6475-Oakridge-Rd-92120/home/5407559,32.801488899999995,-117.055342
+76,Single Family Residential,5554 Gamay Way,San Diego,CA,92130,1528880,5,3.0,2730,10487.0,2006,111.0,http://www.redfin.com/CA/San-Diego/5554-Gamay-Way-92130/home/12152417,32.9582482,-117.197584
+77,Single Family Residential,9767 Caminito Munoz,San Diego,CA,92131,1189999,3,3.0,2434,9723.0,1984,300.0,http://www.redfin.com/CA/San-Diego/9767-Caminito-Munoz-92131/home/4975750,32.9025311,-117.0792703
+78,Single Family Residential,5762 Avenida Sanchez,San Diego,CA,92124,829000,4,2.5,1628,,1973,,http://www.redfin.com/CA/San-Diego/5762-Avenida-Sanchez-92124/home/4985385,32.836340500000006,-117.10053
+79,Single Family Residential,6326 Lolly Ln,San Diego,CA,92114,479000,3,2.0,1375,5760.0,1984,,http://www.redfin.com/CA/San-Diego/6326-Lolly-Ln-92114/home/5887285,32.7045766,-117.0626058
+80,Condo/Co-op,9936 Scripps Westview Way #256,San Diego,CA,92131,439000,2,2.0,1052,135036.0,1984,285.0,http://www.redfin.com/CA/San-Diego/9936-Scripps-Westview-Way-92131/unit-256/home/4813846,32.9234523,-117.1137841
+81,Single Family Residential,9774 Fox Valley Ct,San Diego,CA,92127,1274888,5,4.0,3683,6820.0,2002,95.0,http://www.redfin.com/CA/San-Diego/9774-Fox-Valley-Ct-92127/home/6465863,33.0098725,-117.1183634
+82,Condo/Co-op,17081 W Bernardo Dr #202,San Diego,CA,92127,400000,3,2.0,1040,,1994,440.0,http://www.redfin.com/CA/San-Diego/17081-W-Bernardo-Dr-92127/unit-202/home/6615548,33.0265196,-117.0808719
+83,Single Family Residential,8212 Fortuna Santa Fe Rd,San Diego,CA,92127,2795000,5,4.5,4086,107593.0,2012,,http://www.redfin.com/CA/San-Diego/8212-Fortuna-Santa-Fe-Rd-92127/home/22900256,33.0130059,-117.1542784
+84,Condo/Co-op,1050 Island Ave #418,San Diego,CA,92101,649999,2,2.0,1364,,2005,510.0,http://www.redfin.com/CA/San-Diego/1050-Island-Ave-92101/unit-418/home/6676850,32.7108408,-117.15510819999999
+85,Single Family Residential,15318 Avenida Rorras,San Diego,CA,92128,775000,3,2.0,1843,6344.0,1987,142.0,http://www.redfin.com/CA/San-Diego/15318-Avenida-Rorras-92128/home/4640457,32.9944845,-117.07005330000001
+86,Condo/Co-op,3887 Pell Pl #320,San Diego,CA,92130,470000,1,1.0,748,,2006,252.0,http://www.redfin.com/CA/San-Diego/3887-Pell-Pl-92130/unit-320/home/12155979,32.949024699999995,-117.23055990000002
+87,Condo/Co-op,4444 W Point Loma Blvd #36,San Diego,CA,92107,349000,1,1.0,725,,1966,425.0,http://www.redfin.com/CA/San-Diego/4444-W-Point-Loma-Blvd-92107/unit-36/home/5273004,32.7528016,-117.2320731
+88,Condo/Co-op,8309 Distinctive Dr,San Diego,CA,92108,879000,2,2.5,1547,,2015,250.0,http://www.redfin.com/CA/San-Diego/8309-Distinctive-Dr-92108/home/112890410,32.780083399999995,-117.1492685
+89,Single Family Residential,4496 Cape May Ave,San Diego,CA,92107,1280000,2,1.0,1257,7000.0,1941,,http://www.redfin.com/CA/San-Diego/4496-Cape-May-Ave-92107/home/5340540,32.7441354,-117.2398929
+90,Single Family Residential,4247 Hamilton St,San Diego,CA,92104,699000,3,3.0,958,,1941,,http://www.redfin.com/CA/San-Diego/4247-Hamilton-St-92104/home/5301067,32.7547489,-117.1361494
+91,Single Family Residential,704 Iona Dr,San Diego,CA,92114,495000,3,2.0,828,6300.0,1942,,http://www.redfin.com/CA/San-Diego/704-Iona-Dr-92114/home/5878965,32.7123446,-117.0692143
+92,Single Family Residential,10938 Jasmine Crest Ln,San Diego,CA,92121,924900,4,2.0,1832,,1998,52.0,http://www.redfin.com/CA/San-Diego/10938-Jasmine-Crest-Ln-92121/home/4596824,32.9165458,-117.18897820000001
+93,Single Family Residential,15413 Artesian Ridge Rd,San Diego,CA,92127,2795000,6,5.0,5415,42688.0,2013,284.0,http://www.redfin.com/CA/San-Diego/15413-Artesian-Ridge-Rd-92127/home/22390729,33.0101837,-117.1491673
+94,Single Family Residential,8206 Calle Calzada,San Diego,CA,92126,699900,3,2.0,1149,5000.0,1971,,http://www.redfin.com/CA/San-Diego/8206-Calle-Calzada-92126/home/4529352,32.9207065,-117.1470867
+95,Condo/Co-op,3532 Meade Ave,San Diego,CA,92116,269000,1,1.0,596,,1970,254.0,http://www.redfin.com/CA/San-Diego/3532-Meade-Ave-92116/home/5315185,32.757200899999994,-117.11720490000002
+96,Condo/Co-op,1605 Hotel Cir S Unit B115,San Diego,CA,92108,399900,2,2.0,950,206887.0,1972,461.0,http://www.redfin.com/CA/San-Diego/1605-Hotel-Cir-S-92108/unit-B115/home/5278205,32.757867100000006,-117.17849170000001
+97,Townhouse,3793 Balboa Ter Unit A,San Diego,CA,92117,679000,3,2.0,1659,,1982,400.0,http://www.redfin.com/CA/San-Diego/3793-Balboa-Ter-92117/unit-A/home/6254455,32.8109041,-117.2084463
+98,Condo/Co-op,3520 Lebon Dr #5113,San Diego,CA,92122,384999,1,1.0,600,275850.0,2006,326.0,http://www.redfin.com/CA/San-Diego/3520-Lebon-Dr-92122/unit-5113/home/6698126,32.8691664,-117.2258375
+99,Single Family Residential,4222 Conrad,San Diego,CA,92117,639500,3,2.0,1080,,1958,,http://www.redfin.com/CA/San-Diego/4222-Conrad-Ave-92117/home/6236768,32.8355859,-117.2008
+100,Condo/Co-op,988 G St #32,San Diego,CA,92101,419000,1,1.0,660,19048.0,1999,195.0,http://www.redfin.com/CA/San-Diego/988-G-St-92101/unit-32/home/7538869,32.7128295,-117.1560274
+101,Condo/Co-op,1389 Caminito Gabaldon Unit G,San Diego,CA,92108,310000,2,1.0,726,,1975,280.0,http://www.redfin.com/CA/San-Diego/1389-Caminito-Gabaldon-92108/unit-G/home/5256386,32.7726304,-117.15242620000001
+102,Single Family Residential,1504 Glenwood Dr,San Diego,CA,92103,1479000,4,3.0,2173,4899.0,1927,,http://www.redfin.com/CA/San-Diego/1504-Glenwood-Dr-92103/home/5362192,32.742125099999996,-117.1771385
+103,Single Family Residential,3628 Gayle St,San Diego,CA,92115,489000,3,1.5,1100,,1951,,http://www.redfin.com/CA/San-Diego/3628-Gayle-St-92115/home/5519293,32.746206199999996,-117.06554809999999
+104,Condo/Co-op,11259 Avenida de Los Lobos Unit H,San Diego,CA,92127,385000,2,2.0,894,,1990,337.0,http://www.redfin.com/CA/San-Diego/11259-Avenida-De-Los-Lobos-92127/unit-H/home/6399538,33.0024617,-117.0905629
+105,Condo/Co-op,1333 8th Ave #206,San Diego,CA,92101,315000,1,1.0,673,,1982,441.0,http://www.redfin.com/CA/San-Diego/1333-Eighth-Ave-92101/unit-206/home/5765324,32.719240299999996,-117.1571601
+106,Single Family Residential,5615 Dream St,San Diego,CA,92114,539000,3,1.5,1076,,1953,,http://www.redfin.com/CA/San-Diego/5615-Dream-St-92114/home/5875208,32.7052076,-117.0748342
+107,Condo/Co-op,1681 Bayview Heights Dr #32,San Diego,CA,92105,224900,1,1.0,521,,1979,230.0,http://www.redfin.com/CA/San-Diego/1681-Bayview-Heights-Dr-92105/unit-32/home/6677836,32.7232472,-117.07818490000001
+108,Single Family Residential,4084 Hatton St,San Diego,CA,92111,619000,4,2.0,1300,,1961,,http://www.redfin.com/CA/San-Diego/4084-Hatton-St-92111/home/5162714,32.8181591,-117.16321599999999
+109,Condo/Co-op,6780 Friars Rd #248,San Diego,CA,92108,309000,1,1.0,664,211014.0,1972,295.0,http://www.redfin.com/CA/San-Diego/6780-Friars-Rd-92108/unit-248/home/5247001,32.7686413,-117.17357709999999
+110,Condo/Co-op,6808 Fashion Hls,San Diego,CA,92111,642000,3,2.0,1450,,1982,205.0,http://www.redfin.com/CA/San-Diego/6808-Fashion-Hills-Blvd-92111/home/5250083,32.770849,-117.17101100000001
+111,Condo/Co-op,15273 MATURIN Dr #32,San Diego,CA,92127,375000,1,1.0,769,71972.0,1995,323.0,http://www.redfin.com/CA/San-Diego/15273-Maturin-Dr-92127/unit-32/home/7531527,33.004439399999995,-117.09080690000002
+112,Condo/Co-op,2054 Bluehaven Ct,San Diego,CA,92154,440000,3,2.5,1338,1447.0,1985,128.0,http://www.redfin.com/CA/San-Diego/2054-Bluehaven-Ct-92154/home/6183932,32.55807,-117.0666514
+113,Single Family Residential,1283 Van Nuys St,San Diego,CA,92109,2795000,4,3.5,3187,6250.0,2020,,http://www.redfin.com/CA/San-Diego/1283-Van-Nuys-St-92109/home/5124981,32.8130425,-117.25111170000001
+114,Condo/Co-op,2400 5Th Ave #205,San Diego,CA,92101,460000,1,1.0,787,60174.0,2003,457.0,http://www.redfin.com/CA/San-Diego/2400-Fifth-Ave-92101/unit-205/home/7543203,32.7308634,-117.1607398
+115,Condo/Co-op,6330 Genesee Ave #106,San Diego,CA,92122,265000,1,1.0,578,106921.0,1985,247.0,http://www.redfin.com/CA/San-Diego/6330-Genesee-Ave-92122/unit-106/home/4892454,32.8532736,-117.204742
+116,Single Family Residential,831 Salem Ct,San Diego,CA,92109,2099000,4,4.5,1698,1576.0,1926,,http://www.redfin.com/CA/San-Diego/831-Salem-Ct-92109/home/5182569,32.785104499999996,-117.25215659999999
+117,Condo/Co-op,6275 Rancho Mission Rd #209,San Diego,CA,92108,279999,1,1.0,667,,1979,320.0,http://www.redfin.com/CA/San-Diego/6275-Rancho-Mission-Rd-92108/unit-209/home/5232122,32.787067300000004,-117.10765959999999
+118,Townhouse,4736 Renovo Way,San Diego,CA,92124,749000,3,2.5,1913,2030.0,1980,430.0,http://www.redfin.com/CA/San-Diego/4736-Renovo-Way-92124/home/4993007,32.827062,-117.078024
+119,Condo/Co-op,4152 Oregon St Apt 7,San Diego,CA,92104,424000,2,1.0,748,,1982,243.0,http://www.redfin.com/CA/San-Diego/4152-Oregon-St-92104/unit-7/home/5303239,32.7531925,-117.13546740000001
+120,Condo/Co-op,2040 K St #4,San Diego,CA,92102,440000,2,2.0,1026,7461.0,1981,250.0,http://www.redfin.com/CA/San-Diego/2040-K-St-92102/unit-4/home/5774838,32.7085686,-117.1451894
+121,Single Family Residential,8715 San Vicente St,San Diego,CA,92114,550000,3,2.0,1442,,1975,,http://www.redfin.com/CA/San-Diego/8715-San-Vicente-St-92114/home/6030027,32.7116794,-117.02003059999998
+122,Single Family Residential,12889 Camino Ramillette,San Diego,CA,92128,699000,3,2.0,1565,,1980,230.0,http://www.redfin.com/CA/San-Diego/12889-Camino-Ramillette-92128/home/4208033,33.038095,-117.050509
+123,Condo/Co-op,1801 Diamond St #3216,San Diego,CA,92109,385000,1,1.0,678,,1975,407.0,http://www.redfin.com/CA/San-Diego/1801-Diamond-St-92109/unit-3216/home/142957472,32.803110499999995,-117.23833470000001
+124,Single Family Residential,4950 Pacifica Dr,San Diego,CA,92109,1375000,3,2.0,1678,10700.0,1961,,http://www.redfin.com/CA/San-Diego/4950-Pacifica-Dr-92109/home/5146288,32.8115769,-117.2227131
+125,Townhouse,13524 Ridley Rd,San Diego,CA,92129,724900,3,2.5,1644,,1984,90.0,http://www.redfin.com/CA/San-Diego/13524-Ridley-Rd-92129/home/4762971,32.958509,-117.1208568
+126,Single Family Residential,11767 Invierno Dr,San Diego,CA,92124,1199000,6,3.0,3373,17681.0,1980,,http://www.redfin.com/CA/San-Diego/11767-Invierno-Dr-92124/home/6424566,32.8170126,-117.07754650000001
+127,Single Family Residential,5121 34th,San Diego,CA,92116,644900,2,1.0,1056,,1921,,http://www.redfin.com/CA/San-Diego/5121-34th-St-92116/home/5261323,32.7711058,-117.1207993
+128,Condo/Co-op,836 W Pennsylvania #211,San Diego,CA,92103,425000,1,1.0,900,,2000,141.0,http://www.redfin.com/CA/San-Diego/836-W-Pennsylvania-Ave-92103/unit-211/home/11320360,32.745554399999996,-117.17091029999999
+129,Townhouse,4155 Corte de la Siena,San Diego,CA,92130,910000,3,2.0,1218,,1988,,http://www.redfin.com/CA/San-Diego/4155-Corte-De-La-Siena-92130/home/4509468,32.9472489,-117.2263192
+130,Townhouse,723 S 47th St,San Diego,CA,92113,750000,6,4.0,2545,5401.0,2004,,http://www.redfin.com/CA/San-Diego/723-S-47th-St-92113/home/5873038,32.698143,-117.0933851
+131,Single Family Residential,3694 Old Cobble Rd,San Diego,CA,92111,800000,3,2.5,1669,,1983,132.0,http://www.redfin.com/CA/San-Diego/3694-Old-Cobble-Rd-92111/home/5206497,32.8053071,-117.1782412
+132,Condo/Co-op,425 W Beech St #1355,San Diego,CA,92101,679900,2,2.0,975,59910.0,2004,773.0,http://www.redfin.com/CA/San-Diego/425-W-Beech-St-92101/unit-1355/home/6641062,32.7203803,-117.1669418
+133,Single Family Residential,2735 Bay Canyon Ct,San Diego,CA,92117,860000,3,2.0,1789,3700.0,1978,105.0,http://www.redfin.com/CA/San-Diego/2735-Bay-Canyon-Ct-92117/home/5204712,32.7908843,-117.199973
+134,Condo/Co-op,5103 Fontaine St #116,San Diego,CA,92120,419000,2,2.0,937,,1980,390.0,http://www.redfin.com/CA/San-Diego/5103-Fontaine-St-92120/unit-116/home/5426776,32.8002359,-117.0834969
+135,Condo/Co-op,6202 Friars Rd #220,San Diego,CA,92108,298000,1,1.0,661,,1973,299.0,http://www.redfin.com/CA/San-Diego/6202-Friars-Rd-92108/unit-220/home/5246124,32.766878600000005,-117.1803846
+136,Single Family Residential,10757 Cariuto Ct,San Diego,CA,92124,699000,4,2.0,1558,2900.0,1973,164.0,http://www.redfin.com/CA/San-Diego/10757-Cariuto-Ct-92124/home/4989483,32.8241592,-117.0984041
+137,Condo/Co-op,12604 Carmel Country #21,San Diego,CA,92130,595000,2,2.5,1050,,1993,450.0,http://www.redfin.com/CA/San-Diego/12604-Carmel-Country-Rd-92130/unit-21/home/4456087,32.950334000000005,-117.22934690000001
+138,Condo/Co-op,1205 Pacific Hwy #604,San Diego,CA,92101,525000,1,1.5,899,,2005,939.0,http://www.redfin.com/CA/San-Diego/1205-Pacific-Hwy-92101/unit-604/home/6675224,32.718317600000006,-117.17051770000002
+139,Condo/Co-op,3135 Dickens St,San Diego,CA,92106,615000,2,2.5,1036,9996.0,1993,300.0,http://www.redfin.com/CA/San-Diego/3135-Dickens-St-92106/home/5740135,32.724646,-117.231848
+140,Single Family Residential,5811 Calle Casas Bonitas,San Diego,CA,92139,599999,4,3.0,1530,7400.0,1975,,http://www.redfin.com/CA/San-Diego/5811-Calle-Casas-Bonitas-92139/home/6045986,32.669080199999996,-117.0616864
+141,Condo/Co-op,3535 Madison Ave #230,San Diego,CA,92116,439000,2,2.0,950,93700.0,1984,346.0,http://www.redfin.com/CA/San-Diego/3535-Madison-Ave-92116/unit-230/home/7537309,32.7603724,-117.1172463
+142,Single Family Residential,352 44th,San Diego,CA,92102,560000,4,1.5,1897,,1945,,http://www.redfin.com/CA/San-Diego/352-44th-St-92102/home/5870489,32.708888,-117.0999324
+143,Condo/Co-op,5745 Friars Rd #113,San Diego,CA,92110,349000,1,1.0,695,,1980,427.0,http://www.redfin.com/CA/San-Diego/5745-Friars-Rd-92110/unit-113/home/5240214,32.7639859,-117.188657
+144,Single Family Residential,4619 Florida St,San Diego,CA,92116,915000,4,2.5,1772,3641.0,1992,,http://www.redfin.com/CA/San-Diego/4619-Florida-St-92116/home/5292233,32.7614116,-117.1435091
+145,Townhouse,7290 Hyatt St #8,San Diego,CA,92111,579000,3,2.5,1544,,2006,388.0,http://www.redfin.com/CA/San-Diego/7290-Hyatt-St-92111/unit-8/home/17140942,32.79094,-117.1651918
+146,Single Family Residential,2829 State,San Diego,CA,92103,1250000,4,3.0,2117,,1935,,http://www.redfin.com/CA/San-Diego/2829-State-St-92103/home/5365384,32.734413599999996,-117.17097
+147,Townhouse,16137 Veridian Cir,San Diego,CA,92127,950000,5,3.0,2295,,2017,252.0,http://www.redfin.com/CA/San-Diego/16137-Veridian-Cir-92127/home/125769332,33.0109509,-117.123742
+148,Condo/Co-op,2500 6th Ave #908,San Diego,CA,92103,1999000,3,2.5,2625,,2005,1505.0,http://www.redfin.com/CA/San-Diego/2500-Sixth-Ave-92103/unit-908/home/7536982,32.731687300000004,-117.1598633
+149,Condo/Co-op,3466 Spring Tide Ter,San Diego,CA,92110,549777,2,2.0,1227,,2006,232.0,http://www.redfin.com/CA/San-Diego/3466-Spring-Tide-Ter-92110/home/12160170,32.7492023,-117.2148229
+150,Condo/Co-op,8566 Aspect Dr,San Diego,CA,92108,875000,3,2.0,1656,,2018,192.0,http://www.redfin.com/CA/San-Diego/8566-Aspect-Dr-92108/home/145147627,32.781126,-117.147939
+151,Condo/Co-op,2920 Briarwood Unit F12,San Diego,CA,91902,285000,1,1.0,599,,1980,257.0,http://www.redfin.com/CA/Bonita/2920-Briarwood-Rd-91902/unit-F12/home/6057043,32.6801289,-117.03032079999998
+152,Condo/Co-op,2020 Camino De La Reina #210,San Diego,CA,92108,474900,2,2.0,1025,336710.0,1992,458.0,http://www.redfin.com/CA/San-Diego/2020-Camino-De-La-Reina-92108/unit-210/home/5259533,32.7719307,-117.14246729999999
+153,Condo/Co-op,3951 Idaho #3,San Diego,CA,92104,429000,2,2.0,748,,1981,225.0,http://www.redfin.com/CA/San-Diego/3951-Idaho-St-92104/unit-3/home/5307551,32.749463,-117.13350200000001
+154,Condo/Co-op,3890 Nobel #804,San Diego,CA,92122,370000,1,1.5,1055,,1991,2436.0,http://www.redfin.com/CA/San-Diego/3890-Nobel-Dr-92122/unit-804/home/4871404,32.8687994,-117.2230067
+155,Condo/Co-op,5645 FRIARS Rd #341,San Diego,CA,92110,447300,2,2.0,1060,,1981,480.0,http://www.redfin.com/CA/San-Diego/5645-Friars-Rd-92110/unit-341/home/5241026,32.763545,-117.1900895
+156,Condo/Co-op,700 W Harbor Dr #407,San Diego,CA,92101,975000,2,2.0,1374,,2004,1029.0,http://www.redfin.com/CA/San-Diego/700-W-Harbor-Dr-92101/unit-407/home/6565700,32.7120231,-117.16965379999999
+157,Condo/Co-op,10264 Maya Linda Rd #46,San Diego,CA,92126,400000,2,1.5,884,97307.0,1980,287.0,http://www.redfin.com/CA/San-Diego/10264-Maya-Linda-Rd-92126/unit-46/home/6683920,32.9041722,-117.1173896
+158,Condo/Co-op,11165 Affinity Ct #37,San Diego,CA,92131,434999,2,2.0,1032,,1992,415.0,http://www.redfin.com/CA/San-Diego/11165-Affinity-Ct-92131/unit-37/home/4819050,32.9223034,-117.1106797
+159,Single Family Residential,4797 Chateau,San Diego,CA,92117,725000,3,2.0,1140,21600.0,1965,,http://www.redfin.com/CA/San-Diego/4797-Chateau-Dr-92117/home/4966434,32.828601899999995,-117.1876142
+160,Condo/Co-op,3440 Lebon #4103,San Diego,CA,92122,515000,2,2.0,1001,,2006,338.0,http://www.redfin.com/CA/San-Diego/3440-Lebon-Dr-92122/unit-4103/home/7539867,32.8679368,-117.2254105
+161,Single Family Residential,4831 Monroe Ave,San Diego,CA,92115,749000,3,2.0,1299,4200.0,1941,,http://www.redfin.com/CA/San-Diego/4831-Monroe-Ave-92115/home/5460380,32.7588221,-117.09021070000001
+162,Condo/Co-op,580 Camino de la Reina #325,San Diego,CA,92108,465000,2,2.0,1274,,1991,428.0,http://www.redfin.com/CA/San-Diego/580-Camino-De-La-Reina-92108/unit-325/home/5253042,32.7672649,-117.16067120000001
+163,Single Family Residential,4031 Datcho Dr,San Diego,CA,92117,910000,4,3.0,2528,6200.0,1985,,http://www.redfin.com/CA/San-Diego/4031-Datcho-Dr-92117/home/5149996,32.814291600000004,-117.20171880000001
+164,Single Family Residential,751 Gage,San Diego,CA,92106,1295000,3,2.0,1624,4792.0,1956,,http://www.redfin.com/CA/San-Diego/751-Gage-Dr-92106/home/5745419,32.7174958,-117.2413703
+165,Single Family Residential,6359 Cowles Mountain Blvd,San Diego,CA,92119,709000,3,2.0,1296,6200.0,1961,,http://www.redfin.com/CA/San-Diego/6359-Cowles-Mountain-Blvd-92119/home/6253034,32.797153,-117.0269278
+166,Condo/Co-op,2224 River Run Dr #149,San Diego,CA,92108,399500,2,1.0,928,,1986,360.0,http://www.redfin.com/CA/San-Diego/2224-River-Run-Dr-92108/unit-149/home/5227580,32.778317,-117.1344827
+167,Single Family Residential,4275 Shorepointe Way,San Diego,CA,92130,1469000,5,3.5,3211,,2000,26.0,http://www.redfin.com/CA/San-Diego/4275-Shorepointe-Way-92130/home/6397156,32.92219,-117.2222997
+168,Condo/Co-op,3131 Groton Way #4,San Diego,CA,92110,484999,2,2.0,1018,111875.0,1964,475.0,http://www.redfin.com/CA/San-Diego/3131-Groton-Way-92110/unit-4/home/5275764,32.752419800000006,-117.2209633
+169,Condo/Co-op,4013 OAKCREST Dr #5,San Diego,CA,92105,200000,1,1.0,646,,1981,264.0,http://www.redfin.com/CA/San-Diego/4013-Oakcrest-Dr-92105/unit-5/home/28512569,32.7494196,-117.08524709999999
+170,Single Family Residential,10741 Calston Way,San Diego,CA,92126,849000,4,2.5,1920,,1993,,http://www.redfin.com/CA/San-Diego/10741-Calston-Way-92126/home/4593376,32.9125131,-117.16799479999999
+171,Condo/Co-op,7974 Playmor Ter,San Diego,CA,92122,699000,4,2.0,1450,,1977,400.0,http://www.redfin.com/CA/San-Diego/7974-Playmor-Ter-92122/home/4901406,32.863257,-117.21740700000001
+172,Condo/Co-op,4067 1St Ave,San Diego,CA,92103,875000,3,3.0,1760,26630.0,2004,446.0,http://www.redfin.com/CA/San-Diego/4067-1st-Ave-92103/home/6686539,32.751236999999996,-117.163723
+173,Condo/Co-op,8337 Distinctive Dr,San Diego,CA,92108,889999,3,2.5,1666,,2015,532.0,http://www.redfin.com/CA/San-Diego/8337-Distinctive-Dr-92108/home/112890081,32.7799211,-117.14949070000002
+174,Single Family Residential,4333 Felton St,San Diego,CA,92104,599900,2,1.0,720,,1931,,http://www.redfin.com/CA/San-Diego/4333-Felton-St-92104/home/5323751,32.756031300000004,-117.1209027
+175,Single Family Residential,3484 Robb Roy Pl,San Diego,CA,92154,649000,5,2.5,1756,,1977,,http://www.redfin.com/CA/San-Diego/3484-Robb-Roy-Pl-92154/home/6160375,32.5818049,-117.05883600000001
+176,Single Family Residential,3808 Rancho La Bella,San Diego,CA,92130,3300000,5,5.5,6235,23086.0,2015,485.0,http://www.redfin.com/CA/San-Diego/3808-Rancho-La-Bella-92130/home/52346039,32.9723192,-117.2332063
+177,Condo/Co-op,12608 Carmel Country Rd #27,San Diego,CA,92130,599999,2,2.0,1034,,1993,450.0,http://www.redfin.com/CA/San-Diego/12608-Carmel-Country-Rd-92130/unit-27/home/4456096,32.950334000000005,-117.22934690000001
+178,Condo/Co-op,10832 Scripps Ranch Blvd Apt 310,San Diego,CA,92131,635900,3,2.0,1444,,2002,280.0,http://www.redfin.com/CA/San-Diego/10832-Scripps-Ranch-Blvd-92131/unit-310/home/12160114,32.9150531,-117.11165700000001
+179,Townhouse,6553 Caminito Estrellado,San Diego,CA,92120,751900,4,2.5,2584,,1975,350.0,http://www.redfin.com/CA/San-Diego/6553-Caminito-Estrellado-92120/home/6244881,32.7927021,-117.0631115
+180,Single Family Residential,12429 DAMASCO Ct,San Diego,CA,92128,915000,4,2.5,2061,,1971,23.0,http://www.redfin.com/CA/San-Diego/12429-Damasco-Ct-92128/home/4226521,33.0348877,-117.06255990000001
+181,Single Family Residential,4909 Dafter Dr,San Diego,CA,92102,589000,3,2.0,1420,6600.0,1956,,http://www.redfin.com/CA/San-Diego/4909-Dafter-Dr-92102/home/5841135,32.727191,-117.0895442
+182,Condo/Co-op,5219 Marigot Pl,San Diego,CA,92124,539000,4,2.5,1400,,1977,440.0,http://www.redfin.com/CA/San-Diego/5219-Marigot-Pl-92124/home/4987151,32.826073,-117.094199
+183,Condo/Co-op,4316 Collwood Ln,San Diego,CA,92115,520000,3,2.0,1722,,1967,460.0,http://www.redfin.com/CA/San-Diego/4316-Collwood-Ln-92115/home/5463657,32.7638908,-117.08417890000001
+184,Townhouse,13457 Tiverton Rd,San Diego,CA,92130,770000,3,2.5,1445,146601.0,1988,290.0,http://www.redfin.com/CA/San-Diego/13457-Tiverton-Rd-92130/home/4463718,32.959583,-117.234778
+185,Single Family Residential,7182 Bobhird,San Diego,CA,92119,780000,5,3.0,2133,,1968,,http://www.redfin.com/CA/San-Diego/7182-Bobhird-Dr-92119/home/5424806,32.812221,-117.01460459999998
+186,Single Family Residential,5002 Mount Harris Dr,San Diego,CA,92117,669000,4,2.0,1402,6800.0,1958,,http://www.redfin.com/CA/San-Diego/5002-Mt-Harris-Dr-92117/home/4960959,32.8242523,-117.1865115
+187,Single Family Residential,4624 Max Dr,San Diego,CA,92115,714000,2,1.0,872,13000.0,1945,,http://www.redfin.com/CA/San-Diego/4624-Max-Dr-92115/home/5459798,32.759471000000005,-117.09487630000001
+188,Single Family Residential,1624 30th St,San Diego,CA,92102,1225000,3,2.0,3048,,1911,,http://www.redfin.com/CA/San-Diego/1624-30th-St-92102/home/5821258,32.7229125,-117.1305426
+189,Single Family Residential,4870 Doliva Dr,San Diego,CA,92117,599000,3,1.0,1500,7400.0,1961,,http://www.redfin.com/CA/San-Diego/4870-Doliva-Dr-92117/home/4964793,32.83327,-117.175852
+190,Single Family Residential,2965 Mobley St,San Diego,CA,92123,699000,3,2.0,1150,6000.0,1985,,http://www.redfin.com/CA/San-Diego/2965-Mobley-St-92123/home/5214764,32.7974462,-117.13523020000001
+191,Condo/Co-op,3893 Groton St #1,San Diego,CA,92110,349000,1,1.0,877,,1964,445.0,http://www.redfin.com/CA/San-Diego/3893-Groton-St-92110/unit-1/home/6420376,32.7535126,-117.2212572
+192,Townhouse,5932 Cumberland St,San Diego,CA,92139,875000,6,4.0,2800,8220.0,2000,,http://www.redfin.com/CA/San-Diego/5932-Cumberland-St-92139/unit-5934/home/6044269,32.676075,-117.062647
+193,Condo/Co-op,1905 Avenida Del Mexico #258,San Diego,CA,92154,329900,2,2.0,885,,1987,275.0,http://www.redfin.com/CA/San-Diego/1905-Avenida-Del-Mexico-92154/unit-258/home/12159605,32.5828586,-117.0916068
+194,Single Family Residential,5515 Valerio Trl,San Diego,CA,92130,1619000,5,3.5,3377,6307.0,2003,148.0,http://www.redfin.com/CA/San-Diego/5515-Valerio-Trl-92130/home/6542702,32.962073,-117.2013283
+195,Townhouse,500 W Harbor Dr #1404,San Diego,CA,92101,1739000,3,3.0,2069,102536.0,1994,1010.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-1404/home/6489368,32.7110037,-117.16634429999999
+196,Condo/Co-op,1388 Kettner Blvd #1003,San Diego,CA,92101,866900,2,2.0,1235,,2019,934.0,http://www.redfin.com/CA/San-Diego/1388-Kettner-Blvd-92101/unit-1003/home/172651452,32.7196802,-117.16934099999999
+197,Condo/Co-op,1388 Kettner Blvd #702,San Diego,CA,92101,1309900,2,2.0,1632,,2019,995.0,http://www.redfin.com/CA/San-Diego/1388-Kettner-Blvd-92101/unit-702/home/170146343,32.7196802,-117.16934099999999
+198,Single Family Residential,605 Lobrico Ct,San Diego,CA,92114,511000,3,2.0,1263,6316.0,2000,,http://www.redfin.com/CA/San-Diego/605-Lobrico-Ct-92114/home/6010408,32.7109563,-117.04313540000001
+199,Single Family Residential,1922 Mission Ave,San Diego,CA,92116,1149900,3,2.0,1777,,1927,,http://www.redfin.com/CA/San-Diego/1922-Mission-Ave-92116/home/5297173,32.758571,-117.14453629999998
+200,Townhouse,350 Nutmeg St #106,San Diego,CA,92103,707285,3,3.0,1813,,2004,450.0,http://www.redfin.com/CA/San-Diego/350-Nutmeg-St-92103/unit-106/home/6671469,32.7337921,-117.16168049999999
+201,Condo/Co-op,2319 CURLEW #9,San Diego,CA,92101,520000,2,1.5,840,,1979,340.0,http://www.redfin.com/CA/San-Diego/2319-Curlew-St-92101/unit-9/home/5749710,32.7294974,-117.1672882
+202,Townhouse,1483 Camino Zalce,San Diego,CA,92111,659900,3,2.0,1450,,1980,205.0,http://www.redfin.com/CA/San-Diego/1483-Camino-Zalce-92111/home/5250255,32.772888,-117.171097
+203,Condo/Co-op,8889 Caminito Plaza Centro #7319,San Diego,CA,92122,379500,1,1.0,535,275850.0,2006,310.0,http://www.redfin.com/CA/San-Diego/8889-Caminito-Plaza-Centro-92122/unit-7319/home/7543057,32.8691664,-117.2258375
+204,Single Family Residential,4917 Magnus Way,San Diego,CA,92113,499000,4,2.0,1345,6900.0,1972,,http://www.redfin.com/CA/San-Diego/4917-Magnus-Way-92113/home/5905423,32.6915584,-117.08926840000001
+205,Condo/Co-op,5283 Marigot Pl,San Diego,CA,92124,529000,3,1.5,1250,130147.0,1977,440.0,http://www.redfin.com/CA/San-Diego/5283-Marigot-Pl-92124/home/4987029,32.826913,-117.093273
+206,Condo/Co-op,550 Front St #806,San Diego,CA,92101,724900,2,2.0,1045,,2005,1124.0,http://www.redfin.com/CA/San-Diego/550-Front-St-92101/unit-806/home/22805939,32.711071000000004,-117.16515359999998
+207,Single Family Residential,2793 Villas Way,San Diego,CA,92108,669500,3,2.5,1435,,2004,252.0,http://www.redfin.com/CA/San-Diego/2793-Villas-Way-92108/unit-A/home/6670153,32.7841092,-117.1340179
+208,Condo/Co-op,321 10Th Ave #1001,San Diego,CA,92101,694900,2,2.0,1103,55157.0,2007,677.0,http://www.redfin.com/CA/San-Diego/321-Tenth-Ave-92101/unit-1001/home/12161191,32.7088486,-117.15507679999999
+209,Single Family Residential,7281 Canyon Glen Ct,San Diego,CA,92129,1249000,5,2.5,2757,4582.0,2003,75.0,http://www.redfin.com/CA/San-Diego/7281-Canyon-Glen-Ct-92129/home/6507033,32.958351,-117.1618969
+210,Single Family Residential,4911 W Mountain View Dr,San Diego,CA,92116,1100000,3,2.5,1496,8925.0,1944,,http://www.redfin.com/CA/San-Diego/4911-W-Mountain-View-Dr-92116/home/5262000,32.7677831,-117.12507350000001
+211,Single Family Residential,857 Rosecrans St,San Diego,CA,92106,2460000,3,2.5,2812,6407.0,1939,,http://www.redfin.com/CA/San-Diego/857-Rosecrans-St-92106/home/5743125,32.718073,-117.23541429999999
+212,Condo/Co-op,4427 Tremont St #16,San Diego,CA,92102,275000,2,1.5,830,65775.0,1983,294.0,http://www.redfin.com/CA/San-Diego/4427-Tremont-St-92102/unit-16/home/7494260,32.7143711,-117.0992142
+213,Condo/Co-op,3755 OCEAN FRONT Walk #3,San Diego,CA,92109,1149900,2,1.0,784,,1972,475.0,http://www.redfin.com/CA/San-Diego/3755-Ocean-Front-Walk-92109/unit-3/home/5182631,32.7837514,-117.2535683
+214,Single Family Residential,2202 Judith Ave,San Diego,CA,92154,530000,3,1.0,1681,6400.0,1958,,http://www.redfin.com/CA/San-Diego/2202-Judith-Ave-92154/home/6175156,32.5715054,-117.0861426
+215,Single Family Residential,,San Diego,CA,92127,2095000,4,4.5,4795,34412.0,2014,550.0,http://www.redfin.com/CA/San-Diego/Undisclosed-address-92127/home/22900788,33.0245951,-117.14894790000001
+216,Single Family Residential,760 Van Nuys St,San Diego,CA,92109,1689000,3,2.0,1324,5300.0,1950,,http://www.redfin.com/CA/San-Diego/760-Van-Nuys-St-92109/home/5124213,32.8115381,-117.26060759999999
+217,Condo/Co-op,4834 W Mountain View Dr #6,San Diego,CA,92116,249900,0,1.0,364,,1990,207.0,http://www.redfin.com/CA/San-Diego/4834-W-Mountain-View-Dr-92116/unit-6/home/6693182,32.766242,-117.1261688
+218,Condo/Co-op,2842 39th St #4,San Diego,CA,92105,259899,2,1.0,782,,1979,300.0,http://www.redfin.com/CA/San-Diego/2842-39th-St-92105/unit-4/home/5398193,32.734353000000006,-117.1111433
+219,Condo/Co-op,11145 Affinity #21,San Diego,CA,92131,480000,2,2.0,1032,,1995,419.0,http://www.redfin.com/CA/San-Diego/11145-Affinity-Ct-92131/unit-21/home/4819100,32.921364000000004,-117.11077579999998
+220,Condo/Co-op,800 The Mark Ln #2305,San Diego,CA,92101,979000,2,2.0,1133,,2007,785.0,http://www.redfin.com/CA/San-Diego/800-The-Mark-Ln-92101/unit-2305/home/17200831,32.710961100000006,-117.1569316
+221,Condo/Co-op,575 6th Ave #1306,San Diego,CA,92101,745000,2,2.0,1144,,2007,644.0,http://www.redfin.com/CA/San-Diego/575-Sixth-Ave-92101/unit-1306/home/17202858,32.7111577,-117.1587558
+222,Single Family Residential,854 Harwood,San Diego,CA,92154,609000,3,2.0,1616,6100.0,1958,,http://www.redfin.com/CA/San-Diego/854-Harwood-St-92154/home/6147790,32.5811759,-117.10041509999998
+223,Townhouse,1163 Terracina Ln,San Diego,CA,92103,599900,2,2.5,1168,21403.0,2003,205.0,http://www.redfin.com/CA/San-Diego/1163-Terracina-Ln-92103/home/6610546,32.737027000000005,-117.173806
+224,Single Family Residential,3763 Ticonderoga St,San Diego,CA,92117,1199900,3,2.5,1403,6600.0,1952,,http://www.redfin.com/CA/San-Diego/3763-Ticonderoga-St-92117/home/5195652,32.802009000000005,-117.20576170000001
+225,Single Family Residential,3620 Voltaire,San Diego,CA,92106,929000,3,2.0,1108,7391.0,1943,,http://www.redfin.com/CA/San-Diego/3620-Voltaire-St-92106/home/5346624,32.7385064,-117.22716899999999
+226,Condo/Co-op,3450 3rd Ave #302,San Diego,CA,92103,565000,2,2.0,1171,,1990,509.0,http://www.redfin.com/CA/San-Diego/3450-Third-Ave-92103/unit-302/home/5375893,32.7410879,-117.1625998
+227,Single Family Residential,11840 SPRINGSIDE Rd,San Diego,CA,92128,979000,4,3.0,2101,4640.0,1991,40.0,http://www.redfin.com/CA/San-Diego/11840-Springside-Rd-92128/home/4776726,32.949114,-117.0778223
+228,Condo/Co-op,4545 Arizona St #104,San Diego,CA,92116,499000,2,2.0,1140,,1997,345.0,http://www.redfin.com/CA/San-Diego/4545-Arizona-St-92116/unit-104/home/5295854,32.7600757,-117.13724920000001
+229,Condo/Co-op,9392 TWIN TRAIL Dr #101,San Diego,CA,92129,445000,2,2.0,927,,1987,295.0,http://www.redfin.com/CA/San-Diego/9392-Twin-Trails-Dr-92129/unit-101/home/4768267,32.9558219,-117.12530929999998
+230,Single Family Residential,745 Windemere Ct,San Diego,CA,92109,1495000,3,3.0,1679,,1998,,http://www.redfin.com/CA/San-Diego/745-Windemere-Ct-92109/home/5181360,32.7884713,-117.25366070000001
+231,Single Family Residential,11275 Florindo Rd,San Diego,CA,92127,749000,5,3.0,2160,,1970,41.0,http://www.redfin.com/CA/San-Diego/11275-Florindo-Rd-92127/home/4226464,33.0264622,-117.0890385
+232,Single Family Residential,6289 Quail Run St,San Diego,CA,92130,1545000,6,4.0,3218,7086.0,2011,182.0,http://www.redfin.com/CA/San-Diego/6289-Quail-Run-St-92130/home/22563514,32.968439399999994,-117.18573049999999
+233,Condo/Co-op,1325 Pacific Hwy #3502,San Diego,CA,92101,4350000,4,2.5,3226,65514.0,2009,1100.0,http://www.redfin.com/CA/San-Diego/1325-Pacific-Hwy-92101/unit-3502/home/21886986,32.7192631,-117.1705169
+234,Condo/Co-op,14691 Caminito Orense Este,San Diego,CA,92129,489000,2,2.0,988,382655.0,1970,370.0,http://www.redfin.com/CA/San-Diego/14691-Caminito-Orense-Este-92129/home/4613242,32.9819384,-117.0887168
+235,Single Family Residential,5030 Raymond Pl,San Diego,CA,92116,975000,4,2.0,1696,4377.0,1975,,http://www.redfin.com/CA/San-Diego/5030-Raymond-Pl-92116/home/5266192,32.7698951,-117.11496229999999
+236,Single Family Residential,9249 Irvington Ave,San Diego,CA,92123,949000,4,3.0,2255,,1959,,http://www.redfin.com/CA/San-Diego/9249-Irvington-Ave-92123/home/5213252,32.795015299999996,-117.1279
+237,Condo/Co-op,6333 College Grove Way Unit 3102,San Diego,CA,92115,249000,1,1.0,625,207402.0,1973,283.0,http://www.redfin.com/CA/San-Diego/6333-College-Grove-Way-92115/unit-3102/home/6640071,32.7365555,-117.05763859999999
+238,Condo/Co-op,2420 Community Ln #33,San Diego,CA,92108,728990,2,2.5,1488,,2020,477.0,http://www.redfin.com/CA/San-Diego/2420-Community-Ln-92108/unit-33/home/169201739,32.779208000000004,-117.145536
+239,Condo/Co-op,17059 Calle Trevino #5,San Diego,CA,92127,589000,2,2.5,1389,,2006,230.0,http://www.redfin.com/CA/San-Diego/17059-Calle-Trevino-92127/unit-5/home/12155417,33.0239496,-117.110277
+240,Single Family Residential,2428 33rd St,San Diego,CA,92104,925000,4,2.5,1953,5500.0,1931,,http://www.redfin.com/CA/San-Diego/2428-33rd-St-92104/home/5816329,32.7312446,-117.12369479999998
+241,Single Family Residential,5277 Velma Ter,San Diego,CA,92114,550000,4,4.0,1837,,1951,,http://www.redfin.com/CA/San-Diego/5277-Velma-Ter-92114/home/5876040,32.7017781,-117.0806264
+242,Condo/Co-op,500 W Harbor Dr #507,San Diego,CA,92101,599900,1,1.0,879,102536.0,1994,852.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-507/home/6434131,32.7110037,-117.16634429999999
+243,Condo/Co-op,655 India St #103,San Diego,CA,92101,1100000,3,2.5,1810,60399.0,1992,826.0,http://www.redfin.com/CA/San-Diego/655-India-St-92101/unit-103/home/5777036,32.7120176,-117.1678336
+244,Single Family Residential,4393 Mount Henry Ave,San Diego,CA,92117,785000,4,2.0,1235,,1959,,http://www.redfin.com/CA/San-Diego/4393-Mt-Henry-Ave-92117/home/4961446,32.8227182,-117.1953328
+245,Single Family Residential,8142 Lazy River Rd,San Diego,CA,92127,1479000,3,3.5,2926,60659.0,2012,480.0,http://www.redfin.com/CA/San-Diego/8142-Lazy-River-Rd-92127/home/52346023,33.0332078,-117.1539007
+246,Condo/Co-op,700 W Harbor Dr #1503,San Diego,CA,92101,1296000,2,2.0,1374,65371.0,2004,1029.0,http://www.redfin.com/CA/San-Diego/700-W-Harbor-Dr-92101/unit-1503/home/6587455,32.7120231,-117.16965379999999
+247,Condo/Co-op,919 Agate #4,San Diego,CA,92109,1010000,3,3.0,1615,1655.0,1992,350.0,http://www.redfin.com/CA/San-Diego/919-Agate-St-92109/unit-4/home/5125449,32.809763800000006,-117.2573886
+248,Condo/Co-op,3985 Wabaska Dr #15,San Diego,CA,92107,530000,2,2.5,1024,29784.0,1987,294.0,http://www.redfin.com/CA/San-Diego/3985-Wabaska-Dr-92107/unit-15/home/5345151,32.7416852,-117.2325446
+249,Condo/Co-op,4909 Orchard Ave #205,San Diego,CA,92107,858500,2,2.0,953,,1964,540.0,http://www.redfin.com/CA/San-Diego/4909-Orchard-Ave-92107/unit-205/home/5329734,32.739801899999996,-117.2548018
+250,Single Family Residential,17064 Garden Walk Way,San Diego,CA,92127,875000,4,2.5,1914,,2005,153.0,http://www.redfin.com/CA/San-Diego/17064-Garden-Walk-Way-92127/home/12154103,33.0256124,-117.1116531
+251,Condo/Co-op,3535 1st Ave Unit 10B,San Diego,CA,92103,1250000,2,2.0,1740,,1973,884.0,http://www.redfin.com/CA/San-Diego/3535-1st-Ave-92103/unit-10B/home/5373890,32.742295899999995,-117.1635606
+252,Single Family Residential,4731 El Cerrito Pl,San Diego,CA,92115,849000,4,2.0,2146,6031.0,1955,,http://www.redfin.com/CA/San-Diego/4731-El-Cerrito-Pl-92115/home/5466251,32.763306,-117.07313329999998
+253,Condo/Co-op,100 Harbor Dr #3006,San Diego,CA,92101,825000,1,1.0,1036,,1992,1228.0,http://www.redfin.com/CA/San-Diego/100-Harbor-Dr-92101/unit-3006/home/5773992,32.709113699999996,-117.1629201
+254,Single Family Residential,5432 Bonita Dr,San Diego,CA,92114,549000,3,2.0,1015,7100.0,1952,,http://www.redfin.com/CA/San-Diego/5432-Bonita-Dr-92114/home/5901630,32.6968674,-117.07750049999999
+255,Single Family Residential,821 Golden Sands Pl,San Diego,CA,92154,749000,5,3.0,2830,4518.0,2005,41.0,http://www.redfin.com/CA/San-Diego/821-Golden-Sands-Pl-92154/home/12153301,32.5811525,-117.0275716
+256,Single Family Residential,14800 Encendido,San Diego,CA,92127,3995000,5,4.5,6825,58806.0,2015,495.0,http://www.redfin.com/CA/San-Diego/14800-Encendido-92127/home/22760266,32.9965233,-117.1617226
+257,Condo/Co-op,1551 4Th Ave #504,San Diego,CA,92101,290000,0,1.0,523,15034.0,2007,601.0,http://www.redfin.com/CA/San-Diego/1551-Fourth-Ave-92101/unit-504/home/17202067,32.7216553,-117.16082379999999
+258,Single Family Residential,,San Diego,CA,92126,669000,3,2.5,1417,39785.0,1999,113.0,http://www.redfin.com/CA/San-Diego/Undisclosed-address-92126/home/4794666,32.922096,-117.124316
+259,Single Family Residential,750 York Ct,San Diego,CA,92109,1220000,2,2.0,1213,1308.0,1980,,http://www.redfin.com/CA/San-Diego/750-York-Ct-92109/home/5176689,32.7893683,-117.2537527
+260,Condo/Co-op,11787 Caminito Corriente,San Diego,CA,92128,739000,3,2.0,1971,,1989,410.0,http://www.redfin.com/CA/San-Diego/11787-Caminito-Corriente-92128/home/4632990,32.9970747,-117.0741822
+261,Condo/Co-op,500 W Harbor Dr #140,San Diego,CA,92101,1050000,2,2.5,1574,,1994,947.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-140/home/6458683,32.7110037,-117.16634429999999
+262,Condo/Co-op,3961 Hortensia St Unit H2,San Diego,CA,92110,449900,2,2.0,830,11726.0,1987,375.0,http://www.redfin.com/CA/San-Diego/3961-Hortensia-St-92110/unit-H2/home/5283141,32.7492185,-117.19041259999999
+263,Single Family Residential,7627 CULLEN St,San Diego,CA,92111,969000,4,3.0,2436,,1975,,http://www.redfin.com/CA/San-Diego/7627-Cullen-St-92111/home/5207373,32.8033644,-117.15749509999999
+264,Single Family Residential,4190 SERI St,San Diego,CA,92117,798000,3,2.0,1216,,1961,,http://www.redfin.com/CA/San-Diego/4190-Seri-St-92117/home/4958887,32.8232875,-117.20213229999999
+265,Condo/Co-op,500 W Harbor Dr Ph 1314,San Diego,CA,92101,999000,2,2.0,1165,,1994,891.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-1314/home/6489716,32.7110037,-117.16634429999999
+266,Single Family Residential,10733 Portobelo Dr,San Diego,CA,92124,678800,3,2.5,1741,3924.0,1980,330.0,http://www.redfin.com/CA/San-Diego/10733-Portobelo-Dr-92124/home/6409846,32.8393137,-117.09460049999998
+267,Single Family Residential,5561 San Onofre Ter,San Diego,CA,92114,460000,3,1.5,1092,5400.0,1956,,http://www.redfin.com/CA/San-Diego/5561-San-Onofre-Ter-92114/home/5876569,32.7003937,-117.07621329999999
+268,Townhouse,6361 Caminito Flecha,San Diego,CA,92111,489000,3,2.0,1221,1369.0,1972,450.0,http://www.redfin.com/CA/San-Diego/6361-Caminito-Flecha-92111/home/6419491,32.7684787,-117.1817817
+269,Townhouse,11969 Tivoli Park Row 1,San Diego,CA,92128,499000,2,2.0,1084,,1994,305.0,http://www.redfin.com/CA/San-Diego/11969-Tivoli-Park-Row-92128/unit-1/home/4695041,32.9754219,-117.07134359999999
+270,Condo/Co-op,1050 Island Ave #701,San Diego,CA,92101,1080000,2,2.5,1765,,2005,572.0,http://www.redfin.com/CA/San-Diego/1050-Island-Ave-92101/unit-701/home/6677059,32.7108408,-117.15510819999999
+271,Condo/Co-op,5645 Friars Rd #363,San Diego,CA,92110,345000,1,1.5,854,300802.0,1980,455.0,http://www.redfin.com/CA/San-Diego/5645-Friars-Rd-92110/unit-363/home/5241110,32.763545,-117.1900895
+272,Single Family Residential,12605 Salmon River Rd,San Diego,CA,92129,940000,4,2.5,2182,,1987,,http://www.redfin.com/CA/San-Diego/12605-Salmon-River-Rd-92129/home/4765982,32.9467499,-117.122316
+273,Condo/Co-op,10532 Caminito Rimini,San Diego,CA,92129,349900,2,1.0,945,285408.0,1973,335.0,http://www.redfin.com/CA/San-Diego/10532-Caminito-Rimini-92129/home/4610306,32.964903,-117.100481
+274,Single Family Residential,10924 Caminito Arcada,San Diego,CA,92131,675000,3,2.5,1216,,1998,90.0,http://www.redfin.com/CA/San-Diego/10924-Caminito-Arcada-92131/home/6402457,32.933228,-117.09333400000001
+275,Single Family Residential,8416 Barker Dr,San Diego,CA,92119,629900,4,2.0,1320,,1972,,http://www.redfin.com/CA/San-Diego/8416-Barker-Dr-92119/home/5424402,32.814564000000004,-117.01699579999999
+276,Condo/Co-op,11255 Tierrasanta Blvd #93,San Diego,CA,92124,369900,2,2.0,1060,,1980,488.0,http://www.redfin.com/CA/San-Diego/11255-Tierrasanta-Blvd-92124/unit-93/home/5405048,32.8143408,-117.08635729999999
+277,Condo/Co-op,7405 Charmant #2114,San Diego,CA,92122,525000,2,2.0,1037,,1987,377.0,http://www.redfin.com/CA/San-Diego/7405-Charmant-Dr-92122/unit-2114/home/7533401,32.8645549,-117.2281441
+278,Condo/Co-op,1199 Pacific Hwy #404,San Diego,CA,92101,679000,2,2.0,1227,,2004,1138.0,http://www.redfin.com/CA/San-Diego/1199-Pacific-Hwy-92101/unit-404/home/6620148,32.7172726,-117.1705183
+279,Single Family Residential,1084 Rolling Dunes Way,San Diego,CA,92154,690000,4,3.0,2227,,2017,100.0,http://www.redfin.com/CA/San-Diego/1084-Rolling-Dunes-Way-92154/home/143236357,32.5767395,-117.0966315
+280,Single Family Residential,5679 Weatherstone Ct,San Diego,CA,92130,1379000,5,3.0,2597,4433.0,2000,52.0,http://www.redfin.com/CA/San-Diego/5679-Weatherstone-Ct-92130/home/4526476,32.9294037,-117.19628159999999
+281,Condo/Co-op,6878 Navajo Rd #61,San Diego,CA,92119,289000,1,1.0,654,,1970,315.0,http://www.redfin.com/CA/San-Diego/6878-Navajo-Rd-92119/unit-61/home/5406766,32.8042156,-117.0478869
+282,Single Family Residential,1018 Beryl St,San Diego,CA,92109,1395000,2,2.5,1643,3162.0,1969,,http://www.redfin.com/CA/San-Diego/1018-Beryl-St-92109/home/145704230,32.8042119,-117.25340700000001
+283,Single Family Residential,4903 Hawley Blvd,San Diego,CA,92116,1299000,3,2.0,1056,,1940,,http://www.redfin.com/CA/San-Diego/4903-Hawley-Blvd-92116/home/5267174,32.767381,-117.11906
+284,Townhouse,820 Santa Barbara Pl,San Diego,CA,92109,1605900,3,2.0,1571,,2020,410.0,http://www.redfin.com/CA/San-Diego/820-Santa-Barbara-Pl-92109/home/171058356,32.7749,-117.23233700000002
+285,Townhouse,11038 Caminito Alegra,San Diego,CA,92131,619000,2,2.5,1222,,1991,205.0,http://www.redfin.com/CA/San-Diego/11038-Caminito-Alegra-92131/home/4834666,32.9233433,-117.0643363
+286,Single Family Residential,2616 Camulos St,San Diego,CA,92107,749000,3,1.0,891,2450.0,1936,,http://www.redfin.com/CA/San-Diego/2616-Camulos-St-92107/home/5351763,32.7495071,-117.2308898
+287,Single Family Residential,611 Tarento Dr,San Diego,CA,92106,1379000,3,2.0,2214,6831.0,1985,,http://www.redfin.com/CA/San-Diego/611-Tarento-Dr-92106/home/5743922,32.7163114,-117.24864040000001
+288,Mobile/Manufactured Home,3340 Del Sol Blvd Spc 242,San Diego,CA,92154,124900,2,2.0,1536,,1977,,http://www.redfin.com/CA/San-Diego/3340-Del-Sol-Blvd-92154/unit-242/home/99668901,32.575262800000004,-117.0616082
+289,Single Family Residential,3720 S Crane Pl,San Diego,CA,92103,1050000,3,2.0,1200,7439.0,1915,,http://www.redfin.com/CA/San-Diego/3720-Crane-Pl-92103/home/5360536,32.7458358,-117.1729572
+290,Single Family Residential,13094 Via Del Valedor,San Diego,CA,92129,699900,4,2.0,1379,7100.0,1973,,http://www.redfin.com/CA/San-Diego/13094-Via-Del-Valedor-92129/home/4752603,32.955493,-117.1119288
+291,Condo/Co-op,500 W Harbor Dr #418,San Diego,CA,92101,609900,2,1.0,976,,1994,865.0,http://www.redfin.com/CA/San-Diego/500-W-Harbor-Dr-92101/unit-418/home/6455419,32.7110037,-117.16634429999999
+292,Condo/Co-op,4079 1st Ave #2,San Diego,CA,92103,1299900,2,2.5,1710,,2020,549.0,http://www.redfin.com/CA/San-Diego/4079-1st-Ave-92103/unit-2/home/172546307,32.751479100000005,-117.16375430000001
+293,Townhouse,1325 Pacific Hwy #312,San Diego,CA,92101,1269000,3,2.5,2042,,2009,993.0,http://www.redfin.com/CA/San-Diego/1325-Pacific-Hwy-92101/unit-312/home/28891685,32.7192631,-117.1705169
+294,Condo/Co-op,17951 Avenida Alozdra,San Diego,CA,92128,529000,2,2.0,1328,,1988,355.0,http://www.redfin.com/CA/San-Diego/17951-Avenida-Alozdra-92128/home/4212924,33.0404328,-117.0488365
+295,Condo/Co-op,4079 1st Ave #5,San Diego,CA,92103,1420900,2,2.5,1846,,2020,59.0,http://www.redfin.com/CA/San-Diego/4079-1st-Ave-92103/unit-5/home/172546311,32.751479100000005,-117.16375430000001
+296,Single Family Residential,4172 Hill St,San Diego,CA,92107,1795000,4,3.0,3298,15400.0,1956,,http://www.redfin.com/CA/San-Diego/4172-Hill-St-92107/home/5737885,32.724294199999996,-117.2469205
+297,Condo/Co-op,5865 Friars Rd #3316,San Diego,CA,92110,479000,2,2.0,1228,,1988,435.0,http://www.redfin.com/CA/San-Diego/5865-Friars-Rd-92110/unit-3316/home/5241901,32.7647016,-117.18750259999999
+298,Condo/Co-op,1150 Anchorage Ln #314,San Diego,CA,92106,759000,2,2.0,1658,61830.0,1968,661.0,http://www.redfin.com/CA/San-Diego/1150-Anchorage-Ln-92106/unit-314/home/5738560,32.7204604,-117.2291324
+299,Condo/Co-op,3050 Rue Dorleans #232,San Diego,CA,92110,349000,1,1.0,547,357719.0,1969,305.0,http://www.redfin.com/CA/San-Diego/3050-Rue-DOrleans-92110/unit-232/home/5273647,32.754519300000005,-117.22767579999999
+300,Condo/Co-op,6275 Rancho Mission Rd #307,San Diego,CA,92108,289000,1,1.0,675,,1979,340.0,http://www.redfin.com/CA/San-Diego/6275-Rancho-Mission-Rd-92108/unit-307/home/6418915,32.787067300000004,-117.10765959999999
+301,Mobile/Manufactured Home,2003 Bayview Heights Dr #160,San Diego,CA,92105,175000,3,2.0,1456,,2005,875.0,http://www.redfin.com/CA/San-Diego/2003-Bayview-Heights-Dr-92105/unit-160/home/17207506,32.7278965,-117.0729219
+302,Condo/Co-op,525 11th Ave #1304,San Diego,CA,92101,540000,2,2.0,1112,,2004,459.0,http://www.redfin.com/CA/San-Diego/525-11th-Ave-92101/unit-1304/home/6677345,32.7108972,-117.1541951
+303,Condo/Co-op,4060 Huerfano #121,San Diego,CA,92117,319000,1,1.0,613,,1972,330.0,http://www.redfin.com/CA/San-Diego/4060-Huerfano-Ave-92117/unit-121/home/6255859,32.814972499999996,-117.21767609999999
+304,Condo/Co-op,12620 Carmel Country Rd #70,San Diego,CA,92130,570000,2,2.5,1088,,1991,450.0,http://www.redfin.com/CA/San-Diego/12620-Carmel-Country-Rd-92130/unit-70/home/4456181,32.9496184,-117.22925659999999
+305,Single Family Residential,340 Rosecrans St,San Diego,CA,92106,1399000,4,2.0,1908,5001.0,1940,,http://www.redfin.com/CA/San-Diego/340-Rosecrans-St-92106/home/5747975,32.7085047,-117.23914309999999
+306,Single Family Residential,6570 Foyle Way,San Diego,CA,92117,725000,3,2.0,1485,8900.0,1964,,http://www.redfin.com/CA/San-Diego/6570-Foyle-Way-92117/home/4968713,32.825054800000004,-117.1672136
+307,Single Family Residential,10784 Pacific Canyon Way,San Diego,CA,92121,1199000,5,3.0,2486,5333.0,1997,55.0,http://www.redfin.com/CA/San-Diego/10784-Pacific-Canyon-Way-92121/home/6278727,32.913987,-117.1911831
+308,Condo/Co-op,2020 Camino De La Reina #2115,San Diego,CA,92108,459900,2,2.0,977,336710.0,1992,408.0,http://www.redfin.com/CA/San-Diego/2020-Camino-De-La-Reina-92108/unit-2115/home/5259594,32.7719307,-117.14246729999999
+309,Condo/Co-op,4060 Huefano #131,San Diego,CA,92117,289000,1,1.0,613,217800.0,1972,330.0,http://www.redfin.com/CA/San-Diego/4060-Huerfano-Ave-92117/unit-131/home/6255885,32.814972499999996,-117.21767609999999
+310,Condo/Co-op,4079 1st Ave #1,San Diego,CA,92103,1579000,2,3.0,2170,,2020,549.0,http://www.redfin.com/CA/San-Diego/4079-1st-Ave-92103/unit-1/home/172546308,32.751479100000005,-117.16375430000001
+311,Condo/Co-op,10940 Ivy Hill Dr #6,San Diego,CA,92131,549000,2,2.0,946,,1998,199.0,http://www.redfin.com/CA/San-Diego/10940-Ivy-Hill-Dr-92131/unit-6/home/4820330,32.9373833,-117.09328500000001
+312,Condo/Co-op,4353 51St St #3,San Diego,CA,92115,229900,1,1.0,627,,1980,185.0,http://www.redfin.com/CA/San-Diego/4353-51st-St-92115/unit-3/home/7529583,32.7561694,-117.0843893
+313,Condo/Co-op,1270 Cleveland Ave Unit E344,San Diego,CA,92103,620000,2,2.0,1028,,1991,448.0,http://www.redfin.com/CA/San-Diego/1270-Cleveland-Ave-92103/unit-E344/home/172641474,32.750362800000005,-117.15242669999999
+314,Single Family Residential,1544 Elevation Rd,San Diego,CA,92110,1625000,4,4.5,2470,,2007,,http://www.redfin.com/CA/San-Diego/1544-Elevation-Rd-92110/home/5237226,32.773505,-117.195976
+315,Condo/Co-op,3010 Alta View Dr Unit B108,San Diego,CA,92139,259000,1,1.0,675,205371.0,1982,320.0,http://www.redfin.com/CA/San-Diego/3010-Alta-View-Dr-92139/unit-B108/home/7532878,32.676324900000004,-117.0373335
+316,Condo/Co-op,235 Market St #210,San Diego,CA,92101,550000,1,1.5,1036,20050.0,2002,432.0,http://www.redfin.com/CA/San-Diego/235-Market-St-92101/unit-210/home/6505264,32.7111617,-117.1626416
+317,Condo/Co-op,11255 Affinity Ct #100,San Diego,CA,92131,449999,2,2.0,1032,,1993,419.0,http://www.redfin.com/CA/San-Diego/11255-Affinity-Ct-92131/unit-100/home/4818926,32.923211,-117.1116315
+318,Townhouse,516 Arbor Dr,San Diego,CA,92103,824900,3,2.5,1661,10288.0,2005,,http://www.redfin.com/CA/San-Diego/516-Arbor-Dr-92103/home/7538669,32.7539892,-117.1599852
+319,Single Family Residential,2423 Monette Dr,San Diego,CA,92123,769900,4,2.0,1364,,1960,,http://www.redfin.com/CA/San-Diego/2423-Monette-Dr-92123/home/5214307,32.7892091,-117.12401650000001
+320,Single Family Residential,11341 Swan Canyon Rd,San Diego,CA,92131,919900,4,2.5,1963,4208.0,1993,98.0,http://www.redfin.com/CA/San-Diego/11341-Swan-Canyon-Rd-92131/home/4835321,32.9248694,-117.0618304
+321,Condo/Co-op,727 Sapphire St #308,San Diego,CA,92109,799123,2,2.0,997,,1975,400.0,http://www.redfin.com/CA/San-Diego/727-Sapphire-St-92109/unit-308/home/5126217,32.807266,-117.26008780000001
+322,Condo/Co-op,575 6th Ave #708,San Diego,CA,92101,549000,2,1.5,960,,2007,608.0,http://www.redfin.com/CA/San-Diego/575-Sixth-Ave-92101/unit-708/home/12517943,32.7111577,-117.1587558
+323,Condo/Co-op,8020 Linda Vista Rd Unit 2A,San Diego,CA,92111,279000,1,1.0,644,,1977,330.0,http://www.redfin.com/CA/San-Diego/8020-Linda-Vista-Rd-92111/unit-2A/home/5166545,32.8069552,-117.1551969
+324,Condo/Co-op,1430 Northrim Ct #3,San Diego,CA,92111,525000,2,2.0,1092,,1980,349.0,http://www.redfin.com/CA/San-Diego/1430-Northrim-Ct-92111/unit-3/home/5252617,32.7708151,-117.17606359999999
+325,Condo/Co-op,702 Ash St #407,San Diego,CA,92101,375000,1,1.0,782,,1929,715.0,http://www.redfin.com/CA/San-Diego/702-Ash-St-92101/unit-407/home/12367239,32.7202803,-117.1579149
+326,Townhouse,11115 Scripps Ranch Blvd,San Diego,CA,92131,585000,2,2.0,1282,,1998,470.0,http://www.redfin.com/CA/San-Diego/11115-Scripps-Ranch-Blvd-92131/home/4810751,32.9186721,-117.1108142
+327,Condo/Co-op,6602 Beadnell Way #13,San Diego,CA,92117,295000,1,1.0,625,,1994,310.0,http://www.redfin.com/CA/San-Diego/6602-Beadnell-Way-92117/unit-13/home/6685869,32.8212318,-117.1707202
+328,Single Family Residential,819 Bonsall St,San Diego,CA,92114,449000,3,1.0,1148,7400.0,1954,,http://www.redfin.com/CA/San-Diego/819-Bonsall-St-92114/home/6021678,32.7126193,-117.03147990000001
+329,Single Family Residential,3135 Emerson,San Diego,CA,92106,995000,3,2.0,1184,5000.0,1940,,http://www.redfin.com/CA/San-Diego/3135-Emerson-St-92106/home/5739964,32.725276300000004,-117.23129650000001
+330,Condo/Co-op,3552 Sunset Ln #18,San Ysidro,CA,92173,310000,2,2.0,818,216412.0,1995,225.0,http://www.redfin.com/CA/San-Diego/3552-Sunset-Ln-92173/unit-18/home/6689164,32.5588532,-117.05687520000001
+331,Single Family Residential,8621 Chaparral Way,Santee,CA,92071,725000,4,3.0,2014,2728.0,2019,325.0,http://www.redfin.com/CA/Santee/8621-Chaparral-Way-92071/home/167553506,32.8497162,-117.0164402
+332,Condo/Co-op,8711 Wahl St,Santee,CA,92071,380000,2,1.0,822,1423.0,1972,380.0,http://www.redfin.com/CA/Santee/8711-Wahl-St-92071/home/5043285,32.836261,-117.035785
+333,Townhouse,11872 Cypress Canyon Rd #1,Scripps Miramar,CA,92131,799888,3,2.5,1749,2788.0,1999,60.0,http://www.redfin.com/CA/San-Diego/11872-Cypress-Canyon-Rd-92131/unit-1/home/4829556,32.9311728,-117.0838055
+334,Townhouse,946 Valley Ave,Solana Beach,CA,92075,799000,2,2.5,1510,,1983,340.0,http://www.redfin.com/CA/Solana-Beach/946-Valley-Ave-92075/home/4394641,32.98194,-117.257741

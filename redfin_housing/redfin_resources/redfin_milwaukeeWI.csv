@@ -1,351 +1,288 @@
 ,property_type,address,city,state,zip_code,price,beds,baths,square_feet,lot_size,year_built,hoa_permonth,url,latitude,longitude
-0,Condo/Co-op,929 N Astor St Unit 2501-03,Milwaukee,WI,53202,619900,2.0,2.0,1791.0,,1968.0,1246.0,http://www.redfin.com/WI/Milwaukee/929-N-Astor-St-53202/unit-2501-03/home/172657564,43.0436496,-87.89987959999999
-1,Multi-Family (2-4 Unit),2540 N 64th St,Wauwatosa,WI,53213,243000,3.0,2.0,2001.0,5662.0,1941.0,,http://www.redfin.com/WI/Wauwatosa/2540-N-64th-St-53213/home/90333704,43.0653344,-87.9918321
-2,Single Family Residential,1075 Thornridge Ct,Brookfield,WI,53045,365000,4.0,2.5,2406.0,16988.0,1978.0,,http://www.redfin.com/WI/Brookfield/1075-Thorn-Ridge-Ct-53045/home/57776583,43.045302500000005,-88.17279509999999
-3,Single Family Residential,531 Wilmette Rd,Williams Bay,WI,53191,719000,3.0,2.0,1624.0,5662.0,1969.0,,http://www.redfin.com/WI/Williams-Bay/531-Wilmette-Rd-53191/home/89492815,42.5770955,-88.5284127
-4,Single Family Residential,5825 Cedar Creek Rd,Grafton,WI,53024,745000,3.0,3.0,5000.0,205167.0,1869.0,,http://www.redfin.com/WI/Grafton/5825-Cedar-Creek-Rd-53024/home/57856642,43.3368715,-87.9827245
-5,Single Family Residential,1301 53rd Ave,Kenosha,WI,53144,599999,4.0,3.5,5027.0,21780.0,2009.0,,http://www.redfin.com/WI/Kenosha/1301-53rd-Ave-53144/home/57860682,42.637296500000005,-87.8722752
-6,Single Family Residential,1024 E Colfax Pl,Whitefish Bay,WI,53217,574900,4.0,3.0,3417.0,7405.0,1965.0,,http://www.redfin.com/WI/Whitefish-Bay/1024-E-Colfax-Pl-53217/home/57983318,43.1087834,-87.8976494
-7,Vacant Land,Lt2 Hickory Ln,Lake Geneva,WI,53147,105000,,,,69696.0,,,http://www.redfin.com/WI/Lake-Geneva/Lt2-Hickory-Ln-53147/home/172664103,42.610388,-88.435486
-8,Single Family Residential,4365 E Tomahawk Ln,Janesville,WI,53546,299900,3.0,2.5,1630.0,68824.0,1974.0,,http://www.redfin.com/WI/Janesville/4365-Tomahawk-Ln-53546/home/89829337,42.747719399999994,-88.95808709999999
-9,Single Family Residential,10411 W Jonen,Milwaukee,WI,53224,136000,3.0,1.5,1104.0,7405.0,1995.0,,http://www.redfin.com/WI/Milwaukee/10411-W-Jonen-St-53224/home/57870324,43.135904100000005,-88.0417819
-10,Single Family Residential,14300 W Redwood Dr,New Berlin,WI,53151,309900,3.0,1.5,1144.0,10890.0,1972.0,,http://www.redfin.com/WI/New-Berlin/14300-W-Redwood-Dr-53151/home/90037604,42.9791406,-88.0923087
-11,Vacant Land,4705 Nicholson Rd,Racine,WI,53402,119900,,,,82328.0,,,http://www.redfin.com/WI/Racine/4705-Nicholson-RD-53402/home/172664012,42.781237,-87.894215
-12,Multi-Family (2-4 Unit),1809 S 61st St #1811,West Allis,WI,53214,179000,4.0,2.0,2016.0,3920.0,1908.0,,http://www.redfin.com/WI/West-Allis/1809-S-61st-St-53214/unit-1811/home/144911044,43.0108,-87.989097
-13,Condo/Co-op,Lt43 Overlook Cir West,Hartland,WI,53029,549900,2.0,2.0,1884.0,,2020.0,300.0,http://www.redfin.com/WI/Hartland/Lt43-Overlook-Cir-West-53029/home/171396958,43.12117,-88.31138100000001
-14,Single Family Residential,N25W27276 Fairmount Ct,Pewaukee,WI,53072,525000,4.0,2.5,2556.0,18730.0,2013.0,,http://www.redfin.com/WI/Pewaukee/N25W27276-Fairmount-Ct-53072/home/57995721,43.066206,-88.2904749
-15,Single Family Residential,708 Appaloosa Trl,Racine,WI,53402,289900,3.0,3.0,2203.0,10890.0,1997.0,,http://www.redfin.com/WI/Racine/708-Appaloosa-Trl-53402/home/57954481,42.7888233,-87.78790009999999
-16,Single Family Residential,259 W Main St,Wales,WI,53183,229900,2.0,1.0,704.0,31363.0,1941.0,,http://www.redfin.com/WI/Wales/259-W-Main-St-53183/home/90026275,43.0054767,-88.3835447
-17,Single Family Residential,N67W23820 Linda Dr,Sussex,WI,53089,304900,3.0,2.5,1837.0,14374.0,1975.0,,http://www.redfin.com/WI/Sussex/N67W23820-Linda-Dr-53089/home/90016004,43.1405059,-88.2203845
-18,Single Family Residential,2416 Fawn Ln,Janesville,WI,53548,269900,4.0,2.5,2224.0,10890.0,2001.0,,http://www.redfin.com/WI/Janesville/2416-Fawn-Ln-53548/home/57610848,42.6445559,-89.066113
-19,Multi-Family (2-4 Unit),718 E Center St #720,Milwaukee,WI,53212,289900,5.0,2.0,2770.0,3484.0,1909.0,,http://www.redfin.com/WI/Milwaukee/718-E-Center-St-53212/unit-720/home/58071866,43.0677373,-87.9021143
-20,Single Family Residential,N75W13966 Appleton Ave,Menomonee Falls,WI,53051,199900,3.0,1.0,1498.0,40946.0,1951.0,,http://www.redfin.com/WI/Menomonee-Falls/N75W13966-Appleton-Ave-53051/home/172663864,43.1555619,-88.0836069
-21,Condo/Co-op,106B Pheasant Run,Johnson Creek,WI,53038,159500,2.0,2.0,1386.0,,2001.0,155.0,http://www.redfin.com/WI/Johnson-Creek/106-Pheasant-Run-53038/unit-B/home/57801751,43.073106,-88.764673
-22,Single Family Residential,10320 S Shepard Ave,Oak Creek,WI,53154,289900,3.0,2.0,1168.0,10454.0,1994.0,,http://www.redfin.com/WI/Oak-Creek/10320-S-Shepard-Ave-53154/home/90331314,42.856736100000006,-87.9030415
-23,Single Family Residential,2901 Olive St,Racine,WI,53403,50000,2.0,1.0,824.0,3049.0,1927.0,,http://www.redfin.com/WI/Racine/2901-Olive-St-53403/home/57974615,42.7024149,-87.81380909999999
-24,Single Family Residential,3852 S 39th St,Greenfield,WI,53221,99900,1.0,1.0,500.0,5662.0,1938.0,,http://www.redfin.com/WI/Greenfield/3852-S-39th-St-53221/home/90291094,42.974632,-87.962921
-25,Single Family Residential,708 Beaver St,Beaver Dam,WI,53916,174000,3.0,1.5,1804.0,10454.0,1948.0,,http://www.redfin.com/WI/Beaver-Dam/708-Beaver-St-53916/home/89224371,43.464070299999996,-88.841735
-26,Single Family Residential,624 11th Ave,Union Grove,WI,53182,75000,4.0,1.5,1785.0,7405.0,1910.0,,http://www.redfin.com/WI/Union-Grove/624-11th-Ave-53182/home/89749757,42.6866899,-88.047331
-27,Condo/Co-op,2178 Pine Ridge Ct Unit D,Grafton,WI,53024,195000,3.0,2.0,1665.0,,2000.0,190.0,http://www.redfin.com/WI/Grafton/2178-Pine-Ridge-Ct-53024/unit-D/home/90137777,43.30364,-87.9690829
-28,Single Family Residential,5574 S 110th St,Hales Corners,WI,53130,235000,3.0,1.5,1321.0,7405.0,1931.0,,http://www.redfin.com/WI/Hales-Corners/5574-S-110th-St-53130/home/90329782,42.9429136,-88.0501556
-29,Single Family Residential,202 Mc Kinley St,Beaver Dam,WI,53916,179000,3.0,1.0,1092.0,9583.0,1957.0,,http://www.redfin.com/WI/Beaver-Dam/202-McKinley-St-53916/home/89224760,43.4603528,-88.82206120000001
-30,Multi-Family (2-4 Unit),1616-1618 Wolcott St,Janesville,WI,53546,239900,5.0,5.0,,12196.0,1987.0,,http://www.redfin.com/WI/Janesville/1616-Wolcott-St-53546/home/57862313,42.6609077,-89.0396043
-31,Vacant Land,Lt0 Meadow Ln,Sullivan,WI,53178,149500,,,,2622747.0,,,http://www.redfin.com/WI/Sullivan/Lt0-Meadow-Ln-53178/home/172663500,43.0172542,-88.58011390000001
-32,Multi-Family (2-4 Unit),4400 N 26th St,Milwaukee,WI,53208,71900,6.0,2.0,1136.0,7840.0,1923.0,,http://www.redfin.com/WI/Milwaukee/4400-N-26th-St-53209/home/58061157,43.0971529,-87.9446614
-33,Multi-Family (2-4 Unit),S17W22234 Anoka,Waukesha,WI,53186,230000,,,2016.0,30056.0,1936.0,,http://www.redfin.com/WI/Waukesha/S17W22234-Anoka-Ave-53186/home/101680112,43.011472,-88.19123370000001
-34,Single Family Residential,1302 Tallgrass Ln,Mount Pleasant,WI,53406,349900,3.0,2.5,3636.0,13068.0,2005.0,17.0,http://www.redfin.com/WI/Mt-Pleasant/1302-Tallgrass-Ln-53406/home/89789778,42.7368355,-87.8872105
-35,Single Family Residential,W4669 W Pebble Dr,Elkhorn,WI,53121,379900,3.0,3.5,3400.0,27442.0,2004.0,,http://www.redfin.com/WI/Elkhorn/W4669-Pebble-Dr-53121/unit-29/home/89477657,42.7153536,-88.5299806
-36,Single Family Residential,261 W Main St,Campbellsport,WI,53010,200000,3.0,1.5,2050.0,16117.0,1954.0,,http://www.redfin.com/WI/Campbellsport/261-W-Main-St-53010/home/89118870,43.5979105,-88.2895061
-37,Single Family Residential,10006 69th St,Kenosha,WI,53142,270000,3.0,2.5,1652.0,7840.0,1998.0,4.0,http://www.redfin.com/WI/Kenosha/10006-69th-St-53142/unit-7/home/57985739,42.5726473,-87.9302247
-38,Single Family Residential,107 Liberty St,Beaver Dam,WI,53916,150000,3.0,2.5,1660.0,6534.0,1953.0,,http://www.redfin.com/WI/Beaver-Dam/107-Liberty-St-53916/home/57683509,43.4696211,-88.8327338
-39,Condo/Co-op,1818 N Water St #308,Milwaukee,WI,53202,245000,1.0,1.0,1143.0,,2005.0,356.0,http://www.redfin.com/WI/Milwaukee/1818-N-Water-St-53202/unit-308/home/58029398,43.0546964,-87.90154100000001
-40,Single Family Residential,821 E Forest Hill Ave,Oak Creek,WI,53154,274900,3.0,2.0,1958.0,11325.0,1979.0,,http://www.redfin.com/WI/Oak-Creek/821-E-Forest-Hill-Ave-53154/home/57929000,42.893436200000004,-87.9011827
-41,Single Family Residential,7983 Chapel Hill Ct S,Franklin,WI,53132,299000,4.0,2.0,2047.0,16988.0,1973.0,,http://www.redfin.com/WI/Franklin/7983-S-Chapel-Hill-Ct-53132/home/58000580,42.9001432,-88.04546040000001
-42,Single Family Residential,8015 49th Ave,Kenosha,WI,53142,234900,4.0,1.5,2313.0,10018.0,1966.0,,http://www.redfin.com/WI/Kenosha/8015-49th-Ave-53142/home/89298106,42.558549799999994,-87.86675229999999
-43,Single Family Residential,1315 N 60th St,Milwaukee,WI,53208,289900,3.0,2.5,1618.0,4356.0,1928.0,,http://www.redfin.com/WI/Milwaukee/1315-N-60th-St-53208/home/90273252,43.047975,-87.9878888
-44,Single Family Residential,1109 Bilgos,Plymouth,WI,53073,209900,3.0,2.5,1985.0,13068.0,1994.0,,http://www.redfin.com/WI/Plymouth/1109-Bilgos-Ct-53073/home/57851326,43.732933,-87.979683
-45,Multi-Family (2-4 Unit),6932 N 77th Ct #6934,Milwaukee,WI,53223,149800,6.0,2.0,2339.0,6969.0,1975.0,,http://www.redfin.com/WI/Milwaukee/6932-N-77th-Ct-53223/unit-6934/home/146375604,43.144301,-88.006752
-46,Single Family Residential,1726 Hickory St,South Milwaukee,WI,53172,214900,3.0,1.5,1382.0,9147.0,1963.0,,http://www.redfin.com/WI/South-Milwaukee/1726-Hickory-St-53172/home/90269654,42.9275076,-87.8761319
-47,Single Family Residential,661 Wolcott St,West Bend,WI,53090,197500,4.0,1.0,1456.0,6534.0,1942.0,,http://www.redfin.com/WI/West-Bend/661-Wolcott-St-53090/home/57915581,43.4299237,-88.17952690000001
-48,Single Family Residential,130 Fairview Dr,Walworth,WI,53184,194500,2.0,1.0,928.0,17424.0,1955.0,,http://www.redfin.com/WI/Walworth/130-Fairview-Dr-53184/home/89515394,42.52649829999999,-88.5980606
-49,Single Family Residential,6555 5th Ave,Kenosha,WI,53143,299900,4.0,2.0,2682.0,10018.0,1917.0,,http://www.redfin.com/WI/Kenosha/6555-5th-Ave-53143/home/57874740,42.5742362,-87.81649709999999
-50,Single Family Residential,607 Maple Tree Dr,Waterford,WI,53185,337500,3.0,2.0,1936.0,14810.0,2002.0,13.0,http://www.redfin.com/WI/Waterford/607-Maple-Tree-Dr-53185/home/57827385,42.775738,-88.23421379999999
-51,Single Family Residential,W148 S6634 Brookside Dr,Muskego,WI,53150,259900,3.0,1.0,1050.0,30491.0,1954.0,,http://www.redfin.com/WI/Muskego/W148S6634-Brookside-Dr-53150/home/57787696,42.9245916,-88.0996733
-52,Multi-Family (2-4 Unit),2043 N Holton St,Milwaukee,WI,53212,145000,,,2242.0,5227.0,1900.0,,http://www.redfin.com/WI/Milwaukee/2043-N-Holton-St-53212/home/58079310,43.057423,-87.9056092
-53,Multi-Family (2-4 Unit),7307 W Bluemound Rd #7309,Milwaukee,WI,53213,235000,6.0,2.0,2541.0,6534.0,1957.0,,http://www.redfin.com/WI/Milwaukee/7307-W-Bluemound-Rd-53213/unit-7309/home/172663783,43.035269,-88.00399300000001
-54,Single Family Residential,3541 11th Ave,Kenosha,WI,53140,180000,3.0,2.0,1040.0,5662.0,1955.0,,http://www.redfin.com/WI/Kenosha/3541-11th-Ave-53140/home/89327712,42.605059999999995,-87.8250017
-55,Single Family Residential,8920 S Creek Rd,Beloit,WI,53511,159000,3.0,1.0,1216.0,27878.0,1965.0,,http://www.redfin.com/WI/Beloit/8920-S-Creek-Rd-53511/home/89799597,42.548893400000004,-88.9936166
-56,Multi-Family (5+ Unit),2035 N Holton St,Milwaukee,WI,53201,275000,,,4107.0,5662.0,1900.0,,http://www.redfin.com/WI/Milwaukee/2035-N-Holton-St-53212/home/90364730,43.0572965,-87.905702
-57,Condo/Co-op,W10723 Blackhawk Trl,Fox Lake,WI,53933,184900,4.0,1.0,1700.0,,1950.0,23.0,http://www.redfin.com/WI/Fox-Lake/W10723-Blackhawk-Trl-53933/unit-15/home/57831638,43.592745799999996,-88.9369245
-58,Single Family Residential,7181 W Blackhawk Island Rd,Fort Atkinson,WI,53538,124900,2.0,1.0,1056.0,13939.0,1930.0,,http://www.redfin.com/WI/Fort-Atkinson/7181-Blackhawk-Island-Rd-53538/home/172662964,42.8980258,-88.88977320000001
-59,Single Family Residential,N95W31301 County Line Rd,Hartland,WI,53029,650000,4.0,3.5,4200.0,487871.0,2005.0,,http://www.redfin.com/WI/Hartland/N95W31301-County-Line-Rd-53029/home/90035103,43.1919268,-88.36653079999999
-60,Single Family Residential,6236 Bald Eagle Rd,Mount Pleasant,WI,53406,785000,4.0,4.5,4372.0,16552.0,2005.0,,http://www.redfin.com/WI/Mt-Pleasant/6236-Bald-Eagle-Rd-53406/home/57735749,42.73353,-87.85826999999999
-61,Single Family Residential,1209 S 47th St,Milwaukee,WI,53215,174900,4.0,1.5,1496.0,3484.0,1901.0,,http://www.redfin.com/WI/West-Milwaukee/1209-S-47th-St-53214/home/57755351,43.0186921,-87.97273840000001
-62,Single Family Residential,1101 Spruce,West Bend,WI,53095,324900,4.0,2.5,1784.0,7405.0,1998.0,,http://www.redfin.com/WI/West-Bend/1101-Spruce-St-53090/home/57769922,43.4377559,-88.1654807
-63,Single Family Residential,2225 Newman Rd,Mount Pleasant,WI,53406,415000,3.0,3.0,1914.0,198633.0,1951.0,,http://www.redfin.com/WI/Mt-Pleasant/2225-N-Newman-Rd-53406/home/58014167,42.747424,-87.843723
-64,Single Family Residential,6600 23rd Ave,Kenosha,WI,53143,89000,5.0,2.0,1726.0,5662.0,1900.0,,http://www.redfin.com/WI/Kenosha/6600-23rd-Ave-53143/home/89296206,42.574166,-87.8370742
-65,Single Family Residential,1626 Twisted Oak Ct,Hartland,WI,53029,1399000,5.0,4.5,5660.0,26136.0,2018.0,,http://www.redfin.com/WI/Hartland/1626-Twisted-Oak-Ct-53029/home/113573834,43.1153318,-88.305073
-66,Single Family Residential,540 Pointmere Ln,Racine,WI,53402,209900,4.0,2.0,1800.0,10454.0,1975.0,,http://www.redfin.com/WI/Racine/540-Pointmere-Ln-W-53402/home/89766197,42.781912,-87.7862287
-67,Multi-Family (5+ Unit),207 Lake St,Beaver Dam,WI,53916,625000,8.0,2.0,,30491.0,1963.0,,http://www.redfin.com/WI/Beaver-Dam/207-Lake-St-53916/home/146895587,43.467056299999996,-88.842386
-68,Single Family Residential,4012 W Calumet,Brown Deer,WI,53209,139900,3.0,1.0,983.0,21780.0,1952.0,,http://www.redfin.com/WI/Brown-Deer/4012-W-Calumet-Rd-53209/home/57683919,43.1561136,-87.9618698
-69,Single Family Residential,W5567 Briarwood Rd,Elkhorn,WI,53121,539900,3.0,2.5,2820.0,44866.0,2015.0,,http://www.redfin.com/WI/Elkhorn/W5567-Briarwood-Rd-53121/home/89473975,42.749381299999996,-88.5775556
-70,Single Family Residential,1242 Firethorn Dr,West Bend,WI,53090,319000,4.0,2.5,2867.0,8276.0,2002.0,,http://www.redfin.com/WI/West-Bend/1242-Firethorn-Dr-53090/home/57663360,43.4359398,-88.1626873
-71,Multi-Family (2-4 Unit),1356 Deane Blvd #1358,Racine,WI,53405,194900,,,3990.0,5227.0,1914.0,,http://www.redfin.com/WI/Racine/1356-Deane-Blvd-53405/unit-1358/home/172662708,42.7161516,-87.81509140000001
-72,Single Family Residential,N67W23881 Linda Dr,Sussex,WI,53089,285000,4.0,2.0,1840.0,12632.0,1975.0,,http://www.redfin.com/WI/Sussex/N67W23881-Linda-Dr-53089/home/90015550,43.140260299999994,-88.2216402
-73,Single Family Residential,7300 40th Ave,Kenosha,WI,53142,154900,3.0,1.0,1008.0,4791.0,1946.0,,http://www.redfin.com/WI/Kenosha/7300-40th-Ave-53142/home/57728150,42.5681819,-87.8567595
-74,Multi-Family (2-4 Unit),2821/2821A S Herman St,Milwaukee,WI,53207,224900,3.0,2.0,2001.0,4356.0,1908.0,,http://www.redfin.com/WI/Milwaukee/2821-S-Herman-St-53207/home/90238384,42.993247700000005,-87.8957975
-75,Single Family Residential,3602 W Missouri Ave,Franklin,WI,53132,175000,3.0,1.5,1226.0,19602.0,1954.0,,http://www.redfin.com/WI/Franklin/3602-W-Missouri-Ave-53132/home/57750946,42.915343299999996,-87.9616019
-76,Single Family Residential,W302S1610 Brandybrook Rd,Waukesha,WI,53188,219000,2.0,1.0,1000.0,43560.0,1950.0,,http://www.redfin.com/WI/Waukesha/W302S1610-Brandybrook-Rd-53188/home/89986268,43.0135734,-88.349767
-77,Single Family Residential,9173 W Adler St,Milwaukee,WI,53214,159900,3.0,2.0,1122.0,10454.0,1949.0,,http://www.redfin.com/WI/Milwaukee/9173-W-Adler-St-53214/home/57716080,43.0272622,-88.0269652
-78,Vacant Land,504 Wells St,Lake Geneva,WI,53147,249000,,,,24829.0,,,http://www.redfin.com/WI/Lake-Geneva/504-S-Wells-St-53147/home/58083048,42.586555,-88.429283
-79,Vacant Land,N69W23759 Donna Dr,Sussex,WI,53089,85900,,,,12632.0,,,http://www.redfin.com/WI/Sussex/N69W23759-Donna-Dr-53089/home/172662534,43.142899299999996,-88.2191193
-80,Single Family Residential,1124 Sommer Dr,Sheboygan,WI,53081,249500,4.0,1.5,3328.0,23086.0,1989.0,,http://www.redfin.com/WI/Sheboygan/1124-Sommer-Dr-53081/home/90085165,43.7083683,-87.72005159999999
-81,Vacant Land,Lt54 Carnation Ct,Mount Pleasant,WI,53406,41900,,,,9583.0,,23.0,http://www.redfin.com/WI/Mt-Pleasant/Lt54-Carnation-Ct-53406/home/171767305,42.687283,-87.858988
-82,Single Family Residential,4610 N 150th St,Brookfield,WI,53005,279900,4.0,2.0,1438.0,23522.0,1953.0,,http://www.redfin.com/WI/Brookfield/4610-N-150th-St-53005/home/103730886,43.1009473,-88.0995016
-83,Single Family Residential,1190 Center St,Hartford,WI,53027,269900,3.0,3.0,1239.0,7405.0,2002.0,,http://www.redfin.com/WI/Hartford/1190-Center-St-53027/home/57995506,43.3307658,-88.3802465
-84,Single Family Residential,1950 Deane Blvd,Racine,WI,53403,149000,4.0,1.0,1456.0,4791.0,1928.0,,http://www.redfin.com/WI/Racine/1950-Deane-Blvd-53403/home/89783292,42.7064492,-87.8151915
-85,Single Family Residential,2411 S 10th St,Sheboygan,WI,53081,224900,4.0,2.0,2177.0,13939.0,1949.0,,http://www.redfin.com/WI/Sheboygan/2411-S-10th-St-53081/home/57678120,43.728525,-87.7159724
-86,Single Family Residential,417 Highland Park Ave,Clinton,WI,53525,155000,3.0,1.5,1234.0,13503.0,1933.0,,http://www.redfin.com/WI/Clinton/417-Highland-Park-Ave-53525/home/89830237,42.5595849,-88.8667593
-87,Single Family Residential,4921 Lake Dr,West Bend,WI,53095,425000,4.0,3.0,3500.0,89733.0,1974.0,,http://www.redfin.com/WI/West-Bend/4921-Lake-Dr-53095/home/89661771,43.3699722,-88.23476690000001
-88,Townhouse,310 Amber Dr #31,Whitewater,WI,53190,235000,4.0,3.5,2552.0,,2006.0,300.0,http://www.redfin.com/WI/Whitewater/310-Amber-Dr-53190/unit-31/home/58018903,42.8218929,-88.724786
-89,Single Family Residential,844 Anna Ct,Waterloo,WI,53594,254900,3.0,2.5,1952.0,17859.0,1994.0,,http://www.redfin.com/WI/Waterloo/844-Anna-Ct-53594/home/89577874,43.1925963,-88.98599370000001
-90,Single Family Residential,6478 N 87th St,Milwaukee,WI,53224,145000,3.0,1.0,1281.0,7405.0,1957.0,,http://www.redfin.com/WI/Milwaukee/6478-N-87th-St-53224/home/57880032,43.13588920000001,-88.0193973
-91,Single Family Residential,2005 N 51st St,Milwaukee,WI,53208,179900,3.0,1.5,1328.0,4791.0,1913.0,,http://www.redfin.com/WI/Milwaukee/2005-N-51st-St-53208/home/87576722,43.0561032,-87.97790390000002
-92,Multi-Family (2-4 Unit),2947 N Cramer St #2949,Milwaukee,WI,53211,199900,5.0,2.0,2420.0,4791.0,1908.0,,http://www.redfin.com/WI/Milwaukee/2947-N-Cramer-St-53211/unit-2949/home/172409579,43.072071,-87.887029
-93,Single Family Residential,6415 Hilltop Dr,Allenton,WI,53002,179900,3.0,1.5,1512.0,29185.0,1937.0,,http://www.redfin.com/WI/Allenton/6415-Hilltop-Rd-53002/home/89657566,43.421046000000004,-88.355651
-94,Single Family Residential,456 Andrews St,Mukwonago,WI,53149,284900,3.0,1.0,1593.0,18295.0,1940.0,,http://www.redfin.com/WI/Mukwonago/456-Andrews-St-53149/home/90001434,42.8582409,-88.3368545
-95,Condo/Co-op,2100 Farmlane Dr,Slinger,WI,53086,319900,2.0,2.0,1543.0,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2100-Farmlane-Dr-53086/unit-4/home/89677343,43.3041797,-88.2310275
-96,Multi-Family (2-4 Unit),2141 S 67th Pl #2143,West Allis,WI,53219,184900,4.0,2.0,1670.0,4791.0,1953.0,,http://www.redfin.com/WI/West-Allis/2141-S-67th-Pl-53219/unit-2143/home/172662226,43.005467200000005,-87.997109
-97,Single Family Residential,576 Box Elder Ln,Grafton,WI,53024,599900,5.0,4.0,4096.0,27007.0,1998.0,2.0,http://www.redfin.com/WI/Grafton/576-Boxelder-Ln-53024/home/90141059,43.3190557,-87.9763926
-98,Single Family Residential,8832 W Kiehnau,Milwaukee,WI,53224,164900,3.0,1.5,1511.0,12196.0,1956.0,,http://www.redfin.com/WI/Milwaukee/8832-W-Kiehnau-Ave-53224/home/90344708,43.138871200000004,-88.02220679999999
-99,Condo/Co-op,193 Park St,Belgium,WI,53004,197900,3.0,2.5,1510.0,,2001.0,,http://www.redfin.com/WI/Belgium/193-Park-St-53004/home/90137730,43.5014601,-87.8381062
-100,Condo/Co-op,6464 S Whitnall Edge Rd #203,Franklin,WI,53132,124900,2.0,2.0,940.0,,1980.0,245.0,http://www.redfin.com/WI/Franklin/6464-S-Whitnall-Edge-Rd-53132/unit-203/home/90284706,42.9271313,-88.0454248
-101,Single Family Residential,2121 Neptune Cir,Racine,WI,53404,199000,3.0,2.5,2400.0,7405.0,1984.0,,http://www.redfin.com/WI/Racine/2121-Neptune-Cir-53404/home/57952511,42.7481394,-87.8125035
-102,Single Family Residential,5014 W Kathleen Ln,Mequon,WI,53092,319900,3.0,2.0,2024.0,45302.0,1986.0,,http://www.redfin.com/WI/Mequon/5014-W-Kathleen-Ln-53092/home/58011471,43.201304799999996,-87.9722792
-103,Single Family Residential,2244 N 68th St,Wauwatosa,WI,53213,239900,2.0,1.0,1187.0,6534.0,1940.0,,http://www.redfin.com/WI/Wauwatosa/2244-N-68th-St-53213/home/90334417,43.059940000000005,-87.9972943
-104,Single Family Residential,2039 E Holt Ave,Milwaukee,WI,53207,105000,3.0,1.0,1173.0,3484.0,1948.0,,http://www.redfin.com/WI/Milwaukee/2039-E-Holt-Ave-53207/home/90244410,42.982584700000004,-87.88364490000001
-105,Single Family Residential,12190 W White Oak Dr,Greenfield,WI,53228,374900,3.0,2.0,1914.0,14810.0,1989.0,,http://www.redfin.com/WI/Greenfield/12190-W-White-Oak-Dr-53228/home/90262349,42.9806089,-88.0654536
-106,Single Family Residential,W200N9430 Woodside Ln,Menomonee Falls,WI,53051,209000,3.0,1.0,1142.0,19602.0,1955.0,,http://www.redfin.com/WI/Menomonee-Falls/W200N9430-Woodside-Ln-53051/home/89990348,43.1890814,-88.15778420000001
-107,Single Family Residential,S50W23475 Woodchuck Ln,Waukesha,WI,53189,405000,3.0,2.5,2254.0,46173.0,1989.0,13.0,http://www.redfin.com/WI/Waukesha/S50W23475-Woodchuck-Ln-53189/home/66783740,42.9529682,-88.2174545
-108,Single Family Residential,7856 S Victory Creek Ct,Franklin,WI,53132,375000,3.0,2.5,2776.0,11325.0,2003.0,8.0,http://www.redfin.com/WI/Franklin/7856-S-Victory-Creek-Ct-53132/home/90257876,42.9025756,-87.9706338
-109,Multi-Family (2-4 Unit),2186 S 86th St,West Allis,WI,53227,79900,4.0,2.0,1722.0,5662.0,1926.0,,http://www.redfin.com/WI/West-Allis/2186-S-86th-St-53227/home/90276871,43.0041027,-88.0195502
-110,Single Family Residential,27 S Concord Rd,Oconomowoc,WI,53066,239900,3.0,1.5,1526.0,6098.0,1917.0,,http://www.redfin.com/WI/Oconomowoc/27-S-Concord-Rd-53066/home/103746649,43.112023,-88.505266
-111,Single Family Residential,1138 Wisconsin Ave,Oostburg,WI,53070,199900,3.0,2.0,1928.0,18730.0,1964.0,,http://www.redfin.com/WI/Oostburg/1138-Wisconsin-Ave-53070/home/90102039,43.6268805,-87.802441
-112,Multi-Family (2-4 Unit),505 Sheridan Dr,West Bend,WI,53095,387900,,,5046.0,13939.0,1969.0,,http://www.redfin.com/WI/West-Bend/505-Sheridan-Dr-53095/home/172661531,43.41670429999999,-88.1632692
-113,Single Family Residential,15207 73rd St,Kenosha,WI,53142,449900,4.0,2.5,2792.0,8712.0,2005.0,17.0,http://www.redfin.com/WI/KENOSHA/15207-73RD-ST-53142/home/57812739,42.570546,-87.993133
-114,Single Family Residential,5935 N 69th St,Milwaukee,WI,53218,69900,2.0,1.0,944.0,7405.0,1936.0,,http://www.redfin.com/WI/Milwaukee/5935-N-69th-St-53218/home/57828209,43.125776,-87.997537
-115,Single Family Residential,19685 Warwick Dr,Brookfield,WI,53045,589900,4.0,3.5,3964.0,21780.0,1985.0,,http://www.redfin.com/WI/Brookfield/19685-Warwick-Dr-53045/home/87956338,43.052832099999996,-88.15751740000002
-116,Condo/Co-op,402 Sheffield Rd #2,Waukesha,WI,53186,142000,2.0,2.0,1140.0,,1976.0,200.0,http://www.redfin.com/WI/Waukesha/402-Sheffield-Rd-53186/unit-2/home/103753939,42.998157,-88.20391140000001
-117,Single Family Residential,3915 S Waterbury Ct,New Berlin,WI,53151,499900,4.0,2.5,2844.0,15245.0,2003.0,10.0,http://www.redfin.com/WI/New-Berlin/3915-S-Waterbury-Ct-53151/home/103724844,42.97298320000001,-88.0710671
-118,Condo/Co-op,10900 W Bluemound Rd #110,Wauwatosa,WI,53226,179900,2.0,2.0,1228.0,,2003.0,311.0,http://www.redfin.com/WI/Wauwatosa/10900-W-Bluemound-Rd-53226/unit-110/home/90340284,43.035630100000006,-88.0499185
-119,Single Family Residential,1115 Hiawatha Dr,Beaver Dam,WI,53916,216500,3.0,1.5,2600.0,9583.0,1985.0,,http://www.redfin.com/WI/Beaver-Dam/1115-Hiawatha-Dr-53916/home/89224130,43.4694565,-88.8443412
-120,Single Family Residential,6259 N Berkeley Blvd,Whitefish Bay,WI,53217,850000,4.0,2.5,2846.0,6969.0,1949.0,,http://www.redfin.com/WI/Whitefish-Bay/6259-N-Berkeley-Blvd-53217/home/90337768,43.1310468,-87.90547509999999
-121,Single Family Residential,1211 Main St,Racine,WI,53403,699900,5.0,3.5,4221.0,23522.0,1891.0,,http://www.redfin.com/WI/Racine/1211-Main-St-53403/home/89770687,42.7181423,-87.78207859999999
-122,Single Family Residential,W251S3902 Rickert Dr,Waukesha,WI,53189,222000,4.0,2.5,3027.0,47916.0,1972.0,,http://www.redfin.com/WI/Waukesha/W251S3902-Rickert-Dr-53189/home/90024611,42.9733777,-88.2494651
-123,Single Family Residential,1545 St Augustine Rd,Hartford,WI,53027,575000,4.0,2.0,1618.0,465656.0,1880.0,,http://www.redfin.com/WI/Hartford/1545-St-Augustine-Rd-53027/home/89663910,43.2461865,-88.3021551
-124,Multi-Family (2-4 Unit),1424 Virginia Ave Unit 1424A,Sheboygan,WI,53081,159900,6.0,3.0,890.0,8712.0,1900.0,,http://www.redfin.com/WI/Sheboygan/1424-Virginia-Ave-53081/unit-1424A/home/172660378,43.747937,-87.723895
-125,Single Family Residential,1125 Church St,Janesville,WI,53548,150000,3.0,1.0,950.0,6098.0,1959.0,,http://www.redfin.com/WI/Janesville/1125-Church-St-53548/home/57733700,42.695803399999996,-89.0459112
-126,Single Family Residential,709 Yuba St,Janesville,WI,53545,139900,3.0,1.5,1912.0,6969.0,1911.0,,http://www.redfin.com/WI/Janesville/709-Yuba-St-53545/home/57610210,42.6923867,-89.0166449
-127,Single Family Residential,410 Mc Kee Ct,Fort Atkinson,WI,53538,385000,4.0,3.0,3300.0,9583.0,1920.0,,http://www.redfin.com/WI/Fort-Atkinson/410-McKee-Ct-53538/home/89573435,42.918062299999995,-88.83198370000001
-128,Single Family Residential,3355 W Ruskin St,Milwaukee,WI,53215,184900,3.0,2.0,1470.0,5662.0,1948.0,,http://www.redfin.com/WI/Milwaukee/3355-W-Ruskin-St-53215/home/57751756,42.9852781,-87.9568938
-129,Single Family Residential,3808 N 5th St,Milwaukee,WI,53212,42900,3.0,1.0,877.0,4356.0,1923.0,,http://www.redfin.com/WI/Milwaukee/3808-N-5th-St-53212/home/57860099,43.085844200000004,-87.9158019
-130,Condo/Co-op,2060 Farmlane Dr,Slinger,WI,53086,324900,2.0,2.0,1597.0,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2060-Farmlane-Dr-53086/unit-8/home/89677346,43.3048152,-88.2312192
-131,Condo/Co-op,1095 Geneva National Ave N Unit 14-07,Lake Geneva,WI,53147,649900,4.0,3.5,3990.0,,1993.0,305.0,http://www.redfin.com/WI/Lake-Geneva/1095-Geneva-National-Ave-N-53147/unit-14-07/home/89476417,42.6116773,-88.52038359999999
-132,Single Family Residential,9620 401st Ave,Genoa City,WI,53128,349200,3.0,2.5,1838.0,33976.0,2006.0,,http://www.redfin.com/WI/Genoa-City/9620-401st-Ave-53128/home/57924378,42.5324554,-88.2985469
-133,Condo/Co-op,2120 Farmlane Dr,Slinger,WI,53086,324900,2.0,2.0,1597.0,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2120-Farmlane-Dr-53086/unit-3/home/89677339,43.3040586,-88.2305075
-134,Single Family Residential,104 Ridgeline Dr,Columbus,WI,53925,314900,3.0,2.0,2088.0,16988.0,2009.0,,http://www.redfin.com/WI/Columbus/104-Ridgeline-Dr-53925/home/57637632,43.326488299999994,-89.0332031
-135,Vacant Land,Lt1 Congress St,Williams Bay,WI,53191,99900,,,,19602.0,,,http://www.redfin.com/WI/Williams-Bay/Lt1-Congress-St-53191/home/172660689,42.575006,-88.54443640000001
-136,Condo/Co-op,2130 Farmlane Dr,Slinger,WI,53086,324900,2.0,2.0,1597.0,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2130-Farmlane-Dr-53086/unit-2/home/89677338,43.303901700000004,-88.2309262
-137,Vacant Land,623 W Prospect St,Hartford,WI,53027,39900,,,,12632.0,,,http://www.redfin.com/WI/Hartford/623-W-Prospect-St-53027/home/113693043,43.327136100000004,-88.3877059
-138,Vacant Land,881 Spruce St,Hartford,WI,53027,39900,,,,15245.0,,,http://www.redfin.com/WI/Hartford/881-Spruce-St-53027/home/113693015,43.3264722,-88.3865881
-139,Vacant Land,Lot 3 Spring St,Union Grove,WI,53182,189900,,,,235659.0,,,http://www.redfin.com/WI/Union-Grove/Lot-3-Spring-St-Unknown/home/172659764,42.7001383,-88.06860490000001
-140,Multi-Family (2-4 Unit),3736 N Port Washington Ave #3738,Milwaukee,WI,53212,5000,4.0,2.0,2028.0,3920.0,1926.0,,http://www.redfin.com/WI/Milwaukee/3736-N-Port-Washington-Ave-53212/unit-3738/home/146371047,43.0847677,-87.91702790000001
-141,Single Family Residential,230 E Greenwood St,Jefferson,WI,53549,158000,3.0,1.0,1352.0,11325.0,1955.0,,http://www.redfin.com/WI/Jefferson/230-E-Greenwood-St-53549/home/89575667,43.010893700000004,-88.80429240000001
-142,Single Family Residential,N47W22358 Woodleaf Way,Pewaukee,WI,53072,514990,3.0,2.5,2203.0,25264.0,2020.0,,http://www.redfin.com/WI/Pewaukee/N47W22358-Woodleaf-Way-53072/home/168665532,43.103558,-88.192714
-143,Single Family Residential,7936 S 55th St,Franklin,WI,53132,399900,4.0,3.0,2517.0,9147.0,1996.0,,http://www.redfin.com/WI/Franklin/7936-S-55th-St-53132/home/90326666,42.9006972,-87.98381479999999
-144,Condo/Co-op,269 Fontana Blvd #1707,Fontana,WI,53125,83900,1.0,1.0,330.0,,1963.0,512.0,http://www.redfin.com/WI/Fontana-On-Geneva-Lake/269-Fontana-Blvd-53125/unit-1707/home/168698150,42.5481755,-88.57632779999999
-145,Single Family Residential,8842 W Burdick Ave,Milwaukee,WI,53227,270000,3.0,2.5,1968.0,9583.0,1959.0,,http://www.redfin.com/WI/Milwaukee/8842-W-Burdick-Ave-53227/home/90376361,42.984428799999996,-88.0233343
-146,Vacant Land,N88W18548 Duke St Lot 15,Menomonee Falls,WI,53051,114900,,,,12632.0,,,http://www.redfin.com/WI/Menomonee-Falls/N88W18548-Duke-St-53051/unit-15/home/145172789,43.179219599999996,-88.1402879
-147,Single Family Residential,932 Bay View Ave,Twin Lakes,WI,53181,175000,2.0,1.0,1120.0,11325.0,1917.0,,http://www.redfin.com/WI/Twin-Lakes/932-Bay-View-Ave-53181/home/89309382,42.526407,-88.26803620000001
-148,Condo/Co-op,10340 W Whitnall Edge Dr #204,Franklin,WI,53132,117900,2.0,2.0,940.0,,1980.0,245.0,http://www.redfin.com/WI/Franklin/10340-Whitnall-Edge-Dr-53132/unit-204/home/58050632,42.9274156,-88.0437399
-149,Vacant Land,N88W18551 Duke St Lot 23,Menomonee Falls,WI,53051,105900,,,,13939.0,,,http://www.redfin.com/WI/Menomonee-Falls/N88W18551-Duke-St-53051/unit-23/home/145172790,43.17862279999999,-88.14035190000001
-150,Single Family Residential,3504 86th St,Kenosha,WI,53142,324900,3.0,2.0,2862.0,8276.0,1993.0,,http://www.redfin.com/WI/Kenosha/3504-86th-St-53142/home/57924201,42.5496605,-87.8509277
-151,Single Family Residential,513 W Court St,Elkhorn,WI,53121,179900,2.0,1.0,1174.0,9583.0,1955.0,,http://www.redfin.com/WI/Elkhorn/513-W-Court-St-53121/home/89516098,42.673191499999994,-88.55365359999999
-152,Single Family Residential,7333 S 49th St,Franklin,WI,53132,299900,3.0,2.0,1926.0,10890.0,1995.0,,http://www.redfin.com/WI/Franklin/7333-S-49th-St-53132/home/57987853,42.911621999999994,-87.97690909999999
-153,Single Family Residential,200 N Church St,Watertown,WI,53094,159900,4.0,2.5,2348.0,8712.0,1910.0,,http://www.redfin.com/WI/Watertown/200-N-Church-St-53094/home/89581578,43.1960677,-88.72870479999999
-154,Single Family Residential,N5549 Ledgetop Ct,Fond Du Lac,WI,54937,399900,3.0,2.1,2371.0,44866.0,1992.0,,http://www.redfin.com/WI/Fond-du-Lac/N5549-Ledgetop-Ct-54937/home/89119432,43.7418658,-88.38381
-155,Single Family Residential,2342 N 48th St,Milwaukee,WI,53210,95900,4.0,1.0,1938.0,5227.0,1920.0,,http://www.redfin.com/WI/Milwaukee/2342-N-48th-St-53210/home/57754101,43.061583,-87.97342990000001
-156,Single Family Residential,12410 N Lake Shore Dr,Mequon,WI,53092,569000,3.0,2.0,1638.0,58370.0,1956.0,,http://www.redfin.com/WI/Mequon/12410-N-Lake-Shore-Dr-53092/home/67384147,43.2437365,-87.9130432
-157,Single Family Residential,W5725 Ridge Rd,Elkhorn,WI,53121,639900,3.0,3.0,3000.0,16117.0,1978.0,,http://www.redfin.com/WI/Elkhorn/W5725-Ridge-Rd-53121/home/89474043,42.761924,-88.5849653
-158,Vacant Land,Lt2 County Highway Zz,Eagle,WI,53119,184900,,,,516186.0,,,http://www.redfin.com/WI/Eagle/Lt2-County-Highway-ZZ-53119/home/146387132,42.916016,-88.520605
-159,Single Family Residential,910 Freeman St,Genoa City,WI,53128,109900,2.0,1.0,880.0,8712.0,1952.0,,http://www.redfin.com/WI/Genoa-City/910-Freeman-St-53128/home/89491348,42.5080463,-88.3297195
-160,Single Family Residential,2360 Woodberry Ct,Brookfield,WI,53045,829900,5.0,4.5,5202.0,19166.0,1986.0,,http://www.redfin.com/WI/Brookfield/2360-Woodberry-Ct-53045/home/103732239,43.0624032,-88.14208199999999
-161,Single Family Residential,2048 Grange Ave,Racine,WI,53403,129900,4.0,1.0,1717.0,4791.0,1926.0,,http://www.redfin.com/WI/Racine/2048-Grange-Ave-53403/home/89778543,42.7048531,-87.81143929999999
-162,Single Family Residential,6432 Wembly Ln,Mount Pleasant,WI,53406,375000,3.0,2.0,1850.0,13068.0,2002.0,,http://www.redfin.com/WI/Mt-Pleasant/6432-Wembly-Ln-53406/home/89750749,42.7531355,-87.86316590000001
-163,Single Family Residential,1528 S 81st St,West Allis,WI,53214,165500,3.0,2.0,1216.0,5227.0,1912.0,,http://www.redfin.com/WI/West-Allis/1528-S-81st-St-53214/home/57991763,43.0142499,-88.0127266
-164,Single Family Residential,1619 State St,Delavan,WI,53115,395000,4.0,2.0,1800.0,3484.0,1931.0,,http://www.redfin.com/WI/Delavan/1619-State-St-53115/home/57843498,42.616812,-88.608432
-165,Single Family Residential,1508 S 82nd St,West Allis,WI,53214,159900,3.0,1.0,1463.0,4791.0,1909.0,,http://www.redfin.com/WI/West-Allis/1508-S-82nd-St-53214/home/90275885,43.0146305,-88.01389259999999
-166,Single Family Residential,316 Weed St,Fox Lake,WI,53933,299000,4.0,2.5,2838.0,43560.0,1980.0,,http://www.redfin.com/WI/Fox-Lake/316-Weed-St-53933/home/57656462,43.5605914,-88.9205621
-167,Condo/Co-op,140 W Commerce Blvd #208,Slinger,WI,53086,108500,2.0,2.0,1150.0,,1997.0,210.0,http://www.redfin.com/WI/Slinger/140-W-Commerce-Blvd-53086/unit-208/home/62245693,43.3261614,-88.29464709999999
-168,Single Family Residential,9904 W Dakota St,West Allis,WI,53227,249900,3.0,2.0,1612.0,11761.0,1955.0,,http://www.redfin.com/WI/West-Allis/9904-W-Dakota-St-53227/home/57965123,42.9923186,-88.0362131
-169,Single Family Residential,10944 224th Ave,Bristol,WI,53104,3495000,4.0,2.5,4308.0,6244761.0,1989.0,,http://www.redfin.com/WI/Bristol/10944-224th-Ave-53104/home/89306580,42.520771,-88.083218
-170,Single Family Residential,N99W16846 Chick A Dee Ct,Germantown,WI,53022,259900,3.0,1.5,2328.0,27442.0,1979.0,,http://www.redfin.com/WI/Germantown/N99W16846-Chick-A-Dee-Ct-53022/home/89657444,43.197565399999995,-88.119014
-171,Single Family Residential,608 Tulip Ln,Waupun,WI,53963,165000,4.0,2.0,1944.0,9147.0,1967.0,,http://www.redfin.com/WI/Waupun/608-Tulip-Ln-53963/home/89109942,43.63940529999999,-88.7454533
-172,Single Family Residential,N57W24957 Clover Dr,Sussex,WI,53089,369900,3.0,2.5,2450.0,16117.0,1996.0,3.0,http://www.redfin.com/WI/Sussex/N57W24957-Clover-Dr-53089/home/57998240,43.1228361,-88.243209
-173,Condo/Co-op,122 W Main St #122,Fontana,WI,53125,449900,2.0,2.5,1835.0,,2020.0,195.0,http://www.redfin.com/WI/Fontana-On-Geneva-Lake/122-W-Main-St-53125/unit-122/home/172522715,42.5497398,-88.58132990000001
-174,Single Family Residential,N2352 Halter Ln,Watertown,WI,53098,345000,4.0,4.0,2962.0,70567.0,1901.0,,http://www.redfin.com/WI/Watertown/N2352-Halter-Ln-53098/home/57599509,43.278146,-88.69208990000001
-175,Single Family Residential,7429 N 89th St,Milwaukee,WI,53224,169900,3.0,1.5,1210.0,9147.0,1972.0,,http://www.redfin.com/WI/Milwaukee/7429-N-89th-St-53224/home/57964131,43.1529127,-88.0227897
-176,Multi-Family (2-4 Unit),2625 S Delaware Ave #2627,Milwaukee,WI,53207,304900,4.0,2.0,2136.0,4791.0,1924.0,,http://www.redfin.com/WI/Milwaukee/2625-S-Delaware-Ave-53207/unit-2627/home/172658517,42.9959439,-87.8892188
-177,Single Family Residential,W316N714 Heather Hl,Delafield,WI,53018,399900,4.0,1.5,2100.0,45738.0,1977.0,,http://www.redfin.com/WI/Delafield/W316N714-Heather-Hl-53018/home/89983919,43.0395006,-88.3773652
-178,Single Family Residential,7205 49th Ave,Kenosha,WI,53142,364900,4.0,2.5,3620.0,10890.0,1968.0,,http://www.redfin.com/WI/Kenosha/7205-49th-Ave-53142/home/89297307,42.5686619,-87.86713590000001
-179,Single Family Residential,4615 69th St,Kenosha,WI,53142,167500,3.0,1.0,804.0,7840.0,1960.0,,http://www.redfin.com/WI/Kenosha/4615-69th-St-53142/home/57808082,42.57093,-87.86458509999999
-180,Vacant Land,Lt2 County Highway Nn,West Bend,WI,53095,119900,,,,217800.0,,,http://www.redfin.com/WI/West-Bend/Lt2-County-Highway-NN-53095/home/172658432,43.368121,-88.145907
-181,Vacant Land,Lt1 County Highway Nn,West Bend,WI,53095,119900,,,,217800.0,,,http://www.redfin.com/WI/West-Bend/Lt1-County-Highway-NN-53095/home/172658431,43.3685866,-88.15201970000001
-182,Vacant Land,Lt3 County Highway Nn,West Bend,WI,53095,119900,,,,217800.0,,,http://www.redfin.com/WI/West-Bend/3680-County-Highway-NN-53095/home/172658430,43.3757715,-88.2194534
-183,Single Family Residential,9835 Lakeshore Dr,Pleasant Prairie,WI,53158,1025000,3.0,2.5,4248.0,25700.0,2004.0,13.0,http://www.redfin.com/WI/Pleasant-Prairie/9835-Lakeshore-Dr-53158/unit-4/home/57638316,42.5299606,-87.8134635
-184,Single Family Residential,W302S2907 S Bethesda Cir,Waukesha,WI,53188,425000,3.0,2.5,2404.0,56628.0,1970.0,,http://www.redfin.com/WI/Waukesha/W302S2907-Bethesda-Cirle-53188/home/89985584,42.9915064,-88.3514625
-185,Single Family Residential,7624 W Lorraine Pl,Milwaukee,WI,53222,169900,3.0,1.0,1235.0,5227.0,1924.0,,http://www.redfin.com/WI/Milwaukee/7624-W-Lorraine-Pl-53222/home/57844725,43.0691795,-88.00833279999999
-186,Single Family Residential,8521 W Lake Pointe Dr,Franklin,WI,53132,379900,3.0,2.5,2062.0,11761.0,1997.0,,http://www.redfin.com/WI/Franklin/8521-Lake-Pointe-Dr-53132/home/90258879,42.890097999999995,-88.0205823
-187,Single Family Residential,3713 W Bridge St,Greenfield,WI,53221,229000,3.0,1.5,2094.0,13503.0,1969.0,,http://www.redfin.com/WI/Greenfield/3713-W-Bridge-St-53221/home/57969901,42.9353951,-87.9627501
-188,Single Family Residential,2005 S 89th St,West Allis,WI,53227,129900,3.0,2.0,1001.0,3920.0,1941.0,,http://www.redfin.com/WI/West-Allis/2005-S-89th-St-53227/home/58009314,43.007895700000006,-88.0238312
-189,Condo/Co-op,6000 S Buckhorn Ave #204,Cudahy,WI,53110,159900,2.0,2.0,1450.0,,2005.0,200.0,http://www.redfin.com/WI/Cudahy/6000-S-Buckhorn-Ave-53110/unit-204/home/90256136,42.9364604,-87.8645675
-190,Condo/Co-op,1415 Watercress Cir,West Bend,WI,53095,165000,2.0,2.0,1348.0,,2002.0,150.0,http://www.redfin.com/WI/West-Bend/1415-Watercress-Cir-53095/unit-4/home/89686748,43.3994474,-88.1604444
-191,Single Family Residential,729 Western Ave,Sheboygan Falls,WI,53085,290000,4.0,2.0,2427.0,11325.0,1980.0,,http://www.redfin.com/WI/Sheboygan-Falls/729-Western-Ave-53085/home/90090286,43.7298823,-87.8291478
-192,Condo/Co-op,3449 S Pine Ave #8,Milwaukee,WI,53207,89900,2.0,1.0,810.0,,1970.0,180.0,http://www.redfin.com/WI/Milwaukee/3449-S-Pine-Ave-53207/unit-8/home/66029359,42.9817382,-87.89998790000001
-193,Condo/Co-op,270 E Highland Ave #1137,Milwaukee,WI,53202,250000,2.0,2.0,1068.0,,1901.0,474.0,http://www.redfin.com/WI/Milwaukee/270-E-Highland-Ave-53202/unit-1137/home/58029475,43.045302,-87.9093023
-194,Single Family Residential,410 S Church St,Watertown,WI,53094,149900,3.0,1.5,1172.0,8712.0,1952.0,,http://www.redfin.com/WI/Watertown/410-S-Church-St-53094/home/89581745,43.1910474,-88.7295697
-195,Single Family Residential,25604 77th St Lt11,Salem,WI,53168,360000,3.0,2.0,1813.0,12196.0,2020.0,30.0,http://www.redfin.com/WI/Salem/25604-77th-St-53168/home/172658148,42.5654155,-88.10480809999999
-196,Single Family Residential,213 Colony Ave S,Union Grove,WI,53182,799900,5.0,3.5,4800.0,2999105.0,1880.0,,http://www.redfin.com/WI/Union-Grove/213-S-Colony-Ave-53182/home/169440941,42.724072,-88.049527
-197,Single Family Residential,1228 Ed-Mar Cir,Waukesha,WI,53188,235000,3.0,2.0,1844.0,10454.0,1962.0,,http://www.redfin.com/WI/Waukesha/1228-Ed-Mar-Cir-53188/home/90033082,43.0282265,-88.247757
-198,Multi-Family (2-4 Unit),3016 N 23rd St #3018,Milwaukee,WI,53206,10000,4.0,2.0,2332.0,3920.0,1920.0,,http://www.redfin.com/WI/Milwaukee/3016-N-23rd-St-53206/unit-3018/home/58066818,43.0737579,-87.9407598
-199,Vacant Land,Lt38 Collins Rd,Jefferson,WI,53549,34900,,,,10890.0,,2.0,http://www.redfin.com/WI/Jefferson/514-Collins-Rd-53549/home/172662609,42.9900527,-88.8172585
-200,Multi-Family (2-4 Unit),1258 S 35th St,Milwaukee,WI,53215,124900,,,2347.0,4356.0,1903.0,,http://www.redfin.com/WI/Milwaukee/1258-S-35th-St-53215/home/88445310,43.0177378,-87.9574297
-201,Condo/Co-op,825 N Prospect Ave #1401,Milwaukee,WI,53202,1550000,2.0,2.0,2747.0,,2007.0,2380.0,http://www.redfin.com/WI/Milwaukee/825-N-Prospect-Ave-53202/unit-1401/home/90324014,43.0421518,-87.9000292
-202,Single Family Residential,2495 Sunrise Ct,Slinger,WI,53086,459900,4.0,2.5,2496.0,60983.0,2020.0,,http://www.redfin.com/WI/Slinger/2495-Sunrise-Ct-53086/home/58082616,43.303653999999995,-88.2335688
-203,Single Family Residential,4833 W Fillmore Dr,Milwaukee,WI,53219,169000,2.0,1.5,838.0,5227.0,1954.0,,http://www.redfin.com/WI/Milwaukee/4833-W-Fillmore-Dr-53219/home/57984008,42.999252399999996,-87.9743072
-204,Single Family Residential,186 W Paradise Dr,West Bend,WI,53095,249900,4.0,2.5,1720.0,12196.0,1972.0,,http://www.redfin.com/WI/West-Bend/186-W-Paradise-Dr-53095/home/89652840,43.397922200000004,-88.1756709
-205,Single Family Residential,731 Main St,Delafield,WI,53018,299000,4.0,1.0,1210.0,7840.0,1940.0,,http://www.redfin.com/WI/Delafield/731-Main-St-53018/home/57744113,43.0610707,-88.4011304
-206,Single Family Residential,N10672 Chief Kuno Trl,Fox Lake,WI,53933,254000,2.0,1.0,800.0,14374.0,1928.0,,http://www.redfin.com/WI/Fox-Lake/N10672-Chief-Kuno-Trl-53933/home/65623168,43.580236799999994,-88.92357220000001
-207,Single Family Residential,4438 Sherman Rd,Slinger,WI,53086,255000,4.0,2.0,1547.0,24829.0,1935.0,,http://www.redfin.com/WI/Slinger/4438-Sherman-Rd-53086/home/57725550,43.310353899999996,-88.257768
-208,Single Family Residential,1624 W Fairfield Ct,Glendale,WI,53209,269000,3.0,2.0,1938.0,9147.0,1978.0,,http://www.redfin.com/WI/Glendale/1624-W-Fairfield-Ct-53209/home/90288982,43.132791100000006,-87.9306844
-209,Single Family Residential,8312 N Santa Monica Blvd,Fox Point,WI,53217,269900,2.0,2.0,1780.0,13068.0,1952.0,,http://www.redfin.com/WI/Fox-Point/8312-N-Santa-Monica-Blvd-53217/home/57746232,43.1675843,-87.90139350000001
-210,Single Family Residential,9309 W Hadley St,Milwaukee,WI,53222,310000,3.0,1.5,1805.0,15681.0,1953.0,,http://www.redfin.com/WI/Milwaukee/9309-W-Hadley-St-53222/home/90218084,43.069238,-88.0291054
-211,Vacant Land,Lot 38 Collins Rd,Jefferson,WI,53549,34900,,,,10890.0,,2.0,http://www.redfin.com/WI/Jefferson/38-Collins-Rd-53549/home/172657659,42.990790399999995,-88.80821999999999
-212,Condo/Co-op,315 Trailview Xing,Waterford,WI,53185,332500,2.0,2.0,1640.0,,2020.0,230.0,http://www.redfin.com/WI/Waterford/315-Trailview-Xing-53185/unit-16/home/161049456,42.759665000000005,-88.2077409
-213,Condo/Co-op,110 Hank Jay Dr Unit B,Lake Geneva,WI,53147,149000,2.0,1.5,936.0,,1976.0,327.0,http://www.redfin.com/WI/Lake-Geneva/110-Hank-Jay-Dr-53147/unit-B/home/172657634,42.59298870000001,-88.4250805
-214,Single Family Residential,3823 S 20th Pl,Milwaukee,WI,53221,199000,3.0,2.0,1300.0,5227.0,1948.0,,http://www.redfin.com/WI/Milwaukee/3823-S-20th-Pl-53221/home/57979376,42.9751191,-87.9403488
-215,Single Family Residential,509 N Chatham St,Janesville,WI,53548,129900,2.0,1.0,952.0,8712.0,1948.0,,http://www.redfin.com/WI/Janesville/509-N-Chatham-St-53548/home/89832394,42.687063,-89.0375142
-216,Condo/Co-op,3062 Fairway View Ct,Hubertus,WI,53033,349900,2.0,2.0,1654.0,,2020.0,150.0,http://www.redfin.com/WI/Hubertus/3062-Fairway-Fields-Ct-53033/home/172657563,43.239024799999996,-88.1903201
-217,Single Family Residential,631 Stepping Stone Way,Pewaukee,WI,53072,885000,6.0,4.5,4300.0,37897.0,2008.0,,http://www.redfin.com/WI/Pewaukee/631-Stepping-Stone-Way-53072/home/103727605,43.1010953,-88.2512835
-218,Single Family Residential,N11W31557 Pine Ridge Cir,Delafield,WI,53018,475000,3.0,2.5,2996.0,60548.0,1995.0,,http://www.redfin.com/WI/Delafield/N11W31557-Pine-Ridge-Cir-53018/home/57781333,43.046048299999995,-88.37516070000001
-219,Single Family Residential,2643 S Linebarger Ter,Milwaukee,WI,53207,359900,3.0,2.0,1700.0,4356.0,1928.0,,http://www.redfin.com/WI/Milwaukee/2643-S-Linebarger-Ter-53207/home/90374436,42.995075899999996,-87.8899325
-220,Multi-Family (2-4 Unit),1426 S 8th St Unit 1426A,Milwaukee,WI,53204,34500,,,4400.0,6969.0,1892.0,,http://www.redfin.com/WI/Milwaukee/1426-S-8th-St-53204/unit-1426A/home/172657257,43.016373,-87.920737
-221,Single Family Residential,6687 Erin Mountain Pass,Hartford,WI,53027,375000,3.0,2.5,1982.0,76230.0,1994.0,,http://www.redfin.com/WI/Hartford/6687-Erin-Mountain-Pass-53027/home/89663577,43.2618482,-88.3703316
-222,Single Family Residential,2485 Catherine Dr,Racine,WI,53402,249900,3.0,1.5,1880.0,12632.0,1993.0,,http://www.redfin.com/WI/Racine/2485-Catherine-Dr-53402/home/57857243,42.803845700000004,-87.8092776
-223,Single Family Residential,276 Thomas Trl,Oconomowoc,WI,53066,389900,4.0,2.5,2071.0,12196.0,2020.0,,http://www.redfin.com/WI/Oconomowoc/276-Thomas-Trl-53066/home/172657256,43.0908347,-88.4989029
-224,Single Family Residential,5700 N 34th St,Milwaukee,WI,53209,150000,4.0,2.5,2052.0,7405.0,1938.0,,http://www.redfin.com/WI/Milwaukee/5700-N-34th-St-53209/home/57697080,43.1215693,-87.9546449
-225,Single Family Residential,622 Main St,Brownsville,WI,53006,135000,2.0,1.0,1179.0,20473.0,1930.0,,http://www.redfin.com/WI/Brownsville/622-W-Main-St-53006/home/69369520,43.61673820000001,-88.4918323
-226,Single Family Residential,W283N3660 Yorkshire Trce,Delafield,WI,53072,1165000,4.0,3.5,9400.0,143312.0,1999.0,,http://www.redfin.com/WI/Pewaukee/W283N3660-Yorkshire-Trce-53072/home/89982923,43.084948100000005,-88.3121996
-227,Single Family Residential,537 Devils Ln,Walworth,WI,53184,269000,3.0,2.0,1500.0,26571.0,1845.0,,http://www.redfin.com/WI/Walworth/537-Devils-Ln-53184/home/89515312,42.5271691,-88.5902522
-228,Single Family Residential,10903 N Beechwood Dr,Mequon,WI,53092,899900,5.0,4.5,4304.0,34412.0,1996.0,,http://www.redfin.com/WI/Mequon/10903-N-Beechwood-Dr-53092/home/63699871,43.2164946,-87.90777440000001
-229,Condo/Co-op,311 E Erie St #310,Milwaukee,WI,53202,589000,2.0,2.0,1732.0,,2006.0,330.0,http://www.redfin.com/WI/Milwaukee/311-E-Erie-St-53202/unit-310/home/90323998,43.0300512,-87.9063302
-230,Single Family Residential,7557 N 52nd St,Milwaukee,WI,53223,169900,3.0,1.5,1877.0,10454.0,1957.0,,http://www.redfin.com/WI/Milwaukee/7557-N-52nd-St-53223/home/90194610,43.155432399999995,-87.9768326
-231,Single Family Residential,7855 W Palmetto Ave,Milwaukee,WI,53218,104900,3.0,1.0,1336.0,5662.0,1956.0,,http://www.redfin.com/WI/Milwaukee/7855-W-Palmetto-Ave-53218/home/58001505,43.1071322,-88.00961070000001
-232,Single Family Residential,3800 S Lenox St,Milwaukee,WI,53207,174900,3.0,1.0,1128.0,5662.0,1950.0,,http://www.redfin.com/WI/Milwaukee/3800-S-Lenox-St-53207/home/90245132,42.97549779999999,-87.8979215
-233,Single Family Residential,W147N9973 Emerald Ln,Germantown,WI,53022,699000,5.0,4.0,5500.0,16552.0,2002.0,,http://www.redfin.com/WI/Germantown/W147N9973-Emerald-Ln-53022/home/57769039,43.198778499999996,-88.092862
-234,Condo/Co-op,8515 W Waterford Ave #2,Milwaukee,WI,53228,79500,1.0,1.0,769.0,,1971.0,229.0,http://www.redfin.com/WI/Greenfield/8515-W-Waterford-Ave-53228/unit-2/home/90328611,42.97035,-88.019002
-235,Single Family Residential,5813 N 78th St,Milwaukee,WI,53218,140000,3.0,1.0,1274.0,6098.0,1952.0,,http://www.redfin.com/WI/Milwaukee/5813-N-78th-St-53218/home/57942193,43.1235451,-88.00887469999999
-236,Single Family Residential,1909 N 118th St,Wauwatosa,WI,53226,192000,3.0,1.0,1179.0,5227.0,1958.0,,http://www.redfin.com/WI/Wauwatosa/1909-N-118th-St-53226/home/57987543,43.055209399999995,-88.06029000000001
-237,Vacant Land,12875 N Highgate Ct (lot #3) Lot 3,Mequon,WI,53097,269900,,,,217800.0,,83.0,http://www.redfin.com/WI/Mequon/12875-Highgate-Ct-53097/unit-3/home/113890765,43.2519002,-88.033047
-238,Single Family Residential,151 Rush St,Lake Geneva,WI,53147,229000,3.0,2.0,2576.0,18730.0,1950.0,,http://www.redfin.com/WI/Lake-Geneva/151-Rush-St-53147/home/89495809,42.5798138,-88.4245039
-239,Single Family Residential,W4150 County Road K,Random Lake,WI,53075,419900,3.0,3.0,3100.0,227818.0,1998.0,,http://www.redfin.com/WI/Random-Lake/W4150-Co-Rd-K-53075/home/57659298,43.544028999999995,-87.902224
-240,Single Family Residential,3676 S 92nd St,Milwaukee,WI,53228,177900,3.0,1.0,1456.0,7840.0,1952.0,,http://www.redfin.com/WI/Milwaukee/3676-S-92nd-St-53228/home/63704398,42.977491,-88.027225
-241,Single Family Residential,2034 S 72nd St,West Allis,WI,53219,149900,3.0,1.0,1670.0,5227.0,1937.0,,http://www.redfin.com/WI/West-Allis/2034-S-72nd-St-53219/home/90336271,43.0073334,-88.00240670000001
-242,Multi-Family (2-4 Unit),1813 53rd St,Kenosha,WI,53140,134000,3.0,2.0,1673.0,6098.0,1900.0,,http://www.redfin.com/WI/Kenosha/1813-53rd-St-53140/home/89328556,42.586791,-87.8309699
-243,Condo/Co-op,1401 Garay Ln #1,Port Washington,WI,53074,149900,2.0,1.0,1085.0,,2006.0,175.0,http://www.redfin.com/WI/Port-Washington/1401-Garay-Ln-53074/unit-1/home/90138565,43.4031821,-87.8822744
-244,Condo/Co-op,2672 Hidden Dr #44,Saint Francis,WI,53235,179900,3.0,2.0,1600.0,,2007.0,213.0,http://www.redfin.com/WI/St-Francis/2672-Hidden-Dr-53235/unit-44/home/58038380,42.9700467,-87.8756334
-245,Single Family Residential,4253 N 90th Ct,Milwaukee,WI,53222,159900,3.0,1.0,1528.0,7840.0,1958.0,,http://www.redfin.com/WI/Milwaukee/4253-N-90th-Ct-53222/home/57765835,43.0945263,-88.0254365
-246,Single Family Residential,4525 N 147th St,Brookfield,WI,53005,374900,3.0,2.5,1859.0,24829.0,1957.0,,http://www.redfin.com/WI/Brookfield/4525-N-147th-St-53005/home/57672496,43.099142799999996,-88.0957622
-247,Single Family Residential,4603 N 118th St,Wauwatosa,WI,53225,239900,3.0,2.0,1963.0,7840.0,1973.0,,http://www.redfin.com/WI/Wauwatosa/4603-N-118th-St-53225/home/90333264,43.1007276,-88.0603173
-248,Single Family Residential,1218 N 120th St,Wauwatosa,WI,53226,289900,3.0,2.0,1457.0,11761.0,1948.0,,http://www.redfin.com/WI/Wauwatosa/1218-N-120th-St-53226/home/57887904,43.0460234,-88.0618067
-249,Single Family Residential,3215 91st St,Sturtevant,WI,53177,239900,3.0,1.5,2020.0,8712.0,1972.0,,http://www.redfin.com/WI/Sturtevant/3215-91st-St-53177/home/89754230,42.694266600000006,-87.89574
-250,Single Family Residential,3644 River Valley Rd,Waukesha,WI,53189,339900,3.0,2.5,2261.0,9147.0,2002.0,,http://www.redfin.com/WI/Waukesha/3644-River-Valley-Rd-53189/home/57784676,42.9604651,-88.2831233
-251,Single Family Residential,W271N5535 Jessica Dr,Pewaukee,WI,53072,539950,4.0,3.5,3487.0,51836.0,2001.0,,http://www.redfin.com/WI/Pewaukee/W271N5535-Jessica-Dr-53072/home/57709244,43.1183642,-88.2881005
-252,Single Family Residential,859 E Ravine Ln,Bayside,WI,53217,525000,4.0,3.0,2407.0,24829.0,1942.0,,http://www.redfin.com/WI/Bayside/859-E-Ravine-Ln-53217/home/90324120,43.1879403,-87.8972062
-253,Single Family Residential,605 Erie Ave,Oostburg,WI,53070,295000,3.0,3.0,2904.0,38332.0,1957.0,,http://www.redfin.com/WI/Oostburg/605-Erie-Ave-53070/home/90102721,43.619974,-87.79120440000001
-254,Single Family Residential,5798 N Argyle Ave,Glendale,WI,53209,189900,3.0,2.0,1369.0,5227.0,1941.0,,http://www.redfin.com/WI/Glendale/5798-N-Argyle-Ave-53209/home/90289199,43.12295770000001,-87.942704
-255,Single Family Residential,6624 Kingsview Dr,Mount Pleasant,WI,53406,449900,3.0,3.0,3508.0,38332.0,2006.0,,http://www.redfin.com/WI/Mt-Pleasant/6624-Kingsview-Dr-53406/home/89789387,42.7274571,-87.864892
-256,Single Family Residential,268 White Oak Rd,Walworth,WI,53184,750000,4.0,2.5,4200.0,284011.0,2006.0,25.0,http://www.redfin.com/WI/Walworth/268-White-Oak-RD-53184/home/172656003,42.562407,-88.574917
-257,Single Family Residential,440 Sweet Rd,Darien,WI,53114,220000,3.0,2.0,1872.0,12632.0,1994.0,,http://www.redfin.com/WI/Darien/440-Sweet-Rd-53114/home/57899955,42.5961445,-88.69906379999999
-258,Single Family Residential,869 West St,Watertown,WI,53094,199900,3.0,1.0,1134.0,11325.0,1977.0,,http://www.redfin.com/WI/Watertown/869-West-St-53094/home/89582467,43.189635700000004,-88.7491179
-259,Condo/Co-op,111 11th St Unit 1CN,Racine,WI,53403,147900,1.0,1.5,1054.0,,1972.0,280.0,http://www.redfin.com/WI/Racine/111-11th-St-53403/unit-1CN/home/169968395,42.719644200000005,-87.78169559999999
-260,Multi-Family (2-4 Unit),3240 N Julia St,Milwaukee,WI,53212,149900,,,3055.0,7405.0,1955.0,,http://www.redfin.com/WI/Milwaukee/3240-N-Julia-St-53212/home/90214728,43.07731079999999,-87.916434
-261,Single Family Residential,316 Beech Ct,Plymouth,WI,53073,369900,3.0,4.0,3216.0,28314.0,1992.0,,http://www.redfin.com/WI/Plymouth/316-Beech-Ct-53073/home/90082616,43.7374981,-87.9851346
-262,Condo/Co-op,14014 W Tiffany Pl #14,New Berlin,WI,53151,209900,2.0,3.5,1751.0,,1980.0,275.0,http://www.redfin.com/WI/New-Berlin/14014-W-Tiffany-Pl-53151/unit-14/home/172654585,42.982314,-88.089682
-263,Single Family Residential,1133 S 64th St,West Allis,WI,53214,149000,3.0,2.0,1100.0,3049.0,1922.0,,http://www.redfin.com/WI/West-Allis/1133-S-64th-St-53214/home/90340302,43.0192529,-87.9924308
-264,Vacant Land,510 S Second St,Watertown,WI,53094,32500,,,,6098.0,,,http://www.redfin.com/WI/Watertown/510-S-2nd-St-53094/home/58071535,43.19079779999999,-88.7241171
-265,Single Family Residential,9120 33rd Ave,Kenosha,WI,53142,369000,3.0,3.5,2800.0,23086.0,1994.0,,http://www.redfin.com/WI/Kenosha/9120-33rd-Ave-53142/home/57813407,42.5399085,-87.8484912
-266,Single Family Residential,4682 Partridge Cir,Colgate,WI,53017,649999,4.0,3.5,4478.0,60112.0,2009.0,,http://www.redfin.com/WI/Colgate/4682-Partridge-Cir-53017/home/89676494,43.211801799999996,-88.2706397
-267,Condo/Co-op,320 E Pleasant St #105,Oconomowoc,WI,53066,309900,2.0,2.0,1222.0,,1975.0,300.0,http://www.redfin.com/WI/Oconomowoc/320-E-Pleasant-St-53066/unit-105/home/103746666,43.110958200000006,-88.4941333
-268,Single Family Residential,15115 W Rogers Dr,New Berlin,WI,53151,310000,3.0,1.5,1579.0,23522.0,1964.0,,http://www.redfin.com/WI/New-Berlin/15115-W-Rogers-Dr-53151/home/90037915,43.0087141,-88.1015811
-269,Single Family Residential,5504 3 Mile Rd,Racine,WI,53406,250000,4.0,1.5,2026.0,30491.0,1977.0,,http://www.redfin.com/WI/Racine/5504-3-Mile-Rd-53406/home/89762377,42.7702126,-87.8465534
-270,Multi-Family (2-4 Unit),3307 S Springfield Ave #3309,Milwaukee,WI,53207,349900,4.0,2.0,2250.0,4791.0,1928.0,,http://www.redfin.com/WI/Milwaukee/3307-S-Springfield-Ave-53207/unit-3309/home/172654218,42.984103000000005,-87.882977
-271,Condo/Co-op,7224 W State St Unit 1C,Wauwatosa,WI,53213,195900,2.0,2.0,1109.0,,1999.0,325.0,http://www.redfin.com/WI/Wauwatosa/7224-W-State-St-53213/unit-1C/home/90334711,43.0483562,-88.0028824
-272,Multi-Family (2-4 Unit),W198N16986 Ridgeway Dr,Jackson,WI,53037,224900,6.0,2.0,2408.0,9147.0,1972.0,,http://www.redfin.com/WI/Jackson/W198N16986-Ridgeway-Dr-53037/home/89667606,43.327160299999996,-88.1547564
-273,Single Family Residential,9910 269th Ct,Trevor,WI,53179,329000,3.0,2.5,1774.0,22651.0,1993.0,,http://www.redfin.com/WI/Trevor/9910-269th-Ct-53179/home/89307102,42.5266591,-88.1347625
-274,Multi-Family (2-4 Unit),6325 104th St,Pleasant Prairie,WI,53158,349900,,,3036.0,44866.0,1945.0,,http://www.redfin.com/WI/Pleasant-Prairie/6325-104th-St-53158/home/164524651,42.5223805,-87.8832615
-275,Single Family Residential,22070 Ridge Rd,Waukesha,WI,53186,439999,4.0,2.5,2352.0,15245.0,1994.0,,http://www.redfin.com/WI/Waukesha/22070-Ridge-Rd-53186/home/89970839,43.0181508,-88.1877247
-276,Single Family Residential,316 W Riverbend,Plymouth,WI,53073,164900,2.0,1.0,1248.0,10018.0,1948.0,,http://www.redfin.com/WI/Plymouth/316-W-Riverbend-Dr-53073/home/57721033,43.7422886,-87.9832218
-277,Single Family Residential,N10275 Dairy Rd,Mayville,WI,53050,279900,4.0,2.0,2675.0,217800.0,1900.0,,http://www.redfin.com/WI/Mayville/N10275-Dairy-Rd-53050/home/172652629,43.563412,-88.543932
-278,Single Family Residential,3885 Dorado Dr,Janesville,WI,53546,865000,6.0,4.5,4280.0,25700.0,2012.0,,http://www.redfin.com/WI/Janesville/3885-Dorado-Dr-53546/home/89827730,42.732901700000006,-88.9696247
-279,Single Family Residential,W196N5095 Sequoia Ct,Menomonee Falls,WI,53051,509900,4.0,2.5,2405.0,13068.0,2020.0,29.0,http://www.redfin.com/WI/Menomonee-Falls/W196N5095-Sequoia-CT-53051/home/172652595,43.106407,-88.15677099999999
-280,Multi-Family (2-4 Unit),3154 N 11th St #3156,Milwaukee,WI,53206,54900,4.0,2.0,1926.0,3920.0,1895.0,,http://www.redfin.com/WI/Milwaukee/3154-N-11th-St-53206/unit-3156/home/172652526,43.0761315,-87.9248235
-281,Single Family Residential,W239N5418 Maple Ave,Lisbon,WI,53089,325000,3.0,2.0,1800.0,47916.0,1953.0,,http://www.redfin.com/WI/Town-of-Lisbon/W239N5418-Maple-Ave-53089/home/57654955,43.116051,-88.2243226
-282,Single Family Residential,2117 S 70th St,West Allis,WI,53219,127000,3.0,1.0,710.0,3484.0,1926.0,,http://www.redfin.com/WI/West-Allis/2117-S-70th-St-53219/home/57749416,43.005941299999996,-88.0008161
-283,Single Family Residential,N2532 Mehring Rd,Jefferson,WI,53549,465000,5.0,2.5,2346.0,324086.0,2017.0,,http://www.redfin.com/WI/Jefferson/N2532-Mehring-Rd-53549/home/160477276,42.9310586,-88.6590236
-284,Single Family Residential,2615 W Mangold Ave,Milwaukee,WI,53221,179000,2.0,1.0,738.0,7405.0,1929.0,,http://www.redfin.com/WI/Milwaukee/2615-W-Mangold-Ave-53221/home/57981465,42.9324813,-87.94848890000002
-285,Vacant Land,Lot 13 S Pow Wow Trl,Beloit,WI,53511,64000,,,,12632.0,,,http://www.redfin.com/WI/Beloit/Lot-13-S-Pow-Wow-Trl-53511/home/172652369,42.531997765,-89.043384019
-286,Condo/Co-op,1724 S Carriage Ln Unit A,New Berlin,WI,53151,124900,2.0,1.5,914.0,,1973.0,200.0,http://www.redfin.com/WI/New-Berlin/1724-S-Carriage-Ln-53151/unit-A/home/58040065,43.012858,-88.114255
-287,Single Family Residential,2249 W Bolivar Ave,Milwaukee,WI,53221,198900,3.0,1.5,1195.0,14374.0,1958.0,,http://www.redfin.com/WI/Milwaukee/2249-W-Bolivar-Ave-53221/home/57668026,42.9663842,-87.94289300000001
-288,Condo/Co-op,1157 Black Bear Dr,Mukwonago,WI,53149,369900,2.0,2.0,1405.0,,2015.0,315.0,http://www.redfin.com/WI/Mukwonago/1157-Black-Bear-Dr-53149/home/82333635,42.880399,-88.33893559999999
-289,Single Family Residential,10630 Tuttle Rd,Trevor,WI,53179,649900,4.0,4.0,2284.0,425145.0,1920.0,,http://www.redfin.com/WI/Trevor/10630-Tuttle-Rd-53179/home/89310893,42.5210549,-88.16754499999999
-290,Single Family Residential,1220 S Memorial Dr,Racine,WI,53403,59900,3.0,1.0,1024.0,435.0,1915.0,,http://www.redfin.com/WI/Racine/1220-S-Memorial-Dr-53403/home/57822092,42.717743799999994,-87.7991367
-291,Single Family Residential,448 S Atwood Ave,Janesville,WI,53545,475000,4.0,2.5,3054.0,39204.0,1963.0,,http://www.redfin.com/WI/Janesville/448-S-Atwood-Ave-53545/home/89812454,42.679354700000005,-89.01371340000001
-292,Single Family Residential,121 4th St,Sheboygan Falls,WI,53085,159900,3.0,1.0,928.0,7405.0,1930.0,,http://www.redfin.com/WI/Sheboygan-Falls/121-4th-St-53085/home/90090709,43.7309387,-87.82075920000001
-293,Single Family Residential,1245 Dr Martin Luther King Dr,Racine,WI,53404,34900,2.0,1.0,1005.0,5227.0,1890.0,,http://www.redfin.com/WI/Racine/1245-Dr-Martin-Luther-King-Dr-53404/home/89772336,42.7368326,-87.7956802
-294,Single Family Residential,624 Bark River Way,Dousman,WI,53118,396900,3.0,2.0,1660.0,17859.0,2020.0,27.0,http://www.redfin.com/WI/Dousman/624-Bark-River-Way-53118/home/103728074,43.019448,-88.491915
-295,Single Family Residential,1239 Racine St,Racine,WI,53403,64900,4.0,2.0,1590.0,3049.0,1915.0,,http://www.redfin.com/WI/Racine/1239-Racine-St-53403/home/89775149,42.7173331,-87.7935672
-296,Single Family Residential,1006 Albert St,Racine,WI,53404,62000,4.0,1.5,1905.0,6098.0,1900.0,,http://www.redfin.com/WI/Racine/1006-Albert-St-53404/home/57822118,42.737983899999996,-87.7920689
-297,Multi-Family (2-4 Unit),627 N Memorial Dr,Racine,WI,53404,60000,4.0,2.0,1630.0,4791.0,1900.0,,http://www.redfin.com/WI/Racine/627-N-Memorial-Dr-53404/home/89774389,42.729530700000005,-87.79886859999999
-298,Single Family Residential,812 S Third St,Watertown,WI,53094,129000,4.0,2.0,1655.0,3920.0,1900.0,,http://www.redfin.com/WI/Watertown/812-S-3rd-St-53094/home/89581719,43.1883064,-88.7237643
-299,Single Family Residential,1028 Davis Pl,Racine,WI,53403,55000,4.0,1.0,1225.0,3049.0,1890.0,,http://www.redfin.com/WI/Racine/1028-Davis-Pl-53403/home/89772312,42.7205884,-87.79218409999999
-300,Single Family Residential,600 S Beaumont Ave,Kansasville,WI,53139,629900,4.0,3.0,3731.0,425581.0,1968.0,,http://www.redfin.com/WI/Kansasville/600-S-Beaumont-Ave-53139/home/58012283,42.7201322,-88.1112711
-301,Vacant Land,Lt1 80th St Unit A,Kenosha,WI,53142,97500,,,,21780.0,,,http://www.redfin.com/WI/Kenosha/Lt1-80th-St-53142/unit-A/home/172651983,42.558992700000005,-87.85757890000001
-302,Single Family Residential,121 S 76th St,Milwaukee,WI,53214,164900,3.0,1.0,1428.0,6098.0,1922.0,,http://www.redfin.com/WI/Milwaukee/121-S-76th-St-53214/home/58003622,43.031051899999994,-88.00759659999999
-303,Single Family Residential,514 Eleventh St,Racine,WI,53403,52900,2.0,1.0,1056.0,4791.0,1900.0,,http://www.redfin.com/WI/Racine/514-11th-St-53403/home/89771253,42.7201377,-87.78661290000001
-304,Vacant Land,4225 W Willow Way,Milwaukee,WI,53221,64900,,,,5227.0,,,http://www.redfin.com/WI/Milwaukee/4225-W-Willow-Way-53221/home/58080504,42.977982,-87.967472
-305,Vacant Land,Lot 2 Township Rd X,Dousman,WI,53118,240000,,,,1001880.0,,,http://www.redfin.com/WI/Dousman/Lot-2-Township-Rd-X-53118/home/172651947,42.915294,-88.42778
-306,Single Family Residential,1041 Davis Pl,Racine,WI,53403,41900,2.0,1.0,927.0,1742.0,1886.0,,http://www.redfin.com/WI/Racine/1041-Davis-Pl-53403/home/89772505,42.7202383,-87.7918383
-307,Multi-Family (2-4 Unit),612 Tenth St,Racine,WI,53403,66000,,,2002.0,3049.0,1900.0,,http://www.redfin.com/WI/Racine/612-10th-St-53403/home/89771337,42.7216093,-87.7877272
-308,Single Family Residential,1923 Arlington Ave,Racine,WI,53403,154900,3.0,1.0,1112.0,8276.0,1954.0,,http://www.redfin.com/WI/Racine/1923-Arlington-Ave-53403/home/89783424,42.703218,-87.8028827
-309,Single Family Residential,3185 Bartells St,Beloit,WI,53511,289900,3.0,2.0,1748.0,11761.0,2020.0,,http://www.redfin.com/WI/Beloit/3185-S-Bartells-Dr-53511/home/172651633,42.55936810000001,-89.0243464
-310,Single Family Residential,2221 Milwaukee Rd,Beloit,WI,53511,177900,3.0,2.5,2261.0,20908.0,1956.0,,http://www.redfin.com/WI/Beloit/2221-Milwaukee-Rd-53511/home/89799592,42.5168561,-89.0036475
-311,Vacant Land,Lt2 Pioneer Rd Unit Blk1,Cedarburg,WI,53012,89900,,,,46173.0,,,http://www.redfin.com/WI/Cedarburg/Lt2-Pioneer-Rd-Unknown/unit-Blk1/home/172651610,43.279388,-88.003063
-312,Multi-Family (2-4 Unit),1628 W Windlake Ave Unit 1628A,Milwaukee,WI,53215,118900,4.0,2.0,2045.0,3049.0,1906.0,,http://www.redfin.com/WI/Milwaukee/1628-W-Windlake-Ave-53215/unit-1628A/home/172651607,42.999771,-87.934189
-313,Single Family Residential,6524 61st Ave,Kenosha,WI,53142,209900,3.0,1.0,1546.0,18730.0,1955.0,,http://www.redfin.com/WI/Kenosha/6524-61st-Ave-53142/home/89333292,42.5754232,-87.88094170000001
-314,Vacant Land,Lt1 Grand Dr,Waterford,WI,53185,539000,,,,1772892.0,,,http://www.redfin.com/WI/Waterford/Lt1-Grand-Dr-53185/home/172651570,42.794492,-88.221002
-315,Single Family Residential,210 S 6th St,Cedar Grove,WI,53013,164900,3.0,2.0,1364.0,13068.0,1976.0,,http://www.redfin.com/WI/Cedar-Grove/210-S-6th-St-53013/home/90099647,43.570761299999994,-87.8300691
-316,Single Family Residential,8228 E Ridge Dr,Pleasant Prairie,WI,53158,545000,5.0,3.0,3450.0,15245.0,2001.0,13.0,http://www.redfin.com/WI/Pleasant-Prairie/8228-E-Ridge-Dr-53158/home/89338873,42.5570256,-87.92570490000001
-317,Single Family Residential,1014 Summit Ave,Beloit,WI,53511,59900,4.0,1.5,1188.0,5662.0,1928.0,,http://www.redfin.com/WI/Beloit/1014-Summit-Ave-53511/home/89802068,42.520218299999996,-89.0248221
-318,Single Family Residential,7641 N Bell Rd,Fox Point,WI,53217,349000,3.0,2.0,1986.0,26136.0,1950.0,,http://www.redfin.com/WI/Fox-Point/7641-N-Bell-Rd-53217/home/90325680,43.1565085,-87.9060307
-319,Single Family Residential,Lt188 Bailey Ests Unit ''Georgian'',Williams Bay,WI,53191,386490,4.0,2.5,3177.0,22651.0,,,http://www.redfin.com/WI/Williams-Bay/471-Ashley-Dr-53191/unit-Georgian/home/172651481,42.596684,-88.5574061
-320,Single Family Residential,2843 Oakmont Dr,East Troy,WI,53120,442900,4.0,2.5,2200.0,11325.0,2019.0,,http://www.redfin.com/WI/East-Troy/2843-Oakmont-Dr-53120/home/170173738,42.80174,-88.40469
-321,Single Family Residential,112 Canary Cir,Watertown,WI,53098,79900,3.0,1.5,1344.0,,1981.0,92.0,http://www.redfin.com/WI/Watertown/112-Canary-Cir-53098/home/89217299,43.2008665,-88.6136531
-322,Single Family Residential,6920 W Stevenson St,Milwaukee,WI,53213,104900,2.0,1.0,680.0,4791.0,1921.0,,http://www.redfin.com/WI/Milwaukee/6920-W-Stevenson-St-53213/home/57866924,43.0322283,-87.9993543
-323,Single Family Residential,Lt187 Bailey Ests Unit ''Bailey'',Williams Bay,WI,53191,303490,3.0,2.0,1870.0,22651.0,,,http://www.redfin.com/WI/Williams-Bay/471-Ashley-Dr-53191/unit-Bailey/home/171558239,42.596684,-88.5574061
-324,Single Family Residential,3313 S 77th St,Milwaukee,WI,53219,189000,3.0,1.0,915.0,7405.0,1957.0,,http://www.redfin.com/WI/Milwaukee/3313-S-77th-St-53219/home/57984424,42.9843417,-88.009496
-325,Multi-Family (2-4 Unit),158 E Main St,Campbellsport,WI,53010,138900,5.0,2.0,2255.0,16552.0,1892.0,,http://www.redfin.com/WI/Campbellsport/158-E-Main-St-53010/home/89125225,43.598389399999995,-88.2826483
-326,Single Family Residential,811 Rainbow Dr,Milton,WI,53563,256900,3.0,2.5,1792.0,12632.0,1978.0,,http://www.redfin.com/WI/Milton/811-Rainbow-Dr-53563/home/79084853,42.768082,-88.95518890000001
-327,Single Family Residential,2876 Lakeview Dr,East Troy,WI,53120,404900,3.0,2.0,1625.0,12632.0,2019.0,,http://www.redfin.com/WI/East-Troy/2876-Lakeview-Dr-53120/home/89506602,42.801778999999996,-88.405183
-328,Single Family Residential,179 W Armour Ave,Milwaukee,WI,53207,175000,3.0,1.0,864.0,8276.0,1954.0,,http://www.redfin.com/WI/Milwaukee/179-W-Armour-Ave-53207/home/90248948,42.9613591,-87.9128133
-329,Single Family Residential,8204 46th Ave,Kenosha,WI,53142,389900,3.0,2.5,3162.0,10890.0,1988.0,,http://www.redfin.com/WI/Kenosha/8204-46th-Ave-53142/home/89298025,42.555967700000004,-87.8637604
-330,Multi-Family (2-4 Unit),W491 County Road L Unit W495,East Troy,WI,53120,349900,5.0,2.0,1100.0,37026.0,1955.0,,http://www.redfin.com/WI/East-Troy/W491-County-Road-L-53120/unit-W495/home/172651281,42.819007,-88.326087
-331,Single Family Residential,222 Skyway Dr,Edgerton,WI,53534,85900,2.0,1.0,396.0,7405.0,2003.0,42.0,http://www.redfin.com/WI/Edgerton/222-Skyway-DR-53534/home/172399020,42.828006,-89.034193
-332,Condo/Co-op,111 Center St #215,Lake Geneva,WI,53147,95000,1.0,1.0,739.0,,1995.0,425.0,http://www.redfin.com/WI/Lake-Geneva/111-Center-St-53147/unit-215/home/89495532,42.5890387,-88.4333233
-333,Single Family Residential,W138 North St,Cascade,WI,53011,175000,2.0,1.0,676.0,12196.0,1964.0,,http://www.redfin.com/WI/Cascade/W138-North-St-53011/home/57816200,43.685564,-88.16246600000001
-334,Single Family Residential,518 W River Front Dr,Glendale,WI,53217,249900,4.0,2.0,2013.0,40946.0,1933.0,,http://www.redfin.com/WI/River-Hills/W-River-Ct-53217/home/90289317,43.12748,-87.915809
-335,Single Family Residential,3136 Stephan Rd,Racine,WI,53402,259000,3.0,2.0,1521.0,11325.0,1998.0,,http://www.redfin.com/WI/Racine/3136-Stephan-Rd-53402/home/89764738,42.8067696,-87.81778349999999
-336,Single Family Residential,3709 4th Ave,South Milwaukee,WI,53172,189900,3.0,1.5,1858.0,9583.0,1959.0,,http://www.redfin.com/WI/South-Milwaukee/3709-4th-Ave-53172/home/90291915,42.8946886,-87.85065909999999
-337,Single Family Residential,N54W20799 Carters Crossing Cir,Menomonee Falls,WI,53051,715000,4.0,3.5,3776.0,18730.0,2006.0,50.0,http://www.redfin.com/WI/Menomonee-Falls/N54W20799-Carters-Crossing-Cir-53051/home/57703521,43.1163299,-88.16991329999999
-338,Single Family Residential,109 S Hills Dr,Plymouth,WI,53073,269900,3.0,2.0,1642.0,19602.0,1992.0,,http://www.redfin.com/WI/Plymouth/109-S-Hills-Dr-53073/home/90083159,43.7347834,-87.98282009999998
-339,Multi-Family (2-4 Unit),224 E Washington St,West Bend,WI,53095,219900,4.0,3.0,1872.0,13939.0,1879.0,,http://www.redfin.com/WI/West-Bend/224-E-Washington-St-53095/home/58068995,43.4269623,-88.1772634
-340,Vacant Land,Lt0 County Highway Nn,Cedarburg,WI,53012,475000,,,,3112797.0,,,http://www.redfin.com/WI/Cedarburg/Lt0-County-Highway-NN-Unknown/unit-7146-AC/home/172650827,43.3255351,-88.0084269
-341,Single Family Residential,219 South St,Plymouth,WI,53073,219900,4.0,1.5,1747.0,14810.0,1923.0,,http://www.redfin.com/WI/Plymouth/219-South-St-53073/home/57640229,43.743973499999996,-87.9706338
-342,Single Family Residential,3049 Mendota Dr,Summit,WI,53066,524990,3.0,2.0,2234.0,12196.0,2020.0,,http://www.redfin.com/WI/Oconomowoc/3049-Mendota-Dr-53066/home/172076294,43.0755916,-88.4487098
-343,Single Family Residential,7111 27th Ave,Kenosha,WI,53143,159900,3.0,2.0,1226.0,4791.0,1919.0,,http://www.redfin.com/WI/Kenosha/7111-27th-Ave-53143/home/89320720,42.569032299999996,-87.8413637
-344,Single Family Residential,2320 N County Road Gw,Oostburg,WI,53070,274900,4.0,4.0,1320.0,180774.0,1900.0,,http://www.redfin.com/WI/Oostburg/2320-County-Road-GW-53070/home/170493921,43.6239992,-87.8896903
-345,Single Family Residential,536 N 112th St,Wauwatosa,WI,53226,309900,4.0,2.0,1707.0,8712.0,1941.0,,http://www.redfin.com/WI/Wauwatosa/536-N-112th-St-53226/home/58013354,43.0372221,-88.05269270000001
-346,Single Family Residential,3757 N 5th St,Milwaukee,WI,53212,52500,2.0,1.0,968.0,4791.0,1922.0,,http://www.redfin.com/WI/Milwaukee/3757-N-5th-St-53212/home/57971360,43.0852007,-87.91644129999999
-347,Single Family Residential,430 Wilson Dr,Brookfield,WI,53005,359900,3.0,2.5,2230.0,21780.0,1961.0,,http://www.redfin.com/WI/Brookfield/430-Wilson-Dr-53005/home/57781690,43.0269381,-88.07265090000001
-348,Single Family Residential,5758 N 96th St,Milwaukee,WI,53225,144900,3.0,1.5,1040.0,5227.0,1958.0,,http://www.redfin.com/WI/Milwaukee/5758-N-96th-St-53225/home/90199202,43.122623100000006,-88.0317041
-349,Multi-Family (2-4 Unit),3131 N 15th St,Milwaukee,WI,53206,5000,4.0,2.0,1604.0,3920.0,1910.0,,http://www.redfin.com/WI/Milwaukee/3131-N-15th-St-53206/home/90215043,43.0757101,-87.9301948
+0,Condo/Co-op,929 N Astor St Unit 2501-03,Milwaukee,WI,53202,619900,2,2.0,1791,,1968.0,1246.0,http://www.redfin.com/WI/Milwaukee/929-N-Astor-St-53202/unit-2501-03/home/172657564,43.0436496,-87.89987959999999
+1,Single Family Residential,1075 Thornridge Ct,Brookfield,WI,53045,365000,4,2.5,2406,16988.0,1978.0,,http://www.redfin.com/WI/Brookfield/1075-Thorn-Ridge-Ct-53045/home/57776583,43.045302500000005,-88.17279509999999
+2,Single Family Residential,531 Wilmette Rd,Williams Bay,WI,53191,719000,3,2.0,1624,5662.0,1969.0,,http://www.redfin.com/WI/Williams-Bay/531-Wilmette-Rd-53191/home/89492815,42.5770955,-88.5284127
+3,Single Family Residential,5825 Cedar Creek Rd,Grafton,WI,53024,745000,3,3.0,5000,205167.0,1869.0,,http://www.redfin.com/WI/Grafton/5825-Cedar-Creek-Rd-53024/home/57856642,43.3368715,-87.9827245
+4,Single Family Residential,1301 53rd Ave,Kenosha,WI,53144,599999,4,3.5,5027,21780.0,2009.0,,http://www.redfin.com/WI/Kenosha/1301-53rd-Ave-53144/home/57860682,42.637296500000005,-87.8722752
+5,Single Family Residential,1024 E Colfax Pl,Whitefish Bay,WI,53217,574900,4,3.0,3417,7405.0,1965.0,,http://www.redfin.com/WI/Whitefish-Bay/1024-E-Colfax-Pl-53217/home/57983318,43.1087834,-87.8976494
+6,Single Family Residential,4365 E Tomahawk Ln,Janesville,WI,53546,299900,3,2.5,1630,68824.0,1974.0,,http://www.redfin.com/WI/Janesville/4365-Tomahawk-Ln-53546/home/89829337,42.747719399999994,-88.95808709999999
+7,Single Family Residential,10411 W Jonen,Milwaukee,WI,53224,136000,3,1.5,1104,7405.0,1995.0,,http://www.redfin.com/WI/Milwaukee/10411-W-Jonen-St-53224/home/57870324,43.135904100000005,-88.0417819
+8,Single Family Residential,14300 W Redwood Dr,New Berlin,WI,53151,309900,3,1.5,1144,10890.0,1972.0,,http://www.redfin.com/WI/New-Berlin/14300-W-Redwood-Dr-53151/home/90037604,42.9791406,-88.0923087
+9,Condo/Co-op,Lt43 Overlook Cir West,Hartland,WI,53029,549900,2,2.0,1884,,2020.0,300.0,http://www.redfin.com/WI/Hartland/Lt43-Overlook-Cir-West-53029/home/171396958,43.12117,-88.31138100000001
+10,Single Family Residential,N25W27276 Fairmount Ct,Pewaukee,WI,53072,525000,4,2.5,2556,18730.0,2013.0,,http://www.redfin.com/WI/Pewaukee/N25W27276-Fairmount-Ct-53072/home/57995721,43.066206,-88.2904749
+11,Single Family Residential,708 Appaloosa Trl,Racine,WI,53402,289900,3,3.0,2203,10890.0,1997.0,,http://www.redfin.com/WI/Racine/708-Appaloosa-Trl-53402/home/57954481,42.7888233,-87.78790009999999
+12,Single Family Residential,259 W Main St,Wales,WI,53183,229900,2,1.0,704,31363.0,1941.0,,http://www.redfin.com/WI/Wales/259-W-Main-St-53183/home/90026275,43.0054767,-88.3835447
+13,Single Family Residential,N67W23820 Linda Dr,Sussex,WI,53089,304900,3,2.5,1837,14374.0,1975.0,,http://www.redfin.com/WI/Sussex/N67W23820-Linda-Dr-53089/home/90016004,43.1405059,-88.2203845
+14,Single Family Residential,2416 Fawn Ln,Janesville,WI,53548,269900,4,2.5,2224,10890.0,2001.0,,http://www.redfin.com/WI/Janesville/2416-Fawn-Ln-53548/home/57610848,42.6445559,-89.066113
+15,Single Family Residential,N75W13966 Appleton Ave,Menomonee Falls,WI,53051,199900,3,1.0,1498,40946.0,1951.0,,http://www.redfin.com/WI/Menomonee-Falls/N75W13966-Appleton-Ave-53051/home/172663864,43.1555619,-88.0836069
+16,Condo/Co-op,106B Pheasant Run,Johnson Creek,WI,53038,159500,2,2.0,1386,,2001.0,155.0,http://www.redfin.com/WI/Johnson-Creek/106-Pheasant-Run-53038/unit-B/home/57801751,43.073106,-88.764673
+17,Single Family Residential,10320 S Shepard Ave,Oak Creek,WI,53154,289900,3,2.0,1168,10454.0,1994.0,,http://www.redfin.com/WI/Oak-Creek/10320-S-Shepard-Ave-53154/home/90331314,42.856736100000006,-87.9030415
+18,Single Family Residential,2901 Olive St,Racine,WI,53403,50000,2,1.0,824,3049.0,1927.0,,http://www.redfin.com/WI/Racine/2901-Olive-St-53403/home/57974615,42.7024149,-87.81380909999999
+19,Single Family Residential,3852 S 39th St,Greenfield,WI,53221,99900,1,1.0,500,5662.0,1938.0,,http://www.redfin.com/WI/Greenfield/3852-S-39th-St-53221/home/90291094,42.974632,-87.962921
+20,Single Family Residential,708 Beaver St,Beaver Dam,WI,53916,174000,3,1.5,1804,10454.0,1948.0,,http://www.redfin.com/WI/Beaver-Dam/708-Beaver-St-53916/home/89224371,43.464070299999996,-88.841735
+21,Single Family Residential,624 11th Ave,Union Grove,WI,53182,75000,4,1.5,1785,7405.0,1910.0,,http://www.redfin.com/WI/Union-Grove/624-11th-Ave-53182/home/89749757,42.6866899,-88.047331
+22,Condo/Co-op,2178 Pine Ridge Ct Unit D,Grafton,WI,53024,195000,3,2.0,1665,,2000.0,190.0,http://www.redfin.com/WI/Grafton/2178-Pine-Ridge-Ct-53024/unit-D/home/90137777,43.30364,-87.9690829
+23,Single Family Residential,5574 S 110th St,Hales Corners,WI,53130,235000,3,1.5,1321,7405.0,1931.0,,http://www.redfin.com/WI/Hales-Corners/5574-S-110th-St-53130/home/90329782,42.9429136,-88.0501556
+24,Single Family Residential,202 Mc Kinley St,Beaver Dam,WI,53916,179000,3,1.0,1092,9583.0,1957.0,,http://www.redfin.com/WI/Beaver-Dam/202-McKinley-St-53916/home/89224760,43.4603528,-88.82206120000001
+25,Single Family Residential,1302 Tallgrass Ln,Mount Pleasant,WI,53406,349900,3,2.5,3636,13068.0,2005.0,17.0,http://www.redfin.com/WI/Mt-Pleasant/1302-Tallgrass-Ln-53406/home/89789778,42.7368355,-87.8872105
+26,Single Family Residential,W4669 W Pebble Dr,Elkhorn,WI,53121,379900,3,3.5,3400,27442.0,2004.0,,http://www.redfin.com/WI/Elkhorn/W4669-Pebble-Dr-53121/unit-29/home/89477657,42.7153536,-88.5299806
+27,Single Family Residential,261 W Main St,Campbellsport,WI,53010,200000,3,1.5,2050,16117.0,1954.0,,http://www.redfin.com/WI/Campbellsport/261-W-Main-St-53010/home/89118870,43.5979105,-88.2895061
+28,Single Family Residential,10006 69th St,Kenosha,WI,53142,270000,3,2.5,1652,7840.0,1998.0,4.0,http://www.redfin.com/WI/Kenosha/10006-69th-St-53142/unit-7/home/57985739,42.5726473,-87.9302247
+29,Single Family Residential,107 Liberty St,Beaver Dam,WI,53916,150000,3,2.5,1660,6534.0,1953.0,,http://www.redfin.com/WI/Beaver-Dam/107-Liberty-St-53916/home/57683509,43.4696211,-88.8327338
+30,Condo/Co-op,1818 N Water St #308,Milwaukee,WI,53202,245000,1,1.0,1143,,2005.0,356.0,http://www.redfin.com/WI/Milwaukee/1818-N-Water-St-53202/unit-308/home/58029398,43.0546964,-87.90154100000001
+31,Single Family Residential,821 E Forest Hill Ave,Oak Creek,WI,53154,274900,3,2.0,1958,11325.0,1979.0,,http://www.redfin.com/WI/Oak-Creek/821-E-Forest-Hill-Ave-53154/home/57929000,42.893436200000004,-87.9011827
+32,Single Family Residential,7983 Chapel Hill Ct S,Franklin,WI,53132,299000,4,2.0,2047,16988.0,1973.0,,http://www.redfin.com/WI/Franklin/7983-S-Chapel-Hill-Ct-53132/home/58000580,42.9001432,-88.04546040000001
+33,Single Family Residential,8015 49th Ave,Kenosha,WI,53142,234900,4,1.5,2313,10018.0,1966.0,,http://www.redfin.com/WI/Kenosha/8015-49th-Ave-53142/home/89298106,42.558549799999994,-87.86675229999999
+34,Single Family Residential,1315 N 60th St,Milwaukee,WI,53208,289900,3,2.5,1618,4356.0,1928.0,,http://www.redfin.com/WI/Milwaukee/1315-N-60th-St-53208/home/90273252,43.047975,-87.9878888
+35,Single Family Residential,1109 Bilgos,Plymouth,WI,53073,209900,3,2.5,1985,13068.0,1994.0,,http://www.redfin.com/WI/Plymouth/1109-Bilgos-Ct-53073/home/57851326,43.732933,-87.979683
+36,Single Family Residential,1726 Hickory St,South Milwaukee,WI,53172,214900,3,1.5,1382,9147.0,1963.0,,http://www.redfin.com/WI/South-Milwaukee/1726-Hickory-St-53172/home/90269654,42.9275076,-87.8761319
+37,Single Family Residential,661 Wolcott St,West Bend,WI,53090,197500,4,1.0,1456,6534.0,1942.0,,http://www.redfin.com/WI/West-Bend/661-Wolcott-St-53090/home/57915581,43.4299237,-88.17952690000001
+38,Single Family Residential,130 Fairview Dr,Walworth,WI,53184,194500,2,1.0,928,17424.0,1955.0,,http://www.redfin.com/WI/Walworth/130-Fairview-Dr-53184/home/89515394,42.52649829999999,-88.5980606
+39,Single Family Residential,6555 5th Ave,Kenosha,WI,53143,299900,4,2.0,2682,10018.0,1917.0,,http://www.redfin.com/WI/Kenosha/6555-5th-Ave-53143/home/57874740,42.5742362,-87.81649709999999
+40,Single Family Residential,607 Maple Tree Dr,Waterford,WI,53185,337500,3,2.0,1936,14810.0,2002.0,13.0,http://www.redfin.com/WI/Waterford/607-Maple-Tree-Dr-53185/home/57827385,42.775738,-88.23421379999999
+41,Single Family Residential,W148 S6634 Brookside Dr,Muskego,WI,53150,259900,3,1.0,1050,30491.0,1954.0,,http://www.redfin.com/WI/Muskego/W148S6634-Brookside-Dr-53150/home/57787696,42.9245916,-88.0996733
+42,Single Family Residential,3541 11th Ave,Kenosha,WI,53140,180000,3,2.0,1040,5662.0,1955.0,,http://www.redfin.com/WI/Kenosha/3541-11th-Ave-53140/home/89327712,42.605059999999995,-87.8250017
+43,Single Family Residential,8920 S Creek Rd,Beloit,WI,53511,159000,3,1.0,1216,27878.0,1965.0,,http://www.redfin.com/WI/Beloit/8920-S-Creek-Rd-53511/home/89799597,42.548893400000004,-88.9936166
+44,Condo/Co-op,W10723 Blackhawk Trl,Fox Lake,WI,53933,184900,4,1.0,1700,,1950.0,23.0,http://www.redfin.com/WI/Fox-Lake/W10723-Blackhawk-Trl-53933/unit-15/home/57831638,43.592745799999996,-88.9369245
+45,Single Family Residential,7181 W Blackhawk Island Rd,Fort Atkinson,WI,53538,124900,2,1.0,1056,13939.0,1930.0,,http://www.redfin.com/WI/Fort-Atkinson/7181-Blackhawk-Island-Rd-53538/home/172662964,42.8980258,-88.88977320000001
+46,Single Family Residential,N95W31301 County Line Rd,Hartland,WI,53029,650000,4,3.5,4200,487871.0,2005.0,,http://www.redfin.com/WI/Hartland/N95W31301-County-Line-Rd-53029/home/90035103,43.1919268,-88.36653079999999
+47,Single Family Residential,6236 Bald Eagle Rd,Mount Pleasant,WI,53406,785000,4,4.5,4372,16552.0,2005.0,,http://www.redfin.com/WI/Mt-Pleasant/6236-Bald-Eagle-Rd-53406/home/57735749,42.73353,-87.85826999999999
+48,Single Family Residential,1209 S 47th St,Milwaukee,WI,53215,174900,4,1.5,1496,3484.0,1901.0,,http://www.redfin.com/WI/West-Milwaukee/1209-S-47th-St-53214/home/57755351,43.0186921,-87.97273840000001
+49,Single Family Residential,1101 Spruce,West Bend,WI,53095,324900,4,2.5,1784,7405.0,1998.0,,http://www.redfin.com/WI/West-Bend/1101-Spruce-St-53090/home/57769922,43.4377559,-88.1654807
+50,Single Family Residential,2225 Newman Rd,Mount Pleasant,WI,53406,415000,3,3.0,1914,198633.0,1951.0,,http://www.redfin.com/WI/Mt-Pleasant/2225-N-Newman-Rd-53406/home/58014167,42.747424,-87.843723
+51,Single Family Residential,6600 23rd Ave,Kenosha,WI,53143,89000,5,2.0,1726,5662.0,1900.0,,http://www.redfin.com/WI/Kenosha/6600-23rd-Ave-53143/home/89296206,42.574166,-87.8370742
+52,Single Family Residential,1626 Twisted Oak Ct,Hartland,WI,53029,1399000,5,4.5,5660,26136.0,2018.0,,http://www.redfin.com/WI/Hartland/1626-Twisted-Oak-Ct-53029/home/113573834,43.1153318,-88.305073
+53,Single Family Residential,540 Pointmere Ln,Racine,WI,53402,209900,4,2.0,1800,10454.0,1975.0,,http://www.redfin.com/WI/Racine/540-Pointmere-Ln-W-53402/home/89766197,42.781912,-87.7862287
+54,Single Family Residential,4012 W Calumet,Brown Deer,WI,53209,139900,3,1.0,983,21780.0,1952.0,,http://www.redfin.com/WI/Brown-Deer/4012-W-Calumet-Rd-53209/home/57683919,43.1561136,-87.9618698
+55,Single Family Residential,W5567 Briarwood Rd,Elkhorn,WI,53121,539900,3,2.5,2820,44866.0,2015.0,,http://www.redfin.com/WI/Elkhorn/W5567-Briarwood-Rd-53121/home/89473975,42.749381299999996,-88.5775556
+56,Single Family Residential,1242 Firethorn Dr,West Bend,WI,53090,319000,4,2.5,2867,8276.0,2002.0,,http://www.redfin.com/WI/West-Bend/1242-Firethorn-Dr-53090/home/57663360,43.4359398,-88.1626873
+57,Single Family Residential,N67W23881 Linda Dr,Sussex,WI,53089,285000,4,2.0,1840,12632.0,1975.0,,http://www.redfin.com/WI/Sussex/N67W23881-Linda-Dr-53089/home/90015550,43.140260299999994,-88.2216402
+58,Single Family Residential,7300 40th Ave,Kenosha,WI,53142,154900,3,1.0,1008,4791.0,1946.0,,http://www.redfin.com/WI/Kenosha/7300-40th-Ave-53142/home/57728150,42.5681819,-87.8567595
+59,Single Family Residential,3602 W Missouri Ave,Franklin,WI,53132,175000,3,1.5,1226,19602.0,1954.0,,http://www.redfin.com/WI/Franklin/3602-W-Missouri-Ave-53132/home/57750946,42.915343299999996,-87.9616019
+60,Single Family Residential,W302S1610 Brandybrook Rd,Waukesha,WI,53188,219000,2,1.0,1000,43560.0,1950.0,,http://www.redfin.com/WI/Waukesha/W302S1610-Brandybrook-Rd-53188/home/89986268,43.0135734,-88.349767
+61,Single Family Residential,9173 W Adler St,Milwaukee,WI,53214,159900,3,2.0,1122,10454.0,1949.0,,http://www.redfin.com/WI/Milwaukee/9173-W-Adler-St-53214/home/57716080,43.0272622,-88.0269652
+62,Single Family Residential,1124 Sommer Dr,Sheboygan,WI,53081,249500,4,1.5,3328,23086.0,1989.0,,http://www.redfin.com/WI/Sheboygan/1124-Sommer-Dr-53081/home/90085165,43.7083683,-87.72005159999999
+63,Single Family Residential,4610 N 150th St,Brookfield,WI,53005,279900,4,2.0,1438,23522.0,1953.0,,http://www.redfin.com/WI/Brookfield/4610-N-150th-St-53005/home/103730886,43.1009473,-88.0995016
+64,Single Family Residential,1190 Center St,Hartford,WI,53027,269900,3,3.0,1239,7405.0,2002.0,,http://www.redfin.com/WI/Hartford/1190-Center-St-53027/home/57995506,43.3307658,-88.3802465
+65,Single Family Residential,1950 Deane Blvd,Racine,WI,53403,149000,4,1.0,1456,4791.0,1928.0,,http://www.redfin.com/WI/Racine/1950-Deane-Blvd-53403/home/89783292,42.7064492,-87.8151915
+66,Single Family Residential,2411 S 10th St,Sheboygan,WI,53081,224900,4,2.0,2177,13939.0,1949.0,,http://www.redfin.com/WI/Sheboygan/2411-S-10th-St-53081/home/57678120,43.728525,-87.7159724
+67,Single Family Residential,417 Highland Park Ave,Clinton,WI,53525,155000,3,1.5,1234,13503.0,1933.0,,http://www.redfin.com/WI/Clinton/417-Highland-Park-Ave-53525/home/89830237,42.5595849,-88.8667593
+68,Single Family Residential,4921 Lake Dr,West Bend,WI,53095,425000,4,3.0,3500,89733.0,1974.0,,http://www.redfin.com/WI/West-Bend/4921-Lake-Dr-53095/home/89661771,43.3699722,-88.23476690000001
+69,Townhouse,310 Amber Dr #31,Whitewater,WI,53190,235000,4,3.5,2552,,2006.0,300.0,http://www.redfin.com/WI/Whitewater/310-Amber-Dr-53190/unit-31/home/58018903,42.8218929,-88.724786
+70,Single Family Residential,844 Anna Ct,Waterloo,WI,53594,254900,3,2.5,1952,17859.0,1994.0,,http://www.redfin.com/WI/Waterloo/844-Anna-Ct-53594/home/89577874,43.1925963,-88.98599370000001
+71,Single Family Residential,6478 N 87th St,Milwaukee,WI,53224,145000,3,1.0,1281,7405.0,1957.0,,http://www.redfin.com/WI/Milwaukee/6478-N-87th-St-53224/home/57880032,43.13588920000001,-88.0193973
+72,Single Family Residential,2005 N 51st St,Milwaukee,WI,53208,179900,3,1.5,1328,4791.0,1913.0,,http://www.redfin.com/WI/Milwaukee/2005-N-51st-St-53208/home/87576722,43.0561032,-87.97790390000002
+73,Single Family Residential,6415 Hilltop Dr,Allenton,WI,53002,179900,3,1.5,1512,29185.0,1937.0,,http://www.redfin.com/WI/Allenton/6415-Hilltop-Rd-53002/home/89657566,43.421046000000004,-88.355651
+74,Single Family Residential,456 Andrews St,Mukwonago,WI,53149,284900,3,1.0,1593,18295.0,1940.0,,http://www.redfin.com/WI/Mukwonago/456-Andrews-St-53149/home/90001434,42.8582409,-88.3368545
+75,Condo/Co-op,2100 Farmlane Dr,Slinger,WI,53086,319900,2,2.0,1543,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2100-Farmlane-Dr-53086/unit-4/home/89677343,43.3041797,-88.2310275
+76,Single Family Residential,576 Box Elder Ln,Grafton,WI,53024,599900,5,4.0,4096,27007.0,1998.0,2.0,http://www.redfin.com/WI/Grafton/576-Boxelder-Ln-53024/home/90141059,43.3190557,-87.9763926
+77,Single Family Residential,8832 W Kiehnau,Milwaukee,WI,53224,164900,3,1.5,1511,12196.0,1956.0,,http://www.redfin.com/WI/Milwaukee/8832-W-Kiehnau-Ave-53224/home/90344708,43.138871200000004,-88.02220679999999
+78,Condo/Co-op,193 Park St,Belgium,WI,53004,197900,3,2.5,1510,,2001.0,,http://www.redfin.com/WI/Belgium/193-Park-St-53004/home/90137730,43.5014601,-87.8381062
+79,Condo/Co-op,6464 S Whitnall Edge Rd #203,Franklin,WI,53132,124900,2,2.0,940,,1980.0,245.0,http://www.redfin.com/WI/Franklin/6464-S-Whitnall-Edge-Rd-53132/unit-203/home/90284706,42.9271313,-88.0454248
+80,Single Family Residential,2121 Neptune Cir,Racine,WI,53404,199000,3,2.5,2400,7405.0,1984.0,,http://www.redfin.com/WI/Racine/2121-Neptune-Cir-53404/home/57952511,42.7481394,-87.8125035
+81,Single Family Residential,5014 W Kathleen Ln,Mequon,WI,53092,319900,3,2.0,2024,45302.0,1986.0,,http://www.redfin.com/WI/Mequon/5014-W-Kathleen-Ln-53092/home/58011471,43.201304799999996,-87.9722792
+82,Single Family Residential,2244 N 68th St,Wauwatosa,WI,53213,239900,2,1.0,1187,6534.0,1940.0,,http://www.redfin.com/WI/Wauwatosa/2244-N-68th-St-53213/home/90334417,43.059940000000005,-87.9972943
+83,Single Family Residential,2039 E Holt Ave,Milwaukee,WI,53207,105000,3,1.0,1173,3484.0,1948.0,,http://www.redfin.com/WI/Milwaukee/2039-E-Holt-Ave-53207/home/90244410,42.982584700000004,-87.88364490000001
+84,Single Family Residential,12190 W White Oak Dr,Greenfield,WI,53228,374900,3,2.0,1914,14810.0,1989.0,,http://www.redfin.com/WI/Greenfield/12190-W-White-Oak-Dr-53228/home/90262349,42.9806089,-88.0654536
+85,Single Family Residential,W200N9430 Woodside Ln,Menomonee Falls,WI,53051,209000,3,1.0,1142,19602.0,1955.0,,http://www.redfin.com/WI/Menomonee-Falls/W200N9430-Woodside-Ln-53051/home/89990348,43.1890814,-88.15778420000001
+86,Single Family Residential,S50W23475 Woodchuck Ln,Waukesha,WI,53189,405000,3,2.5,2254,46173.0,1989.0,13.0,http://www.redfin.com/WI/Waukesha/S50W23475-Woodchuck-Ln-53189/home/66783740,42.9529682,-88.2174545
+87,Single Family Residential,7856 S Victory Creek Ct,Franklin,WI,53132,375000,3,2.5,2776,11325.0,2003.0,8.0,http://www.redfin.com/WI/Franklin/7856-S-Victory-Creek-Ct-53132/home/90257876,42.9025756,-87.9706338
+88,Single Family Residential,27 S Concord Rd,Oconomowoc,WI,53066,239900,3,1.5,1526,6098.0,1917.0,,http://www.redfin.com/WI/Oconomowoc/27-S-Concord-Rd-53066/home/103746649,43.112023,-88.505266
+89,Single Family Residential,1138 Wisconsin Ave,Oostburg,WI,53070,199900,3,2.0,1928,18730.0,1964.0,,http://www.redfin.com/WI/Oostburg/1138-Wisconsin-Ave-53070/home/90102039,43.6268805,-87.802441
+90,Single Family Residential,15207 73rd St,Kenosha,WI,53142,449900,4,2.5,2792,8712.0,2005.0,17.0,http://www.redfin.com/WI/KENOSHA/15207-73RD-ST-53142/home/57812739,42.570546,-87.993133
+91,Single Family Residential,5935 N 69th St,Milwaukee,WI,53218,69900,2,1.0,944,7405.0,1936.0,,http://www.redfin.com/WI/Milwaukee/5935-N-69th-St-53218/home/57828209,43.125776,-87.997537
+92,Single Family Residential,19685 Warwick Dr,Brookfield,WI,53045,589900,4,3.5,3964,21780.0,1985.0,,http://www.redfin.com/WI/Brookfield/19685-Warwick-Dr-53045/home/87956338,43.052832099999996,-88.15751740000002
+93,Condo/Co-op,402 Sheffield Rd #2,Waukesha,WI,53186,142000,2,2.0,1140,,1976.0,200.0,http://www.redfin.com/WI/Waukesha/402-Sheffield-Rd-53186/unit-2/home/103753939,42.998157,-88.20391140000001
+94,Single Family Residential,3915 S Waterbury Ct,New Berlin,WI,53151,499900,4,2.5,2844,15245.0,2003.0,10.0,http://www.redfin.com/WI/New-Berlin/3915-S-Waterbury-Ct-53151/home/103724844,42.97298320000001,-88.0710671
+95,Condo/Co-op,10900 W Bluemound Rd #110,Wauwatosa,WI,53226,179900,2,2.0,1228,,2003.0,311.0,http://www.redfin.com/WI/Wauwatosa/10900-W-Bluemound-Rd-53226/unit-110/home/90340284,43.035630100000006,-88.0499185
+96,Single Family Residential,1115 Hiawatha Dr,Beaver Dam,WI,53916,216500,3,1.5,2600,9583.0,1985.0,,http://www.redfin.com/WI/Beaver-Dam/1115-Hiawatha-Dr-53916/home/89224130,43.4694565,-88.8443412
+97,Single Family Residential,6259 N Berkeley Blvd,Whitefish Bay,WI,53217,850000,4,2.5,2846,6969.0,1949.0,,http://www.redfin.com/WI/Whitefish-Bay/6259-N-Berkeley-Blvd-53217/home/90337768,43.1310468,-87.90547509999999
+98,Single Family Residential,1211 Main St,Racine,WI,53403,699900,5,3.5,4221,23522.0,1891.0,,http://www.redfin.com/WI/Racine/1211-Main-St-53403/home/89770687,42.7181423,-87.78207859999999
+99,Single Family Residential,W251S3902 Rickert Dr,Waukesha,WI,53189,222000,4,2.5,3027,47916.0,1972.0,,http://www.redfin.com/WI/Waukesha/W251S3902-Rickert-Dr-53189/home/90024611,42.9733777,-88.2494651
+100,Single Family Residential,1545 St Augustine Rd,Hartford,WI,53027,575000,4,2.0,1618,465656.0,1880.0,,http://www.redfin.com/WI/Hartford/1545-St-Augustine-Rd-53027/home/89663910,43.2461865,-88.3021551
+101,Single Family Residential,1125 Church St,Janesville,WI,53548,150000,3,1.0,950,6098.0,1959.0,,http://www.redfin.com/WI/Janesville/1125-Church-St-53548/home/57733700,42.695803399999996,-89.0459112
+102,Single Family Residential,709 Yuba St,Janesville,WI,53545,139900,3,1.5,1912,6969.0,1911.0,,http://www.redfin.com/WI/Janesville/709-Yuba-St-53545/home/57610210,42.6923867,-89.0166449
+103,Single Family Residential,410 Mc Kee Ct,Fort Atkinson,WI,53538,385000,4,3.0,3300,9583.0,1920.0,,http://www.redfin.com/WI/Fort-Atkinson/410-McKee-Ct-53538/home/89573435,42.918062299999995,-88.83198370000001
+104,Single Family Residential,3355 W Ruskin St,Milwaukee,WI,53215,184900,3,2.0,1470,5662.0,1948.0,,http://www.redfin.com/WI/Milwaukee/3355-W-Ruskin-St-53215/home/57751756,42.9852781,-87.9568938
+105,Single Family Residential,3808 N 5th St,Milwaukee,WI,53212,42900,3,1.0,877,4356.0,1923.0,,http://www.redfin.com/WI/Milwaukee/3808-N-5th-St-53212/home/57860099,43.085844200000004,-87.9158019
+106,Condo/Co-op,2060 Farmlane Dr,Slinger,WI,53086,324900,2,2.0,1597,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2060-Farmlane-Dr-53086/unit-8/home/89677346,43.3048152,-88.2312192
+107,Condo/Co-op,1095 Geneva National Ave N Unit 14-07,Lake Geneva,WI,53147,649900,4,3.5,3990,,1993.0,305.0,http://www.redfin.com/WI/Lake-Geneva/1095-Geneva-National-Ave-N-53147/unit-14-07/home/89476417,42.6116773,-88.52038359999999
+108,Single Family Residential,9620 401st Ave,Genoa City,WI,53128,349200,3,2.5,1838,33976.0,2006.0,,http://www.redfin.com/WI/Genoa-City/9620-401st-Ave-53128/home/57924378,42.5324554,-88.2985469
+109,Condo/Co-op,2120 Farmlane Dr,Slinger,WI,53086,324900,2,2.0,1597,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2120-Farmlane-Dr-53086/unit-3/home/89677339,43.3040586,-88.2305075
+110,Single Family Residential,104 Ridgeline Dr,Columbus,WI,53925,314900,3,2.0,2088,16988.0,2009.0,,http://www.redfin.com/WI/Columbus/104-Ridgeline-Dr-53925/home/57637632,43.326488299999994,-89.0332031
+111,Condo/Co-op,2130 Farmlane Dr,Slinger,WI,53086,324900,2,2.0,1597,,2020.0,280.0,http://www.redfin.com/WI/Slinger/2130-Farmlane-Dr-53086/unit-2/home/89677338,43.303901700000004,-88.2309262
+112,Single Family Residential,230 E Greenwood St,Jefferson,WI,53549,158000,3,1.0,1352,11325.0,1955.0,,http://www.redfin.com/WI/Jefferson/230-E-Greenwood-St-53549/home/89575667,43.010893700000004,-88.80429240000001
+113,Single Family Residential,N47W22358 Woodleaf Way,Pewaukee,WI,53072,514990,3,2.5,2203,25264.0,2020.0,,http://www.redfin.com/WI/Pewaukee/N47W22358-Woodleaf-Way-53072/home/168665532,43.103558,-88.192714
+114,Single Family Residential,7936 S 55th St,Franklin,WI,53132,399900,4,3.0,2517,9147.0,1996.0,,http://www.redfin.com/WI/Franklin/7936-S-55th-St-53132/home/90326666,42.9006972,-87.98381479999999
+115,Condo/Co-op,269 Fontana Blvd #1707,Fontana,WI,53125,83900,1,1.0,330,,1963.0,512.0,http://www.redfin.com/WI/Fontana-On-Geneva-Lake/269-Fontana-Blvd-53125/unit-1707/home/168698150,42.5481755,-88.57632779999999
+116,Single Family Residential,8842 W Burdick Ave,Milwaukee,WI,53227,270000,3,2.5,1968,9583.0,1959.0,,http://www.redfin.com/WI/Milwaukee/8842-W-Burdick-Ave-53227/home/90376361,42.984428799999996,-88.0233343
+117,Single Family Residential,932 Bay View Ave,Twin Lakes,WI,53181,175000,2,1.0,1120,11325.0,1917.0,,http://www.redfin.com/WI/Twin-Lakes/932-Bay-View-Ave-53181/home/89309382,42.526407,-88.26803620000001
+118,Condo/Co-op,10340 W Whitnall Edge Dr #204,Franklin,WI,53132,117900,2,2.0,940,,1980.0,245.0,http://www.redfin.com/WI/Franklin/10340-Whitnall-Edge-Dr-53132/unit-204/home/58050632,42.9274156,-88.0437399
+119,Single Family Residential,3504 86th St,Kenosha,WI,53142,324900,3,2.0,2862,8276.0,1993.0,,http://www.redfin.com/WI/Kenosha/3504-86th-St-53142/home/57924201,42.5496605,-87.8509277
+120,Single Family Residential,513 W Court St,Elkhorn,WI,53121,179900,2,1.0,1174,9583.0,1955.0,,http://www.redfin.com/WI/Elkhorn/513-W-Court-St-53121/home/89516098,42.673191499999994,-88.55365359999999
+121,Single Family Residential,7333 S 49th St,Franklin,WI,53132,299900,3,2.0,1926,10890.0,1995.0,,http://www.redfin.com/WI/Franklin/7333-S-49th-St-53132/home/57987853,42.911621999999994,-87.97690909999999
+122,Single Family Residential,200 N Church St,Watertown,WI,53094,159900,4,2.5,2348,8712.0,1910.0,,http://www.redfin.com/WI/Watertown/200-N-Church-St-53094/home/89581578,43.1960677,-88.72870479999999
+123,Single Family Residential,N5549 Ledgetop Ct,Fond Du Lac,WI,54937,399900,3,2.1,2371,44866.0,1992.0,,http://www.redfin.com/WI/Fond-du-Lac/N5549-Ledgetop-Ct-54937/home/89119432,43.7418658,-88.38381
+124,Single Family Residential,2342 N 48th St,Milwaukee,WI,53210,95900,4,1.0,1938,5227.0,1920.0,,http://www.redfin.com/WI/Milwaukee/2342-N-48th-St-53210/home/57754101,43.061583,-87.97342990000001
+125,Single Family Residential,12410 N Lake Shore Dr,Mequon,WI,53092,569000,3,2.0,1638,58370.0,1956.0,,http://www.redfin.com/WI/Mequon/12410-N-Lake-Shore-Dr-53092/home/67384147,43.2437365,-87.9130432
+126,Single Family Residential,W5725 Ridge Rd,Elkhorn,WI,53121,639900,3,3.0,3000,16117.0,1978.0,,http://www.redfin.com/WI/Elkhorn/W5725-Ridge-Rd-53121/home/89474043,42.761924,-88.5849653
+127,Single Family Residential,910 Freeman St,Genoa City,WI,53128,109900,2,1.0,880,8712.0,1952.0,,http://www.redfin.com/WI/Genoa-City/910-Freeman-St-53128/home/89491348,42.5080463,-88.3297195
+128,Single Family Residential,2360 Woodberry Ct,Brookfield,WI,53045,829900,5,4.5,5202,19166.0,1986.0,,http://www.redfin.com/WI/Brookfield/2360-Woodberry-Ct-53045/home/103732239,43.0624032,-88.14208199999999
+129,Single Family Residential,2048 Grange Ave,Racine,WI,53403,129900,4,1.0,1717,4791.0,1926.0,,http://www.redfin.com/WI/Racine/2048-Grange-Ave-53403/home/89778543,42.7048531,-87.81143929999999
+130,Single Family Residential,6432 Wembly Ln,Mount Pleasant,WI,53406,375000,3,2.0,1850,13068.0,2002.0,,http://www.redfin.com/WI/Mt-Pleasant/6432-Wembly-Ln-53406/home/89750749,42.7531355,-87.86316590000001
+131,Single Family Residential,1528 S 81st St,West Allis,WI,53214,165500,3,2.0,1216,5227.0,1912.0,,http://www.redfin.com/WI/West-Allis/1528-S-81st-St-53214/home/57991763,43.0142499,-88.0127266
+132,Single Family Residential,1619 State St,Delavan,WI,53115,395000,4,2.0,1800,3484.0,1931.0,,http://www.redfin.com/WI/Delavan/1619-State-St-53115/home/57843498,42.616812,-88.608432
+133,Single Family Residential,1508 S 82nd St,West Allis,WI,53214,159900,3,1.0,1463,4791.0,1909.0,,http://www.redfin.com/WI/West-Allis/1508-S-82nd-St-53214/home/90275885,43.0146305,-88.01389259999999
+134,Single Family Residential,316 Weed St,Fox Lake,WI,53933,299000,4,2.5,2838,43560.0,1980.0,,http://www.redfin.com/WI/Fox-Lake/316-Weed-St-53933/home/57656462,43.5605914,-88.9205621
+135,Condo/Co-op,140 W Commerce Blvd #208,Slinger,WI,53086,108500,2,2.0,1150,,1997.0,210.0,http://www.redfin.com/WI/Slinger/140-W-Commerce-Blvd-53086/unit-208/home/62245693,43.3261614,-88.29464709999999
+136,Single Family Residential,9904 W Dakota St,West Allis,WI,53227,249900,3,2.0,1612,11761.0,1955.0,,http://www.redfin.com/WI/West-Allis/9904-W-Dakota-St-53227/home/57965123,42.9923186,-88.0362131
+137,Single Family Residential,10944 224th Ave,Bristol,WI,53104,3495000,4,2.5,4308,6244761.0,1989.0,,http://www.redfin.com/WI/Bristol/10944-224th-Ave-53104/home/89306580,42.520771,-88.083218
+138,Single Family Residential,N99W16846 Chick A Dee Ct,Germantown,WI,53022,259900,3,1.5,2328,27442.0,1979.0,,http://www.redfin.com/WI/Germantown/N99W16846-Chick-A-Dee-Ct-53022/home/89657444,43.197565399999995,-88.119014
+139,Single Family Residential,608 Tulip Ln,Waupun,WI,53963,165000,4,2.0,1944,9147.0,1967.0,,http://www.redfin.com/WI/Waupun/608-Tulip-Ln-53963/home/89109942,43.63940529999999,-88.7454533
+140,Single Family Residential,N57W24957 Clover Dr,Sussex,WI,53089,369900,3,2.5,2450,16117.0,1996.0,3.0,http://www.redfin.com/WI/Sussex/N57W24957-Clover-Dr-53089/home/57998240,43.1228361,-88.243209
+141,Condo/Co-op,122 W Main St #122,Fontana,WI,53125,449900,2,2.5,1835,,2020.0,195.0,http://www.redfin.com/WI/Fontana-On-Geneva-Lake/122-W-Main-St-53125/unit-122/home/172522715,42.5497398,-88.58132990000001
+142,Single Family Residential,N2352 Halter Ln,Watertown,WI,53098,345000,4,4.0,2962,70567.0,1901.0,,http://www.redfin.com/WI/Watertown/N2352-Halter-Ln-53098/home/57599509,43.278146,-88.69208990000001
+143,Single Family Residential,7429 N 89th St,Milwaukee,WI,53224,169900,3,1.5,1210,9147.0,1972.0,,http://www.redfin.com/WI/Milwaukee/7429-N-89th-St-53224/home/57964131,43.1529127,-88.0227897
+144,Single Family Residential,W316N714 Heather Hl,Delafield,WI,53018,399900,4,1.5,2100,45738.0,1977.0,,http://www.redfin.com/WI/Delafield/W316N714-Heather-Hl-53018/home/89983919,43.0395006,-88.3773652
+145,Single Family Residential,7205 49th Ave,Kenosha,WI,53142,364900,4,2.5,3620,10890.0,1968.0,,http://www.redfin.com/WI/Kenosha/7205-49th-Ave-53142/home/89297307,42.5686619,-87.86713590000001
+146,Single Family Residential,4615 69th St,Kenosha,WI,53142,167500,3,1.0,804,7840.0,1960.0,,http://www.redfin.com/WI/Kenosha/4615-69th-St-53142/home/57808082,42.57093,-87.86458509999999
+147,Single Family Residential,9835 Lakeshore Dr,Pleasant Prairie,WI,53158,1025000,3,2.5,4248,25700.0,2004.0,13.0,http://www.redfin.com/WI/Pleasant-Prairie/9835-Lakeshore-Dr-53158/unit-4/home/57638316,42.5299606,-87.8134635
+148,Single Family Residential,W302S2907 S Bethesda Cir,Waukesha,WI,53188,425000,3,2.5,2404,56628.0,1970.0,,http://www.redfin.com/WI/Waukesha/W302S2907-Bethesda-Cirle-53188/home/89985584,42.9915064,-88.3514625
+149,Single Family Residential,7624 W Lorraine Pl,Milwaukee,WI,53222,169900,3,1.0,1235,5227.0,1924.0,,http://www.redfin.com/WI/Milwaukee/7624-W-Lorraine-Pl-53222/home/57844725,43.0691795,-88.00833279999999
+150,Single Family Residential,8521 W Lake Pointe Dr,Franklin,WI,53132,379900,3,2.5,2062,11761.0,1997.0,,http://www.redfin.com/WI/Franklin/8521-Lake-Pointe-Dr-53132/home/90258879,42.890097999999995,-88.0205823
+151,Single Family Residential,3713 W Bridge St,Greenfield,WI,53221,229000,3,1.5,2094,13503.0,1969.0,,http://www.redfin.com/WI/Greenfield/3713-W-Bridge-St-53221/home/57969901,42.9353951,-87.9627501
+152,Single Family Residential,2005 S 89th St,West Allis,WI,53227,129900,3,2.0,1001,3920.0,1941.0,,http://www.redfin.com/WI/West-Allis/2005-S-89th-St-53227/home/58009314,43.007895700000006,-88.0238312
+153,Condo/Co-op,6000 S Buckhorn Ave #204,Cudahy,WI,53110,159900,2,2.0,1450,,2005.0,200.0,http://www.redfin.com/WI/Cudahy/6000-S-Buckhorn-Ave-53110/unit-204/home/90256136,42.9364604,-87.8645675
+154,Condo/Co-op,1415 Watercress Cir,West Bend,WI,53095,165000,2,2.0,1348,,2002.0,150.0,http://www.redfin.com/WI/West-Bend/1415-Watercress-Cir-53095/unit-4/home/89686748,43.3994474,-88.1604444
+155,Single Family Residential,729 Western Ave,Sheboygan Falls,WI,53085,290000,4,2.0,2427,11325.0,1980.0,,http://www.redfin.com/WI/Sheboygan-Falls/729-Western-Ave-53085/home/90090286,43.7298823,-87.8291478
+156,Condo/Co-op,3449 S Pine Ave #8,Milwaukee,WI,53207,89900,2,1.0,810,,1970.0,180.0,http://www.redfin.com/WI/Milwaukee/3449-S-Pine-Ave-53207/unit-8/home/66029359,42.9817382,-87.89998790000001
+157,Condo/Co-op,270 E Highland Ave #1137,Milwaukee,WI,53202,250000,2,2.0,1068,,1901.0,474.0,http://www.redfin.com/WI/Milwaukee/270-E-Highland-Ave-53202/unit-1137/home/58029475,43.045302,-87.9093023
+158,Single Family Residential,410 S Church St,Watertown,WI,53094,149900,3,1.5,1172,8712.0,1952.0,,http://www.redfin.com/WI/Watertown/410-S-Church-St-53094/home/89581745,43.1910474,-88.7295697
+159,Single Family Residential,25604 77th St Lt11,Salem,WI,53168,360000,3,2.0,1813,12196.0,2020.0,30.0,http://www.redfin.com/WI/Salem/25604-77th-St-53168/home/172658148,42.5654155,-88.10480809999999
+160,Single Family Residential,213 Colony Ave S,Union Grove,WI,53182,799900,5,3.5,4800,2999105.0,1880.0,,http://www.redfin.com/WI/Union-Grove/213-S-Colony-Ave-53182/home/169440941,42.724072,-88.049527
+161,Single Family Residential,1228 Ed-Mar Cir,Waukesha,WI,53188,235000,3,2.0,1844,10454.0,1962.0,,http://www.redfin.com/WI/Waukesha/1228-Ed-Mar-Cir-53188/home/90033082,43.0282265,-88.247757
+162,Condo/Co-op,825 N Prospect Ave #1401,Milwaukee,WI,53202,1550000,2,2.0,2747,,2007.0,2380.0,http://www.redfin.com/WI/Milwaukee/825-N-Prospect-Ave-53202/unit-1401/home/90324014,43.0421518,-87.9000292
+163,Single Family Residential,2495 Sunrise Ct,Slinger,WI,53086,459900,4,2.5,2496,60983.0,2020.0,,http://www.redfin.com/WI/Slinger/2495-Sunrise-Ct-53086/home/58082616,43.303653999999995,-88.2335688
+164,Single Family Residential,4833 W Fillmore Dr,Milwaukee,WI,53219,169000,2,1.5,838,5227.0,1954.0,,http://www.redfin.com/WI/Milwaukee/4833-W-Fillmore-Dr-53219/home/57984008,42.999252399999996,-87.9743072
+165,Single Family Residential,186 W Paradise Dr,West Bend,WI,53095,249900,4,2.5,1720,12196.0,1972.0,,http://www.redfin.com/WI/West-Bend/186-W-Paradise-Dr-53095/home/89652840,43.397922200000004,-88.1756709
+166,Single Family Residential,731 Main St,Delafield,WI,53018,299000,4,1.0,1210,7840.0,1940.0,,http://www.redfin.com/WI/Delafield/731-Main-St-53018/home/57744113,43.0610707,-88.4011304
+167,Single Family Residential,N10672 Chief Kuno Trl,Fox Lake,WI,53933,254000,2,1.0,800,14374.0,1928.0,,http://www.redfin.com/WI/Fox-Lake/N10672-Chief-Kuno-Trl-53933/home/65623168,43.580236799999994,-88.92357220000001
+168,Single Family Residential,4438 Sherman Rd,Slinger,WI,53086,255000,4,2.0,1547,24829.0,1935.0,,http://www.redfin.com/WI/Slinger/4438-Sherman-Rd-53086/home/57725550,43.310353899999996,-88.257768
+169,Single Family Residential,1624 W Fairfield Ct,Glendale,WI,53209,269000,3,2.0,1938,9147.0,1978.0,,http://www.redfin.com/WI/Glendale/1624-W-Fairfield-Ct-53209/home/90288982,43.132791100000006,-87.9306844
+170,Single Family Residential,8312 N Santa Monica Blvd,Fox Point,WI,53217,269900,2,2.0,1780,13068.0,1952.0,,http://www.redfin.com/WI/Fox-Point/8312-N-Santa-Monica-Blvd-53217/home/57746232,43.1675843,-87.90139350000001
+171,Single Family Residential,9309 W Hadley St,Milwaukee,WI,53222,310000,3,1.5,1805,15681.0,1953.0,,http://www.redfin.com/WI/Milwaukee/9309-W-Hadley-St-53222/home/90218084,43.069238,-88.0291054
+172,Condo/Co-op,315 Trailview Xing,Waterford,WI,53185,332500,2,2.0,1640,,2020.0,230.0,http://www.redfin.com/WI/Waterford/315-Trailview-Xing-53185/unit-16/home/161049456,42.759665000000005,-88.2077409
+173,Condo/Co-op,110 Hank Jay Dr Unit B,Lake Geneva,WI,53147,149000,2,1.5,936,,1976.0,327.0,http://www.redfin.com/WI/Lake-Geneva/110-Hank-Jay-Dr-53147/unit-B/home/172657634,42.59298870000001,-88.4250805
+174,Single Family Residential,3823 S 20th Pl,Milwaukee,WI,53221,199000,3,2.0,1300,5227.0,1948.0,,http://www.redfin.com/WI/Milwaukee/3823-S-20th-Pl-53221/home/57979376,42.9751191,-87.9403488
+175,Single Family Residential,509 N Chatham St,Janesville,WI,53548,129900,2,1.0,952,8712.0,1948.0,,http://www.redfin.com/WI/Janesville/509-N-Chatham-St-53548/home/89832394,42.687063,-89.0375142
+176,Condo/Co-op,3062 Fairway View Ct,Hubertus,WI,53033,349900,2,2.0,1654,,2020.0,150.0,http://www.redfin.com/WI/Hubertus/3062-Fairway-Fields-Ct-53033/home/172657563,43.239024799999996,-88.1903201
+177,Single Family Residential,631 Stepping Stone Way,Pewaukee,WI,53072,885000,6,4.5,4300,37897.0,2008.0,,http://www.redfin.com/WI/Pewaukee/631-Stepping-Stone-Way-53072/home/103727605,43.1010953,-88.2512835
+178,Single Family Residential,N11W31557 Pine Ridge Cir,Delafield,WI,53018,475000,3,2.5,2996,60548.0,1995.0,,http://www.redfin.com/WI/Delafield/N11W31557-Pine-Ridge-Cir-53018/home/57781333,43.046048299999995,-88.37516070000001
+179,Single Family Residential,2643 S Linebarger Ter,Milwaukee,WI,53207,359900,3,2.0,1700,4356.0,1928.0,,http://www.redfin.com/WI/Milwaukee/2643-S-Linebarger-Ter-53207/home/90374436,42.995075899999996,-87.8899325
+180,Single Family Residential,6687 Erin Mountain Pass,Hartford,WI,53027,375000,3,2.5,1982,76230.0,1994.0,,http://www.redfin.com/WI/Hartford/6687-Erin-Mountain-Pass-53027/home/89663577,43.2618482,-88.3703316
+181,Single Family Residential,2485 Catherine Dr,Racine,WI,53402,249900,3,1.5,1880,12632.0,1993.0,,http://www.redfin.com/WI/Racine/2485-Catherine-Dr-53402/home/57857243,42.803845700000004,-87.8092776
+182,Single Family Residential,276 Thomas Trl,Oconomowoc,WI,53066,389900,4,2.5,2071,12196.0,2020.0,,http://www.redfin.com/WI/Oconomowoc/276-Thomas-Trl-53066/home/172657256,43.0908347,-88.4989029
+183,Single Family Residential,5700 N 34th St,Milwaukee,WI,53209,150000,4,2.5,2052,7405.0,1938.0,,http://www.redfin.com/WI/Milwaukee/5700-N-34th-St-53209/home/57697080,43.1215693,-87.9546449
+184,Single Family Residential,622 Main St,Brownsville,WI,53006,135000,2,1.0,1179,20473.0,1930.0,,http://www.redfin.com/WI/Brownsville/622-W-Main-St-53006/home/69369520,43.61673820000001,-88.4918323
+185,Single Family Residential,W283N3660 Yorkshire Trce,Delafield,WI,53072,1165000,4,3.5,9400,143312.0,1999.0,,http://www.redfin.com/WI/Pewaukee/W283N3660-Yorkshire-Trce-53072/home/89982923,43.084948100000005,-88.3121996
+186,Single Family Residential,537 Devils Ln,Walworth,WI,53184,269000,3,2.0,1500,26571.0,1845.0,,http://www.redfin.com/WI/Walworth/537-Devils-Ln-53184/home/89515312,42.5271691,-88.5902522
+187,Single Family Residential,10903 N Beechwood Dr,Mequon,WI,53092,899900,5,4.5,4304,34412.0,1996.0,,http://www.redfin.com/WI/Mequon/10903-N-Beechwood-Dr-53092/home/63699871,43.2164946,-87.90777440000001
+188,Condo/Co-op,311 E Erie St #310,Milwaukee,WI,53202,589000,2,2.0,1732,,2006.0,330.0,http://www.redfin.com/WI/Milwaukee/311-E-Erie-St-53202/unit-310/home/90323998,43.0300512,-87.9063302
+189,Single Family Residential,7557 N 52nd St,Milwaukee,WI,53223,169900,3,1.5,1877,10454.0,1957.0,,http://www.redfin.com/WI/Milwaukee/7557-N-52nd-St-53223/home/90194610,43.155432399999995,-87.9768326
+190,Single Family Residential,7855 W Palmetto Ave,Milwaukee,WI,53218,104900,3,1.0,1336,5662.0,1956.0,,http://www.redfin.com/WI/Milwaukee/7855-W-Palmetto-Ave-53218/home/58001505,43.1071322,-88.00961070000001
+191,Single Family Residential,3800 S Lenox St,Milwaukee,WI,53207,174900,3,1.0,1128,5662.0,1950.0,,http://www.redfin.com/WI/Milwaukee/3800-S-Lenox-St-53207/home/90245132,42.97549779999999,-87.8979215
+192,Single Family Residential,W147N9973 Emerald Ln,Germantown,WI,53022,699000,5,4.0,5500,16552.0,2002.0,,http://www.redfin.com/WI/Germantown/W147N9973-Emerald-Ln-53022/home/57769039,43.198778499999996,-88.092862
+193,Condo/Co-op,8515 W Waterford Ave #2,Milwaukee,WI,53228,79500,1,1.0,769,,1971.0,229.0,http://www.redfin.com/WI/Greenfield/8515-W-Waterford-Ave-53228/unit-2/home/90328611,42.97035,-88.019002
+194,Single Family Residential,5813 N 78th St,Milwaukee,WI,53218,140000,3,1.0,1274,6098.0,1952.0,,http://www.redfin.com/WI/Milwaukee/5813-N-78th-St-53218/home/57942193,43.1235451,-88.00887469999999
+195,Single Family Residential,1909 N 118th St,Wauwatosa,WI,53226,192000,3,1.0,1179,5227.0,1958.0,,http://www.redfin.com/WI/Wauwatosa/1909-N-118th-St-53226/home/57987543,43.055209399999995,-88.06029000000001
+196,Single Family Residential,151 Rush St,Lake Geneva,WI,53147,229000,3,2.0,2576,18730.0,1950.0,,http://www.redfin.com/WI/Lake-Geneva/151-Rush-St-53147/home/89495809,42.5798138,-88.4245039
+197,Single Family Residential,W4150 County Road K,Random Lake,WI,53075,419900,3,3.0,3100,227818.0,1998.0,,http://www.redfin.com/WI/Random-Lake/W4150-Co-Rd-K-53075/home/57659298,43.544028999999995,-87.902224
+198,Single Family Residential,3676 S 92nd St,Milwaukee,WI,53228,177900,3,1.0,1456,7840.0,1952.0,,http://www.redfin.com/WI/Milwaukee/3676-S-92nd-St-53228/home/63704398,42.977491,-88.027225
+199,Single Family Residential,2034 S 72nd St,West Allis,WI,53219,149900,3,1.0,1670,5227.0,1937.0,,http://www.redfin.com/WI/West-Allis/2034-S-72nd-St-53219/home/90336271,43.0073334,-88.00240670000001
+200,Condo/Co-op,1401 Garay Ln #1,Port Washington,WI,53074,149900,2,1.0,1085,,2006.0,175.0,http://www.redfin.com/WI/Port-Washington/1401-Garay-Ln-53074/unit-1/home/90138565,43.4031821,-87.8822744
+201,Condo/Co-op,2672 Hidden Dr #44,Saint Francis,WI,53235,179900,3,2.0,1600,,2007.0,213.0,http://www.redfin.com/WI/St-Francis/2672-Hidden-Dr-53235/unit-44/home/58038380,42.9700467,-87.8756334
+202,Single Family Residential,4253 N 90th Ct,Milwaukee,WI,53222,159900,3,1.0,1528,7840.0,1958.0,,http://www.redfin.com/WI/Milwaukee/4253-N-90th-Ct-53222/home/57765835,43.0945263,-88.0254365
+203,Single Family Residential,4525 N 147th St,Brookfield,WI,53005,374900,3,2.5,1859,24829.0,1957.0,,http://www.redfin.com/WI/Brookfield/4525-N-147th-St-53005/home/57672496,43.099142799999996,-88.0957622
+204,Single Family Residential,4603 N 118th St,Wauwatosa,WI,53225,239900,3,2.0,1963,7840.0,1973.0,,http://www.redfin.com/WI/Wauwatosa/4603-N-118th-St-53225/home/90333264,43.1007276,-88.0603173
+205,Single Family Residential,1218 N 120th St,Wauwatosa,WI,53226,289900,3,2.0,1457,11761.0,1948.0,,http://www.redfin.com/WI/Wauwatosa/1218-N-120th-St-53226/home/57887904,43.0460234,-88.0618067
+206,Single Family Residential,3215 91st St,Sturtevant,WI,53177,239900,3,1.5,2020,8712.0,1972.0,,http://www.redfin.com/WI/Sturtevant/3215-91st-St-53177/home/89754230,42.694266600000006,-87.89574
+207,Single Family Residential,3644 River Valley Rd,Waukesha,WI,53189,339900,3,2.5,2261,9147.0,2002.0,,http://www.redfin.com/WI/Waukesha/3644-River-Valley-Rd-53189/home/57784676,42.9604651,-88.2831233
+208,Single Family Residential,W271N5535 Jessica Dr,Pewaukee,WI,53072,539950,4,3.5,3487,51836.0,2001.0,,http://www.redfin.com/WI/Pewaukee/W271N5535-Jessica-Dr-53072/home/57709244,43.1183642,-88.2881005
+209,Single Family Residential,859 E Ravine Ln,Bayside,WI,53217,525000,4,3.0,2407,24829.0,1942.0,,http://www.redfin.com/WI/Bayside/859-E-Ravine-Ln-53217/home/90324120,43.1879403,-87.8972062
+210,Single Family Residential,605 Erie Ave,Oostburg,WI,53070,295000,3,3.0,2904,38332.0,1957.0,,http://www.redfin.com/WI/Oostburg/605-Erie-Ave-53070/home/90102721,43.619974,-87.79120440000001
+211,Single Family Residential,5798 N Argyle Ave,Glendale,WI,53209,189900,3,2.0,1369,5227.0,1941.0,,http://www.redfin.com/WI/Glendale/5798-N-Argyle-Ave-53209/home/90289199,43.12295770000001,-87.942704
+212,Single Family Residential,6624 Kingsview Dr,Mount Pleasant,WI,53406,449900,3,3.0,3508,38332.0,2006.0,,http://www.redfin.com/WI/Mt-Pleasant/6624-Kingsview-Dr-53406/home/89789387,42.7274571,-87.864892
+213,Single Family Residential,268 White Oak Rd,Walworth,WI,53184,750000,4,2.5,4200,284011.0,2006.0,25.0,http://www.redfin.com/WI/Walworth/268-White-Oak-RD-53184/home/172656003,42.562407,-88.574917
+214,Single Family Residential,440 Sweet Rd,Darien,WI,53114,220000,3,2.0,1872,12632.0,1994.0,,http://www.redfin.com/WI/Darien/440-Sweet-Rd-53114/home/57899955,42.5961445,-88.69906379999999
+215,Single Family Residential,869 West St,Watertown,WI,53094,199900,3,1.0,1134,11325.0,1977.0,,http://www.redfin.com/WI/Watertown/869-West-St-53094/home/89582467,43.189635700000004,-88.7491179
+216,Condo/Co-op,111 11th St Unit 1CN,Racine,WI,53403,147900,1,1.5,1054,,1972.0,280.0,http://www.redfin.com/WI/Racine/111-11th-St-53403/unit-1CN/home/169968395,42.719644200000005,-87.78169559999999
+217,Single Family Residential,316 Beech Ct,Plymouth,WI,53073,369900,3,4.0,3216,28314.0,1992.0,,http://www.redfin.com/WI/Plymouth/316-Beech-Ct-53073/home/90082616,43.7374981,-87.9851346
+218,Condo/Co-op,14014 W Tiffany Pl #14,New Berlin,WI,53151,209900,2,3.5,1751,,1980.0,275.0,http://www.redfin.com/WI/New-Berlin/14014-W-Tiffany-Pl-53151/unit-14/home/172654585,42.982314,-88.089682
+219,Single Family Residential,1133 S 64th St,West Allis,WI,53214,149000,3,2.0,1100,3049.0,1922.0,,http://www.redfin.com/WI/West-Allis/1133-S-64th-St-53214/home/90340302,43.0192529,-87.9924308
+220,Single Family Residential,9120 33rd Ave,Kenosha,WI,53142,369000,3,3.5,2800,23086.0,1994.0,,http://www.redfin.com/WI/Kenosha/9120-33rd-Ave-53142/home/57813407,42.5399085,-87.8484912
+221,Single Family Residential,4682 Partridge Cir,Colgate,WI,53017,649999,4,3.5,4478,60112.0,2009.0,,http://www.redfin.com/WI/Colgate/4682-Partridge-Cir-53017/home/89676494,43.211801799999996,-88.2706397
+222,Condo/Co-op,320 E Pleasant St #105,Oconomowoc,WI,53066,309900,2,2.0,1222,,1975.0,300.0,http://www.redfin.com/WI/Oconomowoc/320-E-Pleasant-St-53066/unit-105/home/103746666,43.110958200000006,-88.4941333
+223,Single Family Residential,15115 W Rogers Dr,New Berlin,WI,53151,310000,3,1.5,1579,23522.0,1964.0,,http://www.redfin.com/WI/New-Berlin/15115-W-Rogers-Dr-53151/home/90037915,43.0087141,-88.1015811
+224,Single Family Residential,5504 3 Mile Rd,Racine,WI,53406,250000,4,1.5,2026,30491.0,1977.0,,http://www.redfin.com/WI/Racine/5504-3-Mile-Rd-53406/home/89762377,42.7702126,-87.8465534
+225,Condo/Co-op,7224 W State St Unit 1C,Wauwatosa,WI,53213,195900,2,2.0,1109,,1999.0,325.0,http://www.redfin.com/WI/Wauwatosa/7224-W-State-St-53213/unit-1C/home/90334711,43.0483562,-88.0028824
+226,Single Family Residential,9910 269th Ct,Trevor,WI,53179,329000,3,2.5,1774,22651.0,1993.0,,http://www.redfin.com/WI/Trevor/9910-269th-Ct-53179/home/89307102,42.5266591,-88.1347625
+227,Single Family Residential,22070 Ridge Rd,Waukesha,WI,53186,439999,4,2.5,2352,15245.0,1994.0,,http://www.redfin.com/WI/Waukesha/22070-Ridge-Rd-53186/home/89970839,43.0181508,-88.1877247
+228,Single Family Residential,316 W Riverbend,Plymouth,WI,53073,164900,2,1.0,1248,10018.0,1948.0,,http://www.redfin.com/WI/Plymouth/316-W-Riverbend-Dr-53073/home/57721033,43.7422886,-87.9832218
+229,Single Family Residential,N10275 Dairy Rd,Mayville,WI,53050,279900,4,2.0,2675,217800.0,1900.0,,http://www.redfin.com/WI/Mayville/N10275-Dairy-Rd-53050/home/172652629,43.563412,-88.543932
+230,Single Family Residential,3885 Dorado Dr,Janesville,WI,53546,865000,6,4.5,4280,25700.0,2012.0,,http://www.redfin.com/WI/Janesville/3885-Dorado-Dr-53546/home/89827730,42.732901700000006,-88.9696247
+231,Single Family Residential,W196N5095 Sequoia Ct,Menomonee Falls,WI,53051,509900,4,2.5,2405,13068.0,2020.0,29.0,http://www.redfin.com/WI/Menomonee-Falls/W196N5095-Sequoia-CT-53051/home/172652595,43.106407,-88.15677099999999
+232,Single Family Residential,W239N5418 Maple Ave,Lisbon,WI,53089,325000,3,2.0,1800,47916.0,1953.0,,http://www.redfin.com/WI/Town-of-Lisbon/W239N5418-Maple-Ave-53089/home/57654955,43.116051,-88.2243226
+233,Single Family Residential,2117 S 70th St,West Allis,WI,53219,127000,3,1.0,710,3484.0,1926.0,,http://www.redfin.com/WI/West-Allis/2117-S-70th-St-53219/home/57749416,43.005941299999996,-88.0008161
+234,Single Family Residential,N2532 Mehring Rd,Jefferson,WI,53549,465000,5,2.5,2346,324086.0,2017.0,,http://www.redfin.com/WI/Jefferson/N2532-Mehring-Rd-53549/home/160477276,42.9310586,-88.6590236
+235,Single Family Residential,2615 W Mangold Ave,Milwaukee,WI,53221,179000,2,1.0,738,7405.0,1929.0,,http://www.redfin.com/WI/Milwaukee/2615-W-Mangold-Ave-53221/home/57981465,42.9324813,-87.94848890000002
+236,Condo/Co-op,1724 S Carriage Ln Unit A,New Berlin,WI,53151,124900,2,1.5,914,,1973.0,200.0,http://www.redfin.com/WI/New-Berlin/1724-S-Carriage-Ln-53151/unit-A/home/58040065,43.012858,-88.114255
+237,Single Family Residential,2249 W Bolivar Ave,Milwaukee,WI,53221,198900,3,1.5,1195,14374.0,1958.0,,http://www.redfin.com/WI/Milwaukee/2249-W-Bolivar-Ave-53221/home/57668026,42.9663842,-87.94289300000001
+238,Condo/Co-op,1157 Black Bear Dr,Mukwonago,WI,53149,369900,2,2.0,1405,,2015.0,315.0,http://www.redfin.com/WI/Mukwonago/1157-Black-Bear-Dr-53149/home/82333635,42.880399,-88.33893559999999
+239,Single Family Residential,10630 Tuttle Rd,Trevor,WI,53179,649900,4,4.0,2284,425145.0,1920.0,,http://www.redfin.com/WI/Trevor/10630-Tuttle-Rd-53179/home/89310893,42.5210549,-88.16754499999999
+240,Single Family Residential,1220 S Memorial Dr,Racine,WI,53403,59900,3,1.0,1024,435.0,1915.0,,http://www.redfin.com/WI/Racine/1220-S-Memorial-Dr-53403/home/57822092,42.717743799999994,-87.7991367
+241,Single Family Residential,448 S Atwood Ave,Janesville,WI,53545,475000,4,2.5,3054,39204.0,1963.0,,http://www.redfin.com/WI/Janesville/448-S-Atwood-Ave-53545/home/89812454,42.679354700000005,-89.01371340000001
+242,Single Family Residential,121 4th St,Sheboygan Falls,WI,53085,159900,3,1.0,928,7405.0,1930.0,,http://www.redfin.com/WI/Sheboygan-Falls/121-4th-St-53085/home/90090709,43.7309387,-87.82075920000001
+243,Single Family Residential,1245 Dr Martin Luther King Dr,Racine,WI,53404,34900,2,1.0,1005,5227.0,1890.0,,http://www.redfin.com/WI/Racine/1245-Dr-Martin-Luther-King-Dr-53404/home/89772336,42.7368326,-87.7956802
+244,Single Family Residential,624 Bark River Way,Dousman,WI,53118,396900,3,2.0,1660,17859.0,2020.0,27.0,http://www.redfin.com/WI/Dousman/624-Bark-River-Way-53118/home/103728074,43.019448,-88.491915
+245,Single Family Residential,1239 Racine St,Racine,WI,53403,64900,4,2.0,1590,3049.0,1915.0,,http://www.redfin.com/WI/Racine/1239-Racine-St-53403/home/89775149,42.7173331,-87.7935672
+246,Single Family Residential,1006 Albert St,Racine,WI,53404,62000,4,1.5,1905,6098.0,1900.0,,http://www.redfin.com/WI/Racine/1006-Albert-St-53404/home/57822118,42.737983899999996,-87.7920689
+247,Single Family Residential,812 S Third St,Watertown,WI,53094,129000,4,2.0,1655,3920.0,1900.0,,http://www.redfin.com/WI/Watertown/812-S-3rd-St-53094/home/89581719,43.1883064,-88.7237643
+248,Single Family Residential,1028 Davis Pl,Racine,WI,53403,55000,4,1.0,1225,3049.0,1890.0,,http://www.redfin.com/WI/Racine/1028-Davis-Pl-53403/home/89772312,42.7205884,-87.79218409999999
+249,Single Family Residential,600 S Beaumont Ave,Kansasville,WI,53139,629900,4,3.0,3731,425581.0,1968.0,,http://www.redfin.com/WI/Kansasville/600-S-Beaumont-Ave-53139/home/58012283,42.7201322,-88.1112711
+250,Single Family Residential,121 S 76th St,Milwaukee,WI,53214,164900,3,1.0,1428,6098.0,1922.0,,http://www.redfin.com/WI/Milwaukee/121-S-76th-St-53214/home/58003622,43.031051899999994,-88.00759659999999
+251,Single Family Residential,514 Eleventh St,Racine,WI,53403,52900,2,1.0,1056,4791.0,1900.0,,http://www.redfin.com/WI/Racine/514-11th-St-53403/home/89771253,42.7201377,-87.78661290000001
+252,Single Family Residential,1041 Davis Pl,Racine,WI,53403,41900,2,1.0,927,1742.0,1886.0,,http://www.redfin.com/WI/Racine/1041-Davis-Pl-53403/home/89772505,42.7202383,-87.7918383
+253,Single Family Residential,1923 Arlington Ave,Racine,WI,53403,154900,3,1.0,1112,8276.0,1954.0,,http://www.redfin.com/WI/Racine/1923-Arlington-Ave-53403/home/89783424,42.703218,-87.8028827
+254,Single Family Residential,3185 Bartells St,Beloit,WI,53511,289900,3,2.0,1748,11761.0,2020.0,,http://www.redfin.com/WI/Beloit/3185-S-Bartells-Dr-53511/home/172651633,42.55936810000001,-89.0243464
+255,Single Family Residential,2221 Milwaukee Rd,Beloit,WI,53511,177900,3,2.5,2261,20908.0,1956.0,,http://www.redfin.com/WI/Beloit/2221-Milwaukee-Rd-53511/home/89799592,42.5168561,-89.0036475
+256,Single Family Residential,6524 61st Ave,Kenosha,WI,53142,209900,3,1.0,1546,18730.0,1955.0,,http://www.redfin.com/WI/Kenosha/6524-61st-Ave-53142/home/89333292,42.5754232,-87.88094170000001
+257,Single Family Residential,210 S 6th St,Cedar Grove,WI,53013,164900,3,2.0,1364,13068.0,1976.0,,http://www.redfin.com/WI/Cedar-Grove/210-S-6th-St-53013/home/90099647,43.570761299999994,-87.8300691
+258,Single Family Residential,8228 E Ridge Dr,Pleasant Prairie,WI,53158,545000,5,3.0,3450,15245.0,2001.0,13.0,http://www.redfin.com/WI/Pleasant-Prairie/8228-E-Ridge-Dr-53158/home/89338873,42.5570256,-87.92570490000001
+259,Single Family Residential,1014 Summit Ave,Beloit,WI,53511,59900,4,1.5,1188,5662.0,1928.0,,http://www.redfin.com/WI/Beloit/1014-Summit-Ave-53511/home/89802068,42.520218299999996,-89.0248221
+260,Single Family Residential,7641 N Bell Rd,Fox Point,WI,53217,349000,3,2.0,1986,26136.0,1950.0,,http://www.redfin.com/WI/Fox-Point/7641-N-Bell-Rd-53217/home/90325680,43.1565085,-87.9060307
+261,Single Family Residential,Lt188 Bailey Ests Unit ''Georgian'',Williams Bay,WI,53191,386490,4,2.5,3177,22651.0,,,http://www.redfin.com/WI/Williams-Bay/471-Ashley-Dr-53191/unit-Georgian/home/172651481,42.596684,-88.5574061
+262,Single Family Residential,2843 Oakmont Dr,East Troy,WI,53120,442900,4,2.5,2200,11325.0,2019.0,,http://www.redfin.com/WI/East-Troy/2843-Oakmont-Dr-53120/home/170173738,42.80174,-88.40469
+263,Single Family Residential,112 Canary Cir,Watertown,WI,53098,79900,3,1.5,1344,,1981.0,92.0,http://www.redfin.com/WI/Watertown/112-Canary-Cir-53098/home/89217299,43.2008665,-88.6136531
+264,Single Family Residential,6920 W Stevenson St,Milwaukee,WI,53213,104900,2,1.0,680,4791.0,1921.0,,http://www.redfin.com/WI/Milwaukee/6920-W-Stevenson-St-53213/home/57866924,43.0322283,-87.9993543
+265,Single Family Residential,Lt187 Bailey Ests Unit ''Bailey'',Williams Bay,WI,53191,303490,3,2.0,1870,22651.0,,,http://www.redfin.com/WI/Williams-Bay/471-Ashley-Dr-53191/unit-Bailey/home/171558239,42.596684,-88.5574061
+266,Single Family Residential,3313 S 77th St,Milwaukee,WI,53219,189000,3,1.0,915,7405.0,1957.0,,http://www.redfin.com/WI/Milwaukee/3313-S-77th-St-53219/home/57984424,42.9843417,-88.009496
+267,Single Family Residential,811 Rainbow Dr,Milton,WI,53563,256900,3,2.5,1792,12632.0,1978.0,,http://www.redfin.com/WI/Milton/811-Rainbow-Dr-53563/home/79084853,42.768082,-88.95518890000001
+268,Single Family Residential,2876 Lakeview Dr,East Troy,WI,53120,404900,3,2.0,1625,12632.0,2019.0,,http://www.redfin.com/WI/East-Troy/2876-Lakeview-Dr-53120/home/89506602,42.801778999999996,-88.405183
+269,Single Family Residential,179 W Armour Ave,Milwaukee,WI,53207,175000,3,1.0,864,8276.0,1954.0,,http://www.redfin.com/WI/Milwaukee/179-W-Armour-Ave-53207/home/90248948,42.9613591,-87.9128133
+270,Single Family Residential,8204 46th Ave,Kenosha,WI,53142,389900,3,2.5,3162,10890.0,1988.0,,http://www.redfin.com/WI/Kenosha/8204-46th-Ave-53142/home/89298025,42.555967700000004,-87.8637604
+271,Single Family Residential,222 Skyway Dr,Edgerton,WI,53534,85900,2,1.0,396,7405.0,2003.0,42.0,http://www.redfin.com/WI/Edgerton/222-Skyway-DR-53534/home/172399020,42.828006,-89.034193
+272,Condo/Co-op,111 Center St #215,Lake Geneva,WI,53147,95000,1,1.0,739,,1995.0,425.0,http://www.redfin.com/WI/Lake-Geneva/111-Center-St-53147/unit-215/home/89495532,42.5890387,-88.4333233
+273,Single Family Residential,W138 North St,Cascade,WI,53011,175000,2,1.0,676,12196.0,1964.0,,http://www.redfin.com/WI/Cascade/W138-North-St-53011/home/57816200,43.685564,-88.16246600000001
+274,Single Family Residential,518 W River Front Dr,Glendale,WI,53217,249900,4,2.0,2013,40946.0,1933.0,,http://www.redfin.com/WI/River-Hills/W-River-Ct-53217/home/90289317,43.12748,-87.915809
+275,Single Family Residential,3136 Stephan Rd,Racine,WI,53402,259000,3,2.0,1521,11325.0,1998.0,,http://www.redfin.com/WI/Racine/3136-Stephan-Rd-53402/home/89764738,42.8067696,-87.81778349999999
+276,Single Family Residential,3709 4th Ave,South Milwaukee,WI,53172,189900,3,1.5,1858,9583.0,1959.0,,http://www.redfin.com/WI/South-Milwaukee/3709-4th-Ave-53172/home/90291915,42.8946886,-87.85065909999999
+277,Single Family Residential,N54W20799 Carters Crossing Cir,Menomonee Falls,WI,53051,715000,4,3.5,3776,18730.0,2006.0,50.0,http://www.redfin.com/WI/Menomonee-Falls/N54W20799-Carters-Crossing-Cir-53051/home/57703521,43.1163299,-88.16991329999999
+278,Single Family Residential,109 S Hills Dr,Plymouth,WI,53073,269900,3,2.0,1642,19602.0,1992.0,,http://www.redfin.com/WI/Plymouth/109-S-Hills-Dr-53073/home/90083159,43.7347834,-87.98282009999998
+279,Single Family Residential,219 South St,Plymouth,WI,53073,219900,4,1.5,1747,14810.0,1923.0,,http://www.redfin.com/WI/Plymouth/219-South-St-53073/home/57640229,43.743973499999996,-87.9706338
+280,Single Family Residential,3049 Mendota Dr,Summit,WI,53066,524990,3,2.0,2234,12196.0,2020.0,,http://www.redfin.com/WI/Oconomowoc/3049-Mendota-Dr-53066/home/172076294,43.0755916,-88.4487098
+281,Single Family Residential,7111 27th Ave,Kenosha,WI,53143,159900,3,2.0,1226,4791.0,1919.0,,http://www.redfin.com/WI/Kenosha/7111-27th-Ave-53143/home/89320720,42.569032299999996,-87.8413637
+282,Single Family Residential,2320 N County Road Gw,Oostburg,WI,53070,274900,4,4.0,1320,180774.0,1900.0,,http://www.redfin.com/WI/Oostburg/2320-County-Road-GW-53070/home/170493921,43.6239992,-87.8896903
+283,Single Family Residential,536 N 112th St,Wauwatosa,WI,53226,309900,4,2.0,1707,8712.0,1941.0,,http://www.redfin.com/WI/Wauwatosa/536-N-112th-St-53226/home/58013354,43.0372221,-88.05269270000001
+284,Single Family Residential,3757 N 5th St,Milwaukee,WI,53212,52500,2,1.0,968,4791.0,1922.0,,http://www.redfin.com/WI/Milwaukee/3757-N-5th-St-53212/home/57971360,43.0852007,-87.91644129999999
+285,Single Family Residential,430 Wilson Dr,Brookfield,WI,53005,359900,3,2.5,2230,21780.0,1961.0,,http://www.redfin.com/WI/Brookfield/430-Wilson-Dr-53005/home/57781690,43.0269381,-88.07265090000001
+286,Single Family Residential,5758 N 96th St,Milwaukee,WI,53225,144900,3,1.5,1040,5227.0,1958.0,,http://www.redfin.com/WI/Milwaukee/5758-N-96th-St-53225/home/90199202,43.122623100000006,-88.0317041

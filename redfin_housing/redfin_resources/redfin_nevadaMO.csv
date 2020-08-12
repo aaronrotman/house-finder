@@ -7,62 +7,38 @@
 5,Single Family Residential,1327 W Maple St,Nevada,MO,64772,81000,3.0,1.0,2170.0,32670.0,,,http://www.redfin.com/MO/Nevada/1327-W-Maple-St-64772/home/79949002,37.8343456,-94.3734713
 6,Single Family Residential,823 N Washington St,Nevada,MO,64772,260000,5.0,2.5,5400.0,41382.0,1890.0,,http://www.redfin.com/MO/Nevada/823-N-Washington-St-64772/home/79942831,37.84575220000001,-94.35493879999999
 7,Single Family Residential,501 N Tower St,Nevada,MO,64772,32500,2.0,2.0,1292.0,14374.0,1905.0,,http://www.redfin.com/MO/Nevada/501-N-Tower-St-64772/home/79948411,37.8428792,-94.3729232
-8,Vacant Land,25670 S 1425 Rd,Nevada,MO,64772,285000,,,,5183640.0,,,http://www.redfin.com/MO/Nevada/25670-S-1425-Rd-64772/home/79947033,37.795062,-94.380347
-9,Single Family Residential,16222 E Panama Rd,Nevada,MO,64772,256900,4.0,3.0,2608.0,130680.0,2015.0,,http://www.redfin.com/MO/Nevada/16222-E-Panama-Rd-64772/home/109462661,37.821329999999996,-94.3426542
-10,Single Family Residential,419 W Cherry St,Nevada,MO,64772,81500,2.0,1.0,1224.0,,1880.0,,http://www.redfin.com/MO/Nevada/419-W-Cherry-St-64772/home/79943582,37.8380963,-94.3614308
-11,Single Family Residential,931 N Commercial St,Nevada,MO,64772,126500,2.0,1.0,1134.0,,2020.0,,http://www.redfin.com/MO/Nevada/931-N-Commercial-St-64772/home/79941997,37.846794200000005,-94.3497385
-12,Single Family Residential,921 Commercial St,Nevada,MO,64772,126500,2.0,1.0,1134.0,,2020.0,,http://www.redfin.com/MO/Nevada/921-N-Commercial-St-64772/home/172501590,37.846669299999995,-94.3498118
-13,Single Family Residential,20742 S 1600 Rd,Nevada,MO,64772,262500,2.0,1.5,2436.0,1550736.0,1975.0,,http://www.redfin.com/MO/Nevada/20742-S-1600-Rd-64772/home/79937185,37.7822479,-94.348692
-14,Single Family Residential,19205 E Overland Rd,Nevada,MO,64772,248900,3.0,2.0,1485.0,914760.0,2017.0,,http://www.redfin.com/MO/Nevada/19205-E-Overland-Rd-64772/home/79946453,37.82920120000001,-94.2863951
-15,Single Family Residential,12657 E Oliver Pass N/A,Nevada,MO,64772,214900,4.0,2.0,2204.0,142876.0,1997.0,50.0,http://www.redfin.com/MO/Nevada/12657-E-Oliver-Pass-64772/home/79941946,37.8372692,-94.4083004
-16,Single Family Residential,18860 S 1485 Rd,Nevada,MO,64772,299900,4.0,2.5,2400.0,33541.0,1992.0,,http://www.redfin.com/MO/Nevada/18860-S-1485-Rd-64772/home/79949445,37.810194700000004,-94.3701118
-17,Vacant Land,Lot 5 Willow Cir,Nevada,MO,64772,10900,,,,26136.0,,,http://www.redfin.com/MO/Nevada/Lot-5-Willow-Cir-64772/home/172182766,37.8619838,-94.3722267
-18,Vacant Land,Lot 4 Willow Cir,Nevada,MO,64772,14800,,,,34848.0,,,http://www.redfin.com/MO/Nevada/Lot-4-Willow-Cir-64772/home/172182101,37.8619838,-94.3722267
-19,Single Family Residential,1412 N Ash St,Nevada,MO,64772,70000,4.0,2.0,1649.0,,1952.0,,http://www.redfin.com/MO/Nevada/1412-N-Ash-St-64772/home/79944714,37.8528905,-94.3584108
-20,Vacant Land,Hickory St,Nevada,MO,64772,14000,,,,,,,http://www.redfin.com/MO/Nevada/W-Hickory-St-64772/home/111970789,37.8428679,-94.367626
-21,Single Family Residential,820 W Walnut St,Nevada,MO,64772,46900,3.0,2.0,1451.0,10454.0,1880.0,,http://www.redfin.com/MO/Nevada/820-W-Walnut-St-64772/home/79948370,37.839627,-94.3661025
-22,Vacant Land,21130 S 1400 Rd,Nevada,MO,64772,83000,,,,1446192.0,,,http://www.redfin.com/MO/Nevada/21130-S-1400-Rd-64772/home/171169617,37.832673,-94.382482
-23,Single Family Residential,1107 N Lynn St,Nevada,MO,64772,155900,3.0,2.0,1849.0,13503.0,1975.0,,http://www.redfin.com/MO/Nevada/1107-N-Lynn-St-64772/home/79942587,37.849703600000005,-94.35245859999999
-24,Vacant Land,Country Club Dr,Nevada,MO,64772,39900,,,,,,,http://www.redfin.com/MO/Nevada/Country-Club-Dr-64772/home/79948769,37.820782799999996,-94.3670443
-25,Multi-Family (2-4 Unit),426 W Austin Blvd,Nevada,MO,64772,104900,5.0,3.0,2814.0,,1900.0,,http://www.redfin.com/MO/Nevada/426-W-Austin-Blvd-64772/home/79943594,37.8375685,-94.3614068
-26,Single Family Residential,127 S Clay St,Nevada,MO,64772,94900,3.0,2.0,1734.0,,1893.0,,http://www.redfin.com/MO/Nevada/127-S-Clay-St-64772/home/79943581,37.837528000000006,-94.36169170000001
-27,Single Family Residential,15877 S 1447 Rd,Nevada,MO,64772,425000,4.0,3.5,4500.0,78408.0,2017.0,,http://www.redfin.com/MO/Nevada/15877-S-1447-Rd-64772/home/79940451,37.8535508,-94.3716298
-28,Single Family Residential,1904 N Elm St,Nevada,MO,64772,179900,3.0,2.0,1305.0,,2002.0,,http://www.redfin.com/MO/Nevada/1904-N-Elm-St-64772/home/79944414,37.858829899999996,-94.3497663
-29,Single Family Residential,403 S Ash St,Nevada,MO,64772,27500,2.0,1.5,1626.0,,1890.0,,http://www.redfin.com/MO/Nevada/403-S-Ash-St-64772/home/79935395,37.8350989,-94.3592683
-30,Single Family Residential,1006 W Floral St,Nevada,MO,64772,82500,3.0,1.0,912.0,10454.0,1968.0,,http://www.redfin.com/MO/Nevada/1006-W-Floral-St-64772/home/79945750,37.8494827,-94.3669065
-31,Single Family Residential,2253 S Stonegate Dr,Nevada,MO,64772,244900,3.0,2.0,2000.0,8712.0,2016.0,65.0,http://www.redfin.com/MO/Nevada/2253-Stonegate-Dr-64772/home/79949389,37.8134749,-94.3700798
-32,Vacant Land,E Stockade & 1500 Rd Rd,Nevada,MO,64772,120952,,,,2108304.0,,,http://www.redfin.com/MO/Center-Township/E-Stockade-Rd-64772/home/79937193,37.7792109,-94.379373
-33,Single Family Residential,521 W Atlantic St,Nevada,MO,64772,109900,3.0,2.0,2352.0,11325.0,1960.0,,http://www.redfin.com/MO/Nevada/521-W-Atlantic-St-64772/home/79942969,37.8509411,-94.3613819
-34,Single Family Residential,507 S Prewitt St,Nevada,MO,64772,129900,3.0,2.5,1892.0,7405.0,1984.0,50.0,http://www.redfin.com/MO/Nevada/507-S-Prewitt-Ln-64772/home/79949027,37.8335157,-94.37657490000001
-35,Single Family Residential,1311 N Washington St,Nevada,MO,64772,37000,3.0,1.5,1279.0,,1925.0,,http://www.redfin.com/MO/Nevada/1311-N-Washington-St-64772/home/79939584,37.8516996,-94.3547696
-36,Vacant Land,100 E Atlantic St,Nevada,MO,64772,12500,,,,,,,http://www.redfin.com/MO/Nevada/100-E-Atlantic-St-64772/home/79942627,37.8507829,-94.3559338
-37,Single Family Residential,18876 S 1300 Rd,Nevada,MO,64772,245000,3.0,2.0,1464.0,,,,http://www.redfin.com/MO/Nevada/18876-1300-Rd-64772/home/171244070,37.8109946,-94.40252480000001
-38,Single Family Residential,503 W Cherry St,Nevada,MO,64772,169900,4.0,3.5,3058.0,12632.0,1918.0,,http://www.redfin.com/MO/Nevada/503-W-Cherry-St-64772/home/79943342,37.83818370000001,-94.36195179999999
-39,Vacant Land,2040 N Industrial Pkwy,Nevada,MO,64772,240000,,,,968338.0,,,http://www.redfin.com/MO/Nevada/2040-Industrial-Pkwy-64772/home/171169622,37.8644356,-94.3436722
-40,Ranch,S BB Hwy,Nevada,MO,64772,142708,,,,1553785.0,,,http://www.redfin.com/MO/Nevada/State-Highway-BB-64772/home/112469050,37.76892470000001,-94.3677964
-41,Vacant Land,Lot 23 Hillcrest Dr,Nevada,MO,64772,9750,,,,15245.0,,,http://www.redfin.com/MO/Nevada/23-Hillcrest-Dr-64772/home/172560871,37.8165778,-94.3630543
-42,Vacant Land,Lot 8 Hillcrest Dr,Nevada,MO,64772,9750,,,,15681.0,,,http://www.redfin.com/MO/Nevada/Lot-8-Hillcrest-Dr-64772/home/172561415,37.8167187,-94.36253609999999
-43,Ranch,E 54 Hwy,Deerfield,MO,64741,175000,,,,2178000.0,,,http://www.redfin.com/MO/Deerfield/7490-E-54-Hwy-64741/home/171169577,37.8402874,-94.501047
-44,Vacant Land,S 1550 Rd,Nevada,MO,64772,72000,,,,139392.0,,,http://www.redfin.com/MO/Nevada/Road-64772/home/79936053,37.8375,-94.3508
-45,Vacant Land,E Pawhuska Rd,Nevada,MO,64772,47000,,,,142876.0,,,http://www.redfin.com/MO/Nevada/E-Pawhuska-Rd-64772/home/79934951,37.8375,-94.3508
-46,Vacant Land,10/11 Hillcrest Dr,Nevada,MO,64772,9670,,,,42688.0,,,http://www.redfin.com/MO/Nevada/10-11-Hillcrest-Dr-64772/home/171169565,37.8167187,-94.36253609999999
-47,Vacant Land,E Maple,Nevada,MO,64772,10400,,,,38332.0,,,http://www.redfin.com/MO/Nevada/E-Maple-St-64772/home/171169564,37.834066,-94.35232590000001
-48,Vacant Land,324 N Mac Blvd,Nevada,MO,64772,50000,,,,65340.0,,,http://www.redfin.com/MO/Nevada/324-Mac-Blvd-64772/home/172559652,37.8384469,-94.3292684
-49,Vacant Land,E Liberty,Nevada,MO,64772,12500,,,,43560.0,,,http://www.redfin.com/MO/NEVADA/E-LIBERTY-RD-64772/home/79944442,37.8375,-94.3508
-50,Vacant Land,Lot 4 Deer Run,Nevada,MO,64772,19900,,,,18295.0,,10.0,http://www.redfin.com/MO/Nevada/4-Deer-Run-Dr-64772/home/172561068,37.8177125,-94.36297370000001
-51,Vacant Land,Lot 2 Deer Run,Nevada,MO,64772,19900,,,,18295.0,,10.0,http://www.redfin.com/MO/Nevada/2-Deer-Run-Dr-64772/home/172561521,37.8177125,-94.36297490000001
-52,Vacant Land,E Prairie Ln,Nevada,MO,64772,17500,,,,109771.0,,,http://www.redfin.com/MO/Center-Township/E-Pony-Hill-Rd-64772/home/79936347,37.809693200000005,-94.3632199
-53,Vacant Land,E Berry,Nevada,MO,64772,9999,,,,40510.0,,,http://www.redfin.com/MO/NEVADA/E-BERRY-ST-64772/home/79944937,37.8375,-94.3508
-54,Vacant Land,2XX S Indiana,Nevada,MO,64772,145000,,,,63162.0,,,http://www.redfin.com/MO/Nevada/2XX-S-Indiana-St-64772/home/172559929,37.835758399999996,-94.3395229
-55,Vacant Land,N Centennial Blvd. Hwy,Nevada,MO,64772,99000,,,,57063.0,,,http://www.redfin.com/MO/Nevada/324-N-Centennial-Blvd-64772/home/171421246,37.8401215,-94.34040490000001
-56,Single Family Residential,12617 E Osage Nation Rd,Nevada,MO,64772,224900,5.0,4.0,2780.0,66211.0,1997.0,50.0,http://www.redfin.com/MO/Nevada/E-Osage-Nation-Rd-64772/home/79941998,37.834552,-94.409775
-57,Single Family Residential,Bluff,Other,MO,64772,59900,2.0,1.0,1056.0,43560.0,1965.0,,http://www.redfin.com/MO/Nevada/Bluff-64772/home/171169414,37.835289200000005,-94.3359635
-58,Single Family Residential,107 Country Club Dr,Nevada,MO,64772,327500,3.0,3.0,3000.0,14374.0,2004.0,,http://www.redfin.com/MO/Nevada/107-Country-Club-Dr-64772/home/79948758,37.822663,-94.36768990000002
-59,Single Family Residential,707 W Burton St,Nevada,MO,64772,82000,2.0,1.0,1144.0,,1955.0,,http://www.redfin.com/MO/Nevada/707-W-Burton-St-64772/home/171169404,37.8276807,-94.36602380000001
-60,Single Family Residential,10751 S 1513 Pass Rd,Nevada,MO,64772,215000,3.0,2.0,3134.0,2265120.0,1980.0,,http://www.redfin.com/MO/Nevada/10751-S-1513-Pass-64772/home/79934095,37.9278251,-94.353109
-61,Single Family Residential,226 W Arch St,Nevada,MO,64772,99900,5.0,1.0,3413.0,10018.0,1884.0,,http://www.redfin.com/MO/Nevada/226-W-Arch-St-64772/home/79936015,37.836265000000004,-94.3584135
-62,Single Family Residential,515 N Tower St,Nevada,MO,64772,37500,3.0,1.0,1305.0,16117.0,1955.0,,http://www.redfin.com/MO/Nevada/515-N-Tower-St-64772/home/79948404,37.84366179999999,-94.372904
-63,Single Family Residential,13711 E Neosho Rd,Nevada,MO,64772,134900,3.0,2.0,1380.0,26136.0,1993.0,,http://www.redfin.com/MO/Nevada/13711-E-Neosho-Rd-64772/home/79948038,37.8487727,-94.3884934
-64,Single Family Residential,19755 S 1425 Rd,Nevada,MO,64772,775000,6.0,5.5,7500.0,1197900.0,1990.0,,http://www.redfin.com/MO/Nevada/19755-S-1425-Rd-64772/home/79949557,37.7971594,-94.3779202
-65,Single Family Residential,704 W Burton St,Nevada,MO,64772,94500,2.0,1.0,1964.0,,1955.0,,http://www.redfin.com/MO/Nevada/704-W-Burton-St-64772/home/79948640,37.8273113,-94.365402
-66,Single Family Residential,318 E Hickory St,Nevada,MO,64772,60000,3.0,1.5,1891.0,,1905.0,,http://www.redfin.com/MO/Nevada/318-E-Hickory-St-64772/home/79943806,37.842443700000004,-94.3535224
+8,Single Family Residential,16222 E Panama Rd,Nevada,MO,64772,256900,4.0,3.0,2608.0,130680.0,2015.0,,http://www.redfin.com/MO/Nevada/16222-E-Panama-Rd-64772/home/109462661,37.821329999999996,-94.3426542
+9,Single Family Residential,419 W Cherry St,Nevada,MO,64772,81500,2.0,1.0,1224.0,,1880.0,,http://www.redfin.com/MO/Nevada/419-W-Cherry-St-64772/home/79943582,37.8380963,-94.3614308
+10,Single Family Residential,931 N Commercial St,Nevada,MO,64772,126500,2.0,1.0,1134.0,,2020.0,,http://www.redfin.com/MO/Nevada/931-N-Commercial-St-64772/home/79941997,37.846794200000005,-94.3497385
+11,Single Family Residential,921 Commercial St,Nevada,MO,64772,126500,2.0,1.0,1134.0,,2020.0,,http://www.redfin.com/MO/Nevada/921-N-Commercial-St-64772/home/172501590,37.846669299999995,-94.3498118
+12,Single Family Residential,20742 S 1600 Rd,Nevada,MO,64772,262500,2.0,1.5,2436.0,1550736.0,1975.0,,http://www.redfin.com/MO/Nevada/20742-S-1600-Rd-64772/home/79937185,37.7822479,-94.348692
+13,Single Family Residential,19205 E Overland Rd,Nevada,MO,64772,248900,3.0,2.0,1485.0,914760.0,2017.0,,http://www.redfin.com/MO/Nevada/19205-E-Overland-Rd-64772/home/79946453,37.82920120000001,-94.2863951
+14,Single Family Residential,12657 E Oliver Pass N/A,Nevada,MO,64772,214900,4.0,2.0,2204.0,142876.0,1997.0,50.0,http://www.redfin.com/MO/Nevada/12657-E-Oliver-Pass-64772/home/79941946,37.8372692,-94.4083004
+15,Single Family Residential,18860 S 1485 Rd,Nevada,MO,64772,299900,4.0,2.5,2400.0,33541.0,1992.0,,http://www.redfin.com/MO/Nevada/18860-S-1485-Rd-64772/home/79949445,37.810194700000004,-94.3701118
+16,Single Family Residential,1412 N Ash St,Nevada,MO,64772,70000,4.0,2.0,1649.0,,1952.0,,http://www.redfin.com/MO/Nevada/1412-N-Ash-St-64772/home/79944714,37.8528905,-94.3584108
+17,Single Family Residential,820 W Walnut St,Nevada,MO,64772,46900,3.0,2.0,1451.0,10454.0,1880.0,,http://www.redfin.com/MO/Nevada/820-W-Walnut-St-64772/home/79948370,37.839627,-94.3661025
+18,Single Family Residential,1107 N Lynn St,Nevada,MO,64772,155900,3.0,2.0,1849.0,13503.0,1975.0,,http://www.redfin.com/MO/Nevada/1107-N-Lynn-St-64772/home/79942587,37.849703600000005,-94.35245859999999
+19,Single Family Residential,127 S Clay St,Nevada,MO,64772,94900,3.0,2.0,1734.0,,1893.0,,http://www.redfin.com/MO/Nevada/127-S-Clay-St-64772/home/79943581,37.837528000000006,-94.36169170000001
+20,Single Family Residential,15877 S 1447 Rd,Nevada,MO,64772,425000,4.0,3.5,4500.0,78408.0,2017.0,,http://www.redfin.com/MO/Nevada/15877-S-1447-Rd-64772/home/79940451,37.8535508,-94.3716298
+21,Single Family Residential,1904 N Elm St,Nevada,MO,64772,179900,3.0,2.0,1305.0,,2002.0,,http://www.redfin.com/MO/Nevada/1904-N-Elm-St-64772/home/79944414,37.858829899999996,-94.3497663
+22,Single Family Residential,403 S Ash St,Nevada,MO,64772,27500,2.0,1.5,1626.0,,1890.0,,http://www.redfin.com/MO/Nevada/403-S-Ash-St-64772/home/79935395,37.8350989,-94.3592683
+23,Single Family Residential,1006 W Floral St,Nevada,MO,64772,82500,3.0,1.0,912.0,10454.0,1968.0,,http://www.redfin.com/MO/Nevada/1006-W-Floral-St-64772/home/79945750,37.8494827,-94.3669065
+24,Single Family Residential,2253 S Stonegate Dr,Nevada,MO,64772,244900,3.0,2.0,2000.0,8712.0,2016.0,65.0,http://www.redfin.com/MO/Nevada/2253-Stonegate-Dr-64772/home/79949389,37.8134749,-94.3700798
+25,Single Family Residential,521 W Atlantic St,Nevada,MO,64772,109900,3.0,2.0,2352.0,11325.0,1960.0,,http://www.redfin.com/MO/Nevada/521-W-Atlantic-St-64772/home/79942969,37.8509411,-94.3613819
+26,Single Family Residential,507 S Prewitt St,Nevada,MO,64772,129900,3.0,2.5,1892.0,7405.0,1984.0,50.0,http://www.redfin.com/MO/Nevada/507-S-Prewitt-Ln-64772/home/79949027,37.8335157,-94.37657490000001
+27,Single Family Residential,1311 N Washington St,Nevada,MO,64772,37000,3.0,1.5,1279.0,,1925.0,,http://www.redfin.com/MO/Nevada/1311-N-Washington-St-64772/home/79939584,37.8516996,-94.3547696
+28,Single Family Residential,18876 S 1300 Rd,Nevada,MO,64772,245000,3.0,2.0,1464.0,,,,http://www.redfin.com/MO/Nevada/18876-1300-Rd-64772/home/171244070,37.8109946,-94.40252480000001
+29,Single Family Residential,503 W Cherry St,Nevada,MO,64772,169900,4.0,3.5,3058.0,12632.0,1918.0,,http://www.redfin.com/MO/Nevada/503-W-Cherry-St-64772/home/79943342,37.83818370000001,-94.36195179999999
+30,Ranch,S BB Hwy,Nevada,MO,64772,142708,,,,1553785.0,,,http://www.redfin.com/MO/Nevada/State-Highway-BB-64772/home/112469050,37.76892470000001,-94.3677964
+31,Ranch,E 54 Hwy,Deerfield,MO,64741,175000,,,,2178000.0,,,http://www.redfin.com/MO/Deerfield/7490-E-54-Hwy-64741/home/171169577,37.8402874,-94.501047
+32,Single Family Residential,12617 E Osage Nation Rd,Nevada,MO,64772,224900,5.0,4.0,2780.0,66211.0,1997.0,50.0,http://www.redfin.com/MO/Nevada/E-Osage-Nation-Rd-64772/home/79941998,37.834552,-94.409775
+33,Single Family Residential,Bluff,Other,MO,64772,59900,2.0,1.0,1056.0,43560.0,1965.0,,http://www.redfin.com/MO/Nevada/Bluff-64772/home/171169414,37.835289200000005,-94.3359635
+34,Single Family Residential,107 Country Club Dr,Nevada,MO,64772,327500,3.0,3.0,3000.0,14374.0,2004.0,,http://www.redfin.com/MO/Nevada/107-Country-Club-Dr-64772/home/79948758,37.822663,-94.36768990000002
+35,Single Family Residential,707 W Burton St,Nevada,MO,64772,82000,2.0,1.0,1144.0,,1955.0,,http://www.redfin.com/MO/Nevada/707-W-Burton-St-64772/home/171169404,37.8276807,-94.36602380000001
+36,Single Family Residential,10751 S 1513 Pass Rd,Nevada,MO,64772,215000,3.0,2.0,3134.0,2265120.0,1980.0,,http://www.redfin.com/MO/Nevada/10751-S-1513-Pass-64772/home/79934095,37.9278251,-94.353109
+37,Single Family Residential,226 W Arch St,Nevada,MO,64772,99900,5.0,1.0,3413.0,10018.0,1884.0,,http://www.redfin.com/MO/Nevada/226-W-Arch-St-64772/home/79936015,37.836265000000004,-94.3584135
+38,Single Family Residential,515 N Tower St,Nevada,MO,64772,37500,3.0,1.0,1305.0,16117.0,1955.0,,http://www.redfin.com/MO/Nevada/515-N-Tower-St-64772/home/79948404,37.84366179999999,-94.372904
+39,Single Family Residential,13711 E Neosho Rd,Nevada,MO,64772,134900,3.0,2.0,1380.0,26136.0,1993.0,,http://www.redfin.com/MO/Nevada/13711-E-Neosho-Rd-64772/home/79948038,37.8487727,-94.3884934
+40,Single Family Residential,19755 S 1425 Rd,Nevada,MO,64772,775000,6.0,5.5,7500.0,1197900.0,1990.0,,http://www.redfin.com/MO/Nevada/19755-S-1425-Rd-64772/home/79949557,37.7971594,-94.3779202
+41,Single Family Residential,704 W Burton St,Nevada,MO,64772,94500,2.0,1.0,1964.0,,1955.0,,http://www.redfin.com/MO/Nevada/704-W-Burton-St-64772/home/79948640,37.8273113,-94.365402
+42,Single Family Residential,318 E Hickory St,Nevada,MO,64772,60000,3.0,1.5,1891.0,,1905.0,,http://www.redfin.com/MO/Nevada/318-E-Hickory-St-64772/home/79943806,37.842443700000004,-94.3535224

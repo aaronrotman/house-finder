@@ -55,7 +55,7 @@ Alabama,Brighton,2945,middle
 Alabama,Brilliant,900,small
 Alabama,Brookside,1363,small
 Alabama,Brookwood,1828,small
-Alabama,Brownsboro,3205,small
+Alabama,Brownsboro,3205,middle
 Alabama,Brundidge,2076,small
 Alabama,Butler,1894,small
 Alabama,Calera,11620,middle
@@ -1023,7 +1023,7 @@ Arkansas,Louann,164,small
 Arkansas,Lowell,7327,middle
 Arkansas,Luxora,1178,small
 Arkansas,Lynn,288,small
-Arkansas,Mabelvale,12846,small
+Arkansas,Mabelvale,12846,middle
 Arkansas,Madison,769,small
 Arkansas,Magazine,847,small
 Arkansas,Magness,202,small
@@ -2041,35 +2041,31 @@ Colorado,Wray,2342,small
 Colorado,Yampa,429,small
 Colorado,Yuma,3524,middle
 Connecticut,Ansonia,19249,middle
+Connecticut,Avon,18302,middle
 Connecticut,Bantam borough,759,small
+Connecticut,Bethel,18584,middle
+Connecticut,Bloomfield,21301,middle
+Connecticut,Branford,28005,middle
+Connecticut,Brewster,2352,small
 Connecticut,Bridgeport,144229,large
 Connecticut,Bristol,60477,large
+Connecticut,Cos Cob,6770,middle
 Connecticut,Danbury,80893,large
 Connecticut,Danielson borough,4051,middle
+Connecticut,Darien,21753,middle
 Connecticut,Derby,12902,middle
+Connecticut,East Hartford,49998,middle
+Connecticut,East Haven,28699,middle
+Connecticut,Fairfield,62105,large
+Connecticut,Farmington,25340,middle
 Connecticut,Fenwick borough,43,small
+Connecticut,Greenwich,62396,large
 Connecticut,Groton,10389,middle
 Connecticut,Groton Long Point borough,518,small
+Connecticut,Hamden,60960,large
 Connecticut,Hartford,124775,large
 Connecticut,Jewett borough,3487,middle
 Connecticut,Litchfield borough,1258,small
-Connecticut,Meriden,60868,large
-Connecticut,Middletown,47648,middle
-Connecticut,Milford,51271,large
-Connecticut,Naugatuck borough,31862,middle
-Connecticut,New Britain,73206,large
-Connecticut,New Haven,129779,large
-Connecticut,New London,27620,middle
-Connecticut,Newtown borough,1941,small
-Connecticut,Norwalk,85603,large
-Connecticut,Norwich,40493,middle
-Connecticut,Shelton,39559,middle
-Connecticut,Stamford,122643,large
-Connecticut,Stonington borough,929,small
-Connecticut,Torrington,36383,middle
-Connecticut,Waterbury,110366,large
-Connecticut,West Haven,55564,large
-Connecticut,Woodmont borough,1488,small
 DC,Washington DC,601723,large
 Delaware,Arden village,439,small
 Delaware,Ardencroft village,231,small
@@ -9562,7 +9558,7 @@ Missouri,De Soto,6400,middle
 Missouri,De Witt,124,small
 Missouri,Dearborn,496,small
 Missouri,Deepwater,433,small
-Missouri,Deerfield village,81,small
+Missouri,Deerfield,81,small
 Missouri,Dellwood,5025,middle
 Missouri,Delta,438,small
 Missouri,Dennis Acres village,76,small
@@ -19143,7 +19139,7 @@ Wisconsin,Jefferson,7973,middle
 Wisconsin,Johnson Creek,2738,middle
 Wisconsin,Junction village,439,small
 Wisconsin,Juneau,2814,middle
-Wisconsin,Kansasville,2600,small
+Wisconsin,Kansasville,2600,middle
 Wisconsin,Kaukauna,15462,middle
 Wisconsin,Kekoskee village,161,small
 Wisconsin,Kellnersville village,332,small
@@ -19580,3 +19576,43 @@ Wyoming,Wheatland,3627,middle
 Wyoming,Worland,5487,middle
 Wyoming,Wright,1807,small
 Wyoming,Yoder,151,small
+Connecticut,Manchester,57699,large
+Connecticut,Meriden,60868,large
+Connecticut,Middletown,47648,middle
+Connecticut,Milford,51271,large
+Connecticut,Naugatuck borough,31862,middle
+Connecticut,New Britain,73206,large
+Connecticut,New Canaan,20213,middle
+Connecticut,New Haven,129779,large
+Connecticut,New London,27620,middle
+Connecticut,Newington,30112,middle
+Connecticut,Newtown,1941,small
+Connecticut,Newtown borough,1941,small
+Connecticut,North Branford,14158,middle
+Connecticut,North Haven,23691,middle
+Connecticut,Norwalk,85603,large
+Connecticut,Norwich,40493,middle
+Connecticut,Old Greenwich,6611,middle
+Connecticut,Orange,13956,middle
+Connecticut,Redding,9125,middle
+Connecticut,Ridgefield,24638,middle
+Connecticut,Riverside,8416,middle
+Connecticut,Shelton,39559,middle
+Connecticut,Simsbury,24978,middle
+Connecticut,Stamford,122643,large
+Connecticut,Stonington borough,929,small
+Connecticut,Stratford,52112,large
+Connecticut,Torrington,36383,middle
+Connecticut,Trumbull,35802,middle
+Connecticut,Waterbury,110366,large
+Connecticut,West Hartford,62939,large
+Connecticut,West Haven,55564,large
+Connecticut,Weston,10179,middle
+Connecticut,Westport,28115,middle
+Connecticut,Wethersfield,26082,middle
+Connecticut,Wilton,18397,middle
+Connecticut,Windsor,29044,middle
+Connecticut,Wolcott,16649,middle
+Connecticut,Woodbridge,8907,middle
+Connecticut,Woodmont borough,1488,small
+Arkansas,North Little Rock,62304,large
