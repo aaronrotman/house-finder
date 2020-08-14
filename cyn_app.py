@@ -51,7 +51,7 @@ def user_inputs():
             """)
 
 
-        return redirect(request.url)
+        return redirect("/results")
 
     return render_template("index.html")
 
