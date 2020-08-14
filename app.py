@@ -22,8 +22,8 @@ def user_inputs():
         bedrooms = req["bedrooms"]
         bathrooms = req["bathrooms"]
         yard = req["yard"]
-    
-
+        # Array of user inputs
+        input_array = [summer_temp, winter_temp, city_size, house_size, budget, bedrooms, bathrooms, yard]
         print(
             f"""
             Form submitted:\n
@@ -36,21 +36,14 @@ def user_inputs():
             Bathrooms: {bathrooms}\n
             Yard: {yard}\n 
             """)
-
-
-        return redirect(request.url)
-    
-    
-
+        
+        get_table_data = the_magic.make_prediction(input_array)
+        mytable = get_table_data.to_html(classes="results table table-striped")
+        return render_template('display_results.html',  table=mytable , titles=get_table_data.columns.values)
+       
     return render_template("index.html")
 
-@app.route("/results", methods=("POST", "GET"))
 
-def create_table():
-    get_table_data = the_magic.run_ml()
-    mytable = get_table_data.to_html(classes="results")
-    return render_template('display_results.html',  table=mytable , titles=get_table_data.columns.values)
-       
     
     
 #     return render_template('simple.html',  tables=[results_df.to_html(classes="results")], titles=results_df.columns.values)
