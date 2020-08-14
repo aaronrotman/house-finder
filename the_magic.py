@@ -1,4 +1,4 @@
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neighbors import NearestNeighbors
 import pandas as pd
@@ -13,67 +13,96 @@ from sklearn.preprocessing import StandardScaler
 import warnings
 warnings.simplefilter('ignore')
 import numpy as np
-import csv
 
-housing_training_data = pd.read_csv("housing_training_data.csv", encoding='utf-8')
-
-
-X = housing_training_data[['price', "beds", 'baths', "square_feet", "lot_size", 'hoa_permonth', "Summer Temp", "Winter Temp", "population"]]
-# print(X.shape)
-
-
-data = X.copy()
-
-# scaling the data
-from sklearn.preprocessing import StandardScaler
-X_scaler = StandardScaler().fit(X)
-X_train_scaled = X_scaler.transform(X)
-
-# run the ML model w/ clusters
-kmeans = KMeans(n_clusters=16)
-kmeans.fit(X)
-predicted_clusters = kmeans.predict(X)
-
-# turn dataframe into an array of arrays for ML Model
-Xlist = X.to_numpy()
-Xlist
-
-kmeans.fit(Xlist)
-
-# need to change Xlist to the user input variable
-predicted_clusters = kmeans.predict(Xlist)
-
-predicted_clusters
-# Print the cluster centers and cluster labels
-centers = kmeans.cluster_centers_
-labels = kmeans.labels_
-# centers
+def run_ml():
+# importing data
+    housing_training_data = pd.read_csv("housing_training_data.csv")
+    house_data_for_results = pd.read_csv("combination_data/housing_complete_data.csv")
+    X = housing_training_data[['price', "beds", 'baths', "square_feet", "lot_size", 'hoa_permonth', "Summer Temp", "Winter Temp", "population"]]
+    data = X.copy()
+    from sklearn.model_selection import train_test_split
+    X_train, X_test= train_test_split(X, random_state=42)
+    from sklearn.preprocessing import StandardScaler
+    X_scaler = StandardScaler().fit(X)
+    X_train_scaled = X_scaler.transform(X)
+    kmeans = KMeans(n_clusters=200)
+    kmeans.fit(X)
+    predicted_clusters = kmeans.predict(X)
+    Xlist = X.to_numpy()
 
 
-cat = kmeans.predict(Xlist[0].reshape(1, -1))
+    # ### HERE BEGINS THE MAGIC unsupervised cluster 
+    kmeans.fit(Xlist)
+    predicted_clusters = kmeans.predict(Xlist)
+    # Print the cluster centers and cluster labels
+    # centers = kmeans.cluster_centers_
+    # labels = kmeans.labels_
+    cat = kmeans.predict(Xlist[0].reshape(1, -1))
+    house_list = []
 
-# checking the results of the models
-# Xlist[0]
-# Xlist[1]
+    for i in range(4000):
+        if kmeans.predict(Xlist[i].reshape(1, -1)) == cat:
+    #         print (housing_training_data.iloc[i])
+    #         print (housing_training_data.house_id[i])
+            house_list.append(housing_training_data.house_id[i])
+    #         print (Xlist[i])
+    #         print (kmeans.predict(Xlist[i].reshape(1, -1)))
+            
+        
+    results_df = house_data_for_results[house_data_for_results["house_id"].isin(house_list)]
 
-# X
+    return results_df
 
-# putting the results into a list to push to the front end
-house_list = []
+# results_df.to_html(classes="results")
+def make_prediction(input_array):
+    # Change this to load saved model
+    # importing data
+    housing_training_data = pd.read_csv("housing_training_data.csv")
+    house_data_for_results = pd.read_csv("combination_data/housing_complete_data.csv")
+    X = housing_training_data[["Summer Temp", "Winter Temp", "pop_cat_hot", "square_feet", 'price', "beds", 'baths', "lot_size_hot"]]
+    data = X.copy()
+    from sklearn.model_selection import train_test_split
+    X_train, X_test= train_test_split(X, random_state=42)
+    from sklearn.preprocessing import StandardScaler
+    X_scaler = StandardScaler().fit(X)
+    X_train_scaled = X_scaler.transform(X)
+    kmeans = KMeans(n_clusters=200)
+    kmeans.fit(X)
+    predicted_clusters = kmeans.predict(X)
+    Xlist = X.to_numpy()
+    # Convert string input to number
+    if input_array[2] == "Small Town":
+        input_array[2] = 0
+    elif input_array[2] == "Medium City":
+        input_array[2] = 1
+    else:
+        input_array[2] = 2
 
-for i in range(4000):
-    if kmeans.predict(Xlist[i].reshape(1, -1)) == cat:
-        results_objects = housing_training_data.iloc[i]
-        # print (housing_training_data.house_id[i])
-        house_list.append(housing_training_data.house_id[i])
-        # print (Xlist[i])
-        # print (kmeans.predict(Xlist[i].reshape(1, -1)))
-        # print(results_objects)
+    # Yard Size
+    if input_array[7] == "Yes":
+        input_array[7] = 1
+    else:
+        input_array[7] = 0
 
-print(house_list)
-print(results_objects[0])
+    # ### HERE BEGINS THE MAGIC unsupervised cluster 
+    kmeans.fit(Xlist)
+    predicted_clusters = kmeans.predict(Xlist)
+    # Print the cluster centers and cluster labels
+    # centers = kmeans.cluster_centers_
+    # labels = kmeans.labels_
+    cat = kmeans.predict(np.array(input_array).reshape(1, -1))
+    house_list = []
 
-# send house list to front end...
-house_data_for_results = pd.read_csv("combination_data/housing_complete_data.csv")
-results_df = house_data_for_results[house_data_for_results["house_id"].isin(house_list)]
-results_df.to_html('results_table.html')
+    for i in range(4000):
+        if kmeans.predict(Xlist[i].reshape(1, -1)) == cat:
+    #         print (housing_training_data.iloc[i])
+    #         print (housing_training_data.house_id[i])
+            house_list.append(housing_training_data.house_id[i])
+    #         print (Xlist[i])
+    #         print (kmeans.predict(Xlist[i].reshape(1, -1)))
+            
+        
+    results_df = house_data_for_results[house_data_for_results["house_id"].isin(house_list)]
+
+    return results_df
+    

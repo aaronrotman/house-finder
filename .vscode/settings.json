@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/cynthiakellogg/opt/anaconda3/envs/PythonAdv/bin/python"
+    "python.pythonPath": "/Users/cynthiakellogg/opt/anaconda3/envs/PythonData/bin/python",
+    "liveServer.settings.port": 5502
 }
