@@ -17,27 +17,17 @@ import numpy as np
 
 # importing data
 housing_training_data = pd.read_csv("housing_training_data.csv")
-
 house_data_for_results = pd.read_csv("combination_data/housing_complete_data.csv")
-
 X = housing_training_data[['price', "beds", 'baths', "square_feet", "lot_size", 'hoa_permonth', "Summer Temp", "Winter Temp", "population"]]
-
 data = X.copy()
-
 from sklearn.model_selection import train_test_split
 X_train, X_test= train_test_split(X, random_state=42)
-
 from sklearn.preprocessing import StandardScaler
 X_scaler = StandardScaler().fit(X)
-
 X_train_scaled = X_scaler.transform(X)
-
 kmeans = KMeans(n_clusters=200)
-
 kmeans.fit(X)
-
 predicted_clusters = kmeans.predict(X)
-
 Xlist = X.to_numpy()
 
 

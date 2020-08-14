@@ -42,10 +42,12 @@ def user_inputs():
     return render_template("index.html")
 
 # Route that renders the ML Results
-@app.route("/results", methods=("POST", "GET"))
+# @app.route("/results", methods=("POST", "GET"))
 
-def html_table():
-    return render_template('simple.html',  tables=[results_df.to_html(classes="results")], titles=results_df.columns.values)
+# def html_table():
+    
+    
+#     return render_template('simple.html',  tables=[results_df.to_html(classes="results")], titles=results_df.columns.values)
 
 if __name__ == "__main__":
     app.run(debug=True)
