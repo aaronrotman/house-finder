@@ -1,5 +1,6 @@
 # Dependencies
 from flask import Flask, render_template, request, redirect
+import pandas as pd
 
 # Create instance of Flask app
 app = Flask(__name__)
@@ -39,6 +40,12 @@ def user_inputs():
         return redirect(request.url)
 
     return render_template("index.html")
+
+# Route that renders the ML Results
+@app.route("/results", methods=("POST", "GET"))
+
+def html_table():
+    return render_template('simple.html',  tables=[results_df.to_html(classes="results")], titles=results_df.columns.values)
 
 if __name__ == "__main__":
     app.run(debug=True)
