@@ -66,7 +66,7 @@ def make_prediction(input_array):
     from sklearn.preprocessing import StandardScaler
     X_scaler = StandardScaler().fit(X)
     # X_train_scaled = X_scaler.transform(X)
-    kmeans = KMeans(n_clusters=200)
+    kmeans = KMeans(n_clusters=400)
     kmeans.fit(X)
     # predicted_clusters = kmeans.predict(X)
     Xlist = X.to_numpy()
@@ -93,7 +93,7 @@ def make_prediction(input_array):
     cat = kmeans.predict(np.array(input_array).reshape(1, -1))
     house_list = []
 
-    for i in range(4000):
+    for i in range(len(housing_training_data)):
         if kmeans.predict(Xlist[i].reshape(1, -1)) == cat:
     #         print (housing_training_data.iloc[i])
     #         print (housing_training_data.house_id[i])
