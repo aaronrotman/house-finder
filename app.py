@@ -2,6 +2,7 @@
 from flask import Flask, render_template, request, redirect
 import pandas as pd
 import the_magic
+import time
 
 # Create instance of Flask app
 app = Flask(__name__)
@@ -9,8 +10,11 @@ app = Flask(__name__)
 # Route that renders the welcome page and receives user inputs
 @app.route("/", methods=["GET", "POST"])
 def user_inputs():
+    app.logger.debug('user_inputs() called.')
 
     if request.method == "POST":
+        post_start_time = time.perf_counter()
+        app.logger.debug('POST request received.')
 
         req = request.form
 
@@ -39,7 +43,11 @@ def user_inputs():
         
         get_table_data = the_magic.make_prediction(input_array)
         mytable = get_table_data.to_html(classes="results table table-striped")
+        post_end_time = time.perf_counter()
+        time_spent_processing_post_request = post_end_time - post_start_time
+        app.logger.debug("Spent " + str(time_spent_processing_post_request) + " seconds processing POST.")
         return render_template('display_results.html',  table=mytable , titles=get_table_data.columns.values)
+        
        
     return render_template("index.html")
 
