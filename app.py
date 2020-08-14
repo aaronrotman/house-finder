@@ -1,6 +1,7 @@
 # Dependencies
 from flask import Flask, render_template, request, redirect
 import pandas as pd
+import the_magic
 
 # Create instance of Flask app
 app = Flask(__name__)
@@ -38,13 +39,18 @@ def user_inputs():
 
 
         return redirect(request.url)
+    
+    
 
     return render_template("index.html")
 
-# Route that renders the ML Results
-# @app.route("/results", methods=("POST", "GET"))
+@app.route("/results", methods=("POST", "GET"))
 
-# def html_table():
+def create_table():
+    get_table_data = the_magic.run_ml()
+    mytable = get_table_data.to_html(classes="results")
+    return render_template('display_results.html',  table=mytable , titles=get_table_data.columns.values)
+       
     
     
 #     return render_template('simple.html',  tables=[results_df.to_html(classes="results")], titles=results_df.columns.values)

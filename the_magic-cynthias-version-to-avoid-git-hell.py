@@ -34,13 +34,10 @@ Xlist = X.to_numpy()
 # ### HERE BEGINS THE MAGIC unsupervised cluster 
 kmeans.fit(Xlist)
 predicted_clusters = kmeans.predict(Xlist)
-
 # Print the cluster centers and cluster labels
 centers = kmeans.cluster_centers_
 labels = kmeans.labels_
-
 cat = kmeans.predict(Xlist[0].reshape(1, -1))
-
 house_list = []
 
 for i in range(4000):
