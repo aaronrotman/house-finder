@@ -11,8 +11,5 @@ Created a tool that uses machine learning to match home buyers' preferences to r
 * HTML
 * CSS
 
-## Deployed site:
-https://real-estate-recommender.herokuapp.com/
-
 ## Data Sources: 
 Housing data was downloaded from [Redfin.com](https://www.redfin.com/).
